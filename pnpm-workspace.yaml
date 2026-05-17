@@ -1,0 +1,6 @@
+packages:
+  - "apps/*"
+
+catalog:
+  "@updog/data-editor": ^0.1.21
+  "@updog/data-editor-wc": ^0.1.21

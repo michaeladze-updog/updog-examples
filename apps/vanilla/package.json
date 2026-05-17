@@ -1,0 +1,19 @@
+{
+  "name": "@updog-examples/vanilla",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@updog/data-editor": "catalog:",
+    "@updog/data-editor-wc": "catalog:"
+  },
+  "devDependencies": {
+    "vite": "^8.0.12"
+  }
+}

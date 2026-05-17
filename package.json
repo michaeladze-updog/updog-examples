@@ -1,0 +1,31 @@
+{
+  "name": "updog-examples",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@9.7.1",
+  "engines": {
+    "node": ">=22.12.0",
+    "pnpm": ">=9.5.0"
+  },
+  "scripts": {
+    "dev:angular": "pnpm --filter @updog-examples/angular start",
+    "dev:react": "pnpm --filter @updog-examples/react dev",
+    "dev:vue": "pnpm --filter @updog-examples/vue dev",
+    "dev:svelte": "pnpm --filter @updog-examples/svelte dev",
+    "dev:nextjs": "pnpm --filter @updog-examples/nextjs dev",
+    "dev:vanilla": "pnpm --filter @updog-examples/vanilla dev",
+    "build": "pnpm -r build",
+    "lint": "pnpm -r --if-present lint",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^10.0.0",
+    "prettier": "^3.8.3",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.59.0"
+  }
+}
