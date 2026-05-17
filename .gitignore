@@ -9,3 +9,4 @@ build/
 *.log
 .env
 .env.local
+.idea/
