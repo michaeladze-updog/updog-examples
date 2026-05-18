@@ -7,7 +7,7 @@
 
 Minimal example apps showing how to use [Updog](https://updog.tech) in popular frontend frameworks.
 
-## What is Updog?
+## What's Updog?
 
 Updog is a JavaScript SDK that adds a CSV importer and spreadsheet editor to any web app. Users drop in a CSV, Excel, TSV, JSON, or XML file; Updog parses it, matches columns to your schema, validates values, and lets users fix errors or edit data — all in the browser. It ships as a React component ([`@updog/data-editor`](https://www.npmjs.com/package/@updog/data-editor)) and a Web Component ([`@updog/data-editor-wc`](https://www.npmjs.com/package/@updog/data-editor-wc)).
 
