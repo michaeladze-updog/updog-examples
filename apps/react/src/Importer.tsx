@@ -1,13 +1,17 @@
 import { useState } from "react";
-import { DataEditor } from "@updog/data-editor";
+import { DataEditor, type DataEditorColumn } from "@updog/data-editor";
 import "@updog/data-editor/styles.css";
 
 type Row = { firstName: string; lastName: string; email: string };
 
-const columns = [
+const columns: DataEditorColumn[] = [
   { id: "firstName", title: "First Name" },
   { id: "lastName", title: "Last Name" },
-  { id: "email", title: "Email" },
+  {
+    id: "email",
+    title: "Email",
+    validators: [{ type: "required", message: "Passport is required" }],
+  },
 ];
 
 export default function Importer() {
