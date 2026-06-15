@@ -7,11 +7,11 @@ settings:
 catalogs:
   default:
     '@updog/data-editor':
-      specifier: ^0.1.42
-      version: 0.1.43
+      specifier: ^0.1.44
+      version: 0.1.44
     '@updog/data-editor-wc':
-      specifier: ^0.1.42
-      version: 0.1.43
+      specifier: ^0.1.44
+      version: 0.1.44
 
 importers:
 
@@ -58,10 +58,10 @@ importers:
         version: 21.2.13(@angular/common@21.2.13(@angular/core@21.2.13(@angular/compiler@21.2.13)(rxjs@7.8.2))(rxjs@7.8.2))(@angular/core@21.2.13(@angular/compiler@21.2.13)(rxjs@7.8.2))(@angular/platform-browser@21.2.13(@angular/common@21.2.13(@angular/core@21.2.13(@angular/compiler@21.2.13)(rxjs@7.8.2))(rxjs@7.8.2))(@angular/core@21.2.13(@angular/compiler@21.2.13)(rxjs@7.8.2)))(rxjs@7.8.2)
       '@updog/data-editor':
         specifier: 'catalog:'
-        version: 0.1.43(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
+        version: 0.1.44(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
       '@updog/data-editor-wc':
         specifier: 'catalog:'
-        version: 0.1.43
+        version: 0.1.44
       rxjs:
         specifier: ~7.8.0
         version: 7.8.2
@@ -107,7 +107,7 @@ importers:
     dependencies:
       '@updog/data-editor':
         specifier: 'catalog:'
-        version: 0.1.43(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(yjs@13.6.30)
+        version: 0.1.44(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(yjs@13.6.30)
       next:
         specifier: 16.2.6
         version: 16.2.6(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(sass@1.97.3)
@@ -141,10 +141,10 @@ importers:
     dependencies:
       '@updog/data-editor':
         specifier: 'catalog:'
-        version: 0.1.43(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
+        version: 0.1.44(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
       '@updog/data-editor-wc':
         specifier: 'catalog:'
-        version: 0.1.43
+        version: 0.1.44
       react:
         specifier: ^19.2.6
         version: 19.2.6
@@ -181,10 +181,10 @@ importers:
     dependencies:
       '@updog/data-editor':
         specifier: 'catalog:'
-        version: 0.1.43(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
+        version: 0.1.44(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
       '@updog/data-editor-wc':
         specifier: 'catalog:'
-        version: 0.1.43
+        version: 0.1.44
     devDependencies:
       '@sveltejs/vite-plugin-svelte':
         specifier: ^7.1.2
@@ -215,10 +215,10 @@ importers:
     dependencies:
       '@updog/data-editor':
         specifier: 'catalog:'
-        version: 0.1.43(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
+        version: 0.1.44(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
       '@updog/data-editor-wc':
         specifier: 'catalog:'
-        version: 0.1.43
+        version: 0.1.44
     devDependencies:
       vite:
         specifier: ^8.0.12
@@ -228,10 +228,10 @@ importers:
     dependencies:
       '@updog/data-editor':
         specifier: 'catalog:'
-        version: 0.1.43(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
+        version: 0.1.44(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
       '@updog/data-editor-wc':
         specifier: 'catalog:'
-        version: 0.1.43
+        version: 0.1.44
       vue:
         specifier: ^3.5.34
         version: 3.5.34(typescript@6.0.3)
@@ -2299,11 +2299,11 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@updog/data-editor-wc@0.1.43':
-    resolution: {integrity: sha512-BZK+XQbzkQgwvrMs0Qhw94noCzQm9Szi7xcHSrwg2nw76j0DuKthrdLUGcQhbJmOZASbc0p4g8YBPEr4/8nJpA==}
+  '@updog/data-editor-wc@0.1.44':
+    resolution: {integrity: sha512-ELgNwzb0lKV5/8xsj8vEarymIi2XeJmzl/1hXcrzV+HQcQ4ByoAXSeIjUtNrRdpzHP4lOark+8I3fpDTwV1nag==}
 
-  '@updog/data-editor@0.1.43':
-    resolution: {integrity: sha512-MlthRqpXceWhz9emaEP2677uRo2NAFTu8Ra6YFsMaWz8NDZlpee3EG47D2WrKuEqhhJsoYgZwhMD+4EXBP8OxA==}
+  '@updog/data-editor@0.1.44':
+    resolution: {integrity: sha512-hlhgbsCW3UEao+LX78lfzHpSbgv9PBkE3dr5zatemZe9R0BR+7zbNlQgLgvOOSVZx/FSb7C8dzEEu8mhabNVjg==}
     peerDependencies:
       react: ^18.0.0 || ^19.0.0
       react-dom: ^18.0.0 || ^19.0.0
@@ -7167,9 +7167,9 @@ snapshots:
   '@unrs/resolver-binding-win32-x64-msvc@1.11.1':
     optional: true
 
-  '@updog/data-editor-wc@0.1.43': {}
+  '@updog/data-editor-wc@0.1.44': {}
 
-  '@updog/data-editor@0.1.43(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(yjs@13.6.30)':
+  '@updog/data-editor@0.1.44(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(yjs@13.6.30)':
     dependencies:
       '@floating-ui/react': 0.27.19(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       '@lexical/react': 0.42.0(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(yjs@13.6.30)
@@ -7185,7 +7185,7 @@ snapshots:
     transitivePeerDependencies:
       - yjs
 
-  '@updog/data-editor@0.1.43(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)':
+  '@updog/data-editor@0.1.44(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)':
     dependencies:
       '@floating-ui/react': 0.27.19(react-dom@19.2.6(react@19.2.6))(react@19.2.6)
       '@lexical/react': 0.42.0(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
