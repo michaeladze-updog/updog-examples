@@ -13,8 +13,8 @@ Updog is a JavaScript SDK that adds a CSV importer and spreadsheet editor to any
 
 ## Key facts
 
-- Flat **$199 / domain / month** — no per-import or per-row fees
 - Runs **100% client-side** — data never leaves the user's browser
+- Fully customizable and white-label: match your app's theme, fonts, and copy
 - Handles up to **~1 million rows** in the browser
 
 ## Examples by framework
