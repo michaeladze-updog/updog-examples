@@ -7,11 +7,11 @@ settings:
 catalogs:
   default:
     '@updog/data-editor':
-      specifier: ^0.1.56
-      version: 0.1.56
+      specifier: ^0.1.64
+      version: 0.1.64
     '@updog/data-editor-wc':
-      specifier: ^0.1.56
-      version: 0.1.56
+      specifier: ^0.1.64
+      version: 0.1.64
 
 importers:
 
@@ -58,10 +58,10 @@ importers:
         version: 21.2.13(@angular/common@21.2.13(@angular/core@21.2.13(@angular/compiler@21.2.13)(rxjs@7.8.2))(rxjs@7.8.2))(@angular/core@21.2.13(@angular/compiler@21.2.13)(rxjs@7.8.2))(@angular/platform-browser@21.2.13(@angular/common@21.2.13(@angular/core@21.2.13(@angular/compiler@21.2.13)(rxjs@7.8.2))(rxjs@7.8.2))(@angular/core@21.2.13(@angular/compiler@21.2.13)(rxjs@7.8.2)))(rxjs@7.8.2)
       '@updog/data-editor':
         specifier: 'catalog:'
-        version: 0.1.56(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
+        version: 0.1.64(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
       '@updog/data-editor-wc':
         specifier: 'catalog:'
-        version: 0.1.56
+        version: 0.1.64
       rxjs:
         specifier: ~7.8.0
         version: 7.8.2
@@ -107,7 +107,7 @@ importers:
     dependencies:
       '@updog/data-editor':
         specifier: 'catalog:'
-        version: 0.1.56(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(yjs@13.6.30)
+        version: 0.1.64(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(yjs@13.6.30)
       next:
         specifier: 16.2.6
         version: 16.2.6(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(sass@1.97.3)
@@ -141,10 +141,10 @@ importers:
     dependencies:
       '@updog/data-editor':
         specifier: 'catalog:'
-        version: 0.1.56(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
+        version: 0.1.64(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
       '@updog/data-editor-wc':
         specifier: 'catalog:'
-        version: 0.1.56
+        version: 0.1.64
       react:
         specifier: ^19.2.6
         version: 19.2.6
@@ -181,10 +181,10 @@ importers:
     dependencies:
       '@updog/data-editor':
         specifier: 'catalog:'
-        version: 0.1.56(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
+        version: 0.1.64(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
       '@updog/data-editor-wc':
         specifier: 'catalog:'
-        version: 0.1.56
+        version: 0.1.64
     devDependencies:
       '@sveltejs/vite-plugin-svelte':
         specifier: ^7.1.2
@@ -215,10 +215,10 @@ importers:
     dependencies:
       '@updog/data-editor':
         specifier: 'catalog:'
-        version: 0.1.56(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
+        version: 0.1.64(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
       '@updog/data-editor-wc':
         specifier: 'catalog:'
-        version: 0.1.56
+        version: 0.1.64
     devDependencies:
       vite:
         specifier: ^8.0.12
@@ -228,10 +228,10 @@ importers:
     dependencies:
       '@updog/data-editor':
         specifier: 'catalog:'
-        version: 0.1.56(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
+        version: 0.1.64(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
       '@updog/data-editor-wc':
         specifier: 'catalog:'
-        version: 0.1.56
+        version: 0.1.64
       vue:
         specifier: ^3.5.34
         version: 3.5.34(typescript@6.0.3)
@@ -2299,11 +2299,11 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@updog/data-editor-wc@0.1.56':
-    resolution: {integrity: sha512-LbAi8Fu99vTyfC4NsDfrBJxM84jHFcgGmDtilLRc+rfO5yUn+93/he0Dt3fDoIs8wcTdvMhmK92wAqd1qgR2aA==}
+  '@updog/data-editor-wc@0.1.64':
+    resolution: {integrity: sha512-DqwEkDdUQ2OVc6EYEITcMXmbToCiLV+iCwGcoEzlCqIjamJnmi5sRtsMPSFf2ti/jyzY3rE/mhq1NuF1SrNmWg==}
 
-  '@updog/data-editor@0.1.56':
-    resolution: {integrity: sha512-EaOJfVxt0o11vGOuH1fjdD6DkQEkZ+3CxAHsc3mJbM5SmsEmMi3tysKFLRglX/NOLMPva531ffMU+LmZQN8IqQ==}
+  '@updog/data-editor@0.1.64':
+    resolution: {integrity: sha512-wiVDDR0ETKPbM4TIr9CXnn9m9UGoFjLzdu2ocQTBG/aAxgfJhbCjHNxEho9WVFhD3mUqN+hlGBgp1PdSEsyM+A==}
     peerDependencies:
       react: ^18.0.0 || ^19.0.0
       react-dom: ^18.0.0 || ^19.0.0
@@ -7167,9 +7167,9 @@ snapshots:
   '@unrs/resolver-binding-win32-x64-msvc@1.11.1':
     optional: true
 
-  '@updog/data-editor-wc@0.1.56': {}
+  '@updog/data-editor-wc@0.1.64': {}
 
-  '@updog/data-editor@0.1.56(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(yjs@13.6.30)':
+  '@updog/data-editor@0.1.64(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(yjs@13.6.30)':
     dependencies:
       '@floating-ui/react': 0.27.19(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       '@lexical/react': 0.42.0(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(yjs@13.6.30)
@@ -7185,7 +7185,7 @@ snapshots:
     transitivePeerDependencies:
       - yjs
 
-  '@updog/data-editor@0.1.56(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)':
+  '@updog/data-editor@0.1.64(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)':
     dependencies:
       '@floating-ui/react': 0.27.19(react-dom@19.2.6(react@19.2.6))(react@19.2.6)
       '@lexical/react': 0.42.0(react-dom@19.2.6(react@19.2.6))(react@19.2.6)(yjs@13.6.30)
@@ -7984,7 +7984,7 @@ snapshots:
       eslint: 9.39.4
       eslint-import-resolver-node: 0.3.10
       eslint-import-resolver-typescript: 3.10.1(eslint-plugin-import@2.32.0(@typescript-eslint/parser@8.59.3(eslint@9.39.4)(typescript@6.0.3))(eslint@9.39.4))(eslint@9.39.4)
-      eslint-plugin-import: 2.32.0(@typescript-eslint/parser@8.59.3(eslint@9.39.4)(typescript@6.0.3))(eslint-import-resolver-typescript@3.10.1(eslint-plugin-import@2.32.0(@typescript-eslint/parser@8.59.3(eslint@9.39.4)(typescript@6.0.3))(eslint@9.39.4))(eslint@9.39.4))(eslint@9.39.4)
+      eslint-plugin-import: 2.32.0(@typescript-eslint/parser@8.59.3(eslint@9.39.4)(typescript@6.0.3))(eslint-import-resolver-typescript@3.10.1)(eslint@9.39.4)
       eslint-plugin-jsx-a11y: 6.10.2(eslint@9.39.4)
       eslint-plugin-react: 7.37.5(eslint@9.39.4)
       eslint-plugin-react-hooks: 7.1.1(eslint@9.39.4)
@@ -8021,7 +8021,7 @@ snapshots:
       tinyglobby: 0.2.16
       unrs-resolver: 1.11.1
     optionalDependencies:
-      eslint-plugin-import: 2.32.0(@typescript-eslint/parser@8.59.3(eslint@9.39.4)(typescript@6.0.3))(eslint-import-resolver-typescript@3.10.1(eslint-plugin-import@2.32.0(@typescript-eslint/parser@8.59.3(eslint@9.39.4)(typescript@6.0.3))(eslint@9.39.4))(eslint@9.39.4))(eslint@9.39.4)
+      eslint-plugin-import: 2.32.0(@typescript-eslint/parser@8.59.3(eslint@9.39.4)(typescript@6.0.3))(eslint-import-resolver-typescript@3.10.1)(eslint@9.39.4)
     transitivePeerDependencies:
       - supports-color
 
@@ -8036,7 +8036,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  eslint-plugin-import@2.32.0(@typescript-eslint/parser@8.59.3(eslint@9.39.4)(typescript@6.0.3))(eslint-import-resolver-typescript@3.10.1(eslint-plugin-import@2.32.0(@typescript-eslint/parser@8.59.3(eslint@9.39.4)(typescript@6.0.3))(eslint@9.39.4))(eslint@9.39.4))(eslint@9.39.4):
+  eslint-plugin-import@2.32.0(@typescript-eslint/parser@8.59.3(eslint@9.39.4)(typescript@6.0.3))(eslint-import-resolver-typescript@3.10.1)(eslint@9.39.4):
     dependencies:
       '@rtsao/scc': 1.1.0
       array-includes: 3.1.9
