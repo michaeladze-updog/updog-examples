@@ -27,8 +27,7 @@ export class ImporterComponent {
   readonly primaryKey = input.required<string>();
   readonly complete = output<unknown>();
 
-  private readonly editorRef =
-    viewChild.required<ElementRef<UpdogEditorElement>>('editor');
+  private readonly editorRef = viewChild.required<ElementRef<UpdogEditorElement>>('editor');
 
   constructor() {
     effect((onCleanup) => {
@@ -43,8 +42,8 @@ export class ImporterComponent {
         },
       });
       const onClose = () => el.hide();
-      el.addEventListener("close", onClose);
-      onCleanup(() => el.removeEventListener("close", onClose));
+      el.addEventListener('close', onClose);
+      onCleanup(() => el.removeEventListener('close', onClose));
     });
   }
 

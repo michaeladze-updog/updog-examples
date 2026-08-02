@@ -5,8 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "eslint ."
+    "preview": "next start",
+    "lint": "eslint .",
+    "start": "next start"
   },
   "dependencies": {
     "@updog/data-editor": "catalog:",

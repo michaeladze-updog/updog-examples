@@ -3,6 +3,8 @@ dist/
 build/
 .next/
 .svelte-kit/
+.nuxt/
+.output/
 .angular/
 .cache/
 .DS_Store

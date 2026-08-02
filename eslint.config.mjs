@@ -8,6 +8,8 @@ export default [
       "**/dist/**",
       "**/build/**",
       "**/.next/**",
+      "**/.nuxt/**",
+      "**/.output/**",
       "**/.svelte-kit/**",
       "**/.angular/**",
       "**/coverage/**",

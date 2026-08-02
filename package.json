@@ -9,14 +9,17 @@
     "pnpm": ">=9.5.0"
   },
   "scripts": {
-    "dev:angular": "pnpm --filter @updog-examples/angular start",
+    "dev:angular": "pnpm --filter @updog-examples/angular dev",
     "dev:react": "pnpm --filter @updog-examples/react dev",
     "dev:vue": "pnpm --filter @updog-examples/vue dev",
+    "dev:nuxt": "pnpm --filter @updog-examples/nuxt dev",
     "dev:svelte": "pnpm --filter @updog-examples/svelte dev",
+    "dev:sveltekit": "pnpm --filter @updog-examples/sveltekit dev",
     "dev:nextjs": "pnpm --filter @updog-examples/nextjs dev",
     "dev:vanilla": "pnpm --filter @updog-examples/vanilla dev",
     "build": "pnpm -r build",
     "lint": "pnpm -r --if-present lint",
+    "check": "pnpm -r --if-present check",
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },

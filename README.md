@@ -19,14 +19,16 @@ Updog is a JavaScript SDK that adds a CSV importer and spreadsheet editor to any
 
 ## Examples by framework
 
-| Framework            | Path           | Tutorial                                      |
-| -------------------- | -------------- | --------------------------------------------- |
-| React                | `apps/react`   | [apps/react/README.md](apps/react#readme)     |
-| Next.js (App Router) | `apps/nextjs`  | [apps/nextjs/README.md](apps/nextjs#readme)   |
-| Vue                  | `apps/vue`     | [apps/vue/README.md](apps/vue#readme)         |
-| Svelte               | `apps/svelte`  | [apps/svelte/README.md](apps/svelte#readme)   |
-| Angular              | `apps/angular` | [apps/angular/README.md](apps/angular#readme) |
-| Vanilla HTML + JS    | `apps/vanilla` | [apps/vanilla/README.md](apps/vanilla#readme) |
+| Framework            | Path             | Tutorial                                          |
+| -------------------- | ---------------- | ------------------------------------------------- |
+| React                | `apps/react`     | [apps/react/README.md](apps/react#readme)         |
+| Next.js (App Router) | `apps/nextjs`    | [apps/nextjs/README.md](apps/nextjs#readme)       |
+| Vue                  | `apps/vue`       | [apps/vue/README.md](apps/vue#readme)             |
+| Nuxt (SSR)           | `apps/nuxt`      | [apps/nuxt/README.md](apps/nuxt#readme)           |
+| Svelte               | `apps/svelte`    | [apps/svelte/README.md](apps/svelte#readme)       |
+| SvelteKit (SSR)      | `apps/sveltekit` | [apps/sveltekit/README.md](apps/sveltekit#readme) |
+| Angular              | `apps/angular`   | [apps/angular/README.md](apps/angular#readme)     |
+| Vanilla HTML + JS    | `apps/vanilla`   | [apps/vanilla/README.md](apps/vanilla#readme)     |
 
 ## Links
 

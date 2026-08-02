@@ -1,0 +1,24 @@
+{
+  "name": "@updog-examples/sveltekit",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json"
+  },
+  "dependencies": {
+    "@updog/data-editor-wc": "catalog:"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-node": "^5.4.0",
+    "@sveltejs/kit": "^2.50.2",
+    "@sveltejs/vite-plugin-svelte": "^7.1.2",
+    "svelte": "^5.55.5",
+    "svelte-check": "^4.4.8",
+    "typescript": "~5.9.2",
+    "vite": "^8.0.12"
+  }
+}

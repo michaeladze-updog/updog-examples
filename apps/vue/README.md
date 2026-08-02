@@ -74,6 +74,8 @@ function open() {
 > });
 > ```
 
+For Nuxt, where server rendering needs a client-only import, see the [Nuxt example](../nuxt#readme).
+
 Full Web Component API: [docs.updog.tech](https://docs.updog.tech).
 
 ## Links
@@ -82,7 +84,7 @@ Full Web Component API: [docs.updog.tech](https://docs.updog.tech).
 - Documentation: [docs.updog.tech](https://docs.updog.tech)
 - Pricing: [updog.tech/#pricing](https://updog.tech/#pricing)
 - npm: [`@updog/data-editor-wc`](https://www.npmjs.com/package/@updog/data-editor-wc)
-- Other framework examples: [React](../react#readme) · [Svelte](../svelte#readme) · [Angular](../angular#readme) · [Next.js](../nextjs#readme) · [Vanilla JS](../vanilla#readme)
+- Other framework examples: [React](../react#readme) · [Svelte](../svelte#readme) · [Angular](../angular#readme) · [Next.js](../nextjs#readme) · [Vanilla JS](../vanilla#readme) · [Nuxt](../nuxt#readme) · [SvelteKit](../sveltekit#readme)
 
 ## License
 

@@ -66,7 +66,7 @@ Full prop reference and customization API: [docs.updog.tech](https://docs.updog.
 - Documentation: [docs.updog.tech](https://docs.updog.tech)
 - Pricing: [updog.tech/#pricing](https://updog.tech/#pricing)
 - npm: [`@updog/data-editor`](https://www.npmjs.com/package/@updog/data-editor)
-- Other framework examples: [Vue](../vue#readme) · [Svelte](../svelte#readme) · [Angular](../angular#readme) · [Next.js](../nextjs#readme) · [Vanilla JS](../vanilla#readme)
+- Other framework examples: [Vue](../vue#readme) · [Svelte](../svelte#readme) · [Angular](../angular#readme) · [Next.js](../nextjs#readme) · [Vanilla JS](../vanilla#readme) · [Nuxt](../nuxt#readme) · [SvelteKit](../sveltekit#readme)
 
 ## License
 

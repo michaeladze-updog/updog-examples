@@ -25,10 +25,7 @@
                 "input": "public"
               }
             ],
-            "styles": [
-              "@updog/data-editor-wc/styles.css",
-              "src/styles.css"
-            ]
+            "styles": ["@updog/data-editor-wc/styles.css", "src/styles.css"]
           },
           "configurations": {
             "production": {

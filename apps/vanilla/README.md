@@ -72,7 +72,7 @@ Full Web Component API: [docs.updog.tech](https://docs.updog.tech).
 - Documentation: [docs.updog.tech](https://docs.updog.tech)
 - Pricing: [updog.tech/#pricing](https://updog.tech/#pricing)
 - npm: [`@updog/data-editor-wc`](https://www.npmjs.com/package/@updog/data-editor-wc)
-- Other framework examples: [React](../react#readme) · [Vue](../vue#readme) · [Svelte](../svelte#readme) · [Angular](../angular#readme) · [Next.js](../nextjs#readme)
+- Other framework examples: [React](../react#readme) · [Vue](../vue#readme) · [Svelte](../svelte#readme) · [Angular](../angular#readme) · [Next.js](../nextjs#readme) · [Nuxt](../nuxt#readme) · [SvelteKit](../sveltekit#readme)
 
 ## License
 

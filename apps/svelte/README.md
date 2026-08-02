@@ -61,6 +61,8 @@ npm install @updog/data-editor-wc
 
 > **Note:** Bind the element with `bind:this`, then call `configure()` once it's mounted. The Web Component is configured imperatively so you can pass functions (e.g. `onComplete`) directly.
 
+For SvelteKit, where server rendering needs a client-only import, see the [SvelteKit example](../sveltekit#readme).
+
 Full Web Component API: [docs.updog.tech](https://docs.updog.tech).
 
 ## Links
@@ -69,7 +71,7 @@ Full Web Component API: [docs.updog.tech](https://docs.updog.tech).
 - Documentation: [docs.updog.tech](https://docs.updog.tech)
 - Pricing: [updog.tech/#pricing](https://updog.tech/#pricing)
 - npm: [`@updog/data-editor-wc`](https://www.npmjs.com/package/@updog/data-editor-wc)
-- Other framework examples: [React](../react#readme) · [Vue](../vue#readme) · [Angular](../angular#readme) · [Next.js](../nextjs#readme) · [Vanilla JS](../vanilla#readme)
+- Other framework examples: [React](../react#readme) · [Vue](../vue#readme) · [Angular](../angular#readme) · [Next.js](../nextjs#readme) · [Vanilla JS](../vanilla#readme) · [Nuxt](../nuxt#readme) · [SvelteKit](../sveltekit#readme)
 
 ## License
 

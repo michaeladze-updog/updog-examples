@@ -27,12 +27,12 @@ import {
   ElementRef,
   effect,
   viewChild,
-} from "@angular/core";
-import "@updog/data-editor-wc";
-import type { UpdogEditorElement } from "@updog/data-editor-wc";
+} from '@angular/core';
+import '@updog/data-editor-wc';
+import type { UpdogEditorElement } from '@updog/data-editor-wc';
 
 @Component({
-  selector: "app-importer",
+  selector: 'app-importer',
   standalone: true,
   changeDetection: ChangeDetectionStrategy.OnPush,
   schemas: [CUSTOM_ELEMENTS_SCHEMA],
@@ -43,29 +43,28 @@ import type { UpdogEditorElement } from "@updog/data-editor-wc";
 })
 export class ImporterComponent {
   protected readonly columns = [
-    { id: "firstName", title: "First Name" },
-    { id: "lastName", title: "Last Name" },
-    { id: "email", title: "Email" },
+    { id: 'firstName', title: 'First Name' },
+    { id: 'lastName', title: 'Last Name' },
+    { id: 'email', title: 'Email' },
   ];
 
-  private readonly editorRef =
-    viewChild.required<ElementRef<UpdogEditorElement>>("editor");
+  private readonly editorRef = viewChild.required<ElementRef<UpdogEditorElement>>('editor');
 
   constructor() {
     effect((onCleanup) => {
       const el = this.editorRef().nativeElement;
       el.configure({
-        apiKey: "YOUR_API_KEY",
+        apiKey: 'YOUR_API_KEY',
         columns: this.columns,
-        primaryKey: "email",
+        primaryKey: 'email',
         onComplete: (result) => {
           console.log(result);
           el.hide();
         },
       });
       const onClose = () => el.hide();
-      el.addEventListener("close", onClose);
-      onCleanup(() => el.removeEventListener("close", onClose));
+      el.addEventListener('close', onClose);
+      onCleanup(() => el.removeEventListener('close', onClose));
     });
   }
 
@@ -95,7 +94,7 @@ Full Web Component API: [docs.updog.tech](https://docs.updog.tech).
 - Documentation: [docs.updog.tech](https://docs.updog.tech)
 - Pricing: [updog.tech/#pricing](https://updog.tech/#pricing)
 - npm: [`@updog/data-editor-wc`](https://www.npmjs.com/package/@updog/data-editor-wc)
-- Other framework examples: [React](../react#readme) · [Vue](../vue#readme) · [Svelte](../svelte#readme) · [Next.js](../nextjs#readme) · [Vanilla JS](../vanilla#readme)
+- Other framework examples: [React](../react#readme) · [Vue](../vue#readme) · [Svelte](../svelte#readme) · [Next.js](../nextjs#readme) · [Vanilla JS](../vanilla#readme) · [Nuxt](../nuxt#readme) · [SvelteKit](../sveltekit#readme)
 
 ## License
 
