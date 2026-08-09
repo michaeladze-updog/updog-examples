@@ -1,8 +1,11 @@
 <script lang="ts">
   import { tick } from "svelte";
-  import type { UpdogEditorElement } from "@updog/data-editor-wc";
+  import type {
+    DataEditorColumn,
+    UpdogEditorElement,
+  } from "@updog/data-editor-wc";
 
-  const columns = [
+  const columns: DataEditorColumn[] = [
     { id: "firstName", title: "First Name" },
     { id: "lastName", title: "Last Name" },
     { id: "email", title: "Email" },

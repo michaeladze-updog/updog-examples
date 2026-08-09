@@ -1,9 +1,11 @@
 <script lang="ts">
   import "@updog/data-editor-wc";
   import "@updog/data-editor-wc/styles.css";
-  import type { UpdogEditorElement } from "@updog/data-editor-wc";
-
-  type Column = { id: string; title: string };
+  import type {
+    DataEditorColumn,
+    DataEditorResult,
+    UpdogEditorElement,
+  } from "@updog/data-editor-wc";
 
   let {
     apiKey,
@@ -12,9 +14,9 @@
     oncomplete,
   }: {
     apiKey: string;
-    columns: Column[];
+    columns: DataEditorColumn[];
     primaryKey: string;
-    oncomplete?: (result: unknown) => void;
+    oncomplete?: (result: DataEditorResult) => void;
   } = $props();
 
   let editorEl: UpdogEditorElement | undefined = $state();

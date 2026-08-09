@@ -9,9 +9,7 @@ import {
   viewChild,
 } from '@angular/core';
 import '@updog/data-editor-wc';
-import type { UpdogEditorElement } from '@updog/data-editor-wc';
-
-type Column = { id: string; title: string };
+import type { DataEditorColumn, DataEditorResult, UpdogEditorElement } from '@updog/data-editor-wc';
 
 @Component({
   selector: 'app-importer',
@@ -23,9 +21,9 @@ type Column = { id: string; title: string };
 })
 export class ImporterComponent {
   readonly apiKey = input.required<string>();
-  readonly columns = input.required<Column[]>();
+  readonly columns = input.required<DataEditorColumn[]>();
   readonly primaryKey = input.required<string>();
-  readonly complete = output<unknown>();
+  readonly complete = output<DataEditorResult>();
 
   private readonly editorRef = viewChild.required<ElementRef<UpdogEditorElement>>('editor');
 

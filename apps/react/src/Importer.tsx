@@ -10,7 +10,7 @@ const columns: DataEditorColumn[] = [
   {
     id: "email",
     title: "Email",
-    validators: [{ type: "required", message: "Passport is required" }],
+    validators: [{ type: "required", message: "Email is required" }],
   },
 ];
 

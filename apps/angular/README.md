@@ -29,7 +29,7 @@ import {
   viewChild,
 } from '@angular/core';
 import '@updog/data-editor-wc';
-import type { UpdogEditorElement } from '@updog/data-editor-wc';
+import type { DataEditorColumn, UpdogEditorElement } from '@updog/data-editor-wc';
 
 @Component({
   selector: 'app-importer',
@@ -42,7 +42,7 @@ import type { UpdogEditorElement } from '@updog/data-editor-wc';
   `,
 })
 export class ImporterComponent {
-  protected readonly columns = [
+  protected readonly columns: DataEditorColumn[] = [
     { id: 'firstName', title: 'First Name' },
     { id: 'lastName', title: 'Last Name' },
     { id: 'email', title: 'Email' },

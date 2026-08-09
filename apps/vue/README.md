@@ -24,9 +24,12 @@ npm install @updog/data-editor-wc
 import { useTemplateRef, watchEffect } from "vue";
 import "@updog/data-editor-wc";
 import "@updog/data-editor-wc/styles.css";
-import type { UpdogEditorElement } from "@updog/data-editor-wc";
+import type {
+  DataEditorColumn,
+  UpdogEditorElement,
+} from "@updog/data-editor-wc";
 
-const columns = [
+const columns: DataEditorColumn[] = [
   { id: "firstName", title: "First Name" },
   { id: "lastName", title: "Last Name" },
   { id: "email", title: "Email" },

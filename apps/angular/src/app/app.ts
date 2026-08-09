@@ -1,4 +1,5 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
+import type { DataEditorColumn, DataEditorResult } from '@updog/data-editor-wc';
 import { ImporterComponent } from './importer/importer';
 
 @Component({
@@ -16,13 +17,13 @@ import { ImporterComponent } from './importer/importer';
   `,
 })
 export class App {
-  protected readonly columns = [
+  protected readonly columns: DataEditorColumn[] = [
     { id: 'firstName', title: 'First Name' },
     { id: 'lastName', title: 'Last Name' },
     { id: 'email', title: 'Email' },
   ];
 
-  protected onComplete(result: unknown): void {
+  protected onComplete(result: DataEditorResult): void {
     console.log(result);
   }
 }

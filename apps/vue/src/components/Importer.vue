@@ -2,18 +2,20 @@
 import { useTemplateRef, watchEffect } from "vue";
 import "@updog/data-editor-wc";
 import "@updog/data-editor-wc/styles.css";
-import type { UpdogEditorElement } from "@updog/data-editor-wc";
-
-type Column = { id: string; title: string };
+import type {
+  DataEditorColumn,
+  DataEditorResult,
+  UpdogEditorElement,
+} from "@updog/data-editor-wc";
 
 const props = defineProps<{
   apiKey: string;
-  columns: Column[];
+  columns: DataEditorColumn[];
   primaryKey: string;
 }>();
 
 const emit = defineEmits<{
-  complete: [result: unknown];
+  complete: [result: DataEditorResult];
 }>();
 
 const editorRef = useTemplateRef<UpdogEditorElement>("editor");

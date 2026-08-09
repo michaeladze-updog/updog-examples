@@ -24,9 +24,12 @@ The editor is a custom element, so it registers itself against the browser DOM. 
 <!-- app/app.vue -->
 <script setup lang="ts">
 import { nextTick, ref, useTemplateRef } from "vue";
-import type { UpdogEditorElement } from "@updog/data-editor-wc";
+import type {
+  DataEditorColumn,
+  UpdogEditorElement,
+} from "@updog/data-editor-wc";
 
-const columns = [
+const columns: DataEditorColumn[] = [
   { id: "firstName", title: "First Name" },
   { id: "lastName", title: "Last Name" },
   { id: "email", title: "Email" },
