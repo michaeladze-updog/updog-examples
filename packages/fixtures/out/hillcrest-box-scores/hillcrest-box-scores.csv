@@ -1,0 +1,2444 @@
+Date,Opponent,##,Player Name,TOT-FG,3-PT,FT,OF,DE,TOT,PF,TP,A,TO,BLK,S,MIN
+11/12/2020,Oakhaven,35,Kwame Pilkington,9-9,5-5,1-3,3,4,7,1,24,5,0,2,1,25
+11/12/2020,Oakhaven,45,Bo Janowski,10-11,0-0,1-1,4,2,6,3,21,1,2,0,2,29
+11/12/2020,Oakhaven,55,Emeka Yeboah,5-6,3-4,0-7,5,5,10,5,13,4,6,1,1,33
+11/12/2020,Oakhaven,10,Hollis Vantrease,4-7,4-7,1-3,1,6,7,3,13,7,1,3,1,32
+11/12/2020,Oakhaven,42,Wendell Bramwell,1-16,1-9,1-7,2,3,5,3,4,3,6,1,2,38
+11/12/2020,Oakhaven,02,Nikola Tolliver,,,,,,,,,,,,,DNP
+11/12/2020,Oakhaven,12,Zeke Whitlock,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+11/12/2020,Oakhaven,04,Solomon Stanhope,0-2,0-1,2-2,1,1,2,0,2,2,1,1,0,11
+11/12/2020,Oakhaven,50,Emeka Kealoha,4-5,0-1,2-3,2,0,2,2,10,3,2,1,1,15
+11/12/2020,Oakhaven,15,Kwame Hazlett,,,,,,,,,,,,,DNP
+11/12/2020,Oakhaven,05,Ugo Zeller,,,,,,,,,,,,,DNP
+11/12/2020,Oakhaven,24,Bo Yeboah,5-7,1-1,0-0,1,0,1,2,11,2,1,1,1,15
+11/12/2020,Oakhaven,,TEAM,,,,5,3,8,,,,3,,,
+11/12/2020,Oakhaven,,Totals,38-63,14-28,8-26,24,24,48,19,98,27,22,10,9,200
+11/18/2020,Quarry Ridge,35,Kwame Pilkington,0-6,0-2,0-2,0,1,1,3,0,2,2,2,2,18
+11/18/2020,Quarry Ridge,45,Bo Janowski,2-2,0-2,2-3,3,2,5,3,5,3,2,1,2,27
+11/18/2020,Quarry Ridge,55,Emeka Yeboah,0-6,0-6,6-6,3,2,5,4,6,3,2,1,3,26
+11/18/2020,Quarry Ridge,10,Hollis Vantrease,6-12,1-4,4-5,2,0,2,3,17,2,0,1,0,24
+11/18/2020,Quarry Ridge,42,Wendell Bramwell,6-6,2-2,0-2,0,0,0,4,14,2,3,2,0,27
+11/18/2020,Quarry Ridge,02,Nikola Tolliver,1-1,0-1,0-2,1,2,3,0,2,0,2,1,0,11
+11/18/2020,Quarry Ridge,12,Zeke Whitlock,0-1,0-1,1-1,0,0,0,0,1,2,1,0,0,9
+11/18/2020,Quarry Ridge,04,Solomon Stanhope,0-2,0-2,0-1,2,3,5,2,0,0,1,1,0,14
+11/18/2020,Quarry Ridge,50,Emeka Kealoha,,,,,,,,,,,,,DNP
+11/18/2020,Quarry Ridge,15,Kwame Hazlett,7-9,0-2,1-2,2,1,3,1,15,0,2,2,1,19
+11/18/2020,Quarry Ridge,05,Ugo Zeller,0-2,0-1,0-1,0,1,1,1,0,1,0,0,0,8
+11/18/2020,Quarry Ridge,24,Bo Yeboah,1-8,1-3,1-3,2,1,3,1,4,4,3,0,0,18
+11/18/2020,Quarry Ridge,23,Wendell Lomax,,,,,,,,,,,,,DNP
+11/18/2020,Quarry Ridge,,TEAM,,,,5,1,6,,,,1,,,
+11/18/2020,Quarry Ridge,,Totals,23-55,4-26,15-28,20,14,34,22,64,19,19,11,8,200
+11/20/2020,Granholm,35,Kwame Pilkington,6-7,1-6,1-6,1,4,5,5,14,1,6,2,2,32
+11/20/2020,Granholm,45,Bo Janowski,3-12,0-2,0-1,2,7,9,0,6,4,4,2,2,27
+11/20/2020,Granholm,55,Emeka Yeboah,8-13,1-1,3-3,1,7,8,5,20,3,1,1,1,30
+11/20/2020,Granholm,10,Hollis Vantrease,3-6,2-3,3-4,1,3,4,1,11,6,2,1,2,26
+11/20/2020,Granholm,42,Wendell Bramwell,3-12,1-10,0-0,4,2,6,5,7,1,3,2,2,40-
+11/20/2020,Granholm,02,Nikola Tolliver,,,,,,,,,,,,,DNP
+11/20/2020,Granholm,12,Zeke Whitlock,3-4,1-1,0-0,2,2,4,1,7,4,1,1,0,15
+11/20/2020,Granholm,04,Solomon Stanhope,0-2,0-2,0-1,3,1,4,3,0,2,1,1,1,18
+11/20/2020,Granholm,50,Emeka Kealoha,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0
+11/20/2020,Granholm,15,Kwame Hazlett,,,,,,,,,,,,,DNP
+11/20/2020,Granholm,05,Ugo Zeller,4-5,2-3,0-0,1,2,3,1,10,2,0,1,1,13
+11/20/2020,Granholm,,TEAM,,,,2,3,5,,,,0,,,
+11/20/2020,Granholm,,Totals,30-61,8-28,7-15,17,31,48,21,75,23,18,11,11,200
+11/23/2020,Marchfield,35,Kwame Pilkington,4-6,1-5,0-2,2,4,6,1,9,4,0,2,2,26
+11/23/2020,Marchfield,45,Bo Janowski,2-8,1-5,1-1,1,2,3,2,6,2,3,0,0,19
+11/23/2020,Marchfield,55,Emeka Yeboah,8-8,0-1,3-3,2,1,3,0,19,1,3,2,1,19
+11/23/2020,Marchfield,10,Hollis Vantrease,3-11,0-1,0-1,1,5,6,2,6,0,3,1,2,22
+11/23/2020,Marchfield,42,Wendell Bramwell,6-6,3-4,1-5,0,6,6,3,16,6,4,1,1,25
+11/23/2020,Marchfield,02,Nikola Tolliver,2-5,0-1,0-0,0,2,2,2,4,2,0,1,1,11
+11/23/2020,Marchfield,12,Zeke Whitlock,1-2,0-2,3-3,1,3,4,0,2,3,0,0,1,13
+11/23/2020,Marchfield,04,Solomon Stanhope,0-2,0-2,1-1,0,1,1,1,1,0,0,1,0,12
+11/23/2020,Marchfield,50,Emeka Kealoha,3-4,2-2,0-1,1,4,5,2,8,3,1,1,1,16
+11/23/2020,Marchfield,15,Kwame Hazlett,5-5,1-1,2-3,2,3,5,1,13,1,2,1,0,14
+11/23/2020,Marchfield,05,Ugo Zeller,1-2,0-1,0-0,1,2,3,1,2,1,1,0,1,7
+11/23/2020,Marchfield,24,Bo Yeboah,3-3,2-2,0-3,1,1,2,3,8,3,2,1,1,15
+11/23/2020,Marchfield,23,Wendell Lomax,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+11/23/2020,Marchfield,,TEAM,,,,4,1,5,,,,0,,,
+11/23/2020,Marchfield,,Totals,38-62,10-27,11-23,16,35,51,18,94,26,19,11,11,200
+11/27/2020,Langmere,35,Kwame Pilkington,6-6,1-2,0-1,1,5,6,3,13,3,4,0,1,26
+11/27/2020,Langmere,45,Bo Janowski,4-6,2-3,2-3,0,2,2,2,12,4,3,2,0,18
+11/27/2020,Langmere,55,Emeka Yeboah,3-10,0-2,1-3,2,1,3,0,7,1,1,1,0,20
+11/27/2020,Langmere,10,Hollis Vantrease,2-6,2-5,0-1,2,2,4,1,6,0,3,2,2,20
+11/27/2020,Langmere,42,Wendell Bramwell,6-8,3-3,2-5,3,4,7,1,17,3,4,0,1,24
+11/27/2020,Langmere,02,Nikola Tolliver,2-2,0-2,0-1,0,1,1,1,4,1,1,1,1,10
+11/27/2020,Langmere,12,Zeke Whitlock,1-2,1-2,0-1,1,2,3,2,3,1,0,0,1,12
+11/27/2020,Langmere,04,Solomon Stanhope,0-1,0-1,0-0,2,1,3,2,0,2,1,0,1,12
+11/27/2020,Langmere,50,Emeka Kealoha,2-7,2-2,2-3,2,2,4,0,8,2,2,1,0,14
+11/27/2020,Langmere,15,Kwame Hazlett,0-6,0-2,2-2,2,2,4,0,2,2,2,0,1,14
+11/27/2020,Langmere,05,Ugo Zeller,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+11/27/2020,Langmere,24,Bo Yeboah,0-6,0-3,2-3,1,0,1,0,2,0,0,1,0,16
+11/27/2020,Langmere,23,Wendell Lomax,0-3,0-2,0-1,0,1,1,2,0,2,1,1,0,13
+11/27/2020,Langmere,,TEAM,,,,0,0,0,,,,3,,,
+11/27/2020,Langmere,,Totals,26-63,11-29,11-24,16,23,39,14,74,21,25,9,8,200
+12/01/2020,Redhill,35,Kwame Pilkington,11-13,1-5,0-1,3,0,3,3,23,2,4,2,2,27
+12/01/2020,Redhill,45,Bo Janowski,2-4,2-4,1-3,3,0,3,3,7,3,1,1,2,25
+12/01/2020,Redhill,55,Emeka Yeboah,4-9,0-4,0-3,4,5,9,4,8,6,1,2,1,32
+12/01/2020,Redhill,10,Hollis Vantrease,1-8,1-1,0-3,4,4,8,2,3,1,1,3,2,34
+12/01/2020,Redhill,42,Wendell Bramwell,4-6,0-0,3-4,2,7,9,2,11,6,2,2,1,27
+12/01/2020,Redhill,02,Nikola Tolliver,0-3,0-3,0-2,2,0,2,1,0,1,1,1,0,16
+12/01/2020,Redhill,12,Zeke Whitlock,2-3,2-3,2-2,0,2,2,0,8,1,0,1,0,12
+12/01/2020,Redhill,04,Solomon Stanhope,,,,,,,,,,,,,DNP
+12/01/2020,Redhill,50,Emeka Kealoha,3-4,3-4,0-1,3,4,7,3,9,2,2,1,1,17
+12/01/2020,Redhill,15,Kwame Hazlett,,,,,,,,,,,,,DNP
+12/01/2020,Redhill,05,Ugo Zeller,1-4,1-1,0-1,1,2,3,0,3,1,1,0,1,9
+12/01/2020,Redhill,24,Bo Yeboah,,,,,,,,,,,,,DNP
+12/01/2020,Redhill,23,Wendell Lomax,,,,,,,,,,,,,DNP
+12/01/2020,Redhill,,TEAM,,,,0,0,0,,,,0,,,
+12/01/2020,Redhill,,Totals,28-54,10-25,6-20,22,24,46,18,72,23,13,13,10,200
+12/07/2020,Carrowmore,35,Kwame Pilkington,0-2,0-2,0-2,2,2,4,1,0,4,2,2,1,20
+12/07/2020,Carrowmore,45,Bo Janowski,6-9,2-2,1-1,2,1,3,2,16,2,1,2,1,21
+12/07/2020,Carrowmore,55,Emeka Yeboah,0-4,0-2,1-1,2,6,8,1,1,1,3,0,2,21
+12/07/2020,Carrowmore,10,Hollis Vantrease,8-19,5-7,1-4,1,1,2,3,22,9,0,3,1,40-
+12/07/2020,Carrowmore,42,Wendell Bramwell,4-8,2-5,2-3,2,4,6,2,12,1,1,2,2,20
+12/07/2020,Carrowmore,02,Nikola Tolliver,4-4,0-2,0-2,2,1,3,0,6,2,2,1,0,11
+12/07/2020,Carrowmore,12,Zeke Whitlock,0-2,0-2,0-0,0,0,0,1,0,2,1,1,1,9
+12/07/2020,Carrowmore,04,Solomon Stanhope,3-3,0-0,0-1,1,2,3,0,6,0,0,1,0,11
+12/07/2020,Carrowmore,50,Emeka Kealoha,2-2,2-2,1-1,1,3,4,1,7,0,1,0,1,16
+12/07/2020,Carrowmore,15,Kwame Hazlett,3-3,0-2,0-1,1,3,4,1,6,2,1,0,0,11
+12/07/2020,Carrowmore,05,Ugo Zeller,2-2,1-1,0-1,0,1,1,1,5,0,1,0,0,6
+12/07/2020,Carrowmore,24,Bo Yeboah,0-2,0-2,0-1,0,1,1,2,0,3,0,1,0,14
+12/07/2020,Carrowmore,,TEAM,,,,5,2,7,,,,0,,,
+12/07/2020,Carrowmore,,Totals,32-60,12-29,6-18,19,27,46,15,81,26,13,13,9,200
+12/13/2020,Harlowe,35,Kwame Pilkington,0-10,0-3,1-1,2,0,2,1,1,1,2,2,2,22
+12/13/2020,Harlowe,45,Bo Janowski,0-2,0-2,0-0,3,2,5,3,0,5,1,1,1,20
+12/13/2020,Harlowe,55,Emeka Yeboah,0-6,0-4,4-4,0,3,3,1,4,3,0,0,3,33
+12/13/2020,Harlowe,10,Hollis Vantrease,5-6,0-6,1-2,4,9,13,3,11,2,1,1,3,40-
+12/13/2020,Harlowe,42,Wendell Bramwell,8-9,5-6,3-5,2,1,3,5,24,4,1,1,2,28
+12/13/2020,Harlowe,02,Nikola Tolliver,0-6,0-4,2-2,2,2,4,3,2,2,2,1,0,15
+12/13/2020,Harlowe,12,Zeke Whitlock,,,,,,,,,,,,,DNP
+12/13/2020,Harlowe,04,Solomon Stanhope,,,,,,,,,,,,,DNP
+12/13/2020,Harlowe,50,Emeka Kealoha,2-3,0-1,0-1,1,2,3,0,4,1,0,0,1,16
+12/13/2020,Harlowe,15,Kwame Hazlett,3-5,1-3,1-1,1,4,5,2,8,2,2,2,0,19
+12/13/2020,Harlowe,05,Ugo Zeller,4-4,1-1,1-1,1,0,1,1,10,0,1,0,0,8
+12/13/2020,Harlowe,24,Bo Yeboah,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+12/13/2020,Harlowe,,TEAM,,,,4,3,7,,,,3,,,
+12/13/2020,Harlowe,,Totals,22-51,7-30,13-17,20,26,46,19,64,20,13,8,12,200
+12/16/2020,Redhill,35,Kwame Pilkington,4-5,3-3,1-2,2,1,3,3,12,2,3,0,2,20
+12/16/2020,Redhill,45,Bo Janowski,3-6,2-5,0-2,0,4,4,2,8,1,1,0,0,20
+12/16/2020,Redhill,55,Emeka Yeboah,0-9,0-2,5-6,2,4,6,4,5,7,5,4,0,40-
+12/16/2020,Redhill,10,Hollis Vantrease,6-8,4-6,3-4,2,1,3,3,19,6,3,1,1,23
+12/16/2020,Redhill,42,Wendell Bramwell,0-2,0-1,1-2,1,3,4,2,1,1,3,1,1,17
+12/16/2020,Redhill,02,Nikola Tolliver,2-3,1-1,1-1,1,1,2,1,6,1,1,0,1,7
+12/16/2020,Redhill,12,Zeke Whitlock,4-4,0-1,1-1,0,3,3,1,9,1,0,0,1,11
+12/16/2020,Redhill,04,Solomon Stanhope,2-3,1-2,0-2,2,3,5,1,5,0,1,1,1,13
+12/16/2020,Redhill,50,Emeka Kealoha,1-7,0-1,1-1,1,1,2,2,3,1,1,0,1,13
+12/16/2020,Redhill,15,Kwame Hazlett,3-6,1-1,3-3,1,4,5,1,10,4,3,1,0,17
+12/16/2020,Redhill,05,Ugo Zeller,0-1,0-1,1-1,0,1,1,1,1,1,0,0,0,6
+12/16/2020,Redhill,24,Bo Yeboah,2-5,2-3,0-0,2,3,5,2,6,3,2,0,1,14
+12/16/2020,Redhill,,TEAM,,,,1,3,4,,,,3,,,
+12/16/2020,Redhill,,Totals,27-59,14-27,17-25,15,32,47,23,85,28,26,8,9,200
+12/21/2020,Langmere,35,Kwame Pilkington,0-16,0-3,0-5,5,2,7,1,0,1,0,0,3,34
+12/21/2020,Langmere,45,Bo Janowski,2-11,2-4,3-3,2,1,3,0,9,3,2,1,1,20
+12/21/2020,Langmere,55,Emeka Yeboah,2-3,2-3,3-3,3,1,4,1,9,3,1,2,0,21
+12/21/2020,Langmere,10,Hollis Vantrease,10-11,0-1,5-7,2,1,3,5,25,4,2,1,3,31
+12/21/2020,Langmere,42,Wendell Bramwell,11-13,5-5,0-3,2,1,3,0,27,0,4,4,3,40-
+12/21/2020,Langmere,02,Nikola Tolliver,2-5,1-1,1-2,1,4,5,1,6,2,1,1,1,16
+12/21/2020,Langmere,12,Zeke Whitlock,,,,,,,,,,,,,DNP
+12/21/2020,Langmere,04,Solomon Stanhope,,,,,,,,,,,,,DNP
+12/21/2020,Langmere,50,Emeka Kealoha,,,,,,,,,,,,,DNP
+12/21/2020,Langmere,15,Kwame Hazlett,4-7,2-3,3-3,1,0,1,1,13,4,3,1,1,17
+12/21/2020,Langmere,05,Ugo Zeller,,,,,,,,,,,,,DNP
+12/21/2020,Langmere,24,Bo Yeboah,4-9,1-1,1-3,3,5,8,2,10,4,0,2,0,20
+12/21/2020,Langmere,23,Wendell Lomax,,,,,,,,,,,,,DNP
+12/21/2020,Langmere,,TEAM,,,,0,3,3,,,,0,,,
+12/21/2020,Langmere,,Totals,35-75,13-21,16-29,19,18,37,11,99,21,13,12,12,200
+12/27/2020,Eastvale,35,Kwame Pilkington,3-6,3-5,0-2,2,4,6,1,9,0,3,1,0,20
+12/27/2020,Eastvale,45,Bo Janowski,13-18,0-7,0-1,4,8,12,2,26,6,6,2,4,40-
+12/27/2020,Eastvale,55,Emeka Yeboah,3-4,0-3,3-7,3,8,11,0,9,5,1,2,3,33
+12/27/2020,Eastvale,10,Hollis Vantrease,3-9,1-2,0-0,1,7,8,4,7,3,5,3,1,28
+12/27/2020,Eastvale,42,Wendell Bramwell,11-14,0-0,5-5,0,1,1,2,27,0,1,0,2,27
+12/27/2020,Eastvale,02,Nikola Tolliver,1-3,1-1,2-2,0,1,1,1,5,2,2,0,0,11
+12/27/2020,Eastvale,12,Zeke Whitlock,,,,,,,,,,,,,DNP
+12/27/2020,Eastvale,04,Solomon Stanhope,2-5,1-2,0-0,2,2,4,2,5,4,2,0,1,16
+12/27/2020,Eastvale,50,Emeka Kealoha,1-9,1-3,1-1,1,5,6,2,4,4,3,0,0,18
+12/27/2020,Eastvale,15,Kwame Hazlett,,,,,,,,,,,,,DNP
+12/27/2020,Eastvale,05,Ugo Zeller,1-1,0-1,0-0,1,1,2,0,2,0,1,0,0,6
+12/27/2020,Eastvale,,TEAM,,,,5,4,9,,,,1,,,
+12/27/2020,Eastvale,,Totals,38-69,7-24,11-18,19,41,60,14,94,24,25,8,11,200
+01/01/2021,Redhill,35,Kwame Pilkington,3-5,3-5,2-7,5,9,14,5,11,2,3,1,1,32
+01/01/2021,Redhill,45,Bo Janowski,3-3,1-3,1-4,1,2,3,3,8,4,3,1,1,23
+01/01/2021,Redhill,55,Emeka Yeboah,2-3,2-3,3-6,2,2,4,2,9,6,4,0,1,29
+01/01/2021,Redhill,10,Hollis Vantrease,6-16,5-7,0-4,3,3,6,3,17,7,5,2,1,34
+01/01/2021,Redhill,42,Wendell Bramwell,6-7,1-2,0-4,2,0,2,1,13,1,2,1,0,25
+01/01/2021,Redhill,02,Nikola Tolliver,,,,,,,,,,,,,DNP
+01/01/2021,Redhill,12,Zeke Whitlock,1-10,0-1,0-2,0,4,4,1,2,4,2,1,2,19
+01/01/2021,Redhill,04,Solomon Stanhope,,,,,,,,,,,,,DNP
+01/01/2021,Redhill,50,Emeka Kealoha,7-11,1-5,3-5,2,2,4,3,18,1,2,1,2,25
+01/01/2021,Redhill,15,Kwame Hazlett,,,,,,,,,,,,,DNP
+01/01/2021,Redhill,05,Ugo Zeller,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+01/01/2021,Redhill,24,Bo Yeboah,2-4,1-2,0-2,1,2,3,1,5,3,2,1,0,13
+01/01/2021,Redhill,,TEAM,,,,5,0,5,,,,1,,,
+01/01/2021,Redhill,,Totals,30-59,14-28,9-34,21,24,45,19,83,28,24,8,8,200
+01/07/2021,Saltmarsh,35,Kwame Pilkington,9-9,0-1,1-1,1,6,7,3,19,3,3,2,0,23
+01/07/2021,Saltmarsh,45,Bo Janowski,1-3,1-1,2-2,3,3,6,3,5,6,3,2,1,25
+01/07/2021,Saltmarsh,55,Emeka Yeboah,3-5,3-4,0-6,3,0,3,0,9,6,1,2,2,28
+01/07/2021,Saltmarsh,10,Hollis Vantrease,3-12,2-3,1-2,3,3,6,1,9,4,3,1,2,25
+01/07/2021,Saltmarsh,42,Wendell Bramwell,8-13,0-8,2-7,3,5,8,1,18,1,6,1,2,38
+01/07/2021,Saltmarsh,02,Nikola Tolliver,,,,,,,,,,,,,DNP
+01/07/2021,Saltmarsh,12,Zeke Whitlock,4-4,0-2,0-0,0,1,1,1,8,1,1,0,0,9
+01/07/2021,Saltmarsh,04,Solomon Stanhope,6-6,2-4,1-2,2,1,3,2,15,3,2,0,0,15
+01/07/2021,Saltmarsh,50,Emeka Kealoha,1-3,0-0,2-2,2,2,4,1,4,2,0,1,0,14
+01/07/2021,Saltmarsh,15,Kwame Hazlett,6-7,2-3,0-2,1,2,3,2,14,2,1,2,1,17
+01/07/2021,Saltmarsh,05,Ugo Zeller,0-1,0-0,1-1,0,1,1,1,1,1,0,0,0,6
+01/07/2021,Saltmarsh,,TEAM,,,,1,4,5,,,,1,,,
+01/07/2021,Saltmarsh,,Totals,41-63,10-26,10-25,19,28,47,15,102,29,21,11,8,200
+01/10/2021,Kestrel Bay,35,Kwame Pilkington,2-15,2-5,0-6,2,0,2,2,6,0,3,0,2,29
+01/10/2021,Kestrel Bay,45,Bo Janowski,3-6,0-1,1-5,2,6,8,1,7,5,0,2,0,28
+01/10/2021,Kestrel Bay,55,Emeka Yeboah,2-11,0-0,4-4,1,1,2,1,8,3,0,0,2,22
+01/10/2021,Kestrel Bay,10,Hollis Vantrease,5-15,1-4,1-1,1,8,9,2,12,1,2,0,3,33
+01/10/2021,Kestrel Bay,42,Wendell Bramwell,1-5,1-2,1-3,0,2,2,1,4,1,4,2,2,27
+01/10/2021,Kestrel Bay,02,Nikola Tolliver,,,,,,,,,,,,,DNP
+01/10/2021,Kestrel Bay,12,Zeke Whitlock,6-9,1-1,0-1,0,0,0,3,13,4,3,0,1,19
+01/10/2021,Kestrel Bay,04,Solomon Stanhope,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+01/10/2021,Kestrel Bay,50,Emeka Kealoha,1-2,0-1,0-2,0,1,1,1,2,2,1,1,1,17
+01/10/2021,Kestrel Bay,15,Kwame Hazlett,5-6,2-3,0-1,1,1,2,1,12,2,2,0,1,18
+01/10/2021,Kestrel Bay,05,Ugo Zeller,0-3,0-0,0-1,1,2,3,0,0,0,1,0,0,9
+01/10/2021,Kestrel Bay,24,Bo Yeboah,,,,,,,,,,,,,DNP
+01/10/2021,Kestrel Bay,23,Wendell Lomax,,,,,,,,,,,,,DNP
+01/10/2021,Kestrel Bay,,TEAM,,,,0,3,3,,,,0,,,
+01/10/2021,Kestrel Bay,,Totals,25-72,7-17,7-24,8,24,32,12,64,18,16,5,12,200
+01/12/2021,Harlowe,35,Kwame Pilkington,4-9,0-0,1-3,2,6,8,2,9,3,1,1,1,28
+01/12/2021,Harlowe,45,Bo Janowski,4-9,0-2,2-3,0,4,4,1,10,2,2,2,0,17
+01/12/2021,Harlowe,55,Emeka Yeboah,0-3,0-3,0-1,3,4,7,0,0,1,1,0,2,19
+01/12/2021,Harlowe,10,Hollis Vantrease,2-8,2-4,1-4,2,6,8,3,7,1,5,2,0,33
+01/12/2021,Harlowe,42,Wendell Bramwell,4-8,0-0,2-2,2,2,4,3,10,4,2,2,3,33
+01/12/2021,Harlowe,02,Nikola Tolliver,4-0,0-2,1-1,1,1,2,0,1,1,1,1,1,9
+01/12/2021,Harlowe,12,Zeke Whitlock,,,,,,,,,,,,,DNP
+01/12/2021,Harlowe,04,Solomon Stanhope,1-1,0-1,0-0,1,2,3,3,5,2,1,1,0,17
+01/12/2021,Harlowe,50,Emeka Kealoha,1-5,0-2,0-0,0,4,4,1,2,2,2,1,0,16
+01/12/2021,Harlowe,15,Kwame Hazlett,0-2,0-1,0-0,1,1,2,0,0,0,1,1,1,13
+01/12/2021,Harlowe,05,Ugo Zeller,,,,,,,,,,,,,DNP
+01/12/2021,Harlowe,24,Bo Yeboah,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+01/12/2021,Harlowe,23,Wendell Lomax,5-5,0-2,0-2,1,2,3,2,10,3,2,0,1,15
+01/12/2021,Harlowe,,TEAM,,,,2,3,5,,,,1,,,
+01/12/2021,Harlowe,,Totals,21-54,2-17,7-16,15,35,50,15,54,19,19,11,9,200
+01/15/2021,Fenwick,35,Kwame Pilkington,0-10,0-4,3-4,0,0,0,3,3,2,3,1,1,24
+01/15/2021,Fenwick,45,Bo Janowski,6-7,1-1,3-3,0,2,2,0,16,3,3,0,0,19
+01/15/2021,Fenwick,55,Emeka Yeboah,6-6,0-6,3-6,4,6,10,5,15,2,3,4,1,40-
+01/15/2021,Fenwick,10,Hollis Vantrease,1-4,1-3,4-4,2,0,2,3,7,2,3,0,1,20
+01/15/2021,Fenwick,42,Wendell Bramwell,4-5,4-5,3-5,0,1,1,3,15,0,2,0,1,25
+01/15/2021,Fenwick,02,Nikola Tolliver,2-5,0-0,0-0,1,1,2,1,4,0,2,0,0,11
+01/15/2021,Fenwick,12,Zeke Whitlock,0-1,0-1,0-0,0,2,2,1,0,2,2,1,0,11
+01/15/2021,Fenwick,04,Solomon Stanhope,1-2,1-2,2-2,2,4,6,2,5,0,1,0,0,13
+01/15/2021,Fenwick,50,Emeka Kealoha,,,,,,,,,,,,,DNP
+01/15/2021,Fenwick,15,Kwame Hazlett,0-5,0-1,1-2,1,3,4,1,1,1,2,0,0,13
+01/15/2021,Fenwick,05,Ugo Zeller,1-1,0-1,0-0,0,0,0,0,2,0,1,0,0,5
+01/15/2021,Fenwick,24,Bo Yeboah,3-4,0-0,1-1,0,1,1,0,7,2,2,1,1,13
+01/15/2021,Fenwick,23,Wendell Lomax,1-1,0-0,0-1,0,1,1,1,2,1,0,0,0,7
+01/15/2021,Fenwick,,TEAM,,,,1,1,2,,,,1,,,
+01/15/2021,Fenwick,,Totals,25-51,7-24,20-28,11,22,33,20,77,15,25,7,5,200
+01/17/2021,Kestrel Bay,35,Kwame Pilkington,2-5,2-5,0-2,3,1,4,1,6,2,3,1,1,20
+01/17/2021,Kestrel Bay,45,Bo Janowski,3-11,3-6,1-2,2,2,4,1,10,4,3,3,2,27
+01/17/2021,Kestrel Bay,55,Emeka Yeboah,0-11,0-2,0-1,2,2,4,5,0,4,1,0,1,31
+01/17/2021,Kestrel Bay,10,Hollis Vantrease,2-10,0-2,1-3,1,2,3,2,5,7,5,2,3,31
+01/17/2021,Kestrel Bay,42,Wendell Bramwell,7-18,0-2,6-6,3,8,11,3,20,8,4,1,2,40-
+01/17/2021,Kestrel Bay,02,Nikola Tolliver,0-2,0-2,1-2,1,3,4,1,1,0,0,1,1,13
+01/17/2021,Kestrel Bay,12,Zeke Whitlock,4-6,3-3,0-3,1,1,2,1,11,2,0,0,1,13
+01/17/2021,Kestrel Bay,04,Solomon Stanhope,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0
+01/17/2021,Kestrel Bay,50,Emeka Kealoha,,,,,,,,,,,,,DNP
+01/17/2021,Kestrel Bay,15,Kwame Hazlett,3-5,0-1,2-3,2,3,5,2,8,0,2,1,0,14
+01/17/2021,Kestrel Bay,05,Ugo Zeller,4-4,0-2,1-1,1,0,1,1,9,2,2,0,1,11
+01/17/2021,Kestrel Bay,24,Bo Yeboah,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+01/17/2021,Kestrel Bay,,TEAM,,,,1,4,5,,,,0,,,
+01/17/2021,Kestrel Bay,,Totals,25-72,8-25,12-23,17,26,43,17,70,29,20,9,12,200
+01/20/2021,Northgate,35,Kwame Pilkington,4-5,1-2,2-2,2,5,7,0,11,1,3,1,2,22
+01/20/2021,Northgate,45,Bo Janowski,1-4,1-4,3-4,0,6,6,4,6,5,3,0,2,25
+01/20/2021,Northgate,55,Emeka Yeboah,1-2,0-0,2-5,0,4,4,3,4,3,3,1,2,21
+01/20/2021,Northgate,10,Hollis Vantrease,0-13,0-2,0-3,3,4,7,1,0,0,2,3,1,28
+01/20/2021,Northgate,42,Wendell Bramwell,4-8,1-5,0-0,0,5,5,2,9,3,1,2,1,26
+01/20/2021,Northgate,02,Nikola Tolliver,1-1,1-1,0-0,1,2,3,1,3,2,0,1,1,10
+01/20/2021,Northgate,12,Zeke Whitlock,0-4,0-3,0-1,0,2,2,1,-2,0,2,0,1,13
+01/20/2021,Northgate,04,Solomon Stanhope,1-1,0-0,0-0,2,2,4,1,2,2,1,1,1,14
+01/20/2021,Northgate,50,Emeka Kealoha,6-7,1-4,1-1,1,2,3,1,14,1,1,1,1,16
+01/20/2021,Northgate,15,Kwame Hazlett,6-8,0-5,0-1,1,5,6,0,12,0,2,1,1,19
+01/20/2021,Northgate,05,Ugo Zeller,1-1,0-1,0-1,1,1,2,1,2,1,1,1,1,6
+01/20/2021,Northgate,,TEAM,,,,0,3,3,,,,2,,,
+01/20/2021,Northgate,,Totals,25-54,5-27,8-18,11,41,52,15,61,18,21,12,14,200
+01/22/2021,Kestrel Bay,35,Kwame Pilkington,17-10,4-5,0-2,4,10,14,1,24,2,2,4,3,40-
+01/22/2021,Kestrel Bay,45,Bo Janowski,2-3,1-3,2-4,1,0,1,0,7,3,1,2,1,20
+01/22/2021,Kestrel Bay,55,Emeka Yeboah,1-6,1-5,0-2,1,1,2,4,3,1,1,0,1,24
+01/22/2021,Kestrel Bay,10,Hollis Vantrease,6-10,0-1,1-2,1,1,2,2,13,1,4,1,1,23
+01/22/2021,Kestrel Bay,42,Wendell Bramwell,2-7,2-5,4-4,2,4,6,3,10,3,0,0,1,22
+01/22/2021,Kestrel Bay,02,Nikola Tolliver,0-5,0-1,2-2,1,1,2,1,2,0,1,1,0,12
+01/22/2021,Kestrel Bay,12,Zeke Whitlock,0-1,0-1,0-0,1,1,2,1,0,1,0,1,0,13
+01/22/2021,Kestrel Bay,04,Solomon Stanhope,0-3,0-1,0-1,1,0,1,0,0,2,1,0,0,9
+01/22/2021,Kestrel Bay,50,Emeka Kealoha,1-8,1-3,0-1,1,0,1,1,3,3,3,0,1,17
+01/22/2021,Kestrel Bay,15,Kwame Hazlett,2-7,0-0,0-2,2,2,4,0,4,3,2,1,1,15
+01/22/2021,Kestrel Bay,05,Ugo Zeller,1-1,1-1,0-1,0,1,1,1,3,1,1,0,0,6
+01/22/2021,Kestrel Bay,24,Bo Yeboah,,,,,,,,,,,,,DNP
+01/22/2021,Kestrel Bay,,TEAM,,,,4,1,5,,,,3,,,
+01/22/2021,Kestrel Bay,,Totals,25-68,10-26,9-21,19,22,41,14,69,20,19,10,9,200
+01/24/2021,Langmere,35,Kwame Pilkington,1-5,0-5,0-2,0,2,2,4,2,8,2,1,2,40-
+01/24/2021,Langmere,45,Bo Janowski,0-5,0-1,2-2,2,4,6,0,2,3,1,0,1,16
+01/24/2021,Langmere,55,Emeka Yeboah,9-9,0-2,1-1,3,3,6,3,19,4,3,1,2,26
+01/24/2021,Langmere,10,Hollis Vantrease,9-11,1-4,1-2,1,4,5,1,20,2,1,0,1,23
+01/24/2021,Langmere,42,Wendell Bramwell,2-10,0-2,1-1,2,2,4,3,5,1,2,1,0,20
+01/24/2021,Langmere,02,Nikola Tolliver,0-2,0-2,1-1,1,1,2,0,1,2,1,1,0,10
+01/24/2021,Langmere,12,Zeke Whitlock,1-5,1-1,1-1,0,2,2,1,4,0,1,0,1,13
+01/24/2021,Langmere,04,Solomon Stanhope,0-3,0-3,1-3,1,2,3,1,1,1,1,1,0,13
+01/24/2021,Langmere,50,Emeka Kealoha,3-6,3-3,0-0,1,4,5,3,9,3,0,0,1,17
+01/24/2021,Langmere,15,Kwame Hazlett,,,,,,,,,,,,,DNP
+01/24/2021,Langmere,05,Ugo Zeller,,,,,,,,,,,,,DNP
+01/24/2021,Langmere,24,Bo Yeboah,3-4,0-1,2-2,0,2,2,1,8,2,2,1,0,12
+01/24/2021,Langmere,23,Wendell Lomax,0-1,0-1,0-2,0,2,2,2,0,1,0,0,0,10
+01/24/2021,Langmere,,TEAM,,,,0,2,2,,,,3,,,
+01/24/2021,Langmere,,Totals,28-61,5-25,10-17,11,30,41,19,71,27,17,6,8,200
+01/27/2021,Quarry Ridge,35,Kwame Pilkington,0-12,0-2,1-1,1,5,6,2,1,6,4,2,2,26
+01/27/2021,Quarry Ridge,45,Bo Janowski,4-6,4-4,0-1,2,5,7,1,12,4,0,2,1,21
+01/27/2021,Quarry Ridge,55,Emeka Yeboah,8-3,3-3,4-7,1,8,9,3,13,2,2,2,1,32
+01/27/2021,Quarry Ridge,10,Hollis Vantrease,1-9,1-3,0-1,3,3,6,3,3,3,2,2,3,30
+01/27/2021,Quarry Ridge,42,Wendell Bramwell,1-2,0-0,1-6,3,2,5,4,3,4,2,2,2,29
+01/27/2021,Quarry Ridge,02,Nikola Tolliver,2-3,0-1,0-0,1,2,3,0,4,2,1,0,0,10
+01/27/2021,Quarry Ridge,12,Zeke Whitlock,0-5,0-2,0-0,0,1,1,1,0,0,1,1,1,12
+01/27/2021,Quarry Ridge,04,Solomon Stanhope,,,,,,,,,,,,,DNP
+01/27/2021,Quarry Ridge,50,Emeka Kealoha,0-10,0-4,2-2,1,2,3,3,2,2,2,2,1,19
+01/27/2021,Quarry Ridge,15,Kwame Hazlett,4-7,4-5,2-2,3,4,7,3,14,3,3,1,1,21
+01/27/2021,Quarry Ridge,05,Ugo Zeller,,,,,,,,,,,,,DNP
+01/27/2021,Quarry Ridge,24,Bo Yeboah,,,,,,,,,,,,,DNP
+01/27/2021,Quarry Ridge,23,Wendell Lomax,,,,,,,,,,,,,DNP
+01/27/2021,Quarry Ridge,,TEAM,,,,4,1,5,,,,0,,,
+01/27/2021,Quarry Ridge,,Totals,15-62,12-24,10-20,19,33,52,20,52,26,17,14,12,200
+02/02/2021,Kestrel Bay,35,Kwame Pilkington,1-5,1-3,0-0,4,4,8,3,3,6,4,0,1,28
+02/02/2021,Kestrel Bay,45,Bo Janowski,4-13,0-0,1-1,2,2,4,2,9,1,1,2,0,26
+02/02/2021,Kestrel Bay,55,Emeka Yeboah,4-4,1-2,0-0,2,6,8,3,9,6,1,2,2,27
+02/02/2021,Kestrel Bay,10,Hollis Vantrease,4-9,0-0,2-3,4,1,5,2,10,3,2,2,2,26
+02/02/2021,Kestrel Bay,42,Wendell Bramwell,0-6,0-3,1-4,2,0,2,0,1,1,1,3,2,28
+02/02/2021,Kestrel Bay,02,Nikola Tolliver,2-5,0-1,0-2,1,3,4,1,4,0,2,1,0,11
+02/02/2021,Kestrel Bay,12,Zeke Whitlock,1-2,1-2,0-1,1,1,2,2,3,2,1,1,0,11
+02/02/2021,Kestrel Bay,04,Solomon Stanhope,5-11,2-2,1-4,3,1,4,4,13,4,3,1,0,24
+02/02/2021,Kestrel Bay,50,Emeka Kealoha,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+02/02/2021,Kestrel Bay,15,Kwame Hazlett,1-7,1-3,1-2,1,0,1,1,4,3,0,0,2,20
+02/02/2021,Kestrel Bay,05,Ugo Zeller,,,,,,,,,,,,,DNP
+02/02/2021,Kestrel Bay,,TEAM,,,,5,1,6,,,,2,,,
+02/02/2021,Kestrel Bay,,Totals,22-62,6-16,6-17,25,19,44,18,56,26,17,12,9,200
+02/06/2021,Underhill,35,Kwame Pilkington,4-7,1-1,0-2,2,6,8,0,9,5,4,2,0,23
+02/06/2021,Underhill,45,Bo Janowski,0-7,0-6,3-3,4,5,9,1,3,6,1,2,1,30
+02/06/2021,Underhill,55,Emeka Yeboah,0-3,0-1,2-2,0,1,1,1,2,4,3,2,0,24
+02/06/2021,Underhill,10,Hollis Vantrease,3-12,2-9,1-1,3,4,7,3,9,2,4,2,1,33
+02/06/2021,Underhill,42,Wendell Bramwell,8-13,3-4,1-3,2,3,5,1,20,6,3,2,0,27
+02/06/2021,Underhill,02,Nikola Tolliver,,,,,,,,,,,,,DNP
+02/06/2021,Underhill,12,Zeke Whitlock,2-4,1-2,0-2,0,0,0,2,5,1,0,0,0,11
+02/06/2021,Underhill,04,Solomon Stanhope,4-5,3-5,1-3,2,2,4,0,12,1,1,1,0,18
+02/06/2021,Underhill,50,Emeka Kealoha,,,,,,,,,,,,,DNP
+02/06/2021,Underhill,15,Kwame Hazlett,0-3,0-1,0-2,1,1,2,1,-3,1,1,0,1,13
+02/06/2021,Underhill,05,Ugo Zeller,3-4,0-0,1-1,0,2,2,0,7,1,1,0,0,8
+02/06/2021,Underhill,24,Bo Yeboah,0-3,0-2,0-1,0,3,3,2,0,1,2,1,1,14
+02/06/2021,Underhill,,TEAM,,,,0,0,0,,,,1,,,
+02/06/2021,Underhill,,Totals,24-61,10-31,9-20,14,27,41,11,64,28,21,12,4,200
+02/08/2021,Carrowmore,35,Kwame Pilkington,0-8,0-5,1-4,2,0,2,2,1,4,2,1,2,23
+02/08/2021,Carrowmore,45,Bo Janowski,13-20,1-3,6-7,3,7,10,2,33,1,0,1,3,40-
+02/08/2021,Carrowmore,55,Emeka Yeboah,3-4,2-4,0-1,2,8,10,0,8,8,4,1,1,31
+02/08/2021,Carrowmore,10,Hollis Vantrease,0-15,0-7,0-2,5,10,15,3,0,6,5,3,1,36
+02/08/2021,Carrowmore,42,Wendell Bramwell,7-7,1-2,3-9,0,0,0,4,18,6,5,1,3,40-
+02/08/2021,Carrowmore,02,Nikola Tolliver,3-3,1-2,0-0,1,1,2,1,7,1,0,1,1,10
+02/08/2021,Carrowmore,12,Zeke Whitlock,2-3,1-1,0-2,1,1,2,2,5,1,1,1,0,10
+02/08/2021,Carrowmore,04,Solomon Stanhope,,,,,,,,,,,,,DNP
+02/08/2021,Carrowmore,50,Emeka Kealoha,,,,,,,,,,,,,DNP
+02/08/2021,Carrowmore,15,Kwame Hazlett,,,,,,,,,,,,,DNP
+02/08/2021,Carrowmore,05,Ugo Zeller,0-2,0-2,1-1,1,1,2,1,1,2,0,0,1,10
+02/08/2021,Carrowmore,,TEAM,,,,2,2,4,,,,1,,,
+02/08/2021,Carrowmore,,Totals,28-62,6-26,11-26,17,30,47,15,73,29,18,9,12,200
+02/13/2021,Kestrel Bay,35,Kwame Pilkington,13-14,6-7,2-5,4,0,4,2,34,7,3,2,3,30
+02/13/2021,Kestrel Bay,45,Bo Janowski,5-7,1-1,1-1,0,2,2,3,12,3,2,1,1,17
+02/13/2021,Kestrel Bay,55,Emeka Yeboah,0-3,0-3,0-4,4,5,9,4,0,4,0,0,2,30
+02/13/2021,Kestrel Bay,10,Hollis Vantrease,10-11,0-1,0-1,2,3,5,0,20,6,2,0,2,30
+02/13/2021,Kestrel Bay,42,Wendell Bramwell,13-14,0-4,2-4,0,5,5,3,28,7,3,2,0,31
+02/13/2021,Kestrel Bay,02,Nikola Tolliver,6-6,4-4,1-1,2,3,5,2,17,2,3,0,1,15
+02/13/2021,Kestrel Bay,12,Zeke Whitlock,1-3,1-1,1-2,1,2,3,1,4,2,1,0,1,12
+02/13/2021,Kestrel Bay,04,Solomon Stanhope,0-2,0-2,0-1,2,1,3,2,0,1,1,1,0,15
+02/13/2021,Kestrel Bay,50,Emeka Kealoha,5-5,2-3,1-1,2,2,4,2,13,1,0,0,1,14
+02/13/2021,Kestrel Bay,15,Kwame Hazlett,,,,,,,,,,,,,DNP
+02/13/2021,Kestrel Bay,05,Ugo Zeller,1-1,0-1,0-1,0,1,1,0,2,0,0,0,0,6
+02/13/2021,Kestrel Bay,,TEAM,,,,2,4,6,,,,3,,,
+02/13/2021,Kestrel Bay,,Totals,54-66,14-27,8-21,19,28,47,19,130,33,18,6,11,200
+02/17/2021,Bellcourt,35,Kwame Pilkington,3-7,3-7,0-0,1,10,11,3,9,1,2,2,1,37
+02/17/2021,Bellcourt,45,Bo Janowski,0-11,0-2,5-5,1,3,4,0,5,4,3,0,0,26
+02/17/2021,Bellcourt,55,Emeka Yeboah,5-6,4-4,3-5,1,2,3,4,18,6,5,0,2,32
+02/17/2021,Bellcourt,10,Hollis Vantrease,7-12,4-4,2-4,3,0,3,0,20,3,1,1,0,25
+02/17/2021,Bellcourt,42,Wendell Bramwell,1-4,1-3,0-4,3,6,9,2,3,5,0,1,3,28
+02/17/2021,Bellcourt,02,Nikola Tolliver,3-6,1-1,0-1,1,1,2,2,7,3,1,1,1,12
+02/17/2021,Bellcourt,12,Zeke Whitlock,2-2,0-2,0-1,1,3,4,2,4,2,1,1,0,13
+02/17/2021,Bellcourt,04,Solomon Stanhope,,,,,,,,,,,,,DNP
+02/17/2021,Bellcourt,50,Emeka Kealoha,3-10,0-1,1-2,0,2,2,3,7,1,3,1,0,20
+02/17/2021,Bellcourt,15,Kwame Hazlett,,,,,,,,,,,,,DNP
+02/17/2021,Bellcourt,05,Ugo Zeller,0-4,0-2,0-0,1,2,3,1,0,1,0,1,0,8
+02/17/2021,Bellcourt,,TEAM,,,,4,4,8,,,,1,,,
+02/17/2021,Bellcourt,,Totals,24-62,13-26,11-22,16,33,49,17,73,26,17,8,7,200
+02/21/2021,Pentland,35,Kwame Pilkington,3-8,0-0,3-3,4,6,10,1,9,1,4,1,2,28
+02/21/2021,Pentland,45,Bo Janowski,1-7,1-1,1-3,0,0,0,2,4,2,2,1,1,15
+02/21/2021,Pentland,55,Emeka Yeboah,3-11,3-6,0-2,3,6,9,1,9,2,4,1,3,26
+02/21/2021,Pentland,10,Hollis Vantrease,0-14,0-4,0-0,1,6,7,4,0,5,1,1,2,30
+02/21/2021,Pentland,42,Wendell Bramwell,5-7,1-3,2-4,0,4,4,3,13,1,2,2,2,19
+02/21/2021,Pentland,02,Nikola Tolliver,1-4,0-2,0-0,1,0,1,0,2,1,1,1,1,8
+02/21/2021,Pentland,12,Zeke Whitlock,4-5,2-2,1-1,1,3,4,1,11,1,1,0,0,14
+02/21/2021,Pentland,04,Solomon Stanhope,5-5,0-0,1-1,1,2,3,1,11,1,2,0,1,11
+02/21/2021,Pentland,50,Emeka Kealoha,,,,,,,,,,,,,DNP
+02/21/2021,Pentland,15,Kwame Hazlett,3-4,0-4,0-1,2,1,3,1,6,3,1,1,1,16
+02/21/2021,Pentland,05,Ugo Zeller,2-2,0-0,0-1,0,2,2,1,4,2,0,0,0,7
+02/21/2021,Pentland,24,Bo Yeboah,3-4,0-1,2-2,2,0,2,0,11,1,1,0,1,11
+02/21/2021,Pentland,23,Wendell Lomax,2-7,1-1,0-2,0,3,3,2,5,2,1,0,1,15
+02/21/2021,Pentland,,TEAM,,,,2,2,4,,,,1,,,
+02/21/2021,Pentland,,Totals,32-78,8-24,10-20,17,35,52,17,85,22,21,8,15,200
+02/24/2021,Fenwick,35,Kwame Pilkington,0-8,0-7,0-0,1,8,9,1,0,4,2,0,1,31
+02/24/2021,Fenwick,45,Bo Janowski,3-4,3-4,0-3,1,1,2,1,9,0,3,1,2,18
+02/24/2021,Fenwick,55,Emeka Yeboah,14-14,2-8,5-7,3,7,10,4,35,6,5,1,0,32
+02/24/2021,Fenwick,10,Hollis Vantrease,3-3,0-3,1-1,0,0,0,0,7,6,5,2,0,32
+02/24/2021,Fenwick,42,Wendell Bramwell,7-9,4-4,4-5,1,2,3,5,22,5,2,3,1,35
+02/24/2021,Fenwick,02,Nikola Tolliver,,,,,,,,,,,,,DNP
+02/24/2021,Fenwick,12,Zeke Whitlock,3-5,0-1,0-1,0,1,1,2,6,2,1,1,1,13
+02/24/2021,Fenwick,04,Solomon Stanhope,2-4,1-2,1-2,0,0,0,0,5,0,0,0,1,11
+02/24/2021,Fenwick,50,Emeka Kealoha,,,,,,,,,,,,,DNP
+02/24/2021,Fenwick,15,Kwame Hazlett,0-2,0-1,0-0,2,0,2,1,0,1,2,1,1,12
+02/24/2021,Fenwick,05,Ugo Zeller,1-2,0-1,1-1,0,0,0,0,3,0,1,0,0,5
+02/24/2021,Fenwick,24,Bo Yeboah,2-3,2-3,0-2,1,2,3,2,6,1,1,0,0,11
+02/24/2021,Fenwick,,TEAM,,,,4,3,7,,,,3,,,
+02/24/2021,Fenwick,,Totals,35-54,12-34,12-22,13,24,37,16,93,25,25,9,7,200
+02/27/2021,Langmere,35,Kwame Pilkington,2-8,0-1,3-3,1,4,5,1,7,5,3,0,2,28
+02/27/2021,Langmere,45,Bo Janowski,8-8,0-5,0-0,0,5,5,2,16,3,4,1,2,21
+02/27/2021,Langmere,55,Emeka Yeboah,1-4,1-2,0-5,4,6,10,5,3,1,2,1,1,27
+02/27/2021,Langmere,10,Hollis Vantrease,7-7,5-5,4-6,1,3,4,2,23,7,4,2,1,30
+02/27/2021,Langmere,42,Wendell Bramwell,0-4,0-4,1-4,2,5,7,1,1,8,1,1,2,40-
+02/27/2021,Langmere,02,Nikola Tolliver,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0
+02/27/2021,Langmere,12,Zeke Whitlock,3-3,0-1,3-3,0,3,3,1,9,2,1,0,1,14
+02/27/2021,Langmere,04,Solomon Stanhope,3-6,2-4,0-1,2,4,6,0,8,2,1,1,1,19
+02/27/2021,Langmere,50,Emeka Kealoha,0-7,0-3,2-3,2,2,4,2,2,1,2,1,0,14
+02/27/2021,Langmere,15,Kwame Hazlett,,,,,,,,,,,,,DNP
+02/27/2021,Langmere,05,Ugo Zeller,1-2,0-0,0-1,1,2,3,0,2,1,0,1,0,7
+02/27/2021,Langmere,,TEAM,,,,1,4,5,,,,2,,,
+02/27/2021,Langmere,,Totals,25-49,8-25,13-26,14,38,52,14,71,30,20,8,10,200
+11/08/2021,Oakhaven,00,Kwame Janowski,10-11,0-2,5-6,4,5,9,1,25,3,4,1,2,26
+11/08/2021,Oakhaven,02,Hollis Redfern,0-12,0-3,0-3,0,6,6,3,0,5,2,2,1,22
+11/08/2021,Oakhaven,32,Gideon Abara,2-9,1-2,2-3,1,2,3,1,7,2,1,0,0,18
+11/08/2021,Oakhaven,15,Oisin Ulmer,3-12,1-1,0-1,2,1,3,0,7,5,2,2,2,25
+11/08/2021,Oakhaven,14,Nikola Janowski,7-9,0-2,2-3,4,5,9,0,16,5,0,2,2,26
+11/08/2021,Oakhaven,23,Emeka Lomax,5-6,0-2,1-1,1,4,5,3,11,2,1,1,0,18
+11/08/2021,Oakhaven,34,Jarrell Nkemelu,1-5,0-1,1-1,1,1,2,1,3,3,1,0,0,11
+11/08/2021,Oakhaven,40,Amare Ulmer,0-2,0-2,0-2,0,3,3,2,0,3,2,1,1,12
+11/08/2021,Oakhaven,11,Wendell Ulmer,2-2,0-1,1-2,1,1,2,2,5,1,1,1,1,14
+11/08/2021,Oakhaven,04,Oisin Tolliver,,,,,,,,,,,,,DNP
+11/08/2021,Oakhaven,50,Lachlan Ulmer,1-2,0-2,1-2,1,2,3,1,3,1,1,1,0,13
+11/08/2021,Oakhaven,10,Tavian Zeller,2-4,0-2,0-0,1,3,4,2,4,2,2,0,1,15
+11/08/2021,Oakhaven,,TEAM,,,,0,2,2,,,,2,,,
+11/08/2021,Oakhaven,,Totals,33-74,2-20,13-24,16,35,51,16,81,32,19,11,10,200
+11/14/2021,Pentland,00,Kwame Janowski,8-10,2-3,0-0,2,0,2,3,18,0,3,1,0,18
+11/14/2021,Pentland,02,Hollis Redfern,2-2,1-2,0-3,3,5,8,3,5,5,3,1,2,24
+11/14/2021,Pentland,32,Gideon Abara,3-6,1-1,3-4,2,2,4,2,10,3,2,1,1,25
+11/14/2021,Pentland,15,Oisin Ulmer,2-14,2-3,1-6,2,2,4,1,7,3,1,3,2,29
+11/14/2021,Pentland,14,Nikola Janowski,2-5,2-3,1-5,1,1,2,3,7,2,1,1,1,25
+11/14/2021,Pentland,23,Emeka Lomax,1-4,0-0,1-2,1,2,3,1,3,2,2,1,0,14
+11/14/2021,Pentland,34,Jarrell Nkemelu,0-5,0-1,1-2,0,2,2,1,1,1,1,1,1,11
+11/14/2021,Pentland,40,Amare Ulmer,,,,,,,,,,,,,DNP
+11/14/2021,Pentland,11,Wendell Ulmer,2-7,0-0,0-1,1,4,5,2,4,2,1,1,1,15
+11/14/2021,Pentland,04,Oisin Tolliver,,,,,,,,,,,,,DNP
+11/14/2021,Pentland,50,Lachlan Ulmer,1-1,1-1,0-1,2,1,3,2,3,3,1,1,0,18
+11/14/2021,Pentland,10,Tavian Zeller,1-1,0-0,1-2,0,2,2,2,3,1,2,0,1,11
+11/14/2021,Pentland,22,Zeke Yeboah,3-5,1-2,0-1,1,2,3,0,7,1,1,0,1,10
+11/14/2021,Pentland,,TEAM,,,,5,3,8,,,,0,,,
+11/14/2021,Pentland,,Totals,25-60,10-16,8-27,20,26,46,20,68,23,18,11,10,200
+11/18/2021,Marchfield,00,Kwame Janowski,8-8,2-6,2-7,1,0,1,2,20,6,4,2,3,30
+11/18/2021,Marchfield,02,Hollis Redfern,2-7,0-3,3-3,2,0,2,3,7,3,4,2,2,28
+11/18/2021,Marchfield,32,Gideon Abara,3-7,0-1,1-2,0,4,4,3,7,1,2,1,0,23
+11/18/2021,Marchfield,15,Oisin Ulmer,4-6,4-4,0-5,1,6,7,0,12,6,4,2,2,27
+11/18/2021,Marchfield,14,Nikola Janowski,2-7,0-4,1-6,3,5,8,3,5,6,3,0,1,29
+11/18/2021,Marchfield,23,Emeka Lomax,1-3,1-3,0-1,0,3,3,3,3,3,1,1,1,19
+11/18/2021,Marchfield,34,Jarrell Nkemelu,2-2,2-2,0-0,0,2,2,1,6,2,0,1,1,10
+11/18/2021,Marchfield,40,Amare Ulmer,2-2,0-0,0-2,0,1,1,2,4,1,0,1,1,12
+11/18/2021,Marchfield,11,Wendell Ulmer,1-1,1-1,2-2,1,1,2,0,5,3,1,0,1,11
+11/18/2021,Marchfield,04,Oisin Tolliver,1-6,1-2,1-2,1,2,3,1,4,1,1,1,0,11
+11/18/2021,Marchfield,50,Lachlan Ulmer,,,,,,,,,,,,,DNP
+11/18/2021,Marchfield,,TEAM,,,,0,0,0,,,,1,,,
+11/18/2021,Marchfield,,Totals,26-49,11-26,10-30,9,24,33,18,73,32,21,11,12,200
+11/22/2021,Innisfree,00,Kwame Janowski,14-16,2-2,2-2,3,7,10,3,32,0,2,1,2,32
+11/22/2021,Innisfree,02,Hollis Redfern,2-5,0-5,2-4,2,5,7,0,6,4,3,2,1,25
+11/22/2021,Innisfree,32,Gideon Abara,2-6,0-5,5-5,1,4,5,1,9,4,3,1,1,21
+11/22/2021,Innisfree,15,Oisin Ulmer,8-19,5-8,2-3,5,7,12,1,23,8,2,3,1,36
+11/22/2021,Innisfree,14,Nikola Janowski,0-7,0-7,0-0,1,6,7,3,0,3,2,2,1,29
+11/22/2021,Innisfree,23,Emeka Lomax,4-7,0-1,0-1,2,1,3,2,8,0,2,0,1,17
+11/22/2021,Innisfree,34,Jarrell Nkemelu,,,,,,,,,,,,,DNP
+11/22/2021,Innisfree,40,Amare Ulmer,2-3,1-1,0-0,0,2,2,2,5,1,2,1,1,12
+11/22/2021,Innisfree,11,Wendell Ulmer,1-2,1-1,0-0,0,3,3,2,3,1,1,0,1,13
+11/22/2021,Innisfree,04,Oisin Tolliver,,,,,,,,,,,,,DNP
+11/22/2021,Innisfree,50,Lachlan Ulmer,,,,,,,,,,,,,DNP
+11/22/2021,Innisfree,10,Tavian Zeller,6-6,0-1,2-2,2,0,2,2,14,1,2,1,1,14
+11/22/2021,Innisfree,,TEAM,,,,1,3,4,,,,3,,,
+11/22/2021,Innisfree,,Totals,39-71,9-31,13-17,17,38,55,16,100,22,22,11,10,200
+11/28/2021,Harlowe,00,Kwame Janowski,1-4,1-2,0-3,2,7,9,2,3,6,3,2,1,27
+11/28/2021,Harlowe,02,Hollis Redfern,1-4,0-1,0-0,4,1,5,3,2,4,5,2,3,31
+11/28/2021,Harlowe,32,Gideon Abara,5-5,1-2,2-2,3,2,5,2,13,4,1,1,2,18
+11/28/2021,Harlowe,15,Oisin Ulmer,13-15,2-6,2-2,0,8,8,3,30,3,5,0,2,30
+11/28/2021,Harlowe,14,Nikola Janowski,4-4,4-4,1-1,2,2,4,3,13,4,3,2,2,24
+11/28/2021,Harlowe,23,Emeka Lomax,5-5,1-1,2-2,3,5,8,0,13,4,0,1,2,24
+11/28/2021,Harlowe,34,Jarrell Nkemelu,2-2,0-1,1-1,1,1,2,0,5,0,0,0,1,7
+11/28/2021,Harlowe,40,Amare Ulmer,0-2,0-0,0-1,1,1,2,0,0,1,1,0,1,12
+11/28/2021,Harlowe,11,Wendell Ulmer,,,,,,,,,,,,,DNP
+11/28/2021,Harlowe,04,Oisin Tolliver,1-1,1-1,0-0,0,1,1,1,3,1,1,0,0,7
+11/28/2021,Harlowe,50,Lachlan Ulmer,2-2,1-2,2-4,1,1,2,1,7,2,3,1,2,20
+11/28/2021,Harlowe,,TEAM,,,,0,3,3,,,,3,,,
+11/28/2021,Harlowe,,Totals,34-44,11-20,10-16,17,32,49,15,89,29,25,9,16,200
+12/03/2021,Granholm,00,Kwame Janowski,1-2,0-0,0-5,4,8,12,3,2,0,1,2,0,28
+12/03/2021,Granholm,02,Hollis Redfern,0-7,0-6,1-6,1,3,4,1,1,5,2,0,1,30
+12/03/2021,Granholm,32,Gideon Abara,5-5,0-5,0-1,3,5,8,2,10,4,1,2,0,24
+12/03/2021,Granholm,15,Oisin Ulmer,3-10,0-4,4-4,0,7,7,2,10,6,2,1,0,29
+12/03/2021,Granholm,14,Nikola Janowski,9-17,0-0,0-6,1,3,4,4,18,8,1,0,1,36
+12/03/2021,Granholm,23,Emeka Lomax,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0
+12/03/2021,Granholm,34,Jarrell Nkemelu,1-4,1-1,0-0,1,0,1,1,3,1,1,1,1,9
+12/03/2021,Granholm,40,Amare Ulmer,2-5,1-2,3-3,1,4,5,1,8,2,2,0,1,15
+12/03/2021,Granholm,11,Wendell Ulmer,,,,,,,,,,,,,DNP
+12/03/2021,Granholm,04,Oisin Tolliver,1-2,0-0,0-0,1,1,2,1,2,1,0,0,0,9
+12/03/2021,Granholm,50,Lachlan Ulmer,2-6,1-3,1-2,1,5,6,0,6,1,2,1,2,19
+12/03/2021,Granholm,10,Tavian Zeller,,,,,,,,,,,,,DNP
+12/03/2021,Granholm,22,Zeke Yeboah,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+12/03/2021,Granholm,,TEAM,,,,3,0,3,,,,1,,,
+12/03/2021,Granholm,,Totals,24-58,3-21,9-27,16,36,52,15,60,28,13,7,6,200
+12/05/2021,Westmere,00,Kwame Janowski,2-5,0-5,2-6,3,3,6,5,6,3,3,1,1,32
+12/05/2021,Westmere,02,Hollis Redfern,5-5,2-5,0-0,1,6,7,3,12,2,1,0,2,23
+12/05/2021,Westmere,32,Gideon Abara,1-2,0-1,2-4,0,4,4,0,4,2,2,1,1,24
+12/05/2021,Westmere,15,Oisin Ulmer,5-5,2-4,0-0,3,0,3,1,12,3,1,2,2,21
+12/05/2021,Westmere,14,Nikola Janowski,0-14,0-3,2-5,1,3,4,2,2,1,3,3,1,28
+12/05/2021,Westmere,23,Emeka Lomax,4-6,4-4,1-1,2,2,4,1,13,3,1,1,0,15
+12/05/2021,Westmere,34,Jarrell Nkemelu,1-3,0-2,0-1,1,3,4,2,2,1,1,1,0,13
+12/05/2021,Westmere,40,Amare Ulmer,4-5,0-1,0-0,1,4,5,1,8,0,0,1,0,14
+12/05/2021,Westmere,11,Wendell Ulmer,2-3,2-3,0-0,0,4,4,0,6,5,1,1,1,20
+12/05/2021,Westmere,04,Oisin Tolliver,1-3,0-1,0-2,1,3,4,0,2,1,2,0,0,11
+12/05/2021,Westmere,50,Lachlan Ulmer,,,,,,,,,,,,,DNP
+12/05/2021,Westmere,,TEAM,,,,3,4,7,,,,3,,,
+12/05/2021,Westmere,,Totals,25-51,10-29,7-19,16,36,52,15,67,21,18,11,8,200
+12/07/2021,Oakhaven,00,Kwame Janowski,1-3,0-3,1-6,1,6,7,2,3,0,4,1,1,26
+12/07/2021,Oakhaven,02,Hollis Redfern,0-12,0-2,1-5,3,8,11,4,1,4,3,3,1,34
+12/07/2021,Oakhaven,32,Gideon Abara,1-5,1-5,0-3,2,6,8,4,1,0,3,1,1,28
+12/07/2021,Oakhaven,15,Oisin Ulmer,3-11,1-1,4-5,4,1,5,0,11,2,4,1,3,27
+12/07/2021,Oakhaven,14,Nikola Janowski,3-3,3-3,2-2,3,3,6,0,11,4,2,2,1,21
+12/07/2021,Oakhaven,23,Emeka Lomax,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+12/07/2021,Oakhaven,34,Jarrell Nkemelu,1-4,1-2,2-3,1,0,1,1,5,1,2,0,0,11
+12/07/2021,Oakhaven,40,Amare Ulmer,3-6,0-1,1-1,1,2,3,2,7,3,2,1,0,12
+12/07/2021,Oakhaven,11,Wendell Ulmer,1-4,1-2,1-1,1,0,1,0,4,2,2,1,0,15
+12/07/2021,Oakhaven,04,Oisin Tolliver,1-4,0-0,2-2,1,1,2,1,4,0,1,1,0,12
+12/07/2021,Oakhaven,50,Lachlan Ulmer,1-2,1-2,0-1,1,1,2,1,3,3,1,1,1,13
+12/07/2021,Oakhaven,,TEAM,,,,0,1,1,,,,3,,,
+12/07/2021,Oakhaven,,Totals,15-54,8-21,14-29,18,29,47,15,50,19,27,12,8,200
+12/12/2021,Carrowmore,00,Kwame Janowski,2-8,2-6,1-1,2,5,7,4,7,1,4,1,2,23
+12/12/2021,Carrowmore,02,Hollis Redfern,0-4,0-4,0-1,0,4,4,3,0,2,3,1,1,19
+12/12/2021,Carrowmore,32,Gideon Abara,10-12,3-3,4-4,1,6,7,1,27,3,2,0,1,25
+12/12/2021,Carrowmore,15,Oisin Ulmer,2-4,2-4,0-1,2,6,8,3,6,3,2,2,2,27
+12/12/2021,Carrowmore,14,Nikola Janowski,2-3,2-3,0-4,4,3,7,2,6,9,7,1,2,40-
+12/12/2021,Carrowmore,23,Emeka Lomax,1-5,1-5,0-5,3,3,6,4,3,4,4,1,1,25
+12/12/2021,Carrowmore,34,Jarrell Nkemelu,1-1,0-0,0-0,1,1,2,0,2,2,1,1,0,9
+12/12/2021,Carrowmore,40,Amare Ulmer,,,,,,,,,,,,,DNP
+12/12/2021,Carrowmore,11,Wendell Ulmer,0-2,0-2,0-0,2,4,6,2,0,3,2,1,1,19
+12/12/2021,Carrowmore,04,Oisin Tolliver,0-5,0-1,1-1,1,3,4,1,1,2,1,0,1,13
+12/12/2021,Carrowmore,50,Lachlan Ulmer,,,,,,,,,,,,,DNP
+12/12/2021,Carrowmore,10,Tavian Zeller,,,,,,,,,,,,,DNP
+12/12/2021,Carrowmore,22,Zeke Yeboah,,,,,,,,,,,,,DNP
+12/12/2021,Carrowmore,,TEAM,,,,1,2,3,,,,0,,,
+12/12/2021,Carrowmore,,Totals,18-44,10-28,6-17,17,37,54,20,52,29,26,8,11,200
+12/14/2021,Granholm,00,Kwame Janowski,9-14,0-4,1-3,2,6,8,5,19,2,5,1,0,32
+12/14/2021,Granholm,02,Hollis Redfern,1-15,0-1,0-2,3,8,11,3,2,8,4,2,1,32
+12/14/2021,Granholm,32,Gideon Abara,17-18,8-8,1-6,2,2,4,5,43,1,3,3,3,35
+12/14/2021,Granholm,15,Oisin Ulmer,5-10,1-4,2-3,3,5,8,3,13,6,4,1,1,25
+12/14/2021,Granholm,14,Nikola Janowski,8-13,2-3,1-2,2,6,8,3,19,3,2,3,2,29
+12/14/2021,Granholm,23,Emeka Lomax,5-11,1-1,3-4,3,5,8,5,14,0,1,2,3,27
+12/14/2021,Granholm,34,Jarrell Nkemelu,,,,,,,,,,,,,DNP
+12/14/2021,Granholm,40,Amare Ulmer,4-4,1-3,0-2,1,1,2,2,9,1,1,1,1,11
+12/14/2021,Granholm,11,Wendell Ulmer,,,,,,,,,,,,,DNP
+12/14/2021,Granholm,04,Oisin Tolliver,4-5,0-0,2-2,0,1,1,1,10,1,1,1,0,9
+12/14/2021,Granholm,50,Lachlan Ulmer,,,,,,,,,,,,,DNP
+12/14/2021,Granholm,,TEAM,,,,3,2,5,,,,1,,,
+12/14/2021,Granholm,,Totals,53-90,13-24,10-24,19,36,55,27,129,22,22,14,11,200
+12/16/2021,Kestrel Bay,00,Kwame Janowski,13-14,0-0,1-3,0,5,5,4,27,4,3,0,0,28
+12/16/2021,Kestrel Bay,02,Hollis Redfern,3-4,3-4,2-3,2,4,6,1,11,3,1,1,1,25
+12/16/2021,Kestrel Bay,32,Gideon Abara,2-19,2-5,0-5,5,3,8,5,6,3,7,2,4,40-
+12/16/2021,Kestrel Bay,15,Oisin Ulmer,0-8,0-5,1-2,3,0,3,4,1,0,1,2,1,24
+12/16/2021,Kestrel Bay,14,Nikola Janowski,6-9,0-2,1-5,2,0,2,4,13,6,0,0,1,24
+12/16/2021,Kestrel Bay,23,Emeka Lomax,,,,,,,,,,,,,DNP
+12/16/2021,Kestrel Bay,34,Jarrell Nkemelu,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0
+12/16/2021,Kestrel Bay,40,Amare Ulmer,1-3,0-0,3-3,1,2,3,2,5,1,0,0,0,12
+12/16/2021,Kestrel Bay,11,Wendell Ulmer,0-3,0-3,3-3,2,1,3,1,3,2,3,1,1,18
+12/16/2021,Kestrel Bay,04,Oisin Tolliver,0-5,0-2,2-3,1,2,3,1,2,1,1,0,1,11
+12/16/2021,Kestrel Bay,50,Lachlan Ulmer,,,,,,,,,,,,,DNP
+12/16/2021,Kestrel Bay,10,Tavian Zeller,5-5,1-1,0-2,0,1,1,1,11,1,1,0,1,10
+12/16/2021,Kestrel Bay,22,Zeke Yeboah,1-3,1-2,0-0,1,0,1,1,3,0,1,0,1,9
+12/16/2021,Kestrel Bay,,TEAM,,,,0,4,4,,,,2,,,
+12/16/2021,Kestrel Bay,,Totals,31-73,7-24,13-29,17,22,39,24,82,21,20,6,11,200
+12/22/2021,Kestrel Bay,00,Kwame Janowski,2-10,2-6,1-2,2,5,7,2,7,0,4,1,0,29
+12/22/2021,Kestrel Bay,02,Hollis Redfern,5-7,1-2,4-4,2,10,12,3,15,7,4,4,4,40-
+12/22/2021,Kestrel Bay,32,Gideon Abara,12-12,1-1,0-0,0,4,4,2,25,7,4,3,2,32
+12/22/2021,Kestrel Bay,15,Oisin Ulmer,10-10,1-3,0-1,0,3,3,1,21,4,2,1,1,24
+12/22/2021,Kestrel Bay,14,Nikola Janowski,13-13,3-8,6-7,1,5,6,4,35,3,3,2,3,32
+12/22/2021,Kestrel Bay,23,Emeka Lomax,5-8,4-4,0-2,2,5,7,0,14,4,1,1,1,17
+12/22/2021,Kestrel Bay,34,Jarrell Nkemelu,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+12/22/2021,Kestrel Bay,40,Amare Ulmer,1-1,0-1,1-1,1,3,4,1,3,3,1,1,1,13
+12/22/2021,Kestrel Bay,11,Wendell Ulmer,0-1,0-1,0-0,2,3,5,1,0,3,2,0,0,14
+12/22/2021,Kestrel Bay,04,Oisin Tolliver,,,,,,,,,,,,,DNP
+12/22/2021,Kestrel Bay,50,Lachlan Ulmer,,,,,,,,,,,,,DNP
+12/22/2021,Kestrel Bay,,TEAM,,,,5,1,6,,,,1,,,
+12/22/2021,Kestrel Bay,,Totals,48-62,12-26,12-17,15,39,54,14,120,31,22,13,12,200
+12/28/2021,Saltmarsh,00,Kwame Janowski,0-7,0-7,3-4,1,3,4,2,3,1,2,0,1,40-
+12/28/2021,Saltmarsh,02,Hollis Redfern,1-5,1-2,0-0,1,3,4,0,3,5,3,0,2,27
+12/28/2021,Saltmarsh,32,Gideon Abara,6-10,4-4,2-3,2,1,3,1,18,0,2,0,1,22
+12/28/2021,Saltmarsh,15,Oisin Ulmer,2-4,1-4,0-1,1,5,6,4,5,7,0,2,0,27
+12/28/2021,Saltmarsh,14,Nikola Janowski,2-4,2-4,0-3,1,2,3,2,6,2,1,1,1,16
+12/28/2021,Saltmarsh,23,Emeka Lomax,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+12/28/2021,Saltmarsh,34,Jarrell Nkemelu,1-1,0-0,0-0,0,1,1,1,2,0,1,0,0,6
+12/28/2021,Saltmarsh,40,Amare Ulmer,0-4,0-2,0-2,0,0,0,1,0,1,1,1,0,8
+12/28/2021,Saltmarsh,11,Wendell Ulmer,3-4,1-2,0-2,2,2,4,2,7,3,1,1,1,17
+12/28/2021,Saltmarsh,04,Oisin Tolliver,0-2,0-0,1-1,1,0,1,0,1,1,0,0,0,6
+12/28/2021,Saltmarsh,50,Lachlan Ulmer,3-6,1-1,2-2,2,0,2,2,9,1,0,1,1,14
+12/28/2021,Saltmarsh,10,Tavian Zeller,2-3,0-1,0-0,1,2,3,0,4,0,1,1,0,8
+12/28/2021,Saltmarsh,22,Zeke Yeboah,2-4,0-1,1-1,1,0,1,1,5,2,1,0,0,8
+12/28/2021,Saltmarsh,,TEAM,,,,3,1,4,,,,1,,,
+12/28/2021,Saltmarsh,,Totals,22-54,10-28,9-19,16,20,36,16,63,23,14,7,7,200
+01/05/2022,Kestrel Bay,00,Kwame Janowski,5-7,0-0,5-5,2,2,4,3,15,1,2,1,2,24
+01/05/2022,Kestrel Bay,02,Hollis Redfern,1-3,0-3,2-2,0,2,2,1,4,1,4,1,0,26
+01/05/2022,Kestrel Bay,32,Gideon Abara,2-3,0-3,1-3,1,6,7,2,5,6,3,1,0,23
+01/05/2022,Kestrel Bay,15,Oisin Ulmer,10-15,2-2,1-4,2,4,6,4,23,4,1,0,1,29
+01/05/2022,Kestrel Bay,14,Nikola Janowski,1-1,1-1,2-2,0,0,0,0,5,3,1,1,0,15
+01/05/2022,Kestrel Bay,23,Emeka Lomax,1-8,1-4,2-3,2,3,5,3,5,4,3,2,1,19
+01/05/2022,Kestrel Bay,34,Jarrell Nkemelu,3-4,1-1,0-0,1,1,2,1,7,1,0,0,0,10
+01/05/2022,Kestrel Bay,40,Amare Ulmer,1-1,1-1,1-1,1,1,2,0,4,1,1,0,0,7
+01/05/2022,Kestrel Bay,11,Wendell Ulmer,6-7,0-4,0-3,1,1,2,1,12,1,2,1,1,17
+01/05/2022,Kestrel Bay,04,Oisin Tolliver,4-4,0-2,0-1,0,2,2,1,8,1,1,0,0,10
+01/05/2022,Kestrel Bay,50,Lachlan Ulmer,4-4,2-3,1-1,2,3,5,1,11,1,1,1,0,11
+01/05/2022,Kestrel Bay,10,Tavian Zeller,,,,,,,,,,,,,DNP
+01/05/2022,Kestrel Bay,22,Zeke Yeboah,1-1,0-1,0-0,1,2,3,1,2,1,1,0,0,8
+01/05/2022,Kestrel Bay,,TEAM,,,,0,1,1,,,,1,,,
+01/05/2022,Kestrel Bay,,Totals,39-58,8-25,15-25,13,28,41,18,101,25,21,8,5,200
+01/07/2022,Marchfield,00,Kwame Janowski,1-7,0-2,0-4,2,5,7,3,2,1,0,0,0,20
+01/07/2022,Marchfield,02,Hollis Redfern,0-11,0-6,2-4,2,1,3,3,2,3,4,1,0,24
+01/07/2022,Marchfield,32,Gideon Abara,6-7,6-6,0-4,3,3,6,3,18,2,3,0,2,23
+01/07/2022,Marchfield,15,Oisin Ulmer,5-7,0-1,5-5,2,5,7,3,15,2,3,1,1,22
+01/07/2022,Marchfield,14,Nikola Janowski,2-7,1-1,2-2,0,4,4,2,7,1,1,1,1,19
+01/07/2022,Marchfield,23,Emeka Lomax,3-9,3-5,0-0,1,0,1,1,9,5,1,0,1,21
+01/07/2022,Marchfield,34,Jarrell Nkemelu,0-1,0-0,1-1,0,1,1,1,1,1,0,1,0,7
+01/07/2022,Marchfield,40,Amare Ulmer,4-4,0-0,1-2,0,0,0,1,9,1,1,0,1,10
+01/07/2022,Marchfield,11,Wendell Ulmer,0-9,0-0,0-0,3,3,6,2,0,4,0,2,1,17
+01/07/2022,Marchfield,04,Oisin Tolliver,,,,,,,,,,,,,DNP
+01/07/2022,Marchfield,50,Lachlan Ulmer,1-3,1-3,1-2,1,0,1,1,4,0,0,1,1,15
+01/07/2022,Marchfield,10,Tavian Zeller,3-4,0-1,0-0,1,1,2,0,6,2,1,1,1,10
+01/07/2022,Marchfield,22,Zeke Yeboah,3-3,0-3,0-1,2,2,4,1,6,1,1,1,1,11
+01/07/2022,Marchfield,,TEAM,,,,3,1,4,,,,0,,,
+01/07/2022,Marchfield,,Totals,28-72,11-28,12-25,20,26,46,21,79,23,15,9,10,200
+01/11/2022,Delaford,00,Kwame Janowski,2-4,2-4,2-2,1,2,3,4,5,2,5,2,2,33
+01/11/2022,Delaford,02,Hollis Redfern,2-3,1-1,2-2,4,3,7,5,7,6,2,1,3,30
+01/11/2022,Delaford,32,Gideon Abara,3-6,0-0,2-4,2,3,5,0,8,2,4,1,1,24
+01/11/2022,Delaford,15,Oisin Ulmer,1-5,0-0,1-1,2,3,5,1,3,3,2,1,1,19
+01/11/2022,Delaford,14,Nikola Janowski,0-8,0-2,1-2,1,1,2,4,3,4,0,0,2,22
+01/11/2022,Delaford,23,Emeka Lomax,0-4,0-4,2-2,1,1,2,0,2,0,0,1,1,14
+01/11/2022,Delaford,34,Jarrell Nkemelu,5-5,2-2,0-0,0,2,2,0,12,1,2,0,1,10
+01/11/2022,Delaford,40,Amare Ulmer,,,,,,,,,,,,,DNP
+01/11/2022,Delaford,11,Wendell Ulmer,4-4,1-2,3-3,1,1,2,2,12,1,1,0,0,12
+01/11/2022,Delaford,04,Oisin Tolliver,4-4,1-2,1-1,1,1,2,1,10,2,2,0,0,10
+01/11/2022,Delaford,50,Lachlan Ulmer,1-1,1-1,0-2,0,2,2,2,3,2,0,1,1,12
+01/11/2022,Delaford,10,Tavian Zeller,4-4,1-2,2-3,1,1,2,0,11,1,0,1,1,14
+01/11/2022,Delaford,,TEAM,,,,1,2,3,,,,2,,,
+01/11/2022,Delaford,,Totals,26-48,9-20,16-22,15,22,37,19,76,24,20,8,13,200
+01/16/2022,Delaford,00,Kwame Janowski,11-14,2-4,2-5,2,5,7,4,26,4,1,1,2,26
+01/16/2022,Delaford,02,Hollis Redfern,2-5,1-3,1-1,2,2,4,3,6,2,2,3,1,29
+01/16/2022,Delaford,32,Gideon Abara,1-5,0-1,0-2,2,2,4,3,2,0,2,1,1,18
+01/16/2022,Delaford,15,Oisin Ulmer,3-7,3-4,1-2,4,5,9,1,10,2,3,3,1,29
+01/16/2022,Delaford,14,Nikola Janowski,9-10,0-4,0-2,2,3,5,3,18,2,0,0,0,19
+01/16/2022,Delaford,23,Emeka Lomax,1-2,0-2,1-1,2,1,3,0,3,0,3,1,1,19
+01/16/2022,Delaford,34,Jarrell Nkemelu,,,,,,,,,,,,,DNP
+01/16/2022,Delaford,40,Amare Ulmer,3-3,1-2,1-1,1,1,2,0,5,1,1,1,0,9
+01/16/2022,Delaford,11,Wendell Ulmer,2-2,1-1,2-2,2,4,6,0,7,0,0,1,1,15
+01/16/2022,Delaford,04,Oisin Tolliver,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0
+01/16/2022,Delaford,50,Lachlan Ulmer,1-4,0-2,0-0,0,3,3,0,2,1,1,1,1,15
+01/16/2022,Delaford,10,Tavian Zeller,2-2,0-1,0-1,1,1,2,0,4,1,1,1,0,9
+01/16/2022,Delaford,22,Zeke Yeboah,2-5,1-2,2-2,1,1,2,1,7,0,2,1,1,12
+01/16/2022,Delaford,,TEAM,,,,1,3,4,,,,2,,,
+01/16/2022,Delaford,,Totals,37-59,9-26,10-19,20,31,51,15,90,13,18,14,9,200
+01/19/2022,Vantage,00,Kwame Janowski,6-15,4-4,3-5,1,5,6,2,19,1,4,1,0,29
+01/19/2022,Vantage,02,Hollis Redfern,7-11,0-3,1-2,1,4,5,3,15,7,3,1,0,26
+01/19/2022,Vantage,32,Gideon Abara,2-2,0-2,0-1,1,1,2,1,4,2,2,1,1,18
+01/19/2022,Vantage,15,Oisin Ulmer,2-2,0-1,0-1,1,2,3,2,4,2,2,0,1,18
+01/19/2022,Vantage,14,Nikola Janowski,7-7,0-5,1-2,1,1,2,3,15,4,1,1,2,18
+01/19/2022,Vantage,23,Emeka Lomax,1-4,0-4,3-3,1,2,3,2,5,5,3,0,1,22
+01/19/2022,Vantage,34,Jarrell Nkemelu,1-3,1-1,1-1,0,0,0,1,4,1,1,0,0,7
+01/19/2022,Vantage,40,Amare Ulmer,1-2,1-2,2-3,2,3,5,1,5,1,1,1,0,12
+01/19/2022,Vantage,11,Wendell Ulmer,5-8,3-3,0-0,2,5,7,1,13,4,2,1,0,17
+01/19/2022,Vantage,04,Oisin Tolliver,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0
+01/19/2022,Vantage,50,Lachlan Ulmer,4-4,0-0,1-2,1,3,4,2,9,1,2,0,1,12
+01/19/2022,Vantage,10,Tavian Zeller,0-2,0-2,0-0,1,3,4,1,0,1,0,1,1,11
+01/19/2022,Vantage,22,Zeke Yeboah,3-3,1-1,0-1,1,2,3,1,7,1,1,0,1,10
+01/19/2022,Vantage,,TEAM,,,,2,0,2,,,,0,,,
+01/19/2022,Vantage,,Totals,39-63,10-28,12-21,15,31,46,20,100,30,22,7,8,200
+01/25/2022,Harlowe,00,Kwame Janowski,5-6,1-4,1-3,1,4,5,2,12,3,2,2,1,22
+01/25/2022,Harlowe,02,Hollis Redfern,4-10,0-1,0-0,2,1,3,2,8,2,2,1,1,22
+01/25/2022,Harlowe,32,Gideon Abara,0-3,0-1,1-1,2,3,5,3,1,1,1,1,1,21
+01/25/2022,Harlowe,15,Oisin Ulmer,6-8,2-2,0-4,3,6,9,0,14,5,1,2,2,24
+01/25/2022,Harlowe,14,Nikola Janowski,2-14,1-2,0-1,1,2,3,3,5,4,4,1,2,28
+01/25/2022,Harlowe,23,Emeka Lomax,5-10,2-2,3-5,2,7,9,5,15,5,2,2,1,29
+01/25/2022,Harlowe,34,Jarrell Nkemelu,,,,,,,,,,,,,DNP
+01/25/2022,Harlowe,40,Amare Ulmer,2-4,1-1,2-2,2,3,5,3,7,2,2,1,1,17
+01/25/2022,Harlowe,11,Wendell Ulmer,2-9,0-1,0-0,0,5,5,1,4,2,2,2,0,23
+01/25/2022,Harlowe,04,Oisin Tolliver,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+01/25/2022,Harlowe,50,Lachlan Ulmer,3-3,2-2,0-1,2,3,5,1,8,3,2,0,1,14
+01/25/2022,Harlowe,,TEAM,,,,4,2,6,,,,3,,,
+01/25/2022,Harlowe,,Totals,29-67,9-16,7-17,19,36,55,20,74,27,21,12,10,200
+02/01/2022,Quarry Ridge,00,Kwame Janowski,3-7,1-5,0-1,2,5,7,4,7,1,4,1,1,24
+02/01/2022,Quarry Ridge,02,Hollis Redfern,2-3,1-3,3-4,2,3,5,1,8,3,1,1,2,21
+02/01/2022,Quarry Ridge,32,Gideon Abara,4-6,1-1,3-6,3,8,11,5,12,10,3,1,1,40-
+02/01/2022,Quarry Ridge,15,Oisin Ulmer,5-5,1-1,0-0,2,2,4,0,11,4,1,2,2,21
+02/01/2022,Quarry Ridge,14,Nikola Janowski,1-4,0-4,0-2,2,4,6,4,2,2,4,1,0,24
+02/01/2022,Quarry Ridge,23,Emeka Lomax,3-7,1-4,0-2,1,1,2,2,7,2,2,1,1,16
+02/01/2022,Quarry Ridge,34,Jarrell Nkemelu,2-2,0-0,1-1,0,2,2,1,5,1,1,0,1,7
+02/01/2022,Quarry Ridge,40,Amare Ulmer,1-2,0-2,2-2,1,1,2,0,4,1,1,0,0,12
+02/01/2022,Quarry Ridge,11,Wendell Ulmer,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+02/01/2022,Quarry Ridge,04,Oisin Tolliver,0-3,0-1,1-1,0,2,2,1,1,2,0,0,0,7
+02/01/2022,Quarry Ridge,50,Lachlan Ulmer,4-7,1-2,0-2,2,4,6,2,9,0,1,1,1,16
+02/01/2022,Quarry Ridge,10,Tavian Zeller,2-2,1-2,1-1,2,1,3,1,6,1,2,0,0,11
+02/01/2022,Quarry Ridge,,TEAM,,,,4,1,5,,,,3,,,
+02/01/2022,Quarry Ridge,,Totals,27-48,7-25,11-22,21,34,55,21,72,27,23,8,9,200
+02/05/2022,Thornbury,00,Kwame Janowski,1-8,1-1,0-3,3,2,5,3,3,3,1,1,2,18
+02/05/2022,Thornbury,02,Hollis Redfern,3-9,2-4,1-5,3,8,11,4,9,4,3,3,1,28
+02/05/2022,Thornbury,32,Gideon Abara,2-9,1-7,1-2,1,6,7,3,6,5,2,1,0,28
+02/05/2022,Thornbury,15,Oisin Ulmer,1-5,1-5,0-5,2,3,5,5,3,6,4,0,1,26
+02/05/2022,Thornbury,14,Nikola Janowski,3-5,2-5,0-1,2,5,7,0,8,1,3,1,2,25
+02/05/2022,Thornbury,23,Emeka Lomax,3-7,3-3,0-1,2,2,4,1,9,4,0,1,1,20
+02/05/2022,Thornbury,34,Jarrell Nkemelu,1-3,1-1,0-0,1,1,2,1,3,1,1,0,0,7
+02/05/2022,Thornbury,40,Amare Ulmer,1-1,1-1,1-1,1,1,2,0,4,0,1,0,0,9
+02/05/2022,Thornbury,11,Wendell Ulmer,0-2,0-1,3-3,1,3,4,1,3,0,0,2,1,15
+02/05/2022,Thornbury,04,Oisin Tolliver,3-3,0-2,2-2,1,0,1,2,8,2,2,0,1,11
+02/05/2022,Thornbury,50,Lachlan Ulmer,0-1,0-1,1-3,0,2,2,2,1,3,1,1,0,13
+02/05/2022,Thornbury,10,Tavian Zeller,,,,,,,,,,,,,DNP
+02/05/2022,Thornbury,22,Zeke Yeboah,,,,,,,,,,,,,DNP
+02/05/2022,Thornbury,,TEAM,,,,2,4,6,,,,3,,,
+02/05/2022,Thornbury,,Totals,18-53,12-31,9-26,19,37,56,22,57,29,21,10,9,200
+02/11/2022,Pentland,00,Kwame Janowski,8-13,1-3,1-2,2,1,3,0,18,7,5,1,1,27
+02/11/2022,Pentland,02,Hollis Redfern,1-8,0-0,1-2,2,4,6,3,3,2,3,2,2,22
+02/11/2022,Pentland,32,Gideon Abara,0-3,0-3,0-0,3,3,6,2,0,3,0,0,2,23
+02/11/2022,Pentland,15,Oisin Ulmer,5-7,5-6,1-2,3,5,8,0,16,3,4,3,1,30
+02/11/2022,Pentland,14,Nikola Janowski,2-5,0-1,1-5,3,3,6,2,5,3,2,2,0,25
+02/11/2022,Pentland,23,Emeka Lomax,3-5,1-2,4-4,1,3,4,3,11,3,1,1,2,19
+02/11/2022,Pentland,34,Jarrell Nkemelu,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+02/11/2022,Pentland,40,Amare Ulmer,4-2,1-1,1-1,1,1,2,1,6,2,1,0,0,12
+02/11/2022,Pentland,11,Wendell Ulmer,3-3,1-1,1-3,1,1,2,0,8,2,0,1,0,16
+02/11/2022,Pentland,04,Oisin Tolliver,,,,,,,,,,,,,DNP
+02/11/2022,Pentland,50,Lachlan Ulmer,0-3,0-1,1-2,0,3,3,0,1,0,1,1,1,10
+02/11/2022,Pentland,10,Tavian Zeller,4-4,1-1,0-1,1,1,2,1,9,0,1,0,1,8
+02/11/2022,Pentland,22,Zeke Yeboah,1-2,0-0,0-1,1,2,3,1,2,2,0,0,1,7
+02/11/2022,Pentland,,TEAM,,,,1,4,5,,,,0,,,
+02/11/2022,Pentland,,Totals,29-57,10-19,11-23,19,31,50,13,79,27,18,11,11,200
+02/14/2022,Bellcourt,00,Kwame Janowski,8-13,2-8,3-7,4,3,7,3,21,4,1,2,0,30
+02/14/2022,Bellcourt,02,Hollis Redfern,4-6,1-1,0-4,2,1,3,0,9,6,2,1,1,24
+02/14/2022,Bellcourt,32,Gideon Abara,6-12,0-3,0-3,4,6,10,3,12,1,1,1,0,24
+02/14/2022,Bellcourt,15,Oisin Ulmer,1-6,1-6,0-6,1,8,9,1,3,1,2,2,3,31
+02/14/2022,Bellcourt,14,Nikola Janowski,1-6,1-6,0-1,1,8,9,3,3,3,2,2,1,29
+02/14/2022,Bellcourt,23,Emeka Lomax,,,,,,,,,,,,,DNP
+02/14/2022,Bellcourt,34,Jarrell Nkemelu,,,,,,,,,,,,,DNP
+02/14/2022,Bellcourt,40,Amare Ulmer,2-5,2-4,0-2,1,2,3,0,6,1,2,0,1,14
+02/14/2022,Bellcourt,11,Wendell Ulmer,0-5,0-3,2-2,2,4,6,2,2,4,2,0,1,17
+02/14/2022,Bellcourt,04,Oisin Tolliver,,,,,,,,,,,,,DNP
+02/14/2022,Bellcourt,50,Lachlan Ulmer,1-4,1-2,0-3,2,0,2,2,3,3,1,0,1,17
+02/14/2022,Bellcourt,10,Tavian Zeller,2-3,0-2,1-1,0,2,2,0,5,3,0,1,1,12
+02/14/2022,Bellcourt,,TEAM,,,,0,0,0,,,,0,,,
+02/14/2022,Bellcourt,,Totals,25-60,8-35,6-29,17,34,51,14,64,26,13,9,9,200
+02/16/2022,Bellcourt,00,Kwame Janowski,7-9,3-6,1-5,2,5,7,0,18,6,3,1,2,24
+02/16/2022,Bellcourt,02,Hollis Redfern,0-10,0-1,0-4,2,0,2,4,0,6,1,2,2,23
+02/16/2022,Bellcourt,32,Gideon Abara,8-10,3-6,1-6,4,2,6,1,20,0,2,0,1,29
+02/16/2022,Bellcourt,15,Oisin Ulmer,4-10,3-3,0-2,2,6,8,3,11,0,0,1,1,28
+02/16/2022,Bellcourt,14,Nikola Janowski,0-12,0-6,1-1,1,7,8,3,1,2,5,1,1,30
+02/16/2022,Bellcourt,23,Emeka Lomax,0-4,0-4,2-2,4,6,10,1,2,5,4,2,0,25
+02/16/2022,Bellcourt,34,Jarrell Nkemelu,,,,,,,,,,,,,DNP
+02/16/2022,Bellcourt,40,Amare Ulmer,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+02/16/2022,Bellcourt,11,Wendell Ulmer,6-7,5-5,1-1,2,2,4,2,18,0,3,0,0,20
+02/16/2022,Bellcourt,04,Oisin Tolliver,3-4,0-0,0-1,1,0,1,0,6,2,0,0,1,8
+02/16/2022,Bellcourt,50,Lachlan Ulmer,6-6,0-0,0-1,0,3,3,1,12,0,0,0,1,14
+02/16/2022,Bellcourt,10,Tavian Zeller,,,,,,,,,,,,,DNP
+02/16/2022,Bellcourt,,TEAM,,,,4,2,6,,,,0,,,
+02/16/2022,Bellcourt,,Totals,34-72,14-31,6-23,22,33,55,15,88,21,18,7,9,200
+02/22/2022,Alderman,00,Kwame Janowski,0-3,0-2,2-3,3,5,8,3,2,0,2,0,1,23
+02/22/2022,Alderman,02,Hollis Redfern,3-9,1-4,1-1,1,4,5,2,8,6,4,0,3,30
+02/22/2022,Alderman,32,Gideon Abara,1-8,1-5,1-2,2,1,3,2,4,0,2,1,0,31
+02/22/2022,Alderman,15,Oisin Ulmer,0-9,0-5,0-2,0,5,5,0,0,3,3,0,1,19
+02/22/2022,Alderman,14,Nikola Janowski,9-0,0-5,0-3,1,1,2,1,0,3,1,2,0,19
+02/22/2022,Alderman,23,Emeka Lomax,7-7,1-1,1-2,1,4,5,2,16,0,1,0,1,18
+02/22/2022,Alderman,34,Jarrell Nkemelu,,,,,,,,,,,,,DNP
+02/22/2022,Alderman,40,Amare Ulmer,0-1,0-1,0-2,1,2,3,0,0,1,1,0,0,10
+02/22/2022,Alderman,11,Wendell Ulmer,0-2,0-2,1-4,2,1,3,2,1,2,1,0,1,19
+02/22/2022,Alderman,04,Oisin Tolliver,1-3,1-2,1-2,1,2,3,1,4,0,0,1,1,10
+02/22/2022,Alderman,50,Lachlan Ulmer,8-8,1-1,3-3,2,4,6,3,20,4,3,1,1,20
+02/22/2022,Alderman,,TEAM,,,,1,3,4,,,,1,,,
+02/22/2022,Alderman,,Totals,20-59,5-28,10-24,15,32,47,16,55,19,19,5,9,200
+02/28/2022,Vantage,00,Kwame Janowski,9-14,0-1,1-7,2,7,9,4,19,5,4,2,0,30
+02/28/2022,Vantage,02,Hollis Redfern,8-8,3-5,4-5,3,0,3,4,23,0,2,2,1,23
+02/28/2022,Vantage,32,Gideon Abara,1-7,0-1,3-3,4,3,7,3,5,5,4,3,2,27
+02/28/2022,Vantage,15,Oisin Ulmer,8-9,4-4,1-2,3,7,10,4,21,1,3,0,0,28
+02/28/2022,Vantage,14,Nikola Janowski,7-7,3-3,1-1,3,5,8,2,18,6,1,1,2,29
+02/28/2022,Vantage,23,Emeka Lomax,3-9,0-2,0-1,1,5,6,4,6,3,1,1,1,25
+02/28/2022,Vantage,34,Jarrell Nkemelu,,,,,,,,,,,,,DNP
+02/28/2022,Vantage,40,Amare Ulmer,,,,,,,,,,,,,DNP
+02/28/2022,Vantage,11,Wendell Ulmer,6-7,0-3,0-3,1,3,4,1,12,1,1,1,1,14
+02/28/2022,Vantage,04,Oisin Tolliver,0-5,0-1,0-2,1,2,3,2,0,1,0,1,1,11
+02/28/2022,Vantage,50,Lachlan Ulmer,2-2,1-2,0-0,1,0,1,1,5,1,2,1,0,12
+02/28/2022,Vantage,,TEAM,,,,0,0,0,,,,2,,,
+02/28/2022,Vantage,,Totals,44-68,11-22,10-24,19,32,51,25,109,23,20,12,8,200
+03/06/2022,Granholm,00,Kwame Janowski,6-8,2-2,4-4,2,2,4,3,18,0,1,2,1,19
+03/06/2022,Granholm,02,Hollis Redfern,2-4,0-0,0-0,2,6,8,3,4,3,4,1,1,25
+03/06/2022,Granholm,32,Gideon Abara,1-10,1-6,0-5,2,4,6,2,3,3,1,1,1,21
+03/06/2022,Granholm,15,Oisin Ulmer,0-11,0-1,0-0,0,3,3,2,0,2,3,1,2,26
+03/06/2022,Granholm,14,Nikola Janowski,5-5,0-1,1-3,0,4,4,3,11,1,1,1,2,21
+03/06/2022,Granholm,23,Emeka Lomax,3-8,3-6,3-4,3,4,7,3,12,3,3,1,0,21
+03/06/2022,Granholm,34,Jarrell Nkemelu,,,,,,,,,,,,,DNP
+03/06/2022,Granholm,40,Amare Ulmer,0-5,0-2,2-2,1,1,2,1,2,1,1,0,1,12
+03/06/2022,Granholm,11,Wendell Ulmer,1-6,0-4,2-2,2,4,6,1,4,2,0,1,0,18
+03/06/2022,Granholm,04,Oisin Tolliver,0-1,0-0,0-0,1,1,2,1,0,2,1,1,0,6
+03/06/2022,Granholm,50,Lachlan Ulmer,2-2,0-1,0-2,2,3,5,2,4,0,3,1,0,17
+03/06/2022,Granholm,10,Tavian Zeller,3-7,0-0,0-0,0,1,1,2,6,2,1,1,1,13
+03/06/2022,Granholm,,TEAM,,,,0,0,0,,,,1,,,
+03/06/2022,Granholm,,Totals,23-67,6-23,12-22,15,33,48,23,64,19,20,11,9,200
+03/10/2022,Thornbury,00,Kwame Janowski,5-13,1-3,4-4,0,1,1,3,15,5,2,0,3,26
+03/10/2022,Thornbury,02,Hollis Redfern,3-11,2-6,1-1,0,1,1,3,9,6,3,2,3,29
+03/10/2022,Thornbury,32,Gideon Abara,0-2,0-2,1-3,2,2,4,0,1,5,3,2,1,23
+03/10/2022,Thornbury,15,Oisin Ulmer,1-4,0-0,0-0,3,3,6,2,2,3,0,0,2,23
+03/10/2022,Thornbury,14,Nikola Janowski,1-8,1-4,2-4,0,5,5,1,5,1,2,0,2,19
+03/10/2022,Thornbury,23,Emeka Lomax,1-4,1-3,1-1,2,4,6,3,4,1,3,0,0,18
+03/10/2022,Thornbury,34,Jarrell Nkemelu,2-4,1-1,2-2,0,2,2,1,7,2,0,1,0,10
+03/10/2022,Thornbury,40,Amare Ulmer,2-7,0-0,0-0,1,1,2,3,4,3,2,0,1,15
+03/10/2022,Thornbury,11,Wendell Ulmer,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+03/10/2022,Thornbury,04,Oisin Tolliver,1-2,1-2,0-1,0,1,1,1,3,1,1,1,0,10
+03/10/2022,Thornbury,50,Lachlan Ulmer,5-6,3-3,1-1,1,5,6,3,14,0,3,2,1,19
+03/10/2022,Thornbury,10,Tavian Zeller,1-4,0-2,2-2,0,0,0,1,4,1,0,0,0,9
+03/10/2022,Thornbury,22,Zeke Yeboah,,,,,,,,,,,,,DNP
+03/10/2022,Thornbury,,TEAM,,,,1,1,2,,,,3,,,
+03/10/2022,Thornbury,,Totals,22-65,10-26,14-19,10,26,36,21,68,28,22,8,13,200
+03/16/2022,Oakhaven,00,Kwame Janowski,2-8,2-5,1-1,3,2,5,2,7,0,4,0,2,33
+03/16/2022,Oakhaven,02,Hollis Redfern,7-8,0-6,1-1,2,6,8,1,15,2,0,0,1,24
+03/16/2022,Oakhaven,32,Gideon Abara,4-4,4-4,2-3,2,2,4,0,14,2,3,0,1,20
+03/16/2022,Oakhaven,15,Oisin Ulmer,12-12,0-3,2-5,3,1,4,2,26,2,3,2,1,24
+03/16/2022,Oakhaven,14,Nikola Janowski,0-4,0-2,3-4,2,7,9,3,3,1,0,1,1,34
+03/16/2022,Oakhaven,23,Emeka Lomax,3-6,0-4,0-1,1,2,3,2,6,4,0,0,1,22
+03/16/2022,Oakhaven,34,Jarrell Nkemelu,1-1,0-1,0-2,1,2,3,1,2,2,1,1,1,9
+03/16/2022,Oakhaven,40,Amare Ulmer,0-3,0-3,1-3,1,2,3,2,1,3,2,1,1,13
+03/16/2022,Oakhaven,11,Wendell Ulmer,,,,,,,,,,,,,DNP
+03/16/2022,Oakhaven,04,Oisin Tolliver,4-4,3-3,0-2,0,1,1,1,11,1,2,1,0,11
+03/16/2022,Oakhaven,50,Lachlan Ulmer,,,,,,,,,,,,,DNP
+03/16/2022,Oakhaven,10,Tavian Zeller,1-2,0-1,0-1,0,2,2,1,2,0,1,1,0,10
+03/16/2022,Oakhaven,22,Zeke Yeboah,,,,,,,,,,,,,DNP
+03/16/2022,Oakhaven,,TEAM,,,,2,1,3,,,,0,,,
+03/16/2022,Oakhaven,,Totals,34-52,9-32,10-23,17,28,45,15,87,17,16,7,9,200
+11/12/2022,Langmere,00,Zeke Gillick,4-12,4-6,4-4,0,8,8,4,16,2,5,3,2,35
+11/12/2022,Langmere,23,Priit Vantrease,2-7,2-2,1-1,4,4,8,1,7,1,0,1,3,27
+11/12/2022,Langmere,20,Dedrick Gillick,3-8,2-2,0-2,1,2,3,2,8,0,2,1,2,24
+11/12/2022,Langmere,40,Amare Quiroz,5-8,0-5,1-4,1,4,5,1,11,3,1,0,2,21
+11/12/2022,Langmere,52,Oisin Vantrease,12-17,1-3,1-1,5,2,7,4,26,6,0,2,2,40-
+11/12/2022,Langmere,31,Solomon Janowski,4-5,2-2,0-0,1,2,3,1,10,2,1,0,0,11
+11/12/2022,Langmere,25,Rasheed Redfern,,,,,,,,,,,,,DNP
+11/12/2022,Langmere,33,Yannick Ulmer,,,,,,,,,,,,,DNP
+11/12/2022,Langmere,10,Malachi Quiroz,2-5,1-1,1-1,2,2,4,0,6,2,2,1,0,11
+11/12/2022,Langmere,05,Dedrick Doran,9-10,2-2,2-2,2,0,2,2,22,4,3,1,1,21
+11/12/2022,Langmere,45,Lachlan Ostrander,1-5,1-2,1-1,1,1,2,1,4,2,0,0,0,10
+11/12/2022,Langmere,,TEAM,,,,1,1,2,,,,0,,,
+11/12/2022,Langmere,,Totals,42-77,15-25,11-16,18,26,44,16,110,22,14,9,12,200
+11/15/2022,Westmere,00,Zeke Gillick,3-15,3-5,0-1,6,8,14,0,9,9,5,3,4,40-
+11/15/2022,Westmere,23,Priit Vantrease,0-7,0-3,3-3,3,6,9,4,3,4,2,2,3,29
+11/15/2022,Westmere,20,Dedrick Gillick,0-14,0-1,2-3,4,3,7,1,2,2,1,3,2,29
+11/15/2022,Westmere,40,Amare Quiroz,2-10,2-3,2-5,0,3,3,3,8,2,3,1,0,23
+11/15/2022,Westmere,52,Oisin Vantrease,10-11,4-6,7-7,4,5,9,2,31,7,0,2,1,32
+11/15/2022,Westmere,31,Solomon Janowski,1-7,0-1,1-3,0,2,2,2,3,3,0,0,0,17
+11/15/2022,Westmere,25,Rasheed Redfern,,,,,,,,,,,,,DNP
+11/15/2022,Westmere,33,Yannick Ulmer,6-6,0-1,1-1,1,3,4,3,13,3,3,1,1,18
+11/15/2022,Westmere,10,Malachi Quiroz,2-2,0-2,2-2,1,2,3,0,6,0,2,1,1,13
+11/15/2022,Westmere,05,Dedrick Doran,,,,,,,,,,,,,DNP
+11/15/2022,Westmere,45,Lachlan Ostrander,0-0,0-0,0-0,0,0,0,0,-1,0,0,0,0,0+
+11/15/2022,Westmere,24,Emeka Eklund,,,,,,,,,,,,,DNP
+11/15/2022,Westmere,,TEAM,,,,5,4,9,,,,2,,,
+11/15/2022,Westmere,,Totals,24-72,9-22,18-25,24,36,60,15,74,30,18,13,12,200
+11/21/2022,Redhill,00,Zeke Gillick,4-7,1-3,1-2,2,1,3,2,10,3,2,1,1,19
+11/21/2022,Redhill,23,Priit Vantrease,4-4,1-2,3-3,0,4,4,1,12,3,1,2,0,22
+11/21/2022,Redhill,20,Dedrick Gillick,5-5,3-5,2-6,3,5,8,1,15,2,2,3,2,30
+11/21/2022,Redhill,40,Amare Quiroz,4-6,3-3,1-2,0,1,1,2,12,1,1,0,0,15
+11/21/2022,Redhill,52,Oisin Vantrease,20-20,4-5,3-3,4,10,14,5,47,3,5,2,4,40-
+11/21/2022,Redhill,31,Solomon Janowski,3-3,1-1,1-3,2,1,3,2,8,1,3,2,1,18
+11/21/2022,Redhill,25,Rasheed Redfern,2-3,0-0,0-1,0,0,0,1,4,0,1,0,0,7
+11/21/2022,Redhill,33,Yannick Ulmer,0-7,0-2,1-1,1,3,4,0,1,1,2,0,0,15
+11/21/2022,Redhill,10,Malachi Quiroz,3-5,0-3,1-1,1,2,3,2,7,2,1,1,1,10
+11/21/2022,Redhill,05,Dedrick Doran,2-7,1-1,0-0,0,2,2,1,5,0,2,1,1,16
+11/21/2022,Redhill,45,Lachlan Ostrander,1-1,0-1,0-0,1,1,2,0,2,0,0,0,1,9
+11/21/2022,Redhill,,TEAM,,,,2,1,3,,,,3,,,
+11/21/2022,Redhill,,Totals,48-68,14-26,13-22,16,31,47,17,123,16,23,12,11,200
+11/27/2022,Innisfree,00,Zeke Gillick,13-14,1-3,5-5,5,6,11,4,32,1,1,0,2,40-
+11/27/2022,Innisfree,23,Priit Vantrease,4-12,2-3,2-2,1,5,6,0,12,1,4,0,2,26
+11/27/2022,Innisfree,20,Dedrick Gillick,6-6,2-3,4-4,2,3,5,1,18,2,2,2,2,22
+11/27/2022,Innisfree,40,Amare Quiroz,5-9,0-6,0-2,0,4,4,1,10,4,2,1,1,28
+11/27/2022,Innisfree,52,Oisin Vantrease,13-17,1-6,1-7,2,9,11,5,28,6,1,3,2,40-
+11/27/2022,Innisfree,31,Solomon Janowski,1-4,0-1,1-3,1,4,5,1,3,0,1,0,1,16
+11/27/2022,Innisfree,25,Rasheed Redfern,1-3,0-0,0-1,1,0,1,0,2,1,0,0,0,7
+11/27/2022,Innisfree,33,Yannick Ulmer,,,,,,,,,,,,,DNP
+11/27/2022,Innisfree,10,Malachi Quiroz,,,,,,,,,,,,,DNP
+11/27/2022,Innisfree,05,Dedrick Doran,3-4,0-2,1-1,2,1,3,2,7,1,1,0,1,13
+11/27/2022,Innisfree,45,Lachlan Ostrander,0-2,0-2,0-0,0,1,1,0,0,0,1,0,1,9
+11/27/2022,Innisfree,,TEAM,,,,3,2,5,,,,1,,,
+11/27/2022,Innisfree,,Totals,46-71,6-26,14-25,17,35,52,14,112,16,14,6,12,200
+12/05/2022,Fenwick,00,Zeke Gillick,6-7,1-6,1-7,1,1,2,1,14,2,3,1,2,31
+12/05/2022,Fenwick,23,Priit Vantrease,8-8,7-7,1-3,1,6,7,4,24,4,3,0,2,29
+12/05/2022,Fenwick,20,Dedrick Gillick,2-4,1-4,0-4,2,1,3,1,5,0,0,1,2,26
+12/05/2022,Fenwick,40,Amare Quiroz,5-5,1-1,4-4,0,3,3,3,15,2,1,0,2,22
+12/05/2022,Fenwick,52,Oisin Vantrease,0-4,0-1,1-1,3,5,8,2,1,0,3,1,2,28
+12/05/2022,Fenwick,31,Solomon Janowski,1-1,1-1,0-1,1,0,1,2,3,4,1,0,1,16
+12/05/2022,Fenwick,25,Rasheed Redfern,0-1,0-1,0-0,1,1,2,0,0,0,0,1,0,6
+12/05/2022,Fenwick,33,Yannick Ulmer,,,,,,,,,,,,,DNP
+12/05/2022,Fenwick,10,Malachi Quiroz,7-8,1-2,1-2,1,2,3,2,16,2,3,2,1,16
+12/05/2022,Fenwick,05,Dedrick Doran,1-1,1-1,0-1,1,3,4,1,3,4,1,1,0,16
+12/05/2022,Fenwick,45,Lachlan Ostrander,2-2,1-2,0-1,1,3,4,2,5,1,0,1,1,10
+12/05/2022,Fenwick,,TEAM,,,,5,4,9,,,,1,,,
+12/05/2022,Fenwick,,Totals,32-41,14-26,8-24,17,29,46,18,86,19,16,8,13,200
+12/09/2022,Langmere,00,Zeke Gillick,2-3,0-3,4-5,1,3,4,0,8,6,0,1,3,26
+12/09/2022,Langmere,23,Priit Vantrease,0-2,0-2,0-1,2,0,2,1,0,0,2,1,0,15
+12/09/2022,Langmere,20,Dedrick Gillick,0-2,0-1,2-2,1,0,1,2,2,3,0,1,1,19
+12/09/2022,Langmere,40,Amare Quiroz,3-4,3-4,1-1,1,0,1,3,10,3,1,1,0,21
+12/09/2022,Langmere,52,Oisin Vantrease,3-9,2-3,2-2,3,4,7,5,10,6,3,2,1,29
+12/09/2022,Langmere,31,Solomon Janowski,3-5,0-3,0-0,1,3,4,1,6,2,2,1,0,14
+12/09/2022,Langmere,25,Rasheed Redfern,0-1,0-1,0-1,0,1,1,1,0,1,1,1,0,7
+12/09/2022,Langmere,33,Yannick Ulmer,0-9,0-1,0-3,0,2,2,2,0,2,0,0,1,17
+12/09/2022,Langmere,10,Malachi Quiroz,0-3,0-1,2-3,2,3,5,1,2,3,2,1,1,14
+12/09/2022,Langmere,05,Dedrick Doran,3-5,0-0,0-0,1,3,4,1,6,0,2,1,1,14
+12/09/2022,Langmere,45,Lachlan Ostrander,1-2,1-1,1-1,0,2,2,0,4,1,0,0,0,7
+12/09/2022,Langmere,24,Emeka Eklund,0-4,0-1,0-0,1,1,2,0,0,1,1,1,0,10
+12/09/2022,Langmere,21,Vasil Vantrease,3-4,0-0,1-1,1,1,2,1,7,0,1,0,0,9
+12/09/2022,Langmere,,TEAM,,,,4,0,4,,,,0,,,
+12/09/2022,Langmere,,Totals,18-53,6-21,13-20,18,23,41,18,55,28,15,11,8,200
+12/13/2022,Northgate,00,Zeke Gillick,7-19,1-1,0-2,5,6,11,2,15,2,4,2,3,40-
+12/13/2022,Northgate,23,Priit Vantrease,9-13,1-4,2-2,1,0,1,0,21,1,1,2,2,27
+12/13/2022,Northgate,20,Dedrick Gillick,7-11,3-5,0-3,3,2,5,3,17,2,1,1,1,23
+12/13/2022,Northgate,40,Amare Quiroz,4-10,2-3,0-4,1,3,4,1,10,5,2,2,2,22
+12/13/2022,Northgate,52,Oisin Vantrease,1-5,0-0,0-0,3,6,9,4,2,2,3,2,2,27
+12/13/2022,Northgate,31,Solomon Janowski,3-6,1-2,0-3,2,2,4,1,7,4,0,0,0,16
+12/13/2022,Northgate,25,Rasheed Redfern,2-3,2-2,0-2,1,0,1,1,6,1,1,1,0,7
+12/13/2022,Northgate,33,Yannick Ulmer,2-4,2-3,1-2,2,4,6,2,7,1,0,1,1,14
+12/13/2022,Northgate,10,Malachi Quiroz,3-6,0-0,0-2,2,2,4,2,6,3,2,1,1,15
+12/13/2022,Northgate,05,Dedrick Doran,,,,,,,,,,,,,DNP
+12/13/2022,Northgate,45,Lachlan Ostrander,4-4,0-2,0-0,1,0,1,1,8,1,1,0,1,8
+12/13/2022,Northgate,,TEAM,,,,1,3,4,,,,3,,,
+12/13/2022,Northgate,,Totals,42-81,12-22,3-20,22,28,50,17,99,22,18,12,13,200
+12/17/2022,Pentland,00,Zeke Gillick,4-17,4-7,1-1,2,7,9,0,13,2,1,0,2,33
+12/17/2022,Pentland,23,Priit Vantrease,9-11,2-5,1-6,2,4,6,5,21,7,3,1,3,28
+12/17/2022,Pentland,20,Dedrick Gillick,4-17,2-5,3-6,1,4,5,4,13,4,0,1,3,33
+12/17/2022,Pentland,40,Amare Quiroz,6-6,0-2,2-2,1,4,5,1,14,4,1,0,0,15
+12/17/2022,Pentland,52,Oisin Vantrease,6-7,2-7,1-3,2,7,9,3,15,5,1,2,2,25
+12/17/2022,Pentland,31,Solomon Janowski,1-6,0-0,1-2,2,2,4,1,3,0,1,1,1,15
+12/17/2022,Pentland,25,Rasheed Redfern,1-2,1-1,0-0,1,2,3,1,6,2,1,1,0,9
+12/17/2022,Pentland,33,Yannick Ulmer,3-5,2-3,1-2,0,5,5,2,9,1,2,2,1,19
+12/17/2022,Pentland,10,Malachi Quiroz,0-4,0-1,0-1,0,3,3,2,0,1,2,0,0,11
+12/17/2022,Pentland,05,Dedrick Doran,,,,,,,,,,,,,DNP
+12/17/2022,Pentland,45,Lachlan Ostrander,,,,,,,,,,,,,DNP
+12/17/2022,Pentland,24,Emeka Eklund,3-3,2-2,0-2,1,3,4,1,8,3,0,1,0,12
+12/17/2022,Pentland,21,Vasil Vantrease,,,,,,,,,,,,,DNP
+12/17/2022,Pentland,,TEAM,,,,3,3,6,,,,2,,,
+12/17/2022,Pentland,,Totals,37-78,15-33,10-25,15,44,59,20,102,29,14,9,12,200
+12/23/2022,Delaford,00,Zeke Gillick,2-12,0-0,0-1,1,5,6,4,4,4,4,1,1,25
+12/23/2022,Delaford,23,Priit Vantrease,1-3,1-3,4-4,2,4,6,0,7,4,1,1,1,17
+12/23/2022,Delaford,20,Dedrick Gillick,0-6,0-3,1-1,2,3,5,5,1,1,2,1,3,26
+12/23/2022,Delaford,40,Amare Quiroz,2-3,1-1,1-1,2,3,5,2,6,3,2,1,1,15
+12/23/2022,Delaford,52,Oisin Vantrease,5-7,3-4,1-4,0,8,8,5,14,2,4,3,2,31
+12/23/2022,Delaford,31,Solomon Janowski,0-3,0-1,3-4,1,1,2,0,3,2,1,1,1,18
+12/23/2022,Delaford,25,Rasheed Redfern,3-3,0-1,1-1,1,2,3,1,7,1,0,0,0,6
+12/23/2022,Delaford,33,Yannick Ulmer,8-8,1-2,1-3,1,3,4,1,18,3,1,1,1,16
+12/23/2022,Delaford,10,Malachi Quiroz,,,,,,,,,,,,,DNP
+12/23/2022,Delaford,05,Dedrick Doran,1-4,0-0,0-1,2,2,4,1,2,4,1,1,1,18
+12/23/2022,Delaford,45,Lachlan Ostrander,1-3,0-1,0-1,0,1,1,0,2,1,1,0,0,6
+12/23/2022,Delaford,24,Emeka Eklund,3-5,0-2,1-2,1,2,3,1,7,2,2,1,1,13
+12/23/2022,Delaford,21,Vasil Vantrease,1-1,0-1,0-0,0,2,2,0,2,1,0,1,0,10
+12/23/2022,Delaford,,TEAM,,,,1,0,1,,,,2,,,
+12/23/2022,Delaford,,Totals,27-58,6-19,13-23,14,36,50,20,73,28,21,12,12,200
+12/27/2022,Underhill,00,Zeke Gillick,9-15,4-5,2-2,2,6,8,3,24,1,5,2,3,32
+12/27/2022,Underhill,23,Priit Vantrease,2-4,0-0,0-3,2,1,3,4,4,1,1,0,0,24
+12/27/2022,Underhill,20,Dedrick Gillick,10-14,0-0,4-4,0,2,2,3,24,5,0,1,3,32
+12/27/2022,Underhill,40,Amare Quiroz,2-3,2-3,4-4,1,2,3,1,10,1,2,1,0,20
+12/27/2022,Underhill,52,Oisin Vantrease,3-12,1-2,3-7,0,10,10,4,10,8,4,1,1,39
+12/27/2022,Underhill,31,Solomon Janowski,,,,,,,,,,,,,DNP
+12/27/2022,Underhill,25,Rasheed Redfern,1-3,0-1,1-1,0,2,2,1,3,2,1,1,0,8
+12/27/2022,Underhill,33,Yannick Ulmer,1-2,0-2,3-3,1,3,4,0,5,3,0,1,0,16
+12/27/2022,Underhill,10,Malachi Quiroz,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+12/27/2022,Underhill,05,Dedrick Doran,,,,,,,,,,,,,DNP
+12/27/2022,Underhill,45,Lachlan Ostrander,0-2,0-2,0-0,0,2,2,0,0,1,0,1,1,7
+12/27/2022,Underhill,24,Emeka Eklund,0-2,0-2,0-2,1,1,2,1,1,3,1,0,1,14
+12/27/2022,Underhill,21,Vasil Vantrease,0-1,0-1,1-1,1,2,3,1,1,2,2,1,1,10
+12/27/2022,Underhill,,TEAM,,,,3,2,5,,,,1,,,
+12/27/2022,Underhill,,Totals,28-58,7-18,18-27,11,33,44,18,82,27,17,9,10,200
+01/03/2023,Northgate,00,Zeke Gillick,6-10,2-4,3-3,3,5,8,2,17,4,1,1,1,24
+01/03/2023,Northgate,23,Priit Vantrease,4-6,2-3,0-2,3,1,4,1,10,4,1,2,0,21
+01/03/2023,Northgate,20,Dedrick Gillick,0-4,0-4,5-6,3,7,10,5,5,7,1,3,0,34
+01/03/2023,Northgate,40,Amare Quiroz,7-11,3-3,2-2,0,0,0,1,19,2,3,1,2,22
+01/03/2023,Northgate,52,Oisin Vantrease,3-11,1-4,0-0,3,0,3,4,7,1,1,2,1,27
+01/03/2023,Northgate,31,Solomon Janowski,4-9,3-3,0-1,1,5,6,1,11,4,3,1,1,19
+01/03/2023,Northgate,25,Rasheed Redfern,3-3,0-0,1-1,1,0,1,1,7,0,0,0,0,8
+01/03/2023,Northgate,33,Yannick Ulmer,1-2,0-0,1-1,2,3,5,0,3,3,2,0,0,17
+01/03/2023,Northgate,10,Malachi Quiroz,0-4,0-2,0-0,1,0,1,1,0,3,2,0,0,14
+01/03/2023,Northgate,05,Dedrick Doran,4-6,0-2,0-3,1,1,2,2,8,0,2,1,1,15
+01/03/2023,Northgate,45,Lachlan Ostrander,,,,,,,,,,,,,DNP
+01/03/2023,Northgate,,TEAM,,,,3,3,6,,,,2,,,
+01/03/2023,Northgate,,Totals,32-66,11-25,12-19,21,25,46,18,87,28,18,11,6,200
+01/08/2023,Harlowe,00,Zeke Gillick,1-10,0-1,1-1,2,6,8,0,3,4,3,2,1,23
+01/08/2023,Harlowe,23,Priit Vantrease,2-10,2-3,3-3,1,3,4,3,9,3,1,2,2,22
+01/08/2023,Harlowe,20,Dedrick Gillick,2-5,1-5,4-5,2,5,7,1,9,4,0,2,2,26
+01/08/2023,Harlowe,40,Amare Quiroz,3-5,0-1,0-3,1,5,6,1,6,5,3,1,0,19
+01/08/2023,Harlowe,52,Oisin Vantrease,7-7,0-1,3-5,4,2,6,0,17,2,1,1,2,27
+01/08/2023,Harlowe,31,Solomon Janowski,3-5,0-2,1-1,1,4,5,0,7,2,0,0,1,16
+01/08/2023,Harlowe,25,Rasheed Redfern,1-1,0-1,0-1,0,1,1,1,2,1,0,0,0,9
+01/08/2023,Harlowe,33,Yannick Ulmer,1-5,1-4,0-3,1,3,4,1,3,4,1,1,1,17
+01/08/2023,Harlowe,10,Malachi Quiroz,2-4,0-2,1-2,1,2,3,1,5,1,0,1,0,11
+01/08/2023,Harlowe,05,Dedrick Doran,3-5,3-5,1-2,2,4,6,0,10,1,3,0,1,19
+01/08/2023,Harlowe,45,Lachlan Ostrander,,,,,,,,,,,,,DNP
+01/08/2023,Harlowe,24,Emeka Eklund,5-6,0-1,1-2,0,2,2,2,11,3,0,1,1,12
+01/08/2023,Harlowe,21,Vasil Vantrease,,,,,,,,,,,,,DNP
+01/08/2023,Harlowe,,TEAM,,,,1,2,3,,,,2,,,
+01/08/2023,Harlowe,,Totals,30-63,7-26,15-28,16,39,55,10,82,30,14,11,11,200
+01/14/2023,Eastvale,00,Zeke Gillick,3-13,1-8,4-6,1,10,11,4,11,3,6,1,3,37
+01/14/2023,Eastvale,23,Priit Vantrease,5-6,0-1,0-3,3,4,7,4,10,2,1,2,2,25
+01/14/2023,Eastvale,20,Dedrick Gillick,8-9,0-1,1-6,3,4,7,3,17,0,2,1,0,28
+01/14/2023,Eastvale,40,Amare Quiroz,5-5,3-4,1-1,0,3,3,2,14,1,1,1,0,17
+01/14/2023,Eastvale,52,Oisin Vantrease,6-7,1-2,3-3,3,0,3,3,16,2,3,1,1,22
+01/14/2023,Eastvale,31,Solomon Janowski,0-1,0-1,0-1,1,1,2,1,0,2,2,0,1,13
+01/14/2023,Eastvale,25,Rasheed Redfern,2-3,0-0,0-0,0,0,0,1,4,3,0,0,1,10
+01/14/2023,Eastvale,33,Yannick Ulmer,0-7,0-1,4-4,3,5,8,1,4,1,2,1,1,19
+01/14/2023,Eastvale,10,Malachi Quiroz,,,,,,,,,,,,,DNP
+01/14/2023,Eastvale,05,Dedrick Doran,0-8,0-1,0-1,2,2,4,0,0,1,2,1,1,19
+01/14/2023,Eastvale,45,Lachlan Ostrander,0-2,0-1,2-2,1,1,2,1,2,0,1,0,0,8
+01/14/2023,Eastvale,,TEAM,,,,5,2,7,,,,1,,,
+01/14/2023,Eastvale,,Totals,29-61,5-20,15-27,22,32,54,20,78,15,21,8,10,200
+01/17/2023,Harlowe,00,Zeke Gillick,5-7,0-3,0-3,1,3,4,4,10,1,0,0,1,25
+01/17/2023,Harlowe,23,Priit Vantrease,2-7,2-2,1-2,2,5,7,2,7,5,2,0,2,24
+01/17/2023,Harlowe,20,Dedrick Gillick,4-7,0-0,2-2,2,5,7,2,10,5,3,2,1,20
+01/17/2023,Harlowe,40,Amare Quiroz,4-5,2-2,3-4,2,6,8,3,13,6,4,2,1,26
+01/17/2023,Harlowe,52,Oisin Vantrease,5-9,0-0,0-4,2,8,10,4,10,6,5,2,0,29
+01/17/2023,Harlowe,31,Solomon Janowski,2-5,0-1,1-1,0,2,2,1,5,1,1,1,1,13
+01/17/2023,Harlowe,25,Rasheed Redfern,2-5,2-2,1-2,0,1,1,2,7,0,1,1,0,10
+01/17/2023,Harlowe,33,Yannick Ulmer,1-5,1-1,1-1,1,0,1,2,4,2,2,1,1,12
+01/17/2023,Harlowe,10,Malachi Quiroz,1-6,0-1,0-3,2,4,6,1,2,4,0,1,0,17
+01/17/2023,Harlowe,05,Dedrick Doran,3-5,1-2,1-2,1,4,5,0,8,2,2,0,1,15
+01/17/2023,Harlowe,45,Lachlan Ostrander,,,,,,,,,,,,,DNP
+01/17/2023,Harlowe,24,Emeka Eklund,,,,,,,,,,,,,DNP
+01/17/2023,Harlowe,21,Vasil Vantrease,0-1,0-1,0-2,1,1,2,0,0,2,1,0,0,9
+01/17/2023,Harlowe,,TEAM,,,,4,0,4,,,,1,,,
+01/17/2023,Harlowe,,Totals,29-62,8-15,10-26,18,39,57,21,76,34,22,10,8,200
+01/22/2023,Underhill,00,Zeke Gillick,7-13,7-8,0-1,4,4,8,5,21,7,0,3,3,31
+01/22/2023,Underhill,23,Priit Vantrease,2-3,2-3,0-3,1,7,8,4,6,6,3,3,2,31
+01/22/2023,Underhill,20,Dedrick Gillick,5-7,0-2,1-6,0,2,2,4,11,2,4,2,2,28
+01/22/2023,Underhill,40,Amare Quiroz,1-10,1-7,2-3,3,8,11,3,5,3,1,1,3,33
+01/22/2023,Underhill,52,Oisin Vantrease,2-4,2-4,4-7,2,8,10,1,10,4,2,1,0,33
+01/22/2023,Underhill,31,Solomon Janowski,5-10,0-2,5-5,3,5,8,2,15,2,1,1,1,25
+01/22/2023,Underhill,25,Rasheed Redfern,2-2,1-1,0-2,0,1,1,1,5,0,0,0,0,11
+01/22/2023,Underhill,33,Yannick Ulmer,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0
+01/22/2023,Underhill,10,Malachi Quiroz,,,,,,,,,,,,,DNP
+01/22/2023,Underhill,05,Dedrick Doran,,,,,,,,,,,,,DNP
+01/22/2023,Underhill,45,Lachlan Ostrander,0-2,0-2,1-1,1,1,2,0,1,2,0,0,0,9
+01/22/2023,Underhill,24,Emeka Eklund,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+01/22/2023,Underhill,,TEAM,,,,4,4,8,,,,2,,,
+01/22/2023,Underhill,,Totals,24-51,13-29,13-28,18,40,58,20,74,26,13,11,11,200
+01/24/2023,Fenwick,00,Zeke Gillick,2-19,0-2,2-2,5,2,7,0,6,9,7,2,1,40-
+01/24/2023,Fenwick,23,Priit Vantrease,5-12,1-2,1-4,1,1,2,1,12,5,1,3,1,27
+01/24/2023,Fenwick,20,Dedrick Gillick,2-3,2-3,0-2,0,2,2,0,6,4,3,1,1,18
+01/24/2023,Fenwick,40,Amare Quiroz,8-9,0-1,0-3,1,4,5,0,16,4,3,1,2,20
+01/24/2023,Fenwick,52,Oisin Vantrease,2-5,1-4,0-2,1,3,4,4,5,3,2,1,0,22
+01/24/2023,Fenwick,31,Solomon Janowski,1-1,0-0,0-2,2,3,5,1,2,1,0,0,1,13
+01/24/2023,Fenwick,25,Rasheed Redfern,0-2,0-1,0-1,0,0,0,1,0,1,0,0,1,7
+01/24/2023,Fenwick,33,Yannick Ulmer,3-3,0-3,0-2,2,2,4,1,6,2,3,1,1,19
+01/24/2023,Fenwick,10,Malachi Quiroz,0-4,0-1,3-3,0,2,2,2,3,0,2,0,1,14
+01/24/2023,Fenwick,05,Dedrick Doran,4-5,0-1,0-1,1,2,3,2,8,0,1,1,1,13
+01/24/2023,Fenwick,45,Lachlan Ostrander,1-2,1-2,0-1,1,2,3,1,3,0,1,0,1,8
+01/24/2023,Fenwick,,TEAM,,,,5,1,6,,,,1,,,
+01/24/2023,Fenwick,,Totals,28-65,5-20,6-23,19,24,43,13,67,29,24,10,11,200
+02/01/2023,Innisfree,00,Zeke Gillick,5-13,0-7,0-1,3,7,10,3,10,5,4,1,1,29
+02/01/2023,Innisfree,23,Priit Vantrease,0-5,0-5,1-1,0,1,1,2,1,3,3,0,2,27
+02/01/2023,Innisfree,20,Dedrick Gillick,0-4,0-1,1-2,3,1,4,3,1,4,2,0,2,22
+02/01/2023,Innisfree,40,Amare Quiroz,2-3,0-3,1-1,0,4,4,2,4,3,3,0,0,18
+02/01/2023,Innisfree,52,Oisin Vantrease,7-7,2-6,0-0,4,8,12,0,16,5,5,1,3,34
+02/01/2023,Innisfree,31,Solomon Janowski,7-10,2-2,2-3,1,5,6,2,18,5,3,1,2,19
+02/01/2023,Innisfree,25,Rasheed Redfern,1-3,0-1,1-1,1,1,2,0,3,2,1,1,0,7
+02/01/2023,Innisfree,33,Yannick Ulmer,2-3,0-3,0-2,1,2,3,1,4,3,0,0,0,12
+02/01/2023,Innisfree,10,Malachi Quiroz,2-3,1-3,0-1,1,0,1,1,5,0,2,0,1,12
+02/01/2023,Innisfree,05,Dedrick Doran,1-2,0-2,2-5,1,1,2,3,4,3,3,1,2,20
+02/01/2023,Innisfree,45,Lachlan Ostrander,,,,,,,,,,,,,DNP
+02/01/2023,Innisfree,24,Emeka Eklund,,,,,,,,,,,,,DNP
+02/01/2023,Innisfree,,TEAM,,,,3,4,7,,,,1,,,
+02/01/2023,Innisfree,,Totals,27-53,5-33,8-17,18,34,52,17,66,33,27,5,13,200
+02/03/2023,Alderman,00,Zeke Gillick,11-11,5-8,1-4,3,6,9,4,28,1,4,1,1,31
+02/03/2023,Alderman,23,Priit Vantrease,0-4,0-4,2-3,1,2,3,3,2,3,1,2,2,23
+02/03/2023,Alderman,20,Dedrick Gillick,15-15,3-3,6-6,2,7,9,0,39,3,0,3,1,30
+02/03/2023,Alderman,40,Amare Quiroz,3-5,1-3,2-4,1,4,5,0,9,3,3,1,2,22
+02/03/2023,Alderman,52,Oisin Vantrease,0-4,0-4,2-7,3,2,5,1,2,6,1,2,2,36
+02/03/2023,Alderman,31,Solomon Janowski,0-3,0-1,2-2,3,1,4,2,2,4,1,1,1,23
+02/03/2023,Alderman,25,Rasheed Redfern,,,,,,,,,,,,,DNP
+02/03/2023,Alderman,33,Yannick Ulmer,,,,,,,,,,,,,DNP
+02/03/2023,Alderman,10,Malachi Quiroz,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+02/03/2023,Alderman,05,Dedrick Doran,5-6,1-4,3-4,3,1,4,1,14,2,4,1,1,25
+02/03/2023,Alderman,45,Lachlan Ostrander,1-4,0-1,0-1,0,2,2,1,2,2,2,1,0,9
+02/03/2023,Alderman,24,Emeka Eklund,,,,,,,,,,,,,DNP
+02/03/2023,Alderman,,TEAM,,,,0,4,4,,,,0,,,
+02/03/2023,Alderman,,Totals,35-52,10-28,18-31,16,29,45,12,98,24,16,12,10,200
+02/05/2023,Westmere,00,Zeke Gillick,12-16,0-1,0-4,4,6,10,3,24,8,2,2,0,33
+02/05/2023,Westmere,23,Priit Vantrease,2-2,2-2,0-2,2,0,2,2,6,3,2,1,1,16
+02/05/2023,Westmere,20,Dedrick Gillick,0-5,0-5,0-3,2,3,5,2,0,4,3,2,1,21
+02/05/2023,Westmere,40,Amare Quiroz,9-20,4-11,1-1,5,8,13,3,23,2,6,3,2,40-
+02/05/2023,Westmere,52,Oisin Vantrease,9-14,4-4,0-2,3,5,8,1,22,3,5,0,3,33
+02/05/2023,Westmere,31,Solomon Janowski,0-2,0-1,1-1,1,2,3,3,1,3,1,1,1,18
+02/05/2023,Westmere,25,Rasheed Redfern,,,,,,,,,,,,,DNP
+02/05/2023,Westmere,33,Yannick Ulmer,1-8,1-4,0-3,2,3,5,1,3,5,3,2,1,19
+02/05/2023,Westmere,10,Malachi Quiroz,,,,,,,,,,,,,DNP
+02/05/2023,Westmere,05,Dedrick Doran,1-7,1-1,2-2,0,3,3,2,5,1,1,1,0,15
+02/05/2023,Westmere,45,Lachlan Ostrander,3-3,0-0,0-1,1,1,2,1,6,0,0,0,0,7
+02/05/2023,Westmere,,TEAM,,,,1,1,2,,,,2,,,
+02/05/2023,Westmere,,Totals,37-77,12-29,4-19,21,32,53,18,90,29,25,12,9,200
+02/11/2023,Thornbury,00,Zeke Gillick,10-11,1-1,0-1,3,2,5,3,21,5,2,3,1,25
+02/11/2023,Thornbury,23,Priit Vantrease,1-13,1-1,0-5,1,3,4,4,3,1,4,2,2,26
+02/11/2023,Thornbury,20,Dedrick Gillick,1-3,0-3,3-3,2,1,3,3,5,0,2,2,1,26
+02/11/2023,Thornbury,40,Amare Quiroz,7-7,1-3,0-5,2,3,5,1,15,2,4,2,1,23
+02/11/2023,Thornbury,52,Oisin Vantrease,5-5,2-4,0-2,1,4,5,3,12,3,3,0,0,33
+02/11/2023,Thornbury,31,Solomon Janowski,,,,,,,,,,,,,DNP
+02/11/2023,Thornbury,25,Rasheed Redfern,2-3,0-1,1-2,1,1,2,1,5,1,0,1,1,12
+02/11/2023,Thornbury,33,Yannick Ulmer,,,,,,,,,,,,,DNP
+02/11/2023,Thornbury,10,Malachi Quiroz,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+02/11/2023,Thornbury,05,Dedrick Doran,0-3,0-3,0-0,3,2,5,3,0,4,2,1,0,24
+02/11/2023,Thornbury,45,Lachlan Ostrander,3-3,1-3,0-0,1,2,3,1,7,2,0,1,0,10
+02/11/2023,Thornbury,24,Emeka Eklund,8-8,4-4,2-4,2,3,5,2,22,1,3,0,2,20
+02/11/2023,Thornbury,,TEAM,,,,2,1,3,,,,0,,,
+02/11/2023,Thornbury,,Totals,37-56,10-23,6-22,18,22,40,21,90,19,20,12,8,200
+02/17/2023,Underhill,00,Zeke Gillick,4-8,4-5,1-1,2,1,3,2,13,1,0,1,1,20
+02/17/2023,Underhill,23,Priit Vantrease,1-10,1-3,0-3,2,5,7,0,3,2,0,1,0,19
+02/17/2023,Underhill,20,Dedrick Gillick,9-10,4-7,2-5,3,1,4,1,24,1,3,1,0,25
+02/17/2023,Underhill,40,Amare Quiroz,15-19,4-9,4-7,3,1,4,4,38,1,6,2,1,40-
+02/17/2023,Underhill,52,Oisin Vantrease,2-5,2-3,1-1,1,4,5,3,7,4,2,0,1,19
+02/17/2023,Underhill,31,Solomon Janowski,4-5,1-1,2-2,2,3,5,2,11,2,1,1,1,14
+02/17/2023,Underhill,25,Rasheed Redfern,1-2,0-1,1-1,0,1,1,0,3,1,1,0,0,5
+02/17/2023,Underhill,33,Yannick Ulmer,4-4,0-3,2-2,0,2,2,1,10,2,1,1,1,13
+02/17/2023,Underhill,10,Malachi Quiroz,0-5,0-1,1-2,1,1,2,1,1,1,0,0,1,14
+02/17/2023,Underhill,05,Dedrick Doran,4-6,0-1,1-1,2,1,3,2,9,1,0,1,0,13
+02/17/2023,Underhill,45,Lachlan Ostrander,2-2,2-2,1-1,1,1,2,0,7,0,0,0,0,6
+02/17/2023,Underhill,24,Emeka Eklund,1-2,1-2,2-2,1,1,2,2,5,1,1,0,0,11
+02/17/2023,Underhill,,TEAM,,,,5,4,9,,,,1,,,
+02/17/2023,Underhill,,Totals,47-78,19-38,18-28,23,26,49,18,131,17,16,8,6,200
+02/22/2023,Oakhaven,00,Zeke Gillick,7-7,0-7,0-0,4,1,5,5,14,1,0,0,0,40-
+02/22/2023,Oakhaven,23,Priit Vantrease,0-6,0-2,1-1,3,5,8,3,1,3,2,1,1,21
+02/22/2023,Oakhaven,20,Dedrick Gillick,10-10,3-4,0-1,2,5,7,0,23,0,2,1,2,19
+02/22/2023,Oakhaven,40,Amare Quiroz,4-8,1-2,1-2,2,2,4,1,10,4,2,1,1,16
+02/22/2023,Oakhaven,52,Oisin Vantrease,11-12,5-6,5-6,2,4,6,2,32,7,1,0,2,29
+02/22/2023,Oakhaven,31,Solomon Janowski,0-3,0-1,0-2,0,1,1,1,0,3,2,1,1,11
+02/22/2023,Oakhaven,25,Rasheed Redfern,5-5,2-3,0-1,0,2,2,2,12,1,2,0,1,11
+02/22/2023,Oakhaven,33,Yannick Ulmer,4-9,0-0,1-4,0,4,4,3,9,0,2,2,0,18
+02/22/2023,Oakhaven,10,Malachi Quiroz,,,,,,,,,,,,,DNP
+02/22/2023,Oakhaven,05,Dedrick Doran,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+02/22/2023,Oakhaven,45,Lachlan Ostrander,0-1,0-1,0-1,0,2,2,1,0,1,0,0,0,6
+02/22/2023,Oakhaven,24,Emeka Eklund,6-7,4-5,0-2,1,3,4,2,16,1,2,0,1,18
+02/22/2023,Oakhaven,21,Vasil Vantrease,2-3,0-1,0-2,1,3,4,0,4,2,0,0,0,11
+02/22/2023,Oakhaven,,TEAM,,,,5,0,5,,,,2,,,
+02/22/2023,Oakhaven,,Totals,49-71,15-32,8-22,20,32,52,20,121,23,17,6,9,200
+02/28/2023,Thornbury,00,Zeke Gillick,0-3,0-2,2-5,4,6,10,5,2,10,7,1,3,40-
+02/28/2023,Thornbury,23,Priit Vantrease,0-8,0-1,0-3,1,2,3,0,0,1,2,1,2,19
+02/28/2023,Thornbury,20,Dedrick Gillick,2-4,0-3,0-6,1,5,6,3,4,6,3,0,0,28
+02/28/2023,Thornbury,40,Amare Quiroz,0-8,0-0,3-3,0,1,1,0,3,4,1,2,0,19
+02/28/2023,Thornbury,52,Oisin Vantrease,1-2,1-1,0-0,3,3,6,3,3,1,3,2,2,22
+02/28/2023,Thornbury,31,Solomon Janowski,3-5,0-0,3-3,0,1,1,2,9,3,0,1,0,12
+02/28/2023,Thornbury,25,Rasheed Redfern,,,,,,,,,,,,,DNP
+02/28/2023,Thornbury,33,Yannick Ulmer,1-7,0-0,0-0,1,4,5,3,2,3,4,1,1,21
+02/28/2023,Thornbury,10,Malachi Quiroz,4-6,0-3,0-2,0,0,0,0,8,0,2,1,1,15
+02/28/2023,Thornbury,05,Dedrick Doran,0-2,0-1,0-3,1,1,2,3,0,2,2,1,1,16
+02/28/2023,Thornbury,45,Lachlan Ostrander,0-3,0-1,0-0,1,1,2,0,0,2,0,1,0,8
+02/28/2023,Thornbury,,TEAM,,,,2,4,6,,,,3,,,
+02/28/2023,Thornbury,,Totals,11-48,1-12,8-25,14,28,42,19,31,32,27,11,10,200
+03/02/2023,Innisfree,00,Zeke Gillick,1-3,0-1,3-5,1,3,4,2,5,6,4,1,1,26
+03/02/2023,Innisfree,23,Priit Vantrease,2-2,0-0,0-1,1,1,2,3,4,1,2,1,1,18
+03/02/2023,Innisfree,20,Dedrick Gillick,6-9,0-0,0-1,1,0,1,1,12,3,0,2,2,23
+03/02/2023,Innisfree,40,Amare Quiroz,4-5,1-3,0-1,0,4,4,1,9,1,0,1,0,17
+03/02/2023,Innisfree,52,Oisin Vantrease,2-13,0-0,2-6,3,3,6,4,6,4,2,0,0,31
+03/02/2023,Innisfree,31,Solomon Janowski,1-3,0-0,1-2,2,0,2,1,3,1,0,1,0,11
+03/02/2023,Innisfree,25,Rasheed Redfern,1-2,1-2,0-1,2,2,4,0,3,0,1,1,0,10
+03/02/2023,Innisfree,33,Yannick Ulmer,1-6,0-2,2-2,2,2,4,2,4,2,1,0,1,14
+03/02/2023,Innisfree,10,Malachi Quiroz,5-8,0-0,2-2,2,0,2,3,12,4,1,1,2,17
+03/02/2023,Innisfree,05,Dedrick Doran,0-2,0-2,0-1,1,2,3,2,0,3,0,1,0,14
+03/02/2023,Innisfree,45,Lachlan Ostrander,1-1,0-1,1-1,1,1,2,0,3,0,1,1,0,7
+03/02/2023,Innisfree,24,Emeka Eklund,2-3,0-3,1-2,1,2,3,1,5,0,1,1,1,12
+03/02/2023,Innisfree,,TEAM,,,,5,0,5,,,,3,,,
+03/02/2023,Innisfree,,Totals,26-57,2-14,12-25,22,20,42,20,66,25,16,11,8,200
+03/08/2023,Langmere,00,Zeke Gillick,3-11,2-2,4-5,0,1,1,5,12,7,1,1,1,33
+03/08/2023,Langmere,23,Priit Vantrease,1-7,0-0,0-1,3,2,5,4,2,1,2,1,1,23
+03/08/2023,Langmere,20,Dedrick Gillick,3-5,0-5,0-1,1,5,6,1,6,6,4,2,1,25
+03/08/2023,Langmere,40,Amare Quiroz,1-7,1-1,1-1,1,2,3,1,4,2,1,1,1,17
+03/08/2023,Langmere,52,Oisin Vantrease,4-15,4-6,1-5,2,1,3,3,13,5,3,2,2,31
+03/08/2023,Langmere,31,Solomon Janowski,,,,,,,,,,,,,DNP
+03/08/2023,Langmere,25,Rasheed Redfern,2-3,1-1,0-0,0,1,1,1,5,2,0,1,0,7
+03/08/2023,Langmere,33,Yannick Ulmer,,,,,,,,,,,,,DNP
+03/08/2023,Langmere,10,Malachi Quiroz,1-7,1-2,0-0,2,1,3,1,3,3,1,1,0,16
+03/08/2023,Langmere,05,Dedrick Doran,2-2,1-1,3-3,3,2,5,2,8,1,1,1,1,19
+03/08/2023,Langmere,45,Lachlan Ostrander,,,,,,,,,,,,,DNP
+03/08/2023,Langmere,24,Emeka Eklund,6-7,2-2,2-2,2,3,5,2,16,1,1,1,0,17
+03/08/2023,Langmere,21,Vasil Vantrease,1-3,0-1,1-3,1,3,4,2,3,2,1,1,1,12
+03/08/2023,Langmere,,TEAM,,,,5,3,8,,,,1,,,
+03/08/2023,Langmere,,Totals,24-67,12-21,12-21,20,24,44,22,72,30,16,12,8,200
+03/12/2023,Carrowmore,00,Zeke Gillick,6-8,1-1,1-6,0,4,4,1,14,7,5,1,1,33
+03/12/2023,Carrowmore,23,Priit Vantrease,3-5,0-0,1-1,1,4,5,0,7,3,2,1,2,19
+03/12/2023,Carrowmore,20,Dedrick Gillick,10-15,1-7,5-7,5,6,11,2,26,7,5,2,1,40-
+03/12/2023,Carrowmore,40,Amare Quiroz,4-11,4-6,2-4,1,4,5,2,14,5,3,0,2,22
+03/12/2023,Carrowmore,52,Oisin Vantrease,2-14,2-5,1-5,0,3,3,1,7,6,0,1,2,29
+03/12/2023,Carrowmore,31,Solomon Janowski,,,,,,,,,,,,,DNP
+03/12/2023,Carrowmore,25,Rasheed Redfern,1-2,1-1,1-1,0,1,1,1,4,2,0,1,0,8
+03/12/2023,Carrowmore,33,Yannick Ulmer,1-2,0-1,0-0,1,1,2,2,2,2,0,1,1,12
+03/12/2023,Carrowmore,10,Malachi Quiroz,,,,,,,,,,,,,DNP
+03/12/2023,Carrowmore,05,Dedrick Doran,2-4,0-3,0-0,0,4,4,2,4,1,2,0,0,14
+03/12/2023,Carrowmore,45,Lachlan Ostrander,0-1,0-1,1-1,0,2,2,1,1,1,0,0,0,7
+03/12/2023,Carrowmore,24,Emeka Eklund,2-5,0-4,2-2,2,3,5,3,6,2,2,1,1,17
+03/12/2023,Carrowmore,,TEAM,,,,3,0,3,,,,1,,,
+03/12/2023,Carrowmore,,Totals,31-67,9-29,14-27,13,32,45,15,85,36,20,8,10,200
+03/18/2023,Langmere,00,Zeke Gillick,15-19,1-5,1-5,1,11,12,3,32,1,4,3,4,40-
+03/18/2023,Langmere,23,Priit Vantrease,6-8,0-3,0-1,2,3,5,2,12,5,3,2,0,21
+03/18/2023,Langmere,20,Dedrick Gillick,1-2,1-2,2-3,2,2,4,2,5,0,0,1,0,21
+03/18/2023,Langmere,40,Amare Quiroz,2-2,0-2,0-3,1,2,3,2,4,4,1,2,2,20
+03/18/2023,Langmere,52,Oisin Vantrease,3-3,3-3,1-4,1,4,5,4,10,6,1,1,0,29
+03/18/2023,Langmere,31,Solomon Janowski,6-7,0-0,3-3,1,3,4,2,15,3,1,0,0,15
+03/18/2023,Langmere,25,Rasheed Redfern,2-3,0-1,1-1,1,0,1,1,5,1,1,0,1,8
+03/18/2023,Langmere,33,Yannick Ulmer,2-5,0-2,3-3,1,1,2,1,7,3,2,0,1,14
+03/18/2023,Langmere,10,Malachi Quiroz,1-3,1-1,0-1,0,2,2,2,3,2,1,1,1,12
+03/18/2023,Langmere,05,Dedrick Doran,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0+
+03/18/2023,Langmere,45,Lachlan Ostrander,,,,,,,,,,,,,DNP
+03/18/2023,Langmere,24,Emeka Eklund,8-9,2-2,1-1,3,3,6,3,19,5,1,0,0,21
+03/18/2023,Langmere,,TEAM,,,,3,1,4,,,,2,,,
+03/18/2023,Langmere,,Totals,46-61,8-21,12-25,16,32,48,22,112,30,17,10,9,200
+03/22/2023,Langmere,00,Zeke Gillick,6-14,2-2,0-1,1,3,4,4,14,2,2,1,3,34
+03/22/2023,Langmere,23,Priit Vantrease,0-4,0-4,1-1,1,7,8,0,1,3,0,3,1,28
+03/22/2023,Langmere,20,Dedrick Gillick,0-3,0-0,2-2,1,7,8,2,2,3,1,0,2,26
+03/22/2023,Langmere,40,Amare Quiroz,3-12,1-5,0-2,2,3,5,3,7,4,3,1,2,25
+03/22/2023,Langmere,52,Oisin Vantrease,1-11,1-6,3-3,1,5,6,2,6,6,2,1,2,24
+03/22/2023,Langmere,31,Solomon Janowski,3-4,3-3,0-1,1,1,2,1,9,2,2,1,0,14
+03/22/2023,Langmere,25,Rasheed Redfern,,,,,,,,,,,,,DNP
+03/22/2023,Langmere,33,Yannick Ulmer,2-8,1-1,0-0,2,1,3,3,5,2,1,1,2,19
+03/22/2023,Langmere,10,Malachi Quiroz,1-3,0-3,0-2,0,2,2,0,2,1,0,0,0,10
+03/22/2023,Langmere,05,Dedrick Doran,,,,,,,,,,,,,DNP
+03/22/2023,Langmere,45,Lachlan Ostrander,0-2,0-1,1-1,0,1,1,0,1,1,1,0,0,6
+03/22/2023,Langmere,24,Emeka Eklund,1-5,0-3,0-0,0,3,3,0,2,3,1,1,1,15
+03/22/2023,Langmere,,TEAM,,,,2,1,3,,,,1,,,
+03/22/2023,Langmere,,Totals,17-66,8-28,7-13,11,34,45,15,49,27,14,9,13,200
+03/24/2023,Redhill,00,Zeke Gillick,1-6,1-3,6-7,1,4,5,4,9,8,3,2,1,35
+03/24/2023,Redhill,23,Priit Vantrease,2-4,2-4,3-4,4,6,10,2,9,4,2,3,1,31
+03/24/2023,Redhill,20,Dedrick Gillick,4-4,1-1,4-5,0,5,5,2,13,4,3,1,1,21
+03/24/2023,Redhill,40,Amare Quiroz,1-6,1-4,1-1,1,4,5,1,4,1,2,1,0,16
+03/24/2023,Redhill,52,Oisin Vantrease,3-4,0-4,3-5,2,8,10,3,9,1,4,3,4,37
+03/24/2023,Redhill,31,Solomon Janowski,0-5,0-0,1-2,2,1,3,3,1,4,2,1,0,16
+03/24/2023,Redhill,25,Rasheed Redfern,,,,,,,,,,,,,DNP
+03/24/2023,Redhill,33,Yannick Ulmer,1-4,1-1,1-1,1,4,5,0,4,2,0,0,1,14
+03/24/2023,Redhill,10,Malachi Quiroz,,,,,,,,,,,,,DNP
+03/24/2023,Redhill,05,Dedrick Doran,6-7,1-2,1-1,1,1,2,1,14,1,1,0,0,14
+03/24/2023,Redhill,45,Lachlan Ostrander,1-1,0-0,0-1,0,1,1,0,2,2,1,1,0,7
+03/24/2023,Redhill,24,Emeka Eklund,,,,,,,,,,,,,DNP
+03/24/2023,Redhill,21,Vasil Vantrease,2-4,0-0,1-2,1,0,1,1,5,2,1,1,1,10
+03/24/2023,Redhill,,TEAM,,,,1,4,5,,,,1,,,
+03/24/2023,Redhill,,Totals,21-45,7-19,21-29,14,38,52,17,70,29,20,13,9,200
+11/10/2023,Westmere,11,Wendell Nkemelu,8-9,2-2,2-2,2,10,12,4,20,5,1,3,1,39:40
+11/10/2023,Westmere,23,Ugo Kealoha,9-9,3-5,2-2,1,3,4,3,23,5,3,0,1,22:53
+11/10/2023,Westmere,21,Yannick Janowski,11-17,8-8,0-0,2,1,3,1,30,1,5,1,1,32:28
+11/10/2023,Westmere,20,Priit Lomax,3-12,3-7,0-3,1,3,4,4,9,4,4,1,2,28:14
+11/10/2023,Westmere,24,Kwame Stanhope,1-8,1-4,2-2,1,1,2,3,5,2,0,0,1,19:42
+11/10/2023,Westmere,14,Xavier Caverly,4-5,0-1,0-2,1,1,2,1,8,1,2,0,1,12:26
+11/10/2023,Westmere,13,Emeka Stanhope,4-5,1-2,0-0,1,0,1,1,9,1,1,0,0,10:19
+11/10/2023,Westmere,52,Finn Kealoha,1-1,0-1,0-0,1,1,2,0,2,0,1,0,0,4:44
+11/10/2023,Westmere,40,Wendell Whitlock,2-5,2-3,0-1,1,3,4,0,6,1,2,0,1,15:52
+11/10/2023,Westmere,35,Dedrick Abara,0-1,0-1,0-0,0,1,1,1,0,0,1,0,0,5:56
+11/10/2023,Westmere,01,Tavian Caverly,3-3,0-1,0-1,1,1,2,1,6,0,1,1,0,7:46
+11/10/2023,Westmere,,TEAM,,,,0,3,3,,,,3,,,
+11/10/2023,Westmere,,Totals,46-75,20-35,6-13,12,28,40,19,118,20,24,6,8,200
+11/12/2023,Alderman,11,Wendell Nkemelu,4-9,1-2,2-2,1,4,5,3,11,5,2,1,2,23:54
+11/12/2023,Alderman,23,Ugo Kealoha,3-5,3-5,0-0,0,9,9,2,9,9,0,3,0,39:43
+11/12/2023,Alderman,21,Yannick Janowski,7-10,0-2,2-4,4,9,13,4,16,3,1,2,3,34:11
+11/12/2023,Alderman,20,Priit Lomax,4-8,2-3,1-2,1,7,8,3,11,0,3,2,1,32:09
+11/12/2023,Alderman,24,Kwame Stanhope,0-9,0-1,3-3,1,0,1,2,3,7,4,1,1,28:35
+11/12/2023,Alderman,14,Xavier Caverly,,,,,,,,,,,,,DNP
+11/12/2023,Alderman,13,Emeka Stanhope,,,,,,,,,,,,,DNP
+11/12/2023,Alderman,52,Finn Kealoha,0-2,0-0,1-1,0,1,1,0,1,1,1,0,0,5:54
+11/12/2023,Alderman,40,Wendell Whitlock,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:03
+11/12/2023,Alderman,35,Dedrick Abara,2-4,2-2,1-1,1,2,3,1,9,1,1,0,0,8:13
+11/12/2023,Alderman,01,Tavian Caverly,1-3,0-1,1-1,0,0,0,1,3,0,0,0,1,7:43
+11/12/2023,Alderman,33,Cormac Ostrander,2-2,2-2,0-1,2,2,4,2,6,0,1,1,0,19:35
+11/12/2023,Alderman,,TEAM,,,,1,2,3,,,,0,,,
+11/12/2023,Alderman,,Totals,23-52,10-18,11-15,11,36,47,18,69,26,13,10,8,200
+11/18/2023,Vantage,11,Wendell Nkemelu,7-14,3-3,4-7,5,3,8,3,21,7,5,3,2,41:38
+11/18/2023,Vantage,23,Ugo Kealoha,2-7,2-4,3-3,1,0,1,4,9,5,1,1,3,25:53
+11/18/2023,Vantage,21,Yannick Janowski,3-3,1-3,2-3,2,4,6,1,9,7,1,2,1,30:17
+11/18/2023,Vantage,20,Priit Lomax,2-3,0-0,3-3,3,5,8,1,7,7,1,1,0,27:23
+11/18/2023,Vantage,24,Kwame Stanhope,4-4,4-4,1-1,0,7,7,5,13,2,3,3,2,35:45
+11/18/2023,Vantage,14,Xavier Caverly,6-7,2-2,1-1,1,1,2,0,15,0,2,1,1,15:16
+11/18/2023,Vantage,13,Emeka Stanhope,,,,,,,,,,,,,DNP
+11/18/2023,Vantage,52,Finn Kealoha,,,,,,,,,,,,,DNP
+11/18/2023,Vantage,40,Wendell Whitlock,1-6,1-2,0-3,1,5,6,2,3,3,1,1,0,17:32
+11/18/2023,Vantage,35,Dedrick Abara,0-1,0-0,0-0,1,1,2,0,0,1,0,0,1,6:10
+11/18/2023,Vantage,01,Tavian Caverly,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:06
+11/18/2023,Vantage,,TEAM,,,,3,3,6,,,,1,,,
+11/18/2023,Vantage,,Totals,25-45,13-18,14-21,17,29,46,16,77,32,15,12,10,200
+11/22/2023,Harlowe,11,Wendell Nkemelu,0-14,0-2,2-5,2,5,7,1,2,3,3,1,2,33:17
+11/22/2023,Harlowe,23,Ugo Kealoha,2-8,2-3,0-0,2,1,3,1,6,2,3,1,2,17:41
+11/22/2023,Harlowe,21,Yannick Janowski,5-13,2-2,1-1,3,3,6,1,13,0,2,1,1,25:17
+11/22/2023,Harlowe,20,Priit Lomax,0-5,0-0,0-1,3,5,8,2,0,4,3,2,0,23:13
+11/22/2023,Harlowe,24,Kwame Stanhope,0-7,0-5,3-5,2,1,3,1,3,6,0,1,2,28:39
+11/22/2023,Harlowe,14,Xavier Caverly,0-5,0-3,0-1,1,3,4,2,0,3,1,0,1,13:56
+11/22/2023,Harlowe,13,Emeka Stanhope,,,,,,,,,,,,,DNP
+11/22/2023,Harlowe,52,Finn Kealoha,0-1,0-0,0-0,0,0,0,0,0,0,0,0,0,3:36
+11/22/2023,Harlowe,40,Wendell Whitlock,5-6,2-2,1-4,3,4,7,2,13,5,0,1,0,19:01
+11/22/2023,Harlowe,35,Dedrick Abara,,,,,,,,,,,,,DNP
+11/22/2023,Harlowe,01,Tavian Caverly,2-2,0-1,1-1,1,2,3,1,5,0,1,0,1,8:44
+11/22/2023,Harlowe,33,Cormac Ostrander,3-8,1-1,4-4,0,3,3,0,11,1,3,0,0,19:15
+11/22/2023,Harlowe,45,Lachlan Abara,1-2,0-1,0-0,1,0,1,0,2,1,1,0,0,7:21
+11/22/2023,Harlowe,,TEAM,,,,1,2,3,,,,3,,,
+11/22/2023,Harlowe,,Totals,18-71,7-20,12-22,19,29,48,11,55,25,20,7,9,200
+11/25/2023,Redhill,11,Wendell Nkemelu,13-16,1-6,2-10,5,1,6,1,29,11,3,3,1,45:40
+11/25/2023,Redhill,23,Ugo Kealoha,2-3,1-1,2-5,0,2,2,0,7,0,2,1,0,24:12
+11/25/2023,Redhill,21,Yannick Janowski,1-6,1-3,1-1,2,7,9,4,4,1,1,0,2,27:07
+11/25/2023,Redhill,20,Priit Lomax,2-3,2-3,4-7,2,4,6,5,10,8,2,4,3,38:54
+11/25/2023,Redhill,24,Kwame Stanhope,3-3,1-3,1-5,1,4,5,3,8,0,4,2,2,24:53
+11/25/2023,Redhill,14,Xavier Caverly,0-11,0-3,3-3,2,6,8,1,3,1,1,2,2,21:47
+11/25/2023,Redhill,13,Emeka Stanhope,1-2,1-2,0-1,1,2,3,1,3,1,0,0,1,10:05
+11/25/2023,Redhill,52,Finn Kealoha,0-2,0-1,1-1,0,2,2,0,1,2,1,1,1,7:22
+11/25/2023,Redhill,40,Wendell Whitlock,,,,,,,,,,,,,DNP
+11/25/2023,Redhill,35,Dedrick Abara,,,,,,,,,,,,,DNP
+11/25/2023,Redhill,01,Tavian Caverly,,,,,,,,,,,,,DNP
+11/25/2023,Redhill,33,Cormac Ostrander,,,,,,,,,,,,,DNP
+11/25/2023,Redhill,,TEAM,,,,2,2,4,,,,1,,,
+11/25/2023,Redhill,,Totals,22-46,7-22,14-33,15,30,45,15,65,24,15,13,12,200
+12/01/2023,Innisfree,11,Wendell Nkemelu,5-18,5-9,0-3,3,1,4,1,15,1,4,1,1,35:45
+12/01/2023,Innisfree,23,Ugo Kealoha,6-11,0-0,0-1,2,4,6,1,12,5,0,0,2,22:18
+12/01/2023,Innisfree,21,Yannick Janowski,2-2,1-1,4-5,3,2,5,2,9,5,2,2,1,28:04
+12/01/2023,Innisfree,20,Priit Lomax,2-7,2-4,0-4,1,5,6,2,6,3,2,1,1,23:40
+12/01/2023,Innisfree,24,Kwame Stanhope,4-9,0-0,2-4,3,3,6,0,10,5,3,2,1,22:25
+12/01/2023,Innisfree,14,Xavier Caverly,,,,,,,,,,,,,DNP
+12/01/2023,Innisfree,13,Emeka Stanhope,5-5,1-1,1-1,1,3,4,2,13,2,0,0,0,10:10
+12/01/2023,Innisfree,52,Finn Kealoha,1-3,0-0,0-1,0,1,1,0,2,1,1,1,0,5:26
+12/01/2023,Innisfree,40,Wendell Whitlock,2-7,1-4,0-0,1,4,5,1,5,4,3,1,1,21:30
+12/01/2023,Innisfree,35,Dedrick Abara,,,,,,,,,,,,,DNP
+12/01/2023,Innisfree,01,Tavian Caverly,0-2,0-2,0-1,1,3,4,1,0,3,0,1,0,11:56
+12/01/2023,Innisfree,33,Cormac Ostrander,3-9,3-5,3-3,2,1,3,2,12,1,1,1,1,18:46
+12/01/2023,Innisfree,,TEAM,,,,2,4,6,,,,2,,,
+12/01/2023,Innisfree,,Totals,30-73,13-26,10-23,19,31,50,12,84,30,18,10,8,200
+12/06/2023,Innisfree,11,Wendell Nkemelu,11-13,0-0,0-1,1,6,7,2,22,4,5,2,1,38:57
+12/06/2023,Innisfree,23,Ugo Kealoha,0-5,0-5,2-2,4,4,8,0,2,7,5,0,1,31:09
+12/06/2023,Innisfree,21,Yannick Janowski,7-10,1-5,3-5,6,10,16,4,18,9,5,2,2,44:09
+12/06/2023,Innisfree,20,Priit Lomax,3-3,1-3,0-4,1,3,4,2,7,5,2,2,0,28:32
+12/06/2023,Innisfree,24,Kwame Stanhope,5-15,0-3,0-0,2,1,3,2,10,4,5,0,1,29:35
+12/06/2023,Innisfree,14,Xavier Caverly,,,,,,,,,,,,,DNP
+12/06/2023,Innisfree,13,Emeka Stanhope,3-6,0-2,0-0,2,1,3,0,9,3,2,0,1,13:15
+12/06/2023,Innisfree,52,Finn Kealoha,1-1,0-0,1-1,0,1,1,0,5,0,1,1,0,6:03
+12/06/2023,Innisfree,40,Wendell Whitlock,,,,,,,,,,,,,DNP
+12/06/2023,Innisfree,35,Dedrick Abara,2-2,0-2,0-2,1,0,1,1,4,1,1,1,0,8:20
+12/06/2023,Innisfree,01,Tavian Caverly,,,,,,,,,,,,,DNP
+12/06/2023,Innisfree,,TEAM,,,,2,2,4,,,,1,,,
+12/06/2023,Innisfree,,Totals,32-55,2-20,6-15,19,28,47,11,77,33,27,8,6,200
+12/09/2023,Bellcourt,11,Wendell Nkemelu,5-8,0-5,6-8,3,0,3,3,16,8,2,2,1,39:36
+12/09/2023,Bellcourt,23,Ugo Kealoha,3-5,1-2,5-5,1,6,7,3,12,4,2,1,1,22:41
+12/09/2023,Bellcourt,21,Yannick Janowski,0-2,0-2,3-4,2,5,7,1,3,3,0,1,0,19:44
+12/09/2023,Bellcourt,20,Priit Lomax,7-8,0-1,0-3,3,5,8,1,14,7,1,2,0,30:06
+12/09/2023,Bellcourt,24,Kwame Stanhope,9-15,2-2,2-6,2,0,2,0,22,6,5,2,3,31:35
+12/09/2023,Bellcourt,14,Xavier Caverly,5-5,2-2,0-1,2,5,7,3,12,3,3,1,1,17:55
+12/09/2023,Bellcourt,13,Emeka Stanhope,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:03
+12/09/2023,Bellcourt,52,Finn Kealoha,3-3,1-1,0-0,0,0,0,0,7,0,1,0,0,5:19
+12/09/2023,Bellcourt,40,Wendell Whitlock,,,,,,,,,,,,,DNP
+12/09/2023,Bellcourt,35,Dedrick Abara,0-2,0-2,0-1,0,1,1,1,0,2,1,1,0,7:46
+12/09/2023,Bellcourt,01,Tavian Caverly,3-4,1-1,1-1,1,2,3,1,8,0,1,0,1,8:01
+12/09/2023,Bellcourt,33,Cormac Ostrander,1-6,0-1,2-2,1,3,4,2,4,1,1,0,1,17:14
+12/09/2023,Bellcourt,,TEAM,,,,2,4,6,,,,1,,,
+12/09/2023,Bellcourt,,Totals,36-58,7-19,19-31,17,31,48,15,98,34,18,10,8,200
+12/14/2023,Redhill,11,Wendell Nkemelu,7-18,7-10,2-4,3,1,4,2,23,5,0,3,2,36:29
+12/14/2023,Redhill,23,Ugo Kealoha,5-7,0-1,2-3,2,3,5,1,12,0,1,1,1,19:30
+12/14/2023,Redhill,21,Yannick Janowski,13-14,0-7,1-4,2,6,8,3,27,3,0,0,1,27:28
+12/14/2023,Redhill,20,Priit Lomax,4-4,0-0,0-3,1,2,3,5,8,6,4,1,0,29:35
+12/14/2023,Redhill,24,Kwame Stanhope,2-8,2-5,2-4,3,4,7,3,8,3,1,0,1,17:42
+12/14/2023,Redhill,14,Xavier Caverly,0-2,0-1,0-3,2,3,5,1,0,2,1,0,1,12:16
+12/14/2023,Redhill,13,Emeka Stanhope,2-3,1-1,0-0,1,1,2,0,5,1,0,1,0,7:25
+12/14/2023,Redhill,52,Finn Kealoha,2-2,0-1,0-0,0,1,1,0,4,1,0,0,0,3:36
+12/14/2023,Redhill,40,Wendell Whitlock,,,,,,,,,,,,,DNP
+12/14/2023,Redhill,35,Dedrick Abara,1-2,0-0,0-1,0,1,1,0,2,0,1,0,0,6:09
+12/14/2023,Redhill,01,Tavian Caverly,0-3,0-1,1-1,0,1,1,1,1,2,0,0,0,7:50
+12/14/2023,Redhill,33,Cormac Ostrander,5-7,0-1,3-3,1,1,2,3,13,5,3,0,1,22:36
+12/14/2023,Redhill,45,Lachlan Abara,0-1,0-1,1-2,0,1,1,1,1,1,1,0,0,9:24
+12/14/2023,Redhill,,TEAM,,,,3,3,6,,,,3,,,
+12/14/2023,Redhill,,Totals,41-71,10-29,12-28,18,28,46,20,104,29,15,6,7,200
+12/17/2023,Oakhaven,11,Wendell Nkemelu,19-20,0-0,7-8,0,7,7,1,45,4,3,0,2,41:18
+12/17/2023,Oakhaven,23,Ugo Kealoha,11-11,0-1,2-2,3,4,7,1,24,1,4,1,2,23:43
+12/17/2023,Oakhaven,21,Yannick Janowski,5-6,2-6,1-5,1,9,10,5,13,2,2,2,1,31:49
+12/17/2023,Oakhaven,20,Priit Lomax,5-5,0-5,0-3,3,3,6,2,10,2,0,1,2,28:10
+12/17/2023,Oakhaven,24,Kwame Stanhope,8-8,0-0,2-2,0,3,3,3,18,4,1,2,1,22:32
+12/17/2023,Oakhaven,14,Xavier Caverly,,,,,,,,,,,,,DNP
+12/17/2023,Oakhaven,13,Emeka Stanhope,1-1,1-1,0-1,0,1,1,0,3,0,1,0,1,10:32
+12/17/2023,Oakhaven,52,Finn Kealoha,2-2,0-1,0-1,1,1,2,1,4,1,0,1,1,5:55
+12/17/2023,Oakhaven,40,Wendell Whitlock,1-4,1-1,1-2,2,2,4,1,4,3,2,1,0,18:05
+12/17/2023,Oakhaven,35,Dedrick Abara,3-4,1-2,0-2,1,2,3,1,7,1,1,0,1,9:22
+12/17/2023,Oakhaven,01,Tavian Caverly,0-2,0-1,2-2,0,2,2,1,2,0,1,0,0,8:34
+12/17/2023,Oakhaven,,TEAM,,,,4,0,4,,,,2,,,
+12/17/2023,Oakhaven,,Totals,55-63,5-18,15-28,15,34,49,16,130,18,17,8,11,200
+12/22/2023,Underhill,11,Wendell Nkemelu,5-6,1-1,3-3,1,6,7,1,14,6,2,1,2,27:31
+12/22/2023,Underhill,23,Ugo Kealoha,3-6,0-1,1-7,0,5,5,1,7,5,3,3,1,33:15
+12/22/2023,Underhill,21,Yannick Janowski,4-12,0-1,0-4,3,6,9,1,8,6,3,2,1,23:57
+12/22/2023,Underhill,20,Priit Lomax,0-5,0-1,0-0,2,3,5,4,3,7,2,0,1,28:06
+12/22/2023,Underhill,24,Kwame Stanhope,4-6,4-5,0-4,2,1,3,0,12,4,1,2,1,20:00
+12/22/2023,Underhill,14,Xavier Caverly,,,,,,,,,,,,,DNP
+12/22/2023,Underhill,13,Emeka Stanhope,0-2,0-2,0-1,0,2,2,0,0,1,1,1,1,9:41
+12/22/2023,Underhill,52,Finn Kealoha,1-2,0-1,1-1,1,1,2,0,3,1,1,0,0,5:55
+12/22/2023,Underhill,40,Wendell Whitlock,0-10,0-3,1-3,3,4,7,2,1,2,2,1,1,20:16
+12/22/2023,Underhill,35,Dedrick Abara,,,,,,,,,,,,,DNP
+12/22/2023,Underhill,01,Tavian Caverly,0-3,0-1,0-0,1,1,2,0,0,0,1,1,1,9:34
+12/22/2023,Underhill,33,Cormac Ostrander,2-2,0-1,0-2,1,2,3,2,4,5,2,1,1,21:45
+12/22/2023,Underhill,,TEAM,,,,3,0,3,,,,2,,,
+12/22/2023,Underhill,,Totals,19-54,5-17,6-25,17,31,48,11,52,37,20,12,10,200
+12/28/2023,Alderman,11,Wendell Nkemelu,0-12,0-1,3-6,3,4,7,3,3,7,4,1,2,28:35
+12/28/2023,Alderman,23,Ugo Kealoha,0-2,0-2,0-1,0,1,1,0,0,3,1,0,0,15:17
+12/28/2023,Alderman,21,Yannick Janowski,3-3,1-3,0-0,6,10,16,3,7,1,4,3,2,39:32
+12/28/2023,Alderman,20,Priit Lomax,3-6,0-4,1-4,3,1,4,1,7,7,4,2,1,29:48
+12/28/2023,Alderman,24,Kwame Stanhope,3-3,3-3,0-2,2,3,5,1,9,2,1,3,2,28:24
+12/28/2023,Alderman,14,Xavier Caverly,2-3,0-3,0-0,1,2,3,1,4,0,0,0,1,13:20
+12/28/2023,Alderman,13,Emeka Stanhope,2-3,1-1,1-1,1,2,3,1,6,0,0,1,0,8:42
+12/28/2023,Alderman,52,Finn Kealoha,0-0,0-0,0-1,0,0,0,1,0,1,0,0,0,4:20
+12/28/2023,Alderman,40,Wendell Whitlock,8-8,1-3,0-2,2,2,4,0,17,4,0,0,1,17:24
+12/28/2023,Alderman,35,Dedrick Abara,0-1,0-0,0-1,1,2,3,0,0,2,1,1,0,7:26
+12/28/2023,Alderman,01,Tavian Caverly,1-3,1-2,1-1,1,1,2,1,4,0,1,1,1,7:10
+12/28/2023,Alderman,33,Cormac Ostrander,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:02
+12/28/2023,Alderman,45,Lachlan Abara,,,,,,,,,,,,,DNP
+12/28/2023,Alderman,,TEAM,,,,2,4,6,,,,1,,,
+12/28/2023,Alderman,,Totals,22-44,7-22,6-19,22,32,54,12,57,27,17,12,10,200
+01/02/2024,Oakhaven,11,Wendell Nkemelu,10-12,1-1,0-0,2,1,3,5,21,1,1,2,2,32:01
+01/02/2024,Oakhaven,23,Ugo Kealoha,7-7,3-7,3-6,5,2,7,3,21,9,4,1,3,39:32
+01/02/2024,Oakhaven,21,Yannick Janowski,4-12,1-1,2-4,2,1,3,0,11,1,4,0,0,28:45
+01/02/2024,Oakhaven,20,Priit Lomax,1-10,1-2,1-1,2,4,6,1,4,2,0,2,1,19:58
+01/02/2024,Oakhaven,24,Kwame Stanhope,1-2,1-2,2-4,3,4,7,2,5,2,0,0,1,23:25
+01/02/2024,Oakhaven,14,Xavier Caverly,3-6,0-0,0-2,2,4,6,1,6,1,1,2,1,18:25
+01/02/2024,Oakhaven,13,Emeka Stanhope,0-1,0-0,1-1,0,2,2,0,1,1,1,1,1,9:31
+01/02/2024,Oakhaven,52,Finn Kealoha,0-2,0-1,0-1,0,0,0,0,0,0,0,0,0,3:27
+01/02/2024,Oakhaven,40,Wendell Whitlock,3-4,1-4,1-2,2,0,2,0,8,2,2,1,1,14:36
+01/02/2024,Oakhaven,35,Dedrick Abara,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:08
+01/02/2024,Oakhaven,01,Tavian Caverly,4-5,1-2,0-1,0,2,2,0,9,1,1,0,1,10:12
+01/02/2024,Oakhaven,,TEAM,,,,2,3,5,,,,1,,,
+01/02/2024,Oakhaven,,Totals,33-61,9-20,10-22,20,23,43,12,86,20,15,9,11,200
+01/07/2024,Westmere,11,Wendell Nkemelu,5-5,2-3,3-6,1,5,6,2,15,4,3,0,1,25:32
+01/07/2024,Westmere,23,Ugo Kealoha,4-4,0-4,1-4,3,10,13,5,9,2,3,1,2,39:46
+01/07/2024,Westmere,21,Yannick Janowski,7-10,2-2,5-5,0,1,1,0,22,5,1,0,0,23:47
+01/07/2024,Westmere,20,Priit Lomax,5-5,1-2,1-3,1,5,6,3,12,3,3,2,2,22:35
+01/07/2024,Westmere,24,Kwame Stanhope,5-5,2-5,1-3,3,0,3,2,13,1,1,2,1,23:53
+01/07/2024,Westmere,14,Xavier Caverly,3-4,1-1,0-3,1,3,4,3,7,0,1,0,1,15:38
+01/07/2024,Westmere,13,Emeka Stanhope,0-2,0-0,0-0,0,2,2,0,0,1,0,1,0,7:30
+01/07/2024,Westmere,52,Finn Kealoha,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:10
+01/07/2024,Westmere,40,Wendell Whitlock,3-6,2-2,1-3,2,1,3,2,9,2,2,0,2,16:14
+01/07/2024,Westmere,35,Dedrick Abara,1-1,1-1,0-1,1,0,1,1,3,1,0,0,0,4:58
+01/07/2024,Westmere,01,Tavian Caverly,2-3,0-0,0-1,0,1,1,0,4,0,0,1,0,6:18
+01/07/2024,Westmere,33,Cormac Ostrander,2-2,1-2,1-1,1,2,3,1,6,3,1,1,1,13:39
+01/07/2024,Westmere,,TEAM,,,,4,2,6,,,,3,,,
+01/07/2024,Westmere,,Totals,37-47,12-22,13-30,17,32,49,19,100,22,18,8,10,200
+01/09/2024,Delaford,11,Wendell Nkemelu,0-12,0-1,1-2,4,5,9,5,1,2,4,2,1,29:21
+01/09/2024,Delaford,23,Ugo Kealoha,1-5,1-4,4-5,1,1,2,2,7,6,2,0,1,24:42
+01/09/2024,Delaford,21,Yannick Janowski,3-3,3-3,1-4,4,2,6,5,10,4,5,2,0,31:18
+01/09/2024,Delaford,20,Priit Lomax,0-5,0-5,1-2,0,5,5,5,-1,2,1,3,1,36:32
+01/09/2024,Delaford,24,Kwame Stanhope,5-7,0-5,3-4,2,0,2,1,13,4,3,0,1,20:05
+01/09/2024,Delaford,14,Xavier Caverly,5-10,1-3,1-4,0,3,3,3,12,1,1,1,1,20:23
+01/09/2024,Delaford,13,Emeka Stanhope,2-4,1-2,1-1,1,1,2,1,6,2,1,0,1,12:32
+01/09/2024,Delaford,52,Finn Kealoha,2-2,0-0,1-1,1,1,2,1,5,0,1,1,0,5:30
+01/09/2024,Delaford,40,Wendell Whitlock,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:01
+01/09/2024,Delaford,35,Dedrick Abara,,,,,,,,,,,,,DNP
+01/09/2024,Delaford,01,Tavian Caverly,3-5,1-3,1-1,1,3,4,1,8,1,1,1,1,11:28
+01/09/2024,Delaford,33,Cormac Ostrander,,,,,,,,,,,,,DNP
+01/09/2024,Delaford,45,Lachlan Abara,0-1,0-1,2-2,1,1,2,1,2,0,0,0,0,8:08
+01/09/2024,Delaford,,TEAM,,,,3,0,3,,,,0,,,
+01/09/2024,Delaford,,Totals,21-54,7-27,16-26,18,22,40,25,63,22,19,10,7,200
+01/11/2024,Redhill,11,Wendell Nkemelu,3-11,0-3,0-3,3,3,6,2,6,1,3,0,3,31:33
+01/11/2024,Redhill,23,Ugo Kealoha,10-11,2-4,2-4,3,4,7,1,24,6,1,0,2,25:24
+01/11/2024,Redhill,21,Yannick Janowski,11-14,4-6,2-5,4,1,5,4,28,3,1,2,1,27:27
+01/11/2024,Redhill,20,Priit Lomax,7-10,2-3,2-2,4,5,9,5,18,6,7,4,4,41:12
+01/11/2024,Redhill,24,Kwame Stanhope,14-19,0-7,1-9,1,10,11,2,29,8,5,0,2,39:01
+01/11/2024,Redhill,14,Xavier Caverly,,,,,,,,,,,,,DNP
+01/11/2024,Redhill,13,Emeka Stanhope,,,,,,,,,,,,,DNP
+01/11/2024,Redhill,52,Finn Kealoha,2-3,0-1,0-1,1,2,3,0,4,1,1,0,1,9:21
+01/11/2024,Redhill,40,Wendell Whitlock,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:03
+01/11/2024,Redhill,35,Dedrick Abara,3-3,1-1,2-2,1,0,1,0,9,0,1,1,1,12:34
+01/11/2024,Redhill,01,Tavian Caverly,4-6,2-2,1-3,1,0,1,2,11,3,1,1,1,13:25
+01/11/2024,Redhill,33,Cormac Ostrander,,,,,,,,,,,,,DNP
+01/11/2024,Redhill,,TEAM,,,,2,2,4,,,,0,,,
+01/11/2024,Redhill,,Totals,54-77,11-27,10-29,20,27,47,16,129,28,20,8,15,200
+01/14/2024,Vantage,11,Wendell Nkemelu,4-12,4-4,0-2,5,8,13,4,12,2,8,3,1,45:25
+01/14/2024,Vantage,23,Ugo Kealoha,2-8,1-3,0-1,5,0,5,0,5,8,0,2,3,39:36
+01/14/2024,Vantage,21,Yannick Janowski,7-8,0-2,3-3,2,9,11,4,17,3,3,0,1,33:30
+01/14/2024,Vantage,20,Priit Lomax,5-11,1-2,0-1,3,3,6,2,11,4,4,2,0,28:45
+01/14/2024,Vantage,24,Kwame Stanhope,5-8,4-5,6-7,3,1,4,3,20,8,4,3,0,31:16
+01/14/2024,Vantage,14,Xavier Caverly,,,,,,,,,,,,,DNP
+01/14/2024,Vantage,13,Emeka Stanhope,1-1,0-1,0-1,1,2,3,0,2,2,2,1,1,10:32
+01/14/2024,Vantage,52,Finn Kealoha,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:00
+01/14/2024,Vantage,40,Wendell Whitlock,,,,,,,,,,,,,DNP
+01/14/2024,Vantage,35,Dedrick Abara,0-5,0-1,2-2,0,1,1,1,2,1,2,0,1,10:56
+01/14/2024,Vantage,01,Tavian Caverly,,,,,,,,,,,,,DNP
+01/14/2024,Vantage,,TEAM,,,,0,2,2,,,,0,,,
+01/14/2024,Vantage,,Totals,24-53,10-18,11-17,19,26,45,14,69,28,23,11,7,200
+01/16/2024,Bellcourt,11,Wendell Nkemelu,2-17,2-10,2-5,2,3,5,1,8,2,6,0,2,36:50
+01/16/2024,Bellcourt,23,Ugo Kealoha,0-6,0-5,2-2,1,3,4,1,2,2,3,0,2,21:26
+01/16/2024,Bellcourt,21,Yannick Janowski,10-10,1-5,1-2,2,2,4,2,22,1,2,0,0,20:04
+01/16/2024,Bellcourt,20,Priit Lomax,0-5,0-1,1-1,2,5,7,1,1,1,2,0,2,19:33
+01/16/2024,Bellcourt,24,Kwame Stanhope,6-8,2-3,0-4,0,5,5,2,14,1,1,0,1,18:26
+01/16/2024,Bellcourt,14,Xavier Caverly,3-5,1-1,0-1,1,1,2,2,7,4,0,1,0,17:46
+01/16/2024,Bellcourt,13,Emeka Stanhope,1-1,1-1,1-1,1,3,4,0,4,1,1,1,1,12:17
+01/16/2024,Bellcourt,52,Finn Kealoha,1-2,0-0,0-1,0,0,0,0,2,1,0,0,0,3:53
+01/16/2024,Bellcourt,40,Wendell Whitlock,2-8,2-4,0-2,2,2,4,1,6,1,1,1,1,15:51
+01/16/2024,Bellcourt,35,Dedrick Abara,0-4,0-1,0-1,0,2,2,1,0,1,1,0,0,7:39
+01/16/2024,Bellcourt,01,Tavian Caverly,0-1,0-1,1-1,1,2,3,0,1,1,1,0,0,7:42
+01/16/2024,Bellcourt,33,Cormac Ostrander,1-5,0-1,1-2,2,5,7,2,3,4,0,1,1,18:33
+01/16/2024,Bellcourt,,TEAM,,,,3,0,3,,,,1,,,
+01/16/2024,Bellcourt,,Totals,26-72,9-33,9-23,17,33,50,13,70,20,19,4,10,200
+01/20/2024,Thornbury,11,Wendell Nkemelu,1-11,1-2,2-6,2,3,5,4,5,7,4,1,1,33:35
+01/20/2024,Thornbury,23,Ugo Kealoha,0-2,0-2,3-4,1,4,5,2,3,2,1,1,2,23:39
+01/20/2024,Thornbury,21,Yannick Janowski,4-9,1-7,0-0,1,1,2,0,9,1,0,2,1,28:14
+01/20/2024,Thornbury,20,Priit Lomax,6-9,0-8,1-3,4,5,9,2,13,4,0,1,1,29:31
+01/20/2024,Thornbury,24,Kwame Stanhope,3-6,3-3,4-4,3,1,4,2,13,2,2,1,2,18:54
+01/20/2024,Thornbury,14,Xavier Caverly,10-8,0-0,0-2,1,6,7,0,16,3,3,1,1,22:13
+01/20/2024,Thornbury,13,Emeka Stanhope,2-2,1-2,1-1,0,2,2,0,6,0,1,0,1,12:09
+01/20/2024,Thornbury,52,Finn Kealoha,1-2,0-0,1-1,0,1,1,0,3,1,0,0,0,4:16
+01/20/2024,Thornbury,40,Wendell Whitlock,5-8,0-4,1-1,2,4,6,1,11,2,3,0,0,18:27
+01/20/2024,Thornbury,35,Dedrick Abara,0-4,0-2,1-1,1,1,2,0,1,2,1,0,1,9:02
+01/20/2024,Thornbury,01,Tavian Caverly,,,,,,,,,,,,,DNP
+01/20/2024,Thornbury,,TEAM,,,,2,0,2,,,,2,,,
+01/20/2024,Thornbury,,Totals,30-63,6-30,14-23,17,28,45,11,80,24,17,7,10,200
+01/24/2024,Bellcourt,11,Wendell Nkemelu,12-12,0-2,4-4,0,0,0,1,28,4,4,0,2,23:27
+01/24/2024,Bellcourt,23,Ugo Kealoha,2-8,0-1,1-5,0,2,2,2,5,1,0,1,1,24:14
+01/24/2024,Bellcourt,21,Yannick Janowski,1-4,0-4,4-6,1,3,4,1,6,4,2,0,1,27:08
+01/24/2024,Bellcourt,20,Priit Lomax,1-3,0-1,0-0,0,5,5,3,2,4,2,0,2,19:08
+01/24/2024,Bellcourt,24,Kwame Stanhope,1-5,0-4,3-3,2,1,3,2,5,1,0,1,1,16:23
+01/24/2024,Bellcourt,14,Xavier Caverly,2-7,2-4,0-2,2,1,3,3,6,1,2,0,1,18:59
+01/24/2024,Bellcourt,13,Emeka Stanhope,1-2,0-1,0-1,0,0,0,1,2,1,0,0,0,7:14
+01/24/2024,Bellcourt,52,Finn Kealoha,1-1,0-1,0-0,0,1,1,0,2,1,1,0,0,3:46
+01/24/2024,Bellcourt,40,Wendell Whitlock,4-4,2-3,4-4,1,2,3,1,14,1,0,2,0,17:35
+01/24/2024,Bellcourt,35,Dedrick Abara,2-2,0-0,0-1,1,1,2,0,4,1,0,0,0,4:35
+01/24/2024,Bellcourt,01,Tavian Caverly,0-1,0-1,0-0,0,1,1,1,0,1,1,0,0,7:11
+01/24/2024,Bellcourt,33,Cormac Ostrander,4-5,3-3,0-1,0,0,0,0,11,2,2,2,1,20:17
+01/24/2024,Bellcourt,45,Lachlan Abara,0-1,0-1,0-1,0,2,2,1,0,0,2,1,1,10:03
+01/24/2024,Bellcourt,,TEAM,,,,3,0,3,,,,1,,,
+01/24/2024,Bellcourt,,Totals,31-55,7-26,16-28,10,19,29,16,85,22,17,7,10,200
+01/26/2024,Oakhaven,11,Wendell Nkemelu,5-9,5-6,6-7,2,8,10,4,21,3,1,1,2,30:54
+01/26/2024,Oakhaven,23,Ugo Kealoha,1-7,1-3,0-1,3,1,4,0,3,0,3,1,2,21:54
+01/26/2024,Oakhaven,21,Yannick Janowski,1-3,1-1,2-6,1,10,11,5,5,8,2,3,2,39:33
+01/26/2024,Oakhaven,20,Priit Lomax,2-3,2-3,2-5,2,4,6,0,8,6,1,2,2,26:22
+01/26/2024,Oakhaven,24,Kwame Stanhope,1-5,1-5,1-1,1,3,4,2,4,4,1,2,1,18:43
+01/26/2024,Oakhaven,14,Xavier Caverly,0-4,0-3,0-2,2,0,2,2,0,3,1,1,1,13:20
+01/26/2024,Oakhaven,13,Emeka Stanhope,1-1,1-1,2-2,1,3,4,1,5,2,2,1,1,11:51
+01/26/2024,Oakhaven,52,Finn Kealoha,0-1,0-1,0-0,0,0,0,1,0,1,0,0,0,4:01
+01/26/2024,Oakhaven,40,Wendell Whitlock,1-3,1-2,0-2,1,2,3,0,3,0,2,0,1,11:18
+01/26/2024,Oakhaven,35,Dedrick Abara,0-1,0-1,1-1,0,1,1,1,1,1,0,0,0,5:00
+01/26/2024,Oakhaven,01,Tavian Caverly,,,,,,,,,,,,,DNP
+01/26/2024,Oakhaven,33,Cormac Ostrander,0-8,0-3,2-2,2,5,7,1,2,2,0,2,1,17:04
+01/26/2024,Oakhaven,,TEAM,,,,5,1,6,,,,3,,,
+01/26/2024,Oakhaven,,Totals,12-45,12-29,16-29,20,38,58,17,52,30,16,13,13,200
+02/04/2024,Redhill,11,Wendell Nkemelu,1-8,0-0,0-0,3,1,4,4,2,8,4,1,2,32:09
+02/04/2024,Redhill,23,Ugo Kealoha,5-9,2-3,0-1,2,8,10,1,12,2,2,1,3,30:12
+02/04/2024,Redhill,21,Yannick Janowski,7-7,5-5,5-5,5,0,5,4,24,8,6,2,1,39:56
+02/04/2024,Redhill,20,Priit Lomax,2-6,0-4,1-5,3,6,9,3,5,0,1,2,1,30:05
+02/04/2024,Redhill,24,Kwame Stanhope,1-5,0-1,2-4,3,5,8,5,4,6,2,3,2,30:29
+02/04/2024,Redhill,14,Xavier Caverly,1-4,1-4,0-3,2,4,6,1,3,4,1,1,1,18:55
+02/04/2024,Redhill,13,Emeka Stanhope,3-3,0-1,1-1,1,2,3,0,7,1,1,1,0,11:32
+02/04/2024,Redhill,52,Finn Kealoha,,,,,,,,,,,,,DNP
+02/04/2024,Redhill,40,Wendell Whitlock,,,,,,,,,,,,,DNP
+02/04/2024,Redhill,35,Dedrick Abara,2-3,0-0,0-0,1,2,3,1,4,1,1,0,0,6:42
+02/04/2024,Redhill,01,Tavian Caverly,,,,,,,,,,,,,DNP
+02/04/2024,Redhill,,TEAM,,,,3,1,4,,,,3,,,
+02/04/2024,Redhill,,Totals,22-45,8-18,9-19,23,29,52,19,61,30,21,11,10,200
+02/07/2024,Marchfield,11,Wendell Nkemelu,6-12,2-5,1-4,1,2,3,4,15,6,2,1,2,27:15
+02/07/2024,Marchfield,23,Ugo Kealoha,0-7,0-6,0-0,2,2,4,3,0,3,0,2,1,22:48
+02/07/2024,Marchfield,21,Yannick Janowski,4-9,1-2,3-5,3,1,4,1,12,3,1,0,1,26:39
+02/07/2024,Marchfield,20,Priit Lomax,4-7,2-5,0-6,4,6,10,1,10,3,0,0,2,26:50
+02/07/2024,Marchfield,24,Kwame Stanhope,1-3,0-3,0-2,0,3,3,2,2,3,1,3,2,29:01
+02/07/2024,Marchfield,14,Xavier Caverly,,,,,,,,,,,,,DNP
+02/07/2024,Marchfield,13,Emeka Stanhope,1-4,0-0,0-1,1,2,3,1,2,2,0,1,1,10:11
+02/07/2024,Marchfield,52,Finn Kealoha,,,,,,,,,,,,,DNP
+02/07/2024,Marchfield,40,Wendell Whitlock,2-2,1-2,0-0,1,2,3,0,5,2,0,1,1,21:11
+02/07/2024,Marchfield,35,Dedrick Abara,1-3,1-2,1-1,1,1,2,0,4,0,1,0,1,7:04
+02/07/2024,Marchfield,01,Tavian Caverly,3-3,1-1,1-1,1,0,1,2,8,3,2,1,0,12:45
+02/07/2024,Marchfield,33,Cormac Ostrander,3-5,3-4,2-2,2,4,6,0,14,0,0,1,0,16:16
+02/07/2024,Marchfield,,TEAM,,,,0,1,1,,,,1,,,
+02/07/2024,Marchfield,,Totals,25-55,11-30,8-22,16,24,40,14,72,25,8,10,11,200
+02/13/2024,Saltmarsh,11,Wendell Nkemelu,11-11,1-3,5-7,2,1,3,2,28,4,2,3,2,33:48
+02/13/2024,Saltmarsh,23,Ugo Kealoha,2-4,1-2,0-3,1,4,5,1,5,3,4,2,0,24:06
+02/13/2024,Saltmarsh,21,Yannick Janowski,3-8,3-3,3-3,1,2,3,2,12,2,0,0,2,23:06
+02/13/2024,Saltmarsh,20,Priit Lomax,6-8,1-3,0-2,3,1,4,4,13,1,3,1,2,28:56
+02/13/2024,Saltmarsh,24,Kwame Stanhope,4-11,4-5,2-2,3,4,7,1,14,3,2,2,2,24:37
+02/13/2024,Saltmarsh,14,Xavier Caverly,4-1,0-0,1-2,1,0,1,2,3,0,1,1,0,11:24
+02/13/2024,Saltmarsh,13,Emeka Stanhope,0-3,0-1,2-2,1,3,4,0,2,3,1,0,0,10:49
+02/13/2024,Saltmarsh,52,Finn Kealoha,0-1,0-0,0-0,0,1,1,1,0,1,0,0,1,5:23
+02/13/2024,Saltmarsh,40,Wendell Whitlock,2-4,0-4,2-2,1,2,3,3,6,2,3,1,1,19:21
+02/13/2024,Saltmarsh,35,Dedrick Abara,0-3,0-2,0-0,1,1,2,1,0,1,0,1,0,6:50
+02/13/2024,Saltmarsh,01,Tavian Caverly,2-5,1-1,0-2,2,1,3,1,5,2,1,1,1,11:40
+02/13/2024,Saltmarsh,,TEAM,,,,2,4,6,,,,2,,,
+02/13/2024,Saltmarsh,,Totals,31-62,11-24,15-25,18,24,42,18,88,22,19,12,11,200
+02/16/2024,Harlowe,11,Wendell Nkemelu,3-15,3-6,0-2,1,5,6,4,9,2,3,1,1,32:04
+02/16/2024,Harlowe,23,Ugo Kealoha,1-2,1-2,0-0,1,2,3,3,3,6,2,2,0,26:44
+02/16/2024,Harlowe,21,Yannick Janowski,2-10,0-1,1-3,3,6,9,2,5,6,3,0,2,24:34
+02/16/2024,Harlowe,20,Priit Lomax,0-9,0-4,4-4,1,0,1,2,4,3,2,2,1,20:30
+02/16/2024,Harlowe,24,Kwame Stanhope,3-12,3-3,2-4,2,1,3,2,11,5,2,2,2,24:10
+02/16/2024,Harlowe,14,Xavier Caverly,1-2,1-1,2-2,1,2,3,0,5,2,2,0,1,14:10
+02/16/2024,Harlowe,13,Emeka Stanhope,3-5,1-1,2-3,0,4,4,2,9,2,1,1,1,13:48
+02/16/2024,Harlowe,52,Finn Kealoha,1-1,0-0,0-0,1,1,2,1,2,0,1,0,0,5:44
+02/16/2024,Harlowe,40,Wendell Whitlock,,,,,,,,,,,,,DNP
+02/16/2024,Harlowe,35,Dedrick Abara,0-1,0-1,1-1,0,1,1,1,1,0,0,0,0,5:02
+02/16/2024,Harlowe,01,Tavian Caverly,0-1,0-1,0-0,1,2,3,0,0,1,1,0,1,8:39
+02/16/2024,Harlowe,33,Cormac Ostrander,2-2,1-2,0-1,1,1,2,2,5,3,1,1,1,15:21
+02/16/2024,Harlowe,45,Lachlan Abara,2-5,1-2,0-2,0,2,2,1,5,1,0,0,1,9:14
+02/16/2024,Harlowe,,TEAM,,,,1,2,3,,,,3,,,
+02/16/2024,Harlowe,,Totals,18-65,11-24,12-22,13,29,42,20,59,31,21,9,11,200
+02/22/2024,Marchfield,11,Wendell Nkemelu,4-7,4-6,3-6,2,8,10,1,15,4,3,1,1,31:54
+02/22/2024,Marchfield,23,Ugo Kealoha,2-10,2-5,4-4,3,2,5,3,10,1,4,2,1,22:42
+02/22/2024,Marchfield,21,Yannick Janowski,3-6,1-2,0-1,2,3,5,1,7,4,0,2,1,21:24
+02/22/2024,Marchfield,20,Priit Lomax,4-17,0-1,3-5,2,1,3,5,11,5,0,3,2,39:44
+02/22/2024,Marchfield,24,Kwame Stanhope,7-7,0-2,0-3,0,3,3,0,14,3,2,2,2,19:29
+02/22/2024,Marchfield,14,Xavier Caverly,,,,,,,,,,,,,DNP
+02/22/2024,Marchfield,13,Emeka Stanhope,0-2,0-2,0-0,0,0,0,1,0,2,1,1,1,11:35
+02/22/2024,Marchfield,52,Finn Kealoha,0-0,0-0,0-0,0,1,1,0,0,0,0,0,0,3:25
+02/22/2024,Marchfield,40,Wendell Whitlock,3-4,0-3,2-2,0,3,3,1,8,0,1,0,1,11:55
+02/22/2024,Marchfield,35,Dedrick Abara,0-4,0-1,1-1,0,0,0,1,1,1,0,0,0,7:16
+02/22/2024,Marchfield,01,Tavian Caverly,0-1,0-0,0-1,0,2,2,0,0,1,1,0,0,6:01
+02/22/2024,Marchfield,33,Cormac Ostrander,3-9,0-0,1-1,1,3,4,3,7,4,2,0,1,18:22
+02/22/2024,Marchfield,45,Lachlan Abara,1-1,0-1,1-1,1,0,1,1,3,1,0,0,0,6:13
+02/22/2024,Marchfield,,TEAM,,,,0,1,1,,,,3,,,
+02/22/2024,Marchfield,,Totals,27-68,7-23,15-25,11,27,38,17,76,26,17,11,10,200
+02/24/2024,Marchfield,11,Wendell Nkemelu,18-18,0-3,2-3,5,8,13,5,38,6,4,4,1,42:46
+02/24/2024,Marchfield,23,Ugo Kealoha,4-6,1-1,2-4,1,6,7,3,11,4,3,0,2,24:28
+02/24/2024,Marchfield,21,Yannick Janowski,0-5,0-2,0-1,3,5,8,2,0,5,4,2,2,23:24
+02/24/2024,Marchfield,20,Priit Lomax,13-13,7-10,4-7,4,0,4,5,37,4,4,3,1,36:19
+02/24/2024,Marchfield,24,Kwame Stanhope,0-12,0-6,0-6,3,6,9,1,0,6,4,2,1,26:26
+02/24/2024,Marchfield,14,Xavier Caverly,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:00
+02/24/2024,Marchfield,13,Emeka Stanhope,,,,,,,,,,,,,DNP
+02/24/2024,Marchfield,52,Finn Kealoha,1-1,1-1,0-1,1,1,2,1,3,1,1,0,0,4:43
+02/24/2024,Marchfield,40,Wendell Whitlock,9-9,5-5,1-4,0,0,0,3,24,1,0,1,1,22:32
+02/24/2024,Marchfield,35,Dedrick Abara,2-2,0-1,1-2,1,1,2,0,5,0,1,1,0,10:52
+02/24/2024,Marchfield,01,Tavian Caverly,2-4,0-1,0-1,0,0,0,1,4,1,1,1,0,8:30
+02/24/2024,Marchfield,,TEAM,,,,5,2,7,,,,1,,,
+02/24/2024,Marchfield,,Totals,49-70,14-30,10-29,23,29,52,21,122,28,23,14,8,200
+02/26/2024,Vantage,11,Wendell Nkemelu,7-13,0-0,1-1,1,7,8,4,15,2,3,2,2,28:10
+02/26/2024,Vantage,23,Ugo Kealoha,0-6,0-3,0-0,1,3,4,3,0,1,3,1,2,21:28
+02/26/2024,Vantage,21,Yannick Janowski,1-3,0-0,1-2,0,4,4,0,3,3,2,1,0,18:39
+02/26/2024,Vantage,20,Priit Lomax,12-12,0-0,0-0,4,5,9,5,24,6,2,2,3,29:04
+02/26/2024,Vantage,24,Kwame Stanhope,5-5,1-4,3-6,1,3,4,0,14,2,2,2,0,28:53
+02/26/2024,Vantage,14,Xavier Caverly,0-9,0-3,2-3,2,1,3,2,2,5,2,1,0,19:13
+02/26/2024,Vantage,13,Emeka Stanhope,0-2,0-1,1-1,1,0,1,1,1,1,0,1,0,12:42
+02/26/2024,Vantage,52,Finn Kealoha,1-1,0-0,1-1,0,1,1,1,3,0,0,0,0,4:29
+02/26/2024,Vantage,40,Wendell Whitlock,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:00
+02/26/2024,Vantage,35,Dedrick Abara,2-2,1-1,0-0,0,0,0,0,5,0,0,0,0,6:31
+02/26/2024,Vantage,01,Tavian Caverly,1-3,0-0,0-1,2,2,4,1,2,1,1,0,1,10:37
+02/26/2024,Vantage,33,Cormac Ostrander,4-5,2-5,1-4,1,5,6,1,11,3,0,2,0,20:14
+02/26/2024,Vantage,45,Lachlan Abara,,,,,,,,,,,,,DNP
+02/26/2024,Vantage,,TEAM,,,,5,2,7,,,,1,,,
+02/26/2024,Vantage,,Totals,33-61,4-17,10-19,18,33,51,18,80,24,16,12,8,200
+02/28/2024,Alderman,11,Wendell Nkemelu,8-15,0-0,2-6,1,7,8,0,18,0,2,3,1,38:30
+02/28/2024,Alderman,23,Ugo Kealoha,10-10,4-4,1-4,3,3,6,0,25,4,4,0,0,22:14
+02/28/2024,Alderman,21,Yannick Janowski,0-16,0-4,5-5,4,8,12,2,5,7,5,1,2,31:58
+02/28/2024,Alderman,20,Priit Lomax,11-20,4-8,1-1,5,10,15,5,27,9,6,1,4,39:54
+02/28/2024,Alderman,24,Kwame Stanhope,4-9,0-0,0-4,0,4,4,3,8,1,1,1,1,18:28
+02/28/2024,Alderman,14,Xavier Caverly,,,,,,,,,,,,,DNP
+02/28/2024,Alderman,13,Emeka Stanhope,4-4,0-0,1-2,1,1,2,1,9,1,1,1,0,11:21
+02/28/2024,Alderman,52,Finn Kealoha,0-0,0-0,1-1,0,0,0,0,1,1,0,0,0,6:10
+02/28/2024,Alderman,40,Wendell Whitlock,3-4,0-2,0-2,0,4,4,2,6,2,1,1,1,14:52
+02/28/2024,Alderman,35,Dedrick Abara,0-1,0-0,2-2,0,1,1,1,2,0,1,0,1,7:32
+02/28/2024,Alderman,01,Tavian Caverly,1-2,1-2,0-2,0,1,1,1,3,1,2,1,0,9:01
+02/28/2024,Alderman,,TEAM,,,,0,4,4,,,,1,,,
+02/28/2024,Alderman,,Totals,41-81,9-20,13-29,14,43,57,15,104,26,24,9,10,200
+11/08/2024,Harlowe,0,Xavier Vantrease,5-12,2-2,2-2,1,8,9,4,14,4,1,2,0,32:29
+11/08/2024,Harlowe,21,Finn Pilkington,5-7,5-7,2-2,0,5,5,4,17,5,2,2,2,26:31
+11/08/2024,Harlowe,02,Priit Abara,5-11,0-2,4-4,1,5,6,3,14,3,0,1,2,21:22
+11/08/2024,Harlowe,34,Emeka Quiroz,1-8,1-4,0-1,1,2,3,2,3,5,3,1,0,22:30
+11/08/2024,Harlowe,32,Dedrick Hazlett,0-6,0-1,0-4,0,3,3,0,0,3,1,2,0,19:04
+11/08/2024,Harlowe,05,Isaias Yeboah,0-5,0-3,0-2,0,1,1,1,0,0,1,1,1,11:37
+11/08/2024,Harlowe,52,Lachlan Farrow,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:05
+11/08/2024,Harlowe,31,Xavier Merrick,0-2,0-1,0-1,1,1,2,0,0,1,1,0,0,6:31
+11/08/2024,Harlowe,20,Malachi Whitlock,1-3,0-2,0-1,1,0,1,1,2,2,1,1,0,8:27
+11/08/2024,Harlowe,45,Gideon Bramwell,0-4,0-3,0-0,2,0,2,0,0,0,1,1,1,13:56
+11/08/2024,Harlowe,44,Quentin Yeboah,1-2,1-1,1-1,2,3,5,0,4,4,1,1,1,19:23
+11/08/2024,Harlowe,14,Ugo Farrow,0-5,0-5,1-1,1,3,4,1,1,1,2,1,1,18:05
+11/08/2024,Harlowe,,TEAM,,,,2,0,2,,,,3,,,
+11/08/2024,Harlowe,,Totals,18-65,9-31,10-19,12,31,43,16,55,28,17,13,8,200
+11/14/2024,Granholm,0,Xavier Vantrease,0-9,0-9,3-4,5,1,6,2,3,2,2,3,0,39:56
+11/14/2024,Granholm,21,Finn Pilkington,0-11,0-2,0-0,2,0,2,1,0,4,0,2,3,26:24
+11/14/2024,Granholm,02,Priit Abara,1-5,1-5,4-4,0,5,5,2,7,5,2,2,1,20:05
+11/14/2024,Granholm,34,Emeka Quiroz,0-4,0-0,1-1,2,6,8,5,1,3,0,2,0,26:27
+11/14/2024,Granholm,32,Dedrick Hazlett,1-8,1-7,0-1,5,0,5,0,3,8,1,3,2,35:30
+11/14/2024,Granholm,05,Isaias Yeboah,0-1,0-1,0-0,0,1,1,1,0,1,0,1,0,8:37
+11/14/2024,Granholm,52,Lachlan Farrow,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:29
+11/14/2024,Granholm,31,Xavier Merrick,3-1,0-0,1-1,0,0,0,1,3,1,1,1,0,7:31
+11/14/2024,Granholm,20,Malachi Whitlock,1-2,1-2,0-0,1,1,2,1,3,0,0,0,0,7:05
+11/14/2024,Granholm,45,Gideon Bramwell,2-6,1-1,1-1,1,1,2,2,6,1,2,1,1,11:57
+11/14/2024,Granholm,44,Quentin Yeboah,2-8,0-1,2-2,1,2,3,0,6,0,1,0,1,15:59
+11/14/2024,Granholm,,TEAM,,,,0,2,2,,,,0,,,
+11/14/2024,Granholm,,Totals,8-57,4-28,12-14,17,19,36,15,32,25,9,15,8,200
+11/20/2024,Carrowmore,0,Xavier Vantrease,1-2,1-2,2-3,0,5,5,1,5,3,2,1,2,25:49
+11/20/2024,Carrowmore,21,Finn Pilkington,4-7,0-0,0-0,1,2,3,2,8,3,4,0,2,25:43
+11/20/2024,Carrowmore,02,Priit Abara,3-5,0-5,2-7,5,9,14,5,8,0,5,3,1,33:25
+11/20/2024,Carrowmore,34,Emeka Quiroz,12-17,0-5,2-2,1,1,2,2,26,8,2,2,2,34:10
+11/20/2024,Carrowmore,32,Dedrick Hazlett,6-9,0-4,3-4,0,5,5,2,15,2,1,1,2,19:37
+11/20/2024,Carrowmore,05,Isaias Yeboah,,,,,,,,,,,,,DNP
+11/20/2024,Carrowmore,52,Lachlan Farrow,2-2,2-2,2-2,1,1,2,1,8,3,1,1,0,12:18
+11/20/2024,Carrowmore,31,Xavier Merrick,0-3,0-0,0-1,0,0,0,0,0,0,0,0,0,7:03
+11/20/2024,Carrowmore,20,Malachi Whitlock,0-2,0-0,0-0,0,2,2,1,0,2,0,1,0,7:10
+11/20/2024,Carrowmore,45,Gideon Bramwell,1-3,0-1,4-4,1,3,4,2,6,1,3,0,2,18:39
+11/20/2024,Carrowmore,44,Quentin Yeboah,0-2,0-2,0-2,2,3,5,2,0,2,2,2,0,16:06
+11/20/2024,Carrowmore,14,Ugo Farrow,,,,,,,,,,,,,DNP
+11/20/2024,Carrowmore,23,Xavier Redfern,,,,,,,,,,,,,DNP
+11/20/2024,Carrowmore,,TEAM,,,,0,4,4,,,,1,,,
+11/20/2024,Carrowmore,,Totals,29-52,3-21,15-25,11,35,46,18,76,24,21,11,11,200
+11/23/2024,Harlowe,0,Xavier Vantrease,1-3,1-3,1-2,4,0,4,4,4,6,0,2,1,26:40
+11/23/2024,Harlowe,21,Finn Pilkington,1-4,0-4,2-4,2,4,6,3,4,2,2,1,1,27:06
+11/23/2024,Harlowe,02,Priit Abara,2-10,2-4,1-2,2,5,7,0,7,5,4,1,2,21:31
+11/23/2024,Harlowe,34,Emeka Quiroz,9-9,0-0,1-4,0,4,4,0,19,5,2,2,1,29:56
+11/23/2024,Harlowe,32,Dedrick Hazlett,3-7,0-1,1-4,3,3,6,0,7,5,5,1,1,29:51
+11/23/2024,Harlowe,05,Isaias Yeboah,1-2,0-0,1-2,1,3,4,0,3,0,1,0,2,15:47
+11/23/2024,Harlowe,52,Lachlan Farrow,,,,,,,,,,,,,DNP
+11/23/2024,Harlowe,31,Xavier Merrick,,,,,,,,,,,,,DNP
+11/23/2024,Harlowe,20,Malachi Whitlock,3-5,1-2,1-2,1,1,2,2,8,3,2,1,0,12:47
+11/23/2024,Harlowe,45,Gideon Bramwell,,,,,,,,,,,,,DNP
+11/23/2024,Harlowe,44,Quentin Yeboah,4-8,3-3,0-2,3,5,8,2,11,1,3,1,1,20:22
+11/23/2024,Harlowe,14,Ugo Farrow,1-2,1-2,1-2,1,3,4,0,4,1,0,0,1,16:00
+11/23/2024,Harlowe,23,Xavier Redfern,,,,,,,,,,,,,DNP
+11/23/2024,Harlowe,,TEAM,,,,3,0,3,,,,1,,,
+11/23/2024,Harlowe,,Totals,25-50,8-19,9-24,20,28,48,11,67,28,20,9,10,200
+11/26/2024,Fenwick,0,Xavier Vantrease,0-3,0-3,0-2,4,6,10,5,0,6,1,0,1,30:43
+11/26/2024,Fenwick,21,Finn Pilkington,0-5,0-2,1-3,0,3,3,2,1,5,3,1,2,22:27
+11/26/2024,Fenwick,02,Priit Abara,5-9,1-3,1-3,1,5,6,2,12,1,2,0,1,19:51
+11/26/2024,Fenwick,34,Emeka Quiroz,11-12,1-1,4-5,2,9,11,2,27,7,5,1,3,32:00
+11/26/2024,Fenwick,32,Dedrick Hazlett,0-7,0-0,0-2,1,2,3,4,2,3,3,1,0,21:21
+11/26/2024,Fenwick,05,Isaias Yeboah,5-5,0-0,2-2,1,3,4,1,12,0,1,0,0,10:36
+11/26/2024,Fenwick,52,Lachlan Farrow,4-6,0-0,1-1,2,1,3,1,9,2,2,1,1,15:26
+11/26/2024,Fenwick,31,Xavier Merrick,0-1,0-0,0-1,0,1,1,1,0,0,0,0,0,5:56
+11/26/2024,Fenwick,20,Malachi Whitlock,0-0,0-0,0-0,0,0,0,0,3,0,0,0,0,0:08
+11/26/2024,Fenwick,45,Gideon Bramwell,2-2,1-1,0-2,1,2,3,1,5,1,1,1,0,12:08
+11/26/2024,Fenwick,44,Quentin Yeboah,2-4,1-1,0-1,2,3,5,1,5,3,1,1,1,13:41
+11/26/2024,Fenwick,14,Ugo Farrow,1-2,0-0,1-2,1,1,2,1,3,1,2,1,1,10:35
+11/26/2024,Fenwick,23,Xavier Redfern,0-1,0-0,0-0,0,1,1,1,0,1,1,0,0,5:08
+11/26/2024,Fenwick,,TEAM,,,,4,3,7,,,,3,,,
+11/26/2024,Fenwick,,Totals,30-57,4-11,10-24,19,40,59,22,79,30,25,7,10,200
+12/01/2024,Redhill,0,Xavier Vantrease,2-11,2-8,0-2,2,3,5,0,6,2,2,1,0,30:15
+12/01/2024,Redhill,21,Finn Pilkington,4-7,4-6,2-4,0,6,6,3,14,3,2,1,1,23:27
+12/01/2024,Redhill,02,Priit Abara,8-9,3-3,4-4,3,0,3,0,26,3,2,1,2,32:49
+12/01/2024,Redhill,34,Emeka Quiroz,4-5,1-5,0-5,3,3,6,3,9,3,4,2,2,32:18
+12/01/2024,Redhill,32,Dedrick Hazlett,6-8,0-2,0-2,3,0,3,4,12,6,1,1,1,33:12
+12/01/2024,Redhill,05,Isaias Yeboah,2-4,1-1,0-0,1,0,1,0,5,1,0,0,0,8:47
+12/01/2024,Redhill,52,Lachlan Farrow,,,,,,,,,,,,,DNP
+12/01/2024,Redhill,31,Xavier Merrick,3-3,0-0,1-1,0,1,1,0,7,1,0,0,0,6:01
+12/01/2024,Redhill,20,Malachi Whitlock,,,,,,,,,,,,,DNP
+12/01/2024,Redhill,45,Gideon Bramwell,2-4,2-3,1-2,1,1,2,0,7,0,0,1,1,12:22
+12/01/2024,Redhill,44,Quentin Yeboah,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:19
+12/01/2024,Redhill,14,Ugo Farrow,3-4,1-4,0-3,2,1,3,1,7,5,3,1,1,20:30
+12/01/2024,Redhill,,TEAM,,,,1,2,3,,,,0,,,
+12/01/2024,Redhill,,Totals,34-55,14-32,8-23,16,17,33,11,93,24,14,8,8,200
+12/03/2024,Underhill,0,Xavier Vantrease,1-8,1-6,3-5,1,3,4,1,6,6,1,2,2,25:58
+12/03/2024,Underhill,21,Finn Pilkington,3-3,2-3,3-4,3,6,9,1,11,3,1,2,3,30:28
+12/03/2024,Underhill,02,Priit Abara,1-7,1-4,3-4,3,1,4,1,6,1,2,0,0,18:01
+12/03/2024,Underhill,34,Emeka Quiroz,0-6,0-5,0-3,1,3,4,1,0,4,2,1,2,29:04
+12/03/2024,Underhill,32,Dedrick Hazlett,2-21,2-9,2-3,3,3,6,1,8,1,5,4,3,39:34
+12/03/2024,Underhill,05,Isaias Yeboah,5-6,2-2,1-1,1,2,3,1,13,0,0,1,1,12:11
+12/03/2024,Underhill,52,Lachlan Farrow,,,,,,,,,,,,,DNP
+12/03/2024,Underhill,31,Xavier Merrick,1-1,0-0,0-1,1,1,2,0,2,1,1,0,0,6:31
+12/03/2024,Underhill,20,Malachi Whitlock,1-3,0-1,0-2,1,2,3,1,2,2,1,1,1,10:48
+12/03/2024,Underhill,45,Gideon Bramwell,0-5,0-2,0-1,1,2,3,1,0,2,1,1,1,10:43
+12/03/2024,Underhill,44,Quentin Yeboah,,,,,,,,,,,,,DNP
+12/03/2024,Underhill,14,Ugo Farrow,3-4,0-1,0-2,0,1,1,1,6,3,2,1,0,16:42
+12/03/2024,Underhill,,TEAM,,,,4,2,6,,,,1,,,
+12/03/2024,Underhill,,Totals,17-64,8-33,12-26,19,26,45,9,54,23,17,13,13,200
+12/06/2024,Vantage,0,Xavier Vantrease,9-12,6-9,1-1,2,8,10,1,25,4,2,2,3,31:31
+12/06/2024,Vantage,21,Finn Pilkington,10-11,1-5,1-1,1,3,4,3,22,3,2,0,1,22:19
+12/06/2024,Vantage,02,Priit Abara,7-12,7-8,1-3,5,6,11,2,22,4,7,1,4,39:51
+12/06/2024,Vantage,34,Emeka Quiroz,4-5,0-3,2-4,3,5,8,1,10,3,3,1,2,22:59
+12/06/2024,Vantage,32,Dedrick Hazlett,6-9,2-2,4-6,1,4,5,1,18,6,2,2,0,28:09
+12/06/2024,Vantage,05,Isaias Yeboah,2-4,0-0,1-1,1,1,2,1,5,2,1,0,0,8:00
+12/06/2024,Vantage,52,Lachlan Farrow,2-5,1-1,1-1,1,1,2,0,6,1,0,1,0,10:01
+12/06/2024,Vantage,31,Xavier Merrick,1-1,0-0,0-0,1,0,1,1,2,0,1,0,0,4:42
+12/06/2024,Vantage,20,Malachi Whitlock,2-2,1-1,0-0,0,0,0,0,5,1,1,0,0,6:20
+12/06/2024,Vantage,45,Gideon Bramwell,1-4,0-1,1-2,0,2,2,2,3,1,0,0,1,11:09
+12/06/2024,Vantage,44,Quentin Yeboah,0-5,0-2,0-0,2,3,5,1,0,1,3,1,1,14:59
+12/06/2024,Vantage,,TEAM,,,,2,0,2,,,,3,,,
+12/06/2024,Vantage,,Totals,44-70,18-32,12-19,19,33,52,13,118,26,25,8,12,200
+12/12/2024,Westmere,0,Xavier Vantrease,4-10,2-2,0-4,1,5,6,3,10,1,3,0,1,20:16
+12/12/2024,Westmere,21,Finn Pilkington,1-3,1-3,1-6,1,8,9,2,4,2,1,0,1,31:44
+12/12/2024,Westmere,02,Priit Abara,4-6,2-3,2-4,2,1,3,1,12,3,2,0,0,17:01
+12/12/2024,Westmere,34,Emeka Quiroz,0-6,0-6,0-4,1,6,7,3,0,6,4,1,1,30:57
+12/12/2024,Westmere,32,Dedrick Hazlett,4-7,1-4,0-1,0,2,2,0,9,4,0,2,1,20:47
+12/12/2024,Westmere,05,Isaias Yeboah,,,,,,,,,,,,,DNP
+12/12/2024,Westmere,52,Lachlan Farrow,2-2,2-2,0-1,0,2,2,1,6,2,0,1,1,9:24
+12/12/2024,Westmere,31,Xavier Merrick,0-1,0-1,1-1,0,1,1,1,1,1,1,1,0,5:56
+12/12/2024,Westmere,20,Malachi Whitlock,0-1,0-1,1-1,1,2,3,0,1,1,0,1,0,8:25
+12/12/2024,Westmere,45,Gideon Bramwell,3-5,1-1,0-3,0,1,1,1,7,1,2,1,1,11:58
+12/12/2024,Westmere,44,Quentin Yeboah,9-9,4-4,1-2,1,2,3,3,23,3,2,2,1,20:19
+12/12/2024,Westmere,14,Ugo Farrow,1-5,0-0,1-1,2,1,3,2,3,3,1,1,1,15:13
+12/12/2024,Westmere,23,Xavier Redfern,0-1,0-0,1-1,0,2,2,1,1,2,1,0,1,8:00
+12/12/2024,Westmere,,TEAM,,,,5,3,8,,,,3,,,
+12/12/2024,Westmere,,Totals,28-56,13-27,8-29,14,36,50,18,77,29,20,10,9,200
+12/14/2024,Bellcourt,0,Xavier Vantrease,0-5,0-2,0-4,1,8,9,4,0,1,1,1,1,28:30
+12/14/2024,Bellcourt,21,Finn Pilkington,9-11,1-2,0-1,3,5,8,2,19,0,3,2,1,23:35
+12/14/2024,Bellcourt,02,Priit Abara,0-5,0-5,2-4,3,1,4,1,2,1,0,2,1,26:39
+12/14/2024,Bellcourt,34,Emeka Quiroz,7-8,0-2,0-7,5,5,10,5,14,4,2,0,1,33:23
+12/14/2024,Bellcourt,32,Dedrick Hazlett,1-4,1-2,0-0,2,1,3,3,3,1,1,1,1,22:01
+12/14/2024,Bellcourt,05,Isaias Yeboah,4-4,0-0,1-2,1,1,2,0,9,1,0,0,1,8:11
+12/14/2024,Bellcourt,52,Lachlan Farrow,2-8,2-4,0-0,1,0,1,2,6,2,1,0,1,15:05
+12/14/2024,Bellcourt,31,Xavier Merrick,1-2,0-0,1-1,1,2,3,1,3,1,1,0,0,6:51
+12/14/2024,Bellcourt,20,Malachi Whitlock,,,,,,,,,,,,,DNP
+12/14/2024,Bellcourt,45,Gideon Bramwell,0-1,0-1,0-0,1,2,3,0,0,1,0,1,1,9:39
+12/14/2024,Bellcourt,44,Quentin Yeboah,5-6,2-2,2-2,2,3,5,2,14,0,2,1,0,14:28
+12/14/2024,Bellcourt,14,Ugo Farrow,0-2,0-2,1-2,0,1,1,1,1,2,2,0,0,11:38
+12/14/2024,Bellcourt,23,Xavier Redfern,,,,,,,,,,,,,DNP
+12/14/2024,Bellcourt,,TEAM,,,,5,1,6,,,,1,,,
+12/14/2024,Bellcourt,,Totals,29-56,6-22,7-23,25,30,55,21,71,14,14,8,8,200
+12/19/2024,Delaford,0,Xavier Vantrease,6-15,6-7,7-7,5,10,15,5,25,6,6,2,4,39:36
+12/19/2024,Delaford,21,Finn Pilkington,4-8,1-1,0-3,3,2,5,2,9,1,3,2,2,23:56
+12/19/2024,Delaford,02,Priit Abara,4-6,4-5,1-1,1,3,4,1,13,4,0,1,1,19:57
+12/19/2024,Delaford,34,Emeka Quiroz,3-3,1-3,4-7,1,7,8,0,11,5,3,2,3,31:02
+12/19/2024,Delaford,32,Dedrick Hazlett,5-6,0-3,1-5,2,5,7,4,11,0,0,0,1,24:10
+12/19/2024,Delaford,05,Isaias Yeboah,2-3,1-1,0-1,0,0,0,0,5,2,1,0,0,7:06
+12/19/2024,Delaford,52,Lachlan Farrow,4-4,0-0,1-1,0,0,0,2,9,1,2,1,0,10:06
+12/19/2024,Delaford,31,Xavier Merrick,,,,,,,,,,,,,DNP
+12/19/2024,Delaford,20,Malachi Whitlock,1-3,0-1,1-1,1,0,1,1,3,1,1,1,0,9:46
+12/19/2024,Delaford,45,Gideon Bramwell,3-4,0-3,0-0,2,2,4,1,6,0,1,0,1,15:21
+12/19/2024,Delaford,44,Quentin Yeboah,3-5,1-1,0-2,1,0,1,1,7,3,1,0,0,13:13
+12/19/2024,Delaford,14,Ugo Farrow,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:00
+12/19/2024,Delaford,23,Xavier Redfern,0-2,0-0,1-1,0,1,1,1,1,1,1,0,0,5:47
+12/19/2024,Delaford,,TEAM,,,,2,4,6,,,,0,,,
+12/19/2024,Delaford,,Totals,35-59,14-25,16-29,18,34,52,18,100,24,19,9,12,200
+12/21/2024,Alderman,0,Xavier Vantrease,2-9,1-1,5-6,5,7,12,5,10,8,2,1,0,32:48
+12/21/2024,Alderman,21,Finn Pilkington,4-4,1-2,4-4,3,3,6,2,13,1,2,2,1,23:26
+12/21/2024,Alderman,02,Priit Abara,4-6,1-4,2-3,0,1,1,4,11,2,3,1,1,24:36
+12/21/2024,Alderman,34,Emeka Quiroz,0-8,0-1,1-4,3,5,8,3,1,3,1,2,1,21:51
+12/21/2024,Alderman,32,Dedrick Hazlett,14-21,2-4,3-5,2,0,2,2,33,4,6,4,2,39:43
+12/21/2024,Alderman,05,Isaias Yeboah,4-5,0-0,2-2,1,1,2,1,10,1,1,1,0,8:46
+12/21/2024,Alderman,52,Lachlan Farrow,0-5,0-2,0-1,1,4,5,1,0,2,3,1,0,16:04
+12/21/2024,Alderman,31,Xavier Merrick,,,,,,,,,,,,,DNP
+12/21/2024,Alderman,20,Malachi Whitlock,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:14
+12/21/2024,Alderman,45,Gideon Bramwell,6-6,2-3,2-2,1,3,4,0,16,1,1,0,0,12:12
+12/21/2024,Alderman,44,Quentin Yeboah,1-4,1-3,3-4,3,3,6,2,6,2,3,1,2,20:20
+12/21/2024,Alderman,,TEAM,,,,4,2,6,,,,1,,,
+12/21/2024,Alderman,,Totals,35-68,8-20,22-31,23,29,52,20,100,24,23,13,7,200
+12/26/2024,Quarry Ridge,0,Xavier Vantrease,2-6,1-3,5-5,4,8,12,0,10,2,2,3,2,28:56
+12/26/2024,Quarry Ridge,21,Finn Pilkington,1-7,1-4,2-2,1,3,4,2,5,5,0,2,2,21:48
+12/26/2024,Quarry Ridge,02,Priit Abara,2-12,1-1,1-1,1,2,3,3,6,0,5,2,1,27:39
+12/26/2024,Quarry Ridge,34,Emeka Quiroz,3-8,1-4,0-2,2,5,7,2,7,2,2,0,0,20:13
+12/26/2024,Quarry Ridge,32,Dedrick Hazlett,1-10,0-0,2-2,4,7,11,3,4,4,2,0,2,24:49
+12/26/2024,Quarry Ridge,05,Isaias Yeboah,0-2,0-1,0-0,1,1,2,0,0,1,1,0,0,6:59
+12/26/2024,Quarry Ridge,52,Lachlan Farrow,1-5,0-1,1-1,1,1,2,0,3,2,1,1,0,11:14
+12/26/2024,Quarry Ridge,31,Xavier Merrick,1-3,1-1,0-1,1,0,1,1,3,1,1,0,0,6:47
+12/26/2024,Quarry Ridge,20,Malachi Whitlock,2-3,0-0,0-0,0,1,1,0,4,1,1,0,0,6:36
+12/26/2024,Quarry Ridge,45,Gideon Bramwell,3-6,0-1,1-1,0,0,0,2,7,1,0,1,0,11:36
+12/26/2024,Quarry Ridge,44,Quentin Yeboah,1-4,0-1,0-2,2,2,4,0,2,0,2,1,1,16:07
+12/26/2024,Quarry Ridge,14,Ugo Farrow,0-1,0-1,0-0,0,2,2,1,0,2,1,0,1,10:24
+12/26/2024,Quarry Ridge,23,Xavier Redfern,1-1,0-1,0-0,1,0,1,0,2,1,1,1,1,6:52
+12/26/2024,Quarry Ridge,,TEAM,,,,5,1,6,,,,0,,,
+12/26/2024,Quarry Ridge,,Totals,18-68,5-19,12-17,23,33,56,14,53,22,19,11,10,200
+12/28/2024,Delaford,0,Xavier Vantrease,6-16,5-9,1-9,5,8,13,5,18,2,3,3,2,39:40
+12/28/2024,Delaford,21,Finn Pilkington,1-17,1-6,3-7,1,0,1,1,9,3,3,2,1,31:58
+12/28/2024,Delaford,02,Priit Abara,4-4,1-2,0-3,4,6,10,1,9,1,6,4,0,35:24
+12/28/2024,Delaford,34,Emeka Quiroz,5-6,0-6,10-10,6,4,10,5,20,9,6,4,2,44:49
+12/28/2024,Delaford,32,Dedrick Hazlett,2-6,0-2,2-5,2,3,5,3,6,4,5,0,2,38:26
+12/28/2024,Delaford,05,Isaias Yeboah,,,,,,,,,,,,,DNP
+12/28/2024,Delaford,52,Lachlan Farrow,,,,,,,,,,,,,DNP
+12/28/2024,Delaford,31,Xavier Merrick,0-2,0-2,0-2,1,2,3,1,0,0,1,0,0,9:17
+12/28/2024,Delaford,20,Malachi Whitlock,,,,,,,,,,,,,DNP
+12/28/2024,Delaford,45,Gideon Bramwell,,,,,,,,,,,,,DNP
+12/28/2024,Delaford,44,Quentin Yeboah,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:26
+12/28/2024,Delaford,,TEAM,,,,4,1,5,,,,1,,,
+12/28/2024,Delaford,,Totals,18-51,7-27,16-36,23,24,47,16,62,19,25,13,7,200
+01/02/2025,Saltmarsh,0,Xavier Vantrease,3-9,3-4,2-8,6,7,13,5,11,6,2,2,1,38:34
+01/02/2025,Saltmarsh,21,Finn Pilkington,2-13,2-4,0-0,1,2,3,2,6,4,5,2,1,26:13
+01/02/2025,Saltmarsh,02,Priit Abara,2-3,2-3,1-8,3,5,8,2,7,2,5,2,1,39:56
+01/02/2025,Saltmarsh,34,Emeka Quiroz,6-12,1-4,1-2,1,0,1,1,14,3,1,2,0,27:07
+01/02/2025,Saltmarsh,32,Dedrick Hazlett,9-9,0-0,1-3,2,4,6,1,19,4,2,3,1,25:17
+01/02/2025,Saltmarsh,05,Isaias Yeboah,1-1,0-0,0-1,1,1,2,1,2,1,0,1,1,12:56
+01/02/2025,Saltmarsh,52,Lachlan Farrow,2-3,1-1,1-1,0,3,3,0,6,3,1,1,1,15:06
+01/02/2025,Saltmarsh,31,Xavier Merrick,1-1,1-1,0-0,1,2,3,1,3,0,1,0,0,5:59
+01/02/2025,Saltmarsh,20,Malachi Whitlock,3-3,0-1,0-0,1,0,1,1,6,0,0,1,0,8:52
+01/02/2025,Saltmarsh,45,Gideon Bramwell,,,,,,,,,,,,,DNP
+01/02/2025,Saltmarsh,44,Quentin Yeboah,,,,,,,,,,,,,DNP
+01/02/2025,Saltmarsh,,TEAM,,,,1,2,3,,,,0,,,
+01/02/2025,Saltmarsh,,Totals,29-54,10-18,6-23,17,26,43,14,74,23,17,14,6,200
+01/08/2025,Quarry Ridge,0,Xavier Vantrease,1-3,0-3,1-3,4,0,4,1,3,1,0,2,1,29:33
+01/08/2025,Quarry Ridge,21,Finn Pilkington,9-11,0-1,2-2,0,4,4,4,20,1,4,2,0,25:44
+01/08/2025,Quarry Ridge,02,Priit Abara,1-11,1-3,0-1,2,3,5,4,3,6,4,1,0,27:26
+01/08/2025,Quarry Ridge,34,Emeka Quiroz,6-9,3-7,0-5,3,3,6,3,15,5,0,2,0,25:29
+01/08/2025,Quarry Ridge,32,Dedrick Hazlett,1-9,0-0,1-1,3,2,5,5,3,6,4,1,3,34:35
+01/08/2025,Quarry Ridge,05,Isaias Yeboah,0-2,0-2,0-1,2,3,5,0,0,2,2,0,1,12:28
+01/08/2025,Quarry Ridge,52,Lachlan Farrow,,,,,,,,,,,,,DNP
+01/08/2025,Quarry Ridge,31,Xavier Merrick,1-1,1-1,1-1,0,1,1,1,4,1,1,1,0,6:47
+01/08/2025,Quarry Ridge,20,Malachi Whitlock,,,,,,,,,,,,,DNP
+01/08/2025,Quarry Ridge,45,Gideon Bramwell,0-2,0-2,1-2,1,4,5,2,1,0,3,0,1,16:11
+01/08/2025,Quarry Ridge,44,Quentin Yeboah,,,,,,,,,,,,,DNP
+01/08/2025,Quarry Ridge,14,Ugo Farrow,2-2,2-2,2-3,0,3,3,1,8,3,1,1,1,15:56
+01/08/2025,Quarry Ridge,23,Xavier Redfern,0-2,0-0,0-1,1,1,2,0,0,1,1,0,0,5:51
+01/08/2025,Quarry Ridge,,TEAM,,,,5,4,9,,,,2,,,
+01/08/2025,Quarry Ridge,,Totals,21-52,7-21,8-20,21,28,49,21,57,26,22,10,7,200
+01/11/2025,Bellcourt,0,Xavier Vantrease,3-16,0-1,1-2,2,5,7,2,7,8,2,3,1,34:18
+01/11/2025,Bellcourt,21,Finn Pilkington,5-6,3-6,1-1,3,7,10,4,14,1,4,0,2,26:45
+01/11/2025,Bellcourt,02,Priit Abara,5-10,0-4,0-4,1,0,1,1,8,3,1,2,1,19:51
+01/11/2025,Bellcourt,34,Emeka Quiroz,4-9,4-5,0-1,3,4,7,4,12,9,6,0,1,37:11
+01/11/2025,Bellcourt,32,Dedrick Hazlett,7-11,1-1,2-2,4,6,10,4,17,5,3,1,1,28:08
+01/11/2025,Bellcourt,05,Isaias Yeboah,1-1,1-1,1-2,0,1,1,1,4,2,1,0,0,10:07
+01/11/2025,Bellcourt,52,Lachlan Farrow,,,,,,,,,,,,,DNP
+01/11/2025,Bellcourt,31,Xavier Merrick,2-2,1-1,0-0,0,1,1,1,5,1,1,0,0,7:57
+01/11/2025,Bellcourt,20,Malachi Whitlock,1-3,0-1,0-0,0,2,2,1,2,2,0,1,0,11:08
+01/11/2025,Bellcourt,45,Gideon Bramwell,,,,,,,,,,,,,DNP
+01/11/2025,Bellcourt,44,Quentin Yeboah,6-12,2-6,1-5,2,3,5,4,15,0,1,0,0,24:35
+01/11/2025,Bellcourt,,TEAM,,,,5,0,5,,,,2,,,
+01/11/2025,Bellcourt,,Totals,34-70,12-26,6-17,20,29,49,22,84,31,21,7,6,200
+01/13/2025,Vantage,0,Xavier Vantrease,0-12,0-1,3-4,3,5,8,1,3,2,1,1,0,23:21
+01/13/2025,Vantage,21,Finn Pilkington,6-15,6-8,4-5,3,6,9,4,22,6,2,3,0,31:01
+01/13/2025,Vantage,02,Priit Abara,3-12,3-4,0-0,1,2,3,2,9,4,2,3,0,26:02
+01/13/2025,Vantage,34,Emeka Quiroz,5-13,0-9,1-5,3,1,4,2,11,1,3,0,2,33:45
+01/13/2025,Vantage,32,Dedrick Hazlett,4-8,0-0,0-1,0,1,1,1,8,3,1,1,1,17:50
+01/13/2025,Vantage,05,Isaias Yeboah,0-4,0-1,0-0,1,1,2,1,0,2,0,1,0,8:55
+01/13/2025,Vantage,52,Lachlan Farrow,2-7,0-4,3-3,1,3,4,2,7,3,2,0,1,13:44
+01/13/2025,Vantage,31,Xavier Merrick,,,,,,,,,,,,,DNP
+01/13/2025,Vantage,20,Malachi Whitlock,5-5,0-1,2-2,0,2,2,0,12,1,1,1,0,10:07
+01/13/2025,Vantage,45,Gideon Bramwell,0-3,0-2,1-1,0,1,1,2,1,0,1,0,0,11:37
+01/13/2025,Vantage,44,Quentin Yeboah,4-10,4-6,0-0,3,6,9,1,12,1,2,0,1,23:38
+01/13/2025,Vantage,,TEAM,,,,4,1,5,,,,1,,,
+01/13/2025,Vantage,,Totals,29-89,13-36,14-21,19,29,48,16,85,23,16,10,5,200
+01/15/2025,Harlowe,0,Xavier Vantrease,3-3,3-3,3-4,4,8,12,2,12,2,3,1,1,31:25
+01/15/2025,Harlowe,21,Finn Pilkington,7-18,2-4,9-9,3,1,4,3,25,4,5,4,1,39:55
+01/15/2025,Harlowe,02,Priit Abara,1-8,1-5,0-1,3,8,11,2,3,1,4,3,2,28:54
+01/15/2025,Harlowe,34,Emeka Quiroz,11-11,0-6,5-5,3,5,8,4,27,3,0,2,2,24:38
+01/15/2025,Harlowe,32,Dedrick Hazlett,5-8,0-0,2-2,2,3,5,2,12,0,1,1,0,17:30
+01/15/2025,Harlowe,05,Isaias Yeboah,,,,,,,,,,,,,DNP
+01/15/2025,Harlowe,52,Lachlan Farrow,,,,,,,,,,,,,DNP
+01/15/2025,Harlowe,31,Xavier Merrick,3-3,0-0,0-1,0,1,1,1,6,0,1,0,0,6:26
+01/15/2025,Harlowe,20,Malachi Whitlock,1-2,0-2,0-1,1,1,2,0,2,1,1,0,0,8:27
+01/15/2025,Harlowe,45,Gideon Bramwell,,,,,,,,,,,,,DNP
+01/15/2025,Harlowe,44,Quentin Yeboah,3-5,1-2,0-0,1,4,5,3,7,4,2,0,1,20:18
+01/15/2025,Harlowe,14,Ugo Farrow,4-7,0-1,0-2,2,2,4,1,8,0,3,0,0,16:54
+01/15/2025,Harlowe,23,Xavier Redfern,1-1,1-1,0-1,1,0,1,0,3,0,0,0,0,5:33
+01/15/2025,Harlowe,,TEAM,,,,2,1,3,,,,3,,,
+01/15/2025,Harlowe,,Totals,39-66,8-24,19-26,22,34,56,18,105,15,23,11,7,200
+01/21/2025,Alderman,0,Xavier Vantrease,5-5,0-5,0-5,3,2,5,1,10,3,1,1,1,24:47
+01/21/2025,Alderman,21,Finn Pilkington,7-8,2-4,0-4,2,3,5,1,16,3,3,0,2,21:44
+01/21/2025,Alderman,02,Priit Abara,0-8,0-5,0-1,1,7,8,1,0,0,3,2,2,28:10
+01/21/2025,Alderman,34,Emeka Quiroz,4-11,4-5,4-6,3,3,6,1,16,3,4,2,3,31:44
+01/21/2025,Alderman,32,Dedrick Hazlett,6-6,1-1,0-0,1,0,1,2,13,6,2,1,2,25:24
+01/21/2025,Alderman,05,Isaias Yeboah,1-1,0-1,1-2,0,2,2,1,3,2,2,1,1,11:31
+01/21/2025,Alderman,52,Lachlan Farrow,,,,,,,,,,,,,DNP
+01/21/2025,Alderman,31,Xavier Merrick,2-2,0-1,0-0,1,1,2,0,4,1,0,0,0,4:19
+01/21/2025,Alderman,20,Malachi Whitlock,0-1,0-1,0-1,0,1,1,1,0,1,1,1,1,7:47
+01/21/2025,Alderman,45,Gideon Bramwell,,,,,,,,,,,,,DNP
+01/21/2025,Alderman,44,Quentin Yeboah,0-2,0-2,0-3,1,2,3,3,0,4,1,2,1,20:12
+01/21/2025,Alderman,14,Ugo Farrow,6-8,1-2,2-2,3,4,7,2,15,4,2,0,0,17:26
+01/21/2025,Alderman,23,Xavier Redfern,3-3,0-2,2-2,0,1,1,0,8,1,0,1,0,6:56
+01/21/2025,Alderman,,TEAM,,,,3,3,6,,,,0,,,
+01/21/2025,Alderman,,Totals,34-55,8-29,9-26,18,29,47,13,85,28,19,11,13,200
+01/24/2025,Pentland,0,Xavier Vantrease,6-7,1-7,0-2,2,8,10,2,13,8,2,1,3,39:34
+01/24/2025,Pentland,21,Finn Pilkington,6-11,0-2,2-4,2,4,6,1,14,5,4,0,2,23:24
+01/24/2025,Pentland,02,Priit Abara,3-10,3-5,0-3,1,3,4,3,9,2,3,1,0,20:23
+01/24/2025,Pentland,34,Emeka Quiroz,8-11,1-9,0-6,5,3,8,1,17,3,3,3,1,32:39
+01/24/2025,Pentland,32,Dedrick Hazlett,0-2,0-1,2-2,1,0,1,3,2,3,3,2,2,18:43
+01/24/2025,Pentland,05,Isaias Yeboah,2-2,0-0,0-0,0,0,0,1,4,2,0,1,0,7:55
+01/24/2025,Pentland,52,Lachlan Farrow,1-5,0-2,1-2,1,0,1,1,3,1,1,1,0,10:21
+01/24/2025,Pentland,31,Xavier Merrick,1-2,0-1,1-1,1,1,2,0,3,0,1,0,0,4:08
+01/24/2025,Pentland,20,Malachi Whitlock,,,,,,,,,,,,,DNP
+01/24/2025,Pentland,45,Gideon Bramwell,5-5,1-1,0-0,1,2,3,1,11,1,1,1,1,9:53
+01/24/2025,Pentland,44,Quentin Yeboah,4-7,1-1,3-3,2,3,5,1,12,1,1,1,0,16:31
+01/24/2025,Pentland,14,Ugo Farrow,2-4,0-1,2-3,0,3,3,2,6,1,1,1,1,16:29
+01/24/2025,Pentland,,TEAM,,,,4,2,6,,,,3,,,
+01/24/2025,Pentland,,Totals,38-66,7-30,11-26,20,29,49,16,94,27,23,12,10,200
+01/28/2025,Saltmarsh,0,Xavier Vantrease,1-11,0-3,2-3,2,2,4,2,4,3,1,0,2,23:10
+01/28/2025,Saltmarsh,21,Finn Pilkington,5-5,1-5,0-0,0,6,6,2,11,3,4,2,1,24:50
+01/28/2025,Saltmarsh,02,Priit Abara,5-8,0-0,2-2,3,3,6,3,12,3,3,1,1,21:15
+01/28/2025,Saltmarsh,34,Emeka Quiroz,1-3,1-3,0-1,3,8,11,0,3,6,4,3,3,35:31
+01/28/2025,Saltmarsh,32,Dedrick Hazlett,1-7,1-1,2-2,1,1,2,2,5,1,2,1,2,18:10
+01/28/2025,Saltmarsh,05,Isaias Yeboah,3-3,1-1,1-3,1,2,3,1,8,2,1,1,0,11:53
+01/28/2025,Saltmarsh,52,Lachlan Farrow,6-7,1-3,2-2,1,1,2,0,15,0,2,1,0,15:20
+01/28/2025,Saltmarsh,31,Xavier Merrick,2-3,2-2,1-1,1,0,1,1,7,1,0,0,0,6:21
+01/28/2025,Saltmarsh,20,Malachi Whitlock,0-2,0-1,0-0,1,2,3,0,0,1,0,0,0,7:04
+01/28/2025,Saltmarsh,45,Gideon Bramwell,3-5,0-1,1-2,0,3,3,0,7,2,0,1,2,17:24
+01/28/2025,Saltmarsh,44,Quentin Yeboah,7-9,0-2,1-1,3,2,5,1,15,2,2,1,1,19:02
+01/28/2025,Saltmarsh,,TEAM,,,,4,3,7,,,,3,,,
+01/28/2025,Saltmarsh,,Totals,34-63,7-22,12-17,20,33,53,12,87,24,22,11,12,200
+02/05/2025,Thornbury,0,Xavier Vantrease,11-12,4-4,2-6,5,4,9,5,28,2,1,1,2,32:34
+02/05/2025,Thornbury,21,Finn Pilkington,7-9,2-3,1-1,3,1,4,2,17,3,3,0,1,19:15
+02/05/2025,Thornbury,02,Priit Abara,4-4,0-3,1-1,2,1,3,3,9,3,1,2,1,25:53
+02/05/2025,Thornbury,34,Emeka Quiroz,7-7,1-2,2-2,2,4,6,3,17,1,3,0,1,20:31
+02/05/2025,Thornbury,32,Dedrick Hazlett,3-4,2-2,1-3,2,6,8,3,9,1,0,2,2,27:33
+02/05/2025,Thornbury,05,Isaias Yeboah,,,,,,,,,,,,,DNP
+02/05/2025,Thornbury,52,Lachlan Farrow,0-1,0-1,1-1,1,2,3,0,1,2,2,0,1,10:41
+02/05/2025,Thornbury,31,Xavier Merrick,1-1,0-0,0-0,0,0,0,0,2,1,1,0,0,4:21
+02/05/2025,Thornbury,20,Malachi Whitlock,2-3,0-2,0-0,1,3,4,1,4,1,1,1,1,10:47
+02/05/2025,Thornbury,45,Gideon Bramwell,5-5,0-1,1-3,2,4,6,1,11,3,2,0,1,15:39
+02/05/2025,Thornbury,44,Quentin Yeboah,2-3,0-1,3-3,2,4,6,1,7,0,3,1,1,20:00
+02/05/2025,Thornbury,14,Ugo Farrow,0-1,0-1,3-3,2,1,3,2,3,2,1,0,1,12:46
+02/05/2025,Thornbury,23,Xavier Redfern,,,,,,,,,,,,,DNP
+02/05/2025,Thornbury,,TEAM,,,,5,2,7,,,,0,,,
+02/05/2025,Thornbury,,Totals,42-50,9-20,15-23,27,32,59,21,108,19,18,7,12,200
+02/09/2025,Harlowe,0,Xavier Vantrease,1-10,1-9,1-5,1,6,7,2,4,7,4,3,3,31:59
+02/09/2025,Harlowe,21,Finn Pilkington,1-4,0-3,4-5,3,3,6,4,6,6,1,0,2,25:00
+02/09/2025,Harlowe,02,Priit Abara,0-6,0-4,1-5,0,6,6,5,1,0,4,2,3,27:07
+02/09/2025,Harlowe,34,Emeka Quiroz,4-12,1-5,0-1,1,1,2,3,9,2,2,2,0,24:25
+02/09/2025,Harlowe,32,Dedrick Hazlett,0-14,0-1,0-3,3,4,7,3,0,5,2,1,1,26:46
+02/09/2025,Harlowe,05,Isaias Yeboah,,,,,,,,,,,,,DNP
+02/09/2025,Harlowe,52,Lachlan Farrow,,,,,,,,,,,,,DNP
+02/09/2025,Harlowe,31,Xavier Merrick,1-1,1-1,0-0,0,0,0,1,3,1,1,0,0,6:28
+02/09/2025,Harlowe,20,Malachi Whitlock,0-2,0-2,0-0,1,1,2,2,0,2,1,0,0,8:57
+02/09/2025,Harlowe,45,Gideon Bramwell,1-5,1-2,0-1,2,3,5,1,3,0,1,1,0,12:18
+02/09/2025,Harlowe,44,Quentin Yeboah,4-7,1-3,1-1,1,1,2,1,10,3,3,2,0,22:57
+02/09/2025,Harlowe,14,Ugo Farrow,3-4,2-3,3-3,1,1,2,2,11,0,2,1,1,14:03
+02/09/2025,Harlowe,23,Xavier Redfern,,,,,,,,,,,,,DNP
+02/09/2025,Harlowe,,TEAM,,,,4,4,8,,,,1,,,
+02/09/2025,Harlowe,,Totals,15-65,7-33,10-24,17,30,47,24,47,26,22,12,10,200
+02/12/2025,Westmere,0,Xavier Vantrease,7-13,7-7,1-3,2,8,10,1,22,6,0,0,1,31:12
+02/12/2025,Westmere,21,Finn Pilkington,1-9,1-5,1-1,4,1,5,4,4,2,1,2,0,25:29
+02/12/2025,Westmere,02,Priit Abara,14-14,4-6,0-0,3,4,7,4,32,1,0,3,3,27:48
+02/12/2025,Westmere,34,Emeka Quiroz,1-12,1-5,1-2,1,0,1,5,4,0,6,0,3,34:51
+02/12/2025,Westmere,32,Dedrick Hazlett,10-15,2-3,2-7,3,7,10,2,24,3,0,2,0,32:02
+02/12/2025,Westmere,05,Isaias Yeboah,1-2,0-2,2-2,1,1,2,1,4,1,1,0,0,10:47
+02/12/2025,Westmere,52,Lachlan Farrow,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:00
+02/12/2025,Westmere,31,Xavier Merrick,,,,,,,,,,,,,DNP
+02/12/2025,Westmere,20,Malachi Whitlock,3-4,0-1,1-2,0,2,2,1,7,2,0,1,1,10:56
+02/12/2025,Westmere,45,Gideon Bramwell,,,,,,,,,,,,,DNP
+02/12/2025,Westmere,44,Quentin Yeboah,4-5,3-3,2-2,0,6,6,3,13,5,1,0,2,26:55
+02/12/2025,Westmere,,TEAM,,,,1,1,2,,,,3,,,
+02/12/2025,Westmere,,Totals,41-74,18-32,10-19,15,30,45,21,110,20,12,8,10,200
+02/17/2025,Innisfree,0,Xavier Vantrease,0-3,0-3,5-5,3,7,10,4,5,8,1,1,3,32:11
+02/17/2025,Innisfree,21,Finn Pilkington,6-13,6-8,0-1,3,5,8,3,18,0,2,0,1,30:22
+02/17/2025,Innisfree,02,Priit Abara,5-9,1-2,2-4,2,5,7,0,13,2,3,1,0,21:40
+02/17/2025,Innisfree,34,Emeka Quiroz,0-9,0-3,2-6,3,4,7,2,2,4,3,2,2,31:24
+02/17/2025,Innisfree,32,Dedrick Hazlett,9-11,0-0,0-3,3,0,3,5,18,7,3,2,0,29:04
+02/17/2025,Innisfree,05,Isaias Yeboah,2-2,0-2,2-2,0,1,1,2,6,2,2,0,1,12:28
+02/17/2025,Innisfree,52,Lachlan Farrow,2-3,0-2,1-1,0,1,1,1,5,0,2,1,0,11:53
+02/17/2025,Innisfree,31,Xavier Merrick,1-2,0-1,0-1,0,0,0,1,2,0,1,0,0,9:02
+02/17/2025,Innisfree,20,Malachi Whitlock,,,,,,,,,,,,,DNP
+02/17/2025,Innisfree,45,Gideon Bramwell,,,,,,,,,,,,,DNP
+02/17/2025,Innisfree,44,Quentin Yeboah,2-3,1-2,1-1,0,5,5,0,6,1,1,0,2,21:56
+02/17/2025,Innisfree,,TEAM,,,,4,2,6,,,,3,,,
+02/17/2025,Innisfree,,Totals,27-55,8-23,13-24,18,30,48,18,75,24,21,7,9,200
+02/19/2025,Marchfield,0,Xavier Vantrease,2-15,1-2,2-2,1,5,6,5,7,7,4,1,1,35:49
+02/19/2025,Marchfield,21,Finn Pilkington,0-6,0-3,2-2,2,6,8,2,2,2,3,2,1,23:01
+02/19/2025,Marchfield,02,Priit Abara,4-4,0-1,1-2,1,0,1,1,9,3,1,2,1,17:41
+02/19/2025,Marchfield,34,Emeka Quiroz,8-16,2-2,0-0,1,8,9,1,18,6,2,3,3,31:54
+02/19/2025,Marchfield,32,Dedrick Hazlett,0-12,0-3,1-3,2,1,3,0,1,3,5,3,1,32:41
+02/19/2025,Marchfield,05,Isaias Yeboah,,,,,,,,,,,,,DNP
+02/19/2025,Marchfield,52,Lachlan Farrow,,,,,,,,,,,,,DNP
+02/19/2025,Marchfield,31,Xavier Merrick,0-1,0-1,0-0,0,0,0,1,0,1,0,0,0,6:11
+02/19/2025,Marchfield,20,Malachi Whitlock,0-1,0-0,1-1,1,1,2,1,1,1,1,0,1,7:57
+02/19/2025,Marchfield,45,Gideon Bramwell,,,,,,,,,,,,,DNP
+02/19/2025,Marchfield,44,Quentin Yeboah,3-3,1-2,2-3,0,2,2,1,9,2,2,0,2,25:15
+02/19/2025,Marchfield,14,Ugo Farrow,5-10,0-4,1-2,2,5,7,1,11,0,2,2,1,19:31
+02/19/2025,Marchfield,,TEAM,,,,2,1,3,,,,1,,,
+02/19/2025,Marchfield,,Totals,22-68,4-18,10-15,12,29,41,13,58,25,21,13,11,200
+02/25/2025,Granholm,0,Xavier Vantrease,4-9,2-4,0-4,2,3,5,4,10,6,0,2,2,24:32
+02/25/2025,Granholm,21,Finn Pilkington,10-12,3-3,0-1,1,5,6,4,23,2,3,2,2,26:37
+02/25/2025,Granholm,02,Priit Abara,4-8,3-4,2-3,3,4,7,3,13,2,4,1,2,22:48
+02/25/2025,Granholm,34,Emeka Quiroz,3-9,3-5,2-6,2,0,2,1,11,4,0,2,1,32:16
+02/25/2025,Granholm,32,Dedrick Hazlett,0-5,0-3,0-0,2,4,6,1,0,1,0,1,1,17:39
+02/25/2025,Granholm,05,Isaias Yeboah,,,,,,,,,,,,,DNP
+02/25/2025,Granholm,52,Lachlan Farrow,1-2,0-0,0-1,0,2,2,2,2,0,1,1,1,11:50
+02/25/2025,Granholm,31,Xavier Merrick,2-2,1-1,0-1,1,2,3,0,5,1,1,0,0,5:36
+02/25/2025,Granholm,20,Malachi Whitlock,1-1,0-1,0-0,0,2,2,1,2,2,0,1,0,8:48
+02/25/2025,Granholm,45,Gideon Bramwell,6-7,0-2,1-3,0,4,4,2,13,0,1,2,0,17:32
+02/25/2025,Granholm,44,Quentin Yeboah,1-2,1-2,0-2,2,1,3,0,3,4,1,1,1,17:49
+02/25/2025,Granholm,14,Ugo Farrow,3-5,0-0,2-3,0,1,1,0,8,3,1,0,0,14:33
+02/25/2025,Granholm,,TEAM,,,,4,1,5,,,,1,,,
+02/25/2025,Granholm,,Totals,35-62,13-25,7-24,17,29,46,18,90,25,13,13,10,200
+03/02/2025,Delaford,0,Xavier Vantrease,10-14,2-5,2-2,1,5,6,2,26,2,2,2,2,27:03
+03/02/2025,Delaford,21,Finn Pilkington,5-5,0-0,2-4,2,2,4,1,12,3,4,0,2,22:26
+03/02/2025,Delaford,02,Priit Abara,2-18,2-5,1-6,1,2,3,5,7,1,3,1,1,35:22
+03/02/2025,Delaford,34,Emeka Quiroz,5-14,2-9,1-5,1,3,4,0,13,0,0,2,3,32:09
+03/02/2025,Delaford,32,Dedrick Hazlett,8-10,1-5,0-1,4,0,4,0,17,7,2,2,2,31:40
+03/02/2025,Delaford,05,Isaias Yeboah,1-1,0-1,0-2,2,2,4,0,2,2,1,0,1,12:45
+03/02/2025,Delaford,52,Lachlan Farrow,,,,,,,,,,,,,DNP
+03/02/2025,Delaford,31,Xavier Merrick,,,,,,,,,,,,,DNP
+03/02/2025,Delaford,20,Malachi Whitlock,0-2,0-1,0-2,0,1,1,0,0,1,1,1,1,10:05
+03/02/2025,Delaford,45,Gideon Bramwell,,,,,,,,,,,,,DNP
+03/02/2025,Delaford,44,Quentin Yeboah,2-2,1-2,3-4,3,2,5,1,8,4,3,2,2,20:41
+03/02/2025,Delaford,14,Ugo Farrow,,,,,,,,,,,,,DNP
+03/02/2025,Delaford,23,Xavier Redfern,2-2,0-0,0-1,1,2,3,0,4,2,0,0,0,7:49
+03/02/2025,Delaford,,TEAM,,,,4,0,4,,,,2,,,
+03/02/2025,Delaford,,Totals,35-68,8-28,9-27,19,19,38,9,89,22,18,10,14,200
+11/08/2025,Langmere,0,Finn Doran,0-18,0-0,0-7,0,7,7,2,0,4,1,3,0,38:29
+11/08/2025,Langmere,12,Oisin Lomax,7-9,3-3,2-2,0,0,0,0,19,3,6,2,1,39:40
+11/08/2025,Langmere,05,Hollis Farrow,11-14,3-3,0-0,2,2,4,1,25,3,3,2,3,27:18
+11/08/2025,Langmere,45,Lachlan Zeller,2-3,2-3,0-3,2,5,7,1,6,4,1,1,0,21:14
+11/08/2025,Langmere,50,Isaias Pilkington,4-11,0-2,0-3,0,1,1,1,8,3,0,1,1,22:50
+11/08/2025,Langmere,20,Yannick Bramwell,,,,,,,,,,,,,DNP
+11/08/2025,Langmere,04,Isaias Lomax,,,,,,,,,,,,,DNP
+11/08/2025,Langmere,21,Cormac Janowski,0-4,0-4,0-1,1,2,3,0,0,2,1,1,1,19:02
+11/08/2025,Langmere,30,Oisin Merrick,0-2,0-2,1-3,2,3,5,3,1,4,1,2,1,20:10
+11/08/2025,Langmere,44,Vasil Zeller,0-2,0-2,2-2,2,3,5,2,2,1,1,0,1,11:17
+11/08/2025,Langmere,24,Malachi Merrick,,,,,,,,,,,,,DNP
+11/08/2025,Langmere,,TEAM,,,,2,0,2,,,,1,,,
+11/08/2025,Langmere,,Totals,24-63,8-19,5-21,11,23,34,10,61,24,15,12,8,200
+11/12/2025,Harlowe,0,Finn Doran,3-10,0-1,3-3,3,5,8,5,9,1,5,0,1,35:56
+11/12/2025,Harlowe,12,Oisin Lomax,2-5,2-4,2-6,2,7,9,2,8,6,5,2,3,30:01
+11/12/2025,Harlowe,05,Hollis Farrow,5-8,5-7,0-2,2,5,7,5,15,1,4,2,2,33:07
+11/12/2025,Harlowe,45,Lachlan Zeller,10-13,1-6,0-1,1,8,9,5,21,8,4,3,2,35:13
+11/12/2025,Harlowe,50,Isaias Pilkington,5-15,5-7,1-1,2,2,4,4,16,4,5,2,0,31:14
+11/12/2025,Harlowe,20,Yannick Bramwell,1-1,0-1,0-0,1,2,3,1,2,1,0,1,1,10:29
+11/12/2025,Harlowe,04,Isaias Lomax,,,,,,,,,,,,,DNP
+11/12/2025,Harlowe,21,Cormac Janowski,5-5,0-0,0-2,2,2,4,1,10,1,0,1,0,12:38
+11/12/2025,Harlowe,30,Oisin Merrick,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:00
+11/12/2025,Harlowe,44,Vasil Zeller,,,,,,,,,,,,,DNP
+11/12/2025,Harlowe,24,Malachi Merrick,,,,,,,,,,,,,DNP
+11/12/2025,Harlowe,13,Solomon Ostrander,0-1,0-1,2-2,1,1,2,2,2,0,1,1,0,11:22
+11/12/2025,Harlowe,,TEAM,,,,2,2,4,,,,3,,,
+11/12/2025,Harlowe,,Totals,31-58,13-27,8-17,16,34,50,25,83,22,27,12,9,200
+11/15/2025,Granholm,0,Finn Doran,2-15,1-2,5-5,4,10,14,5,10,3,6,3,3,38:16
+11/15/2025,Granholm,12,Oisin Lomax,2-2,0-2,3-4,2,0,2,0,7,2,1,1,1,18:53
+11/15/2025,Granholm,05,Hollis Farrow,18-19,7-7,5-8,1,10,11,1,48,5,2,3,1,39:23
+11/15/2025,Granholm,45,Lachlan Zeller,7-7,2-7,3-6,4,6,10,5,19,3,4,1,1,35:31
+11/15/2025,Granholm,50,Isaias Pilkington,5-12,2-5,0-7,4,2,6,4,12,6,1,3,0,34:03
+11/15/2025,Granholm,20,Yannick Bramwell,3-4,0-0,0-0,1,1,2,0,6,1,1,1,0,8:47
+11/15/2025,Granholm,04,Isaias Lomax,,,,,,,,,,,,,DNP
+11/15/2025,Granholm,21,Cormac Janowski,,,,,,,,,,,,,DNP
+11/15/2025,Granholm,30,Oisin Merrick,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:00
+11/15/2025,Granholm,44,Vasil Zeller,2-2,1-1,1-2,1,2,3,1,6,2,2,0,1,11:36
+11/15/2025,Granholm,24,Malachi Merrick,0-4,0-1,0-1,2,0,2,2,0,3,1,1,0,13:31
+11/15/2025,Granholm,13,Solomon Ostrander,,,,,,,,,,,,,DNP
+11/15/2025,Granholm,25,Dedrick Ivory,,,,,,,,,,,,,DNP
+11/15/2025,Granholm,,TEAM,,,,3,4,7,,,,2,,,
+11/15/2025,Granholm,,Totals,39-65,13-25,17-33,22,35,57,18,108,25,20,13,7,200
+11/19/2025,Vantage,0,Finn Doran,3-8,0-0,1-1,0,6,6,3,7,4,1,2,2,25:15
+11/19/2025,Vantage,12,Oisin Lomax,0-2,0-2,3-3,3,3,6,1,3,5,2,2,1,23:07
+11/19/2025,Vantage,05,Hollis Farrow,3-9,0-1,2-6,4,1,5,2,8,6,3,2,2,26:18
+11/19/2025,Vantage,45,Lachlan Zeller,2-15,0-2,0-0,2,6,8,2,5,8,2,2,1,32:07
+11/19/2025,Vantage,50,Isaias Pilkington,0-2,0-2,1-2,4,0,4,5,1,3,1,0,3,31:29
+11/19/2025,Vantage,20,Yannick Bramwell,3-0,0-2,1-1,1,1,2,1,1,1,0,0,1,7:36
+11/19/2025,Vantage,04,Isaias Lomax,1-5,0-3,1-3,1,2,3,1,3,1,1,1,1,13:00
+11/19/2025,Vantage,21,Cormac Janowski,3-3,1-1,0-2,2,2,4,2,7,2,1,1,0,13:17
+11/19/2025,Vantage,30,Oisin Merrick,2-3,1-3,1-3,2,0,2,3,6,4,2,0,1,19:52
+11/19/2025,Vantage,44,Vasil Zeller,1-2,0-0,0-0,0,0,0,0,2,2,1,1,1,7:59
+11/19/2025,Vantage,24,Malachi Merrick,,,,,,,,,,,,,DNP
+11/19/2025,Vantage,13,Solomon Ostrander,,,,,,,,,,,,,DNP
+11/19/2025,Vantage,,TEAM,,,,5,4,9,,,,2,,,
+11/19/2025,Vantage,,Totals,15-52,2-16,10-21,24,25,49,20,43,36,16,11,13,200
+11/21/2025,Carrowmore,0,Finn Doran,5-7,1-1,0-4,3,0,3,4,11,5,3,2,1,21:34
+11/21/2025,Carrowmore,12,Oisin Lomax,3-3,2-3,1-3,1,4,5,3,9,5,4,1,2,24:02
+11/21/2025,Carrowmore,05,Hollis Farrow,0-6,0-3,3-3,1,4,5,3,3,1,1,1,2,21:28
+11/21/2025,Carrowmore,45,Lachlan Zeller,0-5,0-5,3-3,3,3,6,4,3,0,5,1,2,30:06
+11/21/2025,Carrowmore,50,Isaias Pilkington,0-8,0-3,1-1,1,2,3,2,1,1,3,2,1,19:03
+11/21/2025,Carrowmore,20,Yannick Bramwell,0-1,0-1,0-0,1,0,1,0,0,2,0,0,0,8:46
+11/21/2025,Carrowmore,04,Isaias Lomax,1-3,1-2,1-1,1,1,2,0,4,1,0,0,1,8:26
+11/21/2025,Carrowmore,21,Cormac Janowski,0-4,0-1,0-0,0,1,1,1,0,0,1,1,1,11:30
+11/21/2025,Carrowmore,30,Oisin Merrick,5-7,4-4,1-1,2,2,4,3,15,4,1,2,1,18:18
+11/21/2025,Carrowmore,44,Vasil Zeller,2-6,0-0,0-0,1,3,4,0,4,2,2,0,1,12:08
+11/21/2025,Carrowmore,24,Malachi Merrick,1-6,0-2,2-2,2,1,3,1,4,1,0,1,1,15:09
+11/21/2025,Carrowmore,13,Solomon Ostrander,3-4,1-1,0-0,0,1,1,1,7,0,1,1,0,9:30
+11/21/2025,Carrowmore,25,Dedrick Ivory,,,,,,,,,,,,,DNP
+11/21/2025,Carrowmore,,TEAM,,,,2,3,5,,,,2,,,
+11/21/2025,Carrowmore,,Totals,20-60,9-26,12-18,18,25,43,22,61,22,23,12,13,200
+11/25/2025,Fenwick,0,Finn Doran,6-7,4-4,0-0,1,2,3,5,16,5,4,0,3,39:55
+11/25/2025,Fenwick,12,Oisin Lomax,8-9,0-6,0-0,1,3,4,0,16,2,2,2,0,20:38
+11/25/2025,Fenwick,05,Hollis Farrow,0-8,0-8,3-3,4,3,7,5,3,6,3,1,0,30:12
+11/25/2025,Fenwick,45,Lachlan Zeller,0-6,0-2,2-6,1,1,2,4,2,7,1,2,0,28:02
+11/25/2025,Fenwick,50,Isaias Pilkington,3-6,0-0,0-0,0,0,0,3,6,1,1,1,0,16:46
+11/25/2025,Fenwick,20,Yannick Bramwell,,,,,,,,,,,,,DNP
+11/25/2025,Fenwick,04,Isaias Lomax,1-1,0-0,0-0,0,1,1,0,2,1,1,0,1,7:39
+11/25/2025,Fenwick,21,Cormac Janowski,1-2,0-1,1-1,0,1,1,1,3,0,2,1,1,13:21
+11/25/2025,Fenwick,30,Oisin Merrick,0-4,0-3,1-2,1,0,1,0,1,2,0,1,1,18:28
+11/25/2025,Fenwick,44,Vasil Zeller,,,,,,,,,,,,,DNP
+11/25/2025,Fenwick,24,Malachi Merrick,3-3,1-1,0-0,0,1,1,0,7,0,2,1,0,11:01
+11/25/2025,Fenwick,13,Solomon Ostrander,3-3,0-1,0-2,0,0,0,1,6,1,1,1,1,7:48
+11/25/2025,Fenwick,25,Dedrick Ivory,0-1,0-0,1-1,1,2,3,0,3,0,1,0,0,6:10
+11/25/2025,Fenwick,,TEAM,,,,2,4,6,,,,3,,,
+11/25/2025,Fenwick,,Totals,25-50,5-26,8-15,11,18,29,19,65,25,21,10,7,200
+12/01/2025,Harlowe,0,Finn Doran,5-6,2-4,2-2,3,1,4,0,14,4,3,2,2,30:00
+12/01/2025,Harlowe,12,Oisin Lomax,5-8,1-2,4-4,1,1,2,2,15,3,0,1,2,19:33
+12/01/2025,Harlowe,05,Hollis Farrow,12-16,3-5,4-4,3,0,3,2,31,0,5,1,2,34:35
+12/01/2025,Harlowe,45,Lachlan Zeller,1-11,1-3,2-2,0,0,0,3,5,3,2,1,1,22:32
+12/01/2025,Harlowe,50,Isaias Pilkington,0-5,0-2,1-2,3,2,5,2,1,3,3,0,2,23:07
+12/01/2025,Harlowe,20,Yannick Bramwell,0-2,0-0,0-0,0,3,3,2,0,1,2,1,1,11:44
+12/01/2025,Harlowe,04,Isaias Lomax,2-2,0-1,0-1,0,1,1,1,4,1,1,1,1,8:58
+12/01/2025,Harlowe,21,Cormac Janowski,9-9,1-4,0-1,1,5,6,2,19,1,3,2,1,18:40
+12/01/2025,Harlowe,30,Oisin Merrick,2-3,2-3,2-2,0,1,1,1,8,4,1,1,1,18:18
+12/01/2025,Harlowe,44,Vasil Zeller,5-5,0-0,0-2,1,3,4,0,10,2,2,1,1,12:33
+12/01/2025,Harlowe,24,Malachi Merrick,,,,,,,,,,,,,DNP
+12/01/2025,Harlowe,13,Solomon Ostrander,,,,,,,,,,,,,DNP
+12/01/2025,Harlowe,,TEAM,,,,2,4,6,,,,3,,,
+12/01/2025,Harlowe,,Totals,41-67,10-24,15-20,14,21,35,15,107,22,25,11,14,200
+12/03/2025,Innisfree,0,Finn Doran,6-6,6-6,1-5,4,5,9,5,19,4,2,2,3,39:47
+12/03/2025,Innisfree,12,Oisin Lomax,3-6,3-5,1-2,1,5,6,0,10,4,2,1,0,19:38
+12/03/2025,Innisfree,05,Hollis Farrow,1-2,0-2,3-3,1,1,2,3,5,0,0,1,2,19:14
+12/03/2025,Innisfree,45,Lachlan Zeller,2-12,2-9,1-7,4,4,8,5,7,8,3,2,1,35:32
+12/03/2025,Innisfree,50,Isaias Pilkington,1-6,1-3,1-1,1,5,6,4,1,2,3,1,0,30:53
+12/03/2025,Innisfree,20,Yannick Bramwell,4-4,2-2,0-2,1,1,2,1,10,1,0,1,0,8:33
+12/03/2025,Innisfree,04,Isaias Lomax,0-1,0-1,3-3,1,1,2,1,3,3,0,0,1,14:01
+12/03/2025,Innisfree,21,Cormac Janowski,2-7,0-3,1-1,2,3,5,2,5,2,0,1,1,19:43
+12/03/2025,Innisfree,30,Oisin Merrick,,,,,,,,,,,,,DNP
+12/03/2025,Innisfree,44,Vasil Zeller,,,,,,,,,,,,,DNP
+12/03/2025,Innisfree,24,Malachi Merrick,6-0,0-0,1-1,2,3,5,1,1,1,2,1,1,12:37
+12/03/2025,Innisfree,13,Solomon Ostrander,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:02
+12/03/2025,Innisfree,,TEAM,,,,2,4,6,,,,2,,,
+12/03/2025,Innisfree,,Totals,19-50,14-31,12-25,19,32,51,22,61,25,14,10,9,200
+12/06/2025,Marchfield,0,Finn Doran,8-20,1-6,1-5,2,11,13,4,18,9,2,1,3,39:56
+12/06/2025,Marchfield,12,Oisin Lomax,4-9,1-7,4-4,1,1,2,3,13,2,2,0,2,25:27
+12/06/2025,Marchfield,05,Hollis Farrow,1-2,1-2,2-4,2,3,5,2,5,5,1,1,2,23:48
+12/06/2025,Marchfield,45,Lachlan Zeller,2-5,2-2,4-4,3,6,9,0,10,2,2,2,1,23:37
+12/06/2025,Marchfield,50,Isaias Pilkington,0-2,0-2,1-3,1,0,1,3,1,4,1,1,2,23:08
+12/06/2025,Marchfield,20,Yannick Bramwell,0-4,0-2,0-1,0,0,0,0,0,0,1,0,0,8:50
+12/06/2025,Marchfield,04,Isaias Lomax,,,,,,,,,,,,,DNP
+12/06/2025,Marchfield,21,Cormac Janowski,2-6,0-1,0-0,1,1,2,1,4,2,2,0,0,11:48
+12/06/2025,Marchfield,30,Oisin Merrick,2-6,0-1,3-3,1,1,2,0,7,1,2,1,1,15:10
+12/06/2025,Marchfield,44,Vasil Zeller,1-2,1-2,0-1,0,1,1,0,3,1,1,0,0,8:57
+12/06/2025,Marchfield,24,Malachi Merrick,0-2,0-2,0-0,1,1,2,0,0,0,1,0,0,8:24
+12/06/2025,Marchfield,13,Solomon Ostrander,3-3,0-0,0-2,1,0,1,1,6,0,0,1,0,10:55
+12/06/2025,Marchfield,,TEAM,,,,1,3,4,,,,3,,,
+12/06/2025,Marchfield,,Totals,23-61,6-27,15-27,14,28,42,14,67,26,18,7,11,200
+12/08/2025,Marchfield,0,Finn Doran,2-13,0-2,4-6,2,3,5,4,8,1,1,0,0,26:20
+12/08/2025,Marchfield,12,Oisin Lomax,0-13,0-8,1-1,3,3,6,3,1,1,3,3,2,31:18
+12/08/2025,Marchfield,05,Hollis Farrow,1-10,1-5,0-1,0,2,2,2,3,1,1,3,0,29:05
+12/08/2025,Marchfield,45,Lachlan Zeller,6-11,0-1,1-6,2,10,12,4,13,2,1,1,4,38:09
+12/08/2025,Marchfield,50,Isaias Pilkington,4-6,0-2,2-2,3,4,7,3,10,2,0,2,0,27:45
+12/08/2025,Marchfield,20,Yannick Bramwell,1-2,0-1,0-1,1,0,1,1,2,1,0,0,1,9:44
+12/08/2025,Marchfield,04,Isaias Lomax,0-5,0-0,0-1,0,2,2,1,0,3,1,1,1,11:50
+12/08/2025,Marchfield,21,Cormac Janowski,,,,,,,,,,,,,DNP
+12/08/2025,Marchfield,30,Oisin Merrick,,,,,,,,,,,,,DNP
+12/08/2025,Marchfield,44,Vasil Zeller,5-5,0-1,0-2,1,1,2,0,10,3,1,1,1,11:08
+12/08/2025,Marchfield,24,Malachi Merrick,3-7,0-1,0-0,1,3,4,2,6,3,1,1,1,14:41
+12/08/2025,Marchfield,13,Solomon Ostrander,,,,,,,,,,,,,DNP
+12/08/2025,Marchfield,,TEAM,,,,5,3,8,,,,0,,,
+12/08/2025,Marchfield,,Totals,22-72,1-21,8-20,18,31,49,20,53,17,9,12,10,200
+12/10/2025,Alderman,0,Finn Doran,4-9,1-3,0-2,3,7,10,2,9,1,0,2,2,25:26
+12/10/2025,Alderman,12,Oisin Lomax,7-4,1-1,2-4,2,4,6,0,11,4,1,1,1,29:41
+12/10/2025,Alderman,05,Hollis Farrow,1-4,1-4,2-2,1,2,3,2,5,1,2,2,2,23:27
+12/10/2025,Alderman,45,Lachlan Zeller,1-4,1-4,4-6,2,6,8,0,7,3,2,1,2,28:48
+12/10/2025,Alderman,50,Isaias Pilkington,9-14,2-6,2-5,1,4,5,0,22,1,5,1,3,29:22
+12/10/2025,Alderman,20,Yannick Bramwell,,,,,,,,,,,,,DNP
+12/10/2025,Alderman,04,Isaias Lomax,0-1,0-0,0-1,0,1,1,0,0,1,0,0,1,8:32
+12/10/2025,Alderman,21,Cormac Janowski,,,,,,,,,,,,,DNP
+12/10/2025,Alderman,30,Oisin Merrick,6-8,0-0,1-1,1,3,4,4,11,6,2,2,1,24:13
+12/10/2025,Alderman,44,Vasil Zeller,0-6,0-3,1-1,0,2,2,1,1,3,1,1,0,13:01
+12/10/2025,Alderman,24,Malachi Merrick,2-3,0-0,1-1,0,0,0,1,5,2,0,1,1,8:40
+12/10/2025,Alderman,13,Solomon Ostrander,,,,,,,,,,,,,DNP
+12/10/2025,Alderman,25,Dedrick Ivory,1-2,0-2,0-0,0,1,1,0,2,2,1,0,0,8:50
+12/10/2025,Alderman,,TEAM,,,,2,1,3,,,,1,,,
+12/10/2025,Alderman,,Totals,28-58,6-23,13-23,12,31,43,10,73,24,15,11,13,200
+12/13/2025,Quarry Ridge,0,Finn Doran,2-3,0-3,0-2,3,3,6,4,4,0,2,3,0,31:20
+12/13/2025,Quarry Ridge,12,Oisin Lomax,5-10,0-1,1-1,1,3,4,3,11,4,0,2,1,18:57
+12/13/2025,Quarry Ridge,05,Hollis Farrow,2-6,1-2,0-6,4,5,9,2,5,3,1,2,0,29:18
+12/13/2025,Quarry Ridge,45,Lachlan Zeller,8-9,1-2,0-5,1,1,2,2,17,5,1,1,1,28:02
+12/13/2025,Quarry Ridge,50,Isaias Pilkington,3-8,3-3,1-4,3,3,6,1,10,0,2,1,3,36:10
+12/13/2025,Quarry Ridge,20,Yannick Bramwell,,,,,,,,,,,,,DNP
+12/13/2025,Quarry Ridge,04,Isaias Lomax,,,,,,,,,,,,,DNP
+12/13/2025,Quarry Ridge,21,Cormac Janowski,0-4,0-4,0-3,2,1,3,1,0,3,2,1,1,15:59
+12/13/2025,Quarry Ridge,30,Oisin Merrick,1-2,0-1,2-2,2,4,6,2,4,2,1,2,1,18:51
+12/13/2025,Quarry Ridge,44,Vasil Zeller,4-5,0-0,0-1,1,2,3,1,8,1,2,0,1,9:06
+12/13/2025,Quarry Ridge,24,Malachi Merrick,1-6,0-2,2-2,0,1,1,2,4,0,1,1,1,12:17
+12/13/2025,Quarry Ridge,13,Solomon Ostrander,,,,,,,,,,,,,DNP
+12/13/2025,Quarry Ridge,,TEAM,,,,2,2,4,,,,0,,,
+12/13/2025,Quarry Ridge,,Totals,26-53,5-18,6-26,19,25,44,18,63,18,12,13,9,200
+12/15/2025,Granholm,0,Finn Doran,8-11,1-5,6-9,2,2,4,3,23,5,1,3,2,39:49
+12/15/2025,Granholm,12,Oisin Lomax,0-2,0-2,2-3,2,5,7,2,2,2,0,2,2,22:33
+12/15/2025,Granholm,05,Hollis Farrow,4-14,4-5,0-0,1,4,5,1,12,5,1,2,2,26:24
+12/15/2025,Granholm,45,Lachlan Zeller,8-12,3-4,2-2,3,6,9,3,21,4,4,1,1,25:38
+12/15/2025,Granholm,50,Isaias Pilkington,3-4,0-0,0-0,2,2,4,2,6,1,1,2,1,18:32
+12/15/2025,Granholm,20,Yannick Bramwell,2-4,1-1,0-2,1,1,2,1,5,0,2,0,1,10:17
+12/15/2025,Granholm,04,Isaias Lomax,3-3,0-2,2-2,2,3,5,2,8,1,0,1,1,12:36
+12/15/2025,Granholm,21,Cormac Janowski,4-4,3-3,0-1,1,3,4,1,11,0,0,1,0,14:42
+12/15/2025,Granholm,30,Oisin Merrick,6-7,0-0,1-2,2,2,4,1,13,0,2,1,2,17:14
+12/15/2025,Granholm,44,Vasil Zeller,3-3,2-2,0-1,1,3,4,1,8,1,0,1,0,12:15
+12/15/2025,Granholm,24,Malachi Merrick,,,,,,,,,,,,,DNP
+12/15/2025,Granholm,,TEAM,,,,0,4,4,,,,2,,,
+12/15/2025,Granholm,,Totals,41-64,14-24,13-22,17,35,52,17,109,19,13,14,12,200
+12/17/2025,Innisfree,0,Finn Doran,3-4,2-2,4-6,5,2,7,1,12,0,6,1,4,39:47
+12/17/2025,Innisfree,12,Oisin Lomax,0-4,0-3,0-1,3,1,4,3,0,4,2,0,0,19:40
+12/17/2025,Innisfree,05,Hollis Farrow,13-13,3-6,5-6,4,8,12,5,34,4,2,2,3,29:15
+12/17/2025,Innisfree,45,Lachlan Zeller,9-13,5-6,4-4,3,7,10,4,27,6,0,0,1,27:43
+12/17/2025,Innisfree,50,Isaias Pilkington,0-2,0-2,0-1,1,0,1,3,0,1,1,0,2,18:47
+12/17/2025,Innisfree,20,Yannick Bramwell,3-3,1-2,0-1,1,0,1,0,7,2,1,1,1,7:54
+12/17/2025,Innisfree,04,Isaias Lomax,2-2,0-0,0-0,1,1,2,1,4,0,1,0,1,6:41
+12/17/2025,Innisfree,21,Cormac Janowski,0-6,0-2,1-2,1,2,3,1,1,1,1,0,1,12:18
+12/17/2025,Innisfree,30,Oisin Merrick,2-6,2-2,0-0,1,1,2,2,6,1,2,0,1,17:11
+12/17/2025,Innisfree,44,Vasil Zeller,,,,,,,,,,,,,DNP
+12/17/2025,Innisfree,24,Malachi Merrick,1-2,0-1,0-1,0,1,1,2,2,2,1,1,1,12:33
+12/17/2025,Innisfree,13,Solomon Ostrander,1-1,0-1,1-1,1,1,2,1,3,0,1,0,0,8:11
+12/17/2025,Innisfree,,TEAM,,,,1,2,3,,,,1,,,
+12/17/2025,Innisfree,,Totals,34-56,13-27,15-23,22,26,48,23,96,21,19,5,15,200
+12/19/2025,Oakhaven,0,Finn Doran,1-3,1-3,3-5,1,2,3,0,6,5,1,0,1,21:54
+12/19/2025,Oakhaven,12,Oisin Lomax,1-6,0-5,4-4,0,1,1,2,6,4,2,1,2,25:32
+12/19/2025,Oakhaven,05,Hollis Farrow,3-3,2-3,0-1,2,2,4,2,8,0,2,3,3,33:32
+12/19/2025,Oakhaven,45,Lachlan Zeller,9-12,1-6,1-3,0,6,6,4,20,4,3,1,2,27:08
+12/19/2025,Oakhaven,50,Isaias Pilkington,0-4,0-4,0-0,3,6,9,3,0,2,3,2,2,25:12
+12/19/2025,Oakhaven,20,Yannick Bramwell,,,,,,,,,,,,,DNP
+12/19/2025,Oakhaven,04,Isaias Lomax,1-3,1-1,0-0,2,3,5,1,3,2,1,1,1,11:10
+12/19/2025,Oakhaven,21,Cormac Janowski,,,,,,,,,,,,,DNP
+12/19/2025,Oakhaven,30,Oisin Merrick,4-5,3-3,2-3,1,1,2,1,13,3,2,0,1,13:44
+12/19/2025,Oakhaven,44,Vasil Zeller,0-3,0-1,0-1,0,0,0,1,0,3,1,0,0,11:38
+12/19/2025,Oakhaven,24,Malachi Merrick,2-3,0-2,0-1,1,0,1,2,4,2,0,0,1,10:08
+12/19/2025,Oakhaven,13,Solomon Ostrander,1-1,1-1,0-1,0,1,1,1,3,1,0,1,1,8:39
+12/19/2025,Oakhaven,25,Dedrick Ivory,2-3,1-1,0-0,1,2,3,2,5,2,1,1,1,11:23
+12/19/2025,Oakhaven,,TEAM,,,,3,4,7,,,,0,,,
+12/19/2025,Oakhaven,,Totals,24-46,10-30,10-19,14,28,42,19,68,28,16,10,15,200
+12/25/2025,Delaford,0,Finn Doran,2-4,1-1,1-1,2,1,3,3,6,2,3,2,1,19:27
+12/25/2025,Delaford,12,Oisin Lomax,1-8,1-3,1-4,3,3,6,3,4,7,1,2,1,28:17
+12/25/2025,Delaford,05,Hollis Farrow,8-8,4-4,4-6,2,7,9,2,24,6,4,2,2,30:52
+12/25/2025,Delaford,45,Lachlan Zeller,3-13,3-4,1-1,0,4,4,3,10,3,2,1,1,26:46
+12/25/2025,Delaford,50,Isaias Pilkington,0-7,0-0,0-1,2,6,8,3,0,1,4,1,3,29:20
+12/25/2025,Delaford,20,Yannick Bramwell,0-1,0-1,2-2,2,1,3,2,2,2,1,1,1,11:55
+12/25/2025,Delaford,04,Isaias Lomax,0-2,0-1,1-1,0,2,2,1,1,2,1,0,0,9:05
+12/25/2025,Delaford,21,Cormac Janowski,3-6,0-2,2-2,1,0,1,1,8,3,1,0,0,10:46
+12/25/2025,Delaford,30,Oisin Merrick,2-3,0-2,0-2,0,2,2,0,4,3,2,0,1,14:17
+12/25/2025,Delaford,44,Vasil Zeller,,,,,,,,,,,,,DNP
+12/25/2025,Delaford,24,Malachi Merrick,0-2,0-0,0-1,1,1,2,1,0,2,1,0,1,8:48
+12/25/2025,Delaford,13,Solomon Ostrander,,,,,,,,,,,,,DNP
+12/25/2025,Delaford,25,Dedrick Ivory,0-5,0-0,1-1,1,3,4,2,1,1,0,0,1,10:27
+12/25/2025,Delaford,,TEAM,,,,4,4,8,,,,1,,,
+12/25/2025,Delaford,,Totals,19-59,9-18,13-22,18,34,52,21,60,32,21,9,12,200
+12/27/2025,Northgate,0,Finn Doran,1-11,1-2,0-3,3,1,4,5,3,4,1,0,2,29:23
+12/27/2025,Northgate,12,Oisin Lomax,8-11,5-6,2-4,1,2,3,1,23,5,3,1,2,23:23
+12/27/2025,Northgate,05,Hollis Farrow,3-10,3-8,0-3,2,8,10,4,9,4,1,1,0,35:36
+12/27/2025,Northgate,45,Lachlan Zeller,16-18,3-6,1-3,2,0,2,5,36,3,5,2,2,39:14
+12/27/2025,Northgate,50,Isaias Pilkington,2-8,0-1,1-1,1,3,4,1,5,2,2,1,0,22:17
+12/27/2025,Northgate,20,Yannick Bramwell,1-3,0-0,0-0,0,1,1,1,2,1,1,1,1,9:21
+12/27/2025,Northgate,04,Isaias Lomax,1-5,0-2,2-3,0,1,1,2,4,1,1,1,0,13:44
+12/27/2025,Northgate,21,Cormac Janowski,3-8,1-4,1-1,3,2,5,3,8,3,3,1,1,17:40
+12/27/2025,Northgate,30,Oisin Merrick,,,,,,,,,,,,,DNP
+12/27/2025,Northgate,44,Vasil Zeller,3-3,0-2,0-1,0,0,0,1,6,0,0,1,0,9:22
+12/27/2025,Northgate,24,Malachi Merrick,,,,,,,,,,,,,DNP
+12/27/2025,Northgate,,TEAM,,,,5,2,7,,,,1,,,
+12/27/2025,Northgate,,Totals,38-77,13-31,7-19,17,20,37,23,96,23,18,9,8,200
+01/02/2026,Alderman,0,Finn Doran,3-12,1-1,1-1,1,8,9,4,8,7,1,3,2,31:01
+01/02/2026,Alderman,12,Oisin Lomax,3-4,2-2,4-6,4,8,12,2,12,2,0,3,3,28:38
+01/02/2026,Alderman,05,Hollis Farrow,10-11,1-2,1-2,2,4,6,4,22,8,1,2,3,39:34
+01/02/2026,Alderman,45,Lachlan Zeller,5-9,5-5,1-1,0,0,0,0,16,1,1,0,1,22:05
+01/02/2026,Alderman,50,Isaias Pilkington,11-15,0-2,1-2,4,2,6,2,23,4,0,0,0,30:37
+01/02/2026,Alderman,20,Yannick Bramwell,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:00
+01/02/2026,Alderman,04,Isaias Lomax,0-5,0-2,0-0,1,2,3,0,0,0,1,1,1,8:47
+01/02/2026,Alderman,21,Cormac Janowski,,,,,,,,,,,,,DNP
+01/02/2026,Alderman,30,Oisin Merrick,0-2,0-0,1-1,0,1,1,2,1,3,3,0,1,18:16
+01/02/2026,Alderman,44,Vasil Zeller,1-5,1-2,0-2,1,2,3,2,3,2,1,1,0,10:58
+01/02/2026,Alderman,24,Malachi Merrick,,,,,,,,,,,,,DNP
+01/02/2026,Alderman,13,Solomon Ostrander,5-5,2-2,1-2,1,1,2,1,13,0,1,1,1,10:04
+01/02/2026,Alderman,,TEAM,,,,3,4,7,,,,0,,,
+01/02/2026,Alderman,,Totals,38-68,12-18,10-17,17,32,49,17,98,27,9,11,12,200
+01/07/2026,Langmere,0,Finn Doran,5-5,3-5,0-2,0,7,7,3,13,6,2,2,1,26:19
+01/07/2026,Langmere,12,Oisin Lomax,1-12,1-2,3-4,3,6,9,1,6,0,5,2,2,27:44
+01/07/2026,Langmere,05,Hollis Farrow,2-3,0-3,1-1,3,2,5,1,5,5,3,2,1,21:47
+01/07/2026,Langmere,45,Lachlan Zeller,2-15,2-7,0-1,2,2,4,3,6,3,1,2,3,28:55
+01/07/2026,Langmere,50,Isaias Pilkington,2-6,2-3,1-6,3,1,4,4,7,2,2,0,2,27:43
+01/07/2026,Langmere,20,Yannick Bramwell,,,,,,,,,,,,,DNP
+01/07/2026,Langmere,04,Isaias Lomax,1-3,1-1,0-0,2,1,3,0,3,0,2,0,1,13:00
+01/07/2026,Langmere,21,Cormac Janowski,0-3,0-3,0-2,1,3,4,2,0,1,0,0,1,18:18
+01/07/2026,Langmere,30,Oisin Merrick,1-9,1-1,0-0,2,5,7,0,3,1,2,2,0,22:52
+01/07/2026,Langmere,44,Vasil Zeller,,,,,,,,,,,,,DNP
+01/07/2026,Langmere,24,Malachi Merrick,1-3,1-3,3-3,2,1,3,1,6,2,2,1,0,13:07
+01/07/2026,Langmere,13,Solomon Ostrander,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:15
+01/07/2026,Langmere,,TEAM,,,,3,3,6,,,,2,,,
+01/07/2026,Langmere,,Totals,15-59,11-28,8-19,21,31,52,15,49,20,21,11,11,200
+01/11/2026,Carrowmore,0,Finn Doran,0-13,0-4,0-4,4,5,9,2,0,3,2,1,3,40:01
+01/11/2026,Carrowmore,12,Oisin Lomax,6-8,1-2,1-5,3,1,4,0,14,3,4,2,1,25:19
+01/11/2026,Carrowmore,05,Hollis Farrow,1-11,1-5,3-4,1,6,7,0,6,3,1,0,0,24:04
+01/11/2026,Carrowmore,45,Lachlan Zeller,0-16,0-3,1-4,1,1,2,3,1,5,2,1,3,30:43
+01/11/2026,Carrowmore,50,Isaias Pilkington,3-4,0-4,3-3,5,4,9,3,9,0,4,1,1,34:33
+01/11/2026,Carrowmore,20,Yannick Bramwell,,,,,,,,,,,,,DNP
+01/11/2026,Carrowmore,04,Isaias Lomax,,,,,,,,,,,,,DNP
+01/11/2026,Carrowmore,21,Cormac Janowski,0-9,0-4,1-3,1,0,1,2,1,1,3,1,1,21:19
+01/11/2026,Carrowmore,30,Oisin Merrick,,,,,,,,,,,,,DNP
+01/11/2026,Carrowmore,44,Vasil Zeller,,,,,,,,,,,,,DNP
+01/11/2026,Carrowmore,24,Malachi Merrick,6-7,1-1,0-1,2,0,2,1,13,2,1,0,0,15:29
+01/11/2026,Carrowmore,13,Solomon Ostrander,3-3,0-2,0-2,1,0,1,1,6,1,1,0,0,8:32
+01/11/2026,Carrowmore,,TEAM,,,,4,2,6,,,,3,,,
+01/11/2026,Carrowmore,,Totals,19-71,3-25,9-26,22,19,41,12,50,18,21,6,9,200
+01/15/2026,Eastvale,0,Finn Doran,5-8,2-6,3-4,0,4,4,3,15,0,3,2,2,26:45
+01/15/2026,Eastvale,12,Oisin Lomax,4-11,1-1,0-2,1,4,5,3,9,1,3,1,1,20:46
+01/15/2026,Eastvale,05,Hollis Farrow,8-16,0-0,2-6,2,7,9,5,18,2,5,3,3,31:59
+01/15/2026,Eastvale,45,Lachlan Zeller,5-10,4-4,1-3,2,3,5,3,15,1,3,0,2,22:23
+01/15/2026,Eastvale,50,Isaias Pilkington,1-2,1-2,2-3,2,3,5,1,5,2,1,1,0,22:27
+01/15/2026,Eastvale,20,Yannick Bramwell,,,,,,,,,,,,,DNP
+01/15/2026,Eastvale,04,Isaias Lomax,0-2,0-1,0-1,1,3,4,0,0,2,1,1,1,11:10
+01/15/2026,Eastvale,21,Cormac Janowski,1-6,0-2,2-2,2,2,4,2,4,2,1,1,0,14:47
+01/15/2026,Eastvale,30,Oisin Merrick,0-2,0-0,4-4,2,3,5,3,4,5,2,2,1,23:11
+01/15/2026,Eastvale,44,Vasil Zeller,6-7,4-4,1-3,0,2,2,0,17,3,2,0,0,13:58
+01/15/2026,Eastvale,24,Malachi Merrick,0-6,0-2,0-2,1,1,2,1,0,2,1,1,0,12:34
+01/15/2026,Eastvale,,TEAM,,,,2,3,5,,,,1,,,
+01/15/2026,Eastvale,,Totals,30-70,12-22,15-30,15,35,50,21,87,20,23,12,10,200
+01/21/2026,Redhill,0,Finn Doran,7-16,4-4,3-6,4,8,12,3,21,3,2,3,3,32:32
+01/21/2026,Redhill,12,Oisin Lomax,3-11,3-3,5-5,0,5,5,3,14,3,4,2,1,27:48
+01/21/2026,Redhill,05,Hollis Farrow,9-12,2-5,0-2,3,1,4,4,20,2,1,1,2,23:42
+01/21/2026,Redhill,45,Lachlan Zeller,2-8,1-1,1-1,2,4,6,3,6,5,1,1,0,20:54
+01/21/2026,Redhill,50,Isaias Pilkington,5-5,2-5,2-2,0,2,2,3,14,4,0,1,1,20:57
+01/21/2026,Redhill,20,Yannick Bramwell,,,,,,,,,,,,,DNP
+01/21/2026,Redhill,04,Isaias Lomax,1-5,1-3,0-1,1,2,3,1,3,1,1,0,0,11:34
+01/21/2026,Redhill,21,Cormac Janowski,1-1,0-1,0-0,1,2,3,0,2,2,2,0,1,14:51
+01/21/2026,Redhill,30,Oisin Merrick,5-9,0-4,1-2,1,4,5,0,11,2,0,1,0,20:15
+01/21/2026,Redhill,44,Vasil Zeller,0-2,0-1,0-1,1,2,3,1,0,2,0,1,1,8:46
+01/21/2026,Redhill,24,Malachi Merrick,0-2,0-1,0-1,0,2,2,1,0,2,1,0,0,9:34
+01/21/2026,Redhill,13,Solomon Ostrander,2-2,0-1,1-1,0,0,0,0,5,1,0,0,0,9:07
+01/21/2026,Redhill,,TEAM,,,,1,3,4,,,,2,,,
+01/21/2026,Redhill,,Totals,35-73,13-29,13-22,14,35,49,19,96,27,14,10,9,200
+01/23/2026,Westmere,0,Finn Doran,17-13,3-7,3-4,4,1,5,4,32,6,0,3,3,32:24
+01/23/2026,Westmere,12,Oisin Lomax,3-3,1-1,1-1,1,6,7,2,8,3,2,1,0,21:14
+01/23/2026,Westmere,05,Hollis Farrow,2-5,0-4,2-2,1,1,2,1,6,6,5,2,1,27:28
+01/23/2026,Westmere,45,Lachlan Zeller,5-7,4-5,5-5,2,1,3,3,19,2,0,1,2,23:26
+01/23/2026,Westmere,50,Isaias Pilkington,2-2,1-2,3-4,2,3,5,1,8,0,1,1,1,17:42
+01/23/2026,Westmere,20,Yannick Bramwell,3-3,0-1,1-1,1,1,2,1,7,1,0,1,1,8:09
+01/23/2026,Westmere,04,Isaias Lomax,1-3,0-0,1-1,2,2,4,1,3,2,1,1,1,13:19
+01/23/2026,Westmere,21,Cormac Janowski,4-6,0-0,0-2,0,2,2,1,8,1,0,1,0,11:16
+01/23/2026,Westmere,30,Oisin Merrick,1-2,1-2,0-0,1,1,2,2,3,2,2,1,1,20:51
+01/23/2026,Westmere,44,Vasil Zeller,1-3,0-3,2-2,2,3,5,0,4,0,0,0,0,12:59
+01/23/2026,Westmere,24,Malachi Merrick,1-4,1-3,2-2,1,0,1,2,5,1,0,0,1,11:12
+01/23/2026,Westmere,13,Solomon Ostrander,,,,,,,,,,,,,DNP
+01/23/2026,Westmere,,TEAM,,,,1,4,5,,,,0,,,
+01/23/2026,Westmere,,Totals,36-55,11-28,20-24,18,25,43,18,103,24,11,12,11,200
+01/28/2026,Redhill,0,Finn Doran,6-7,2-3,0-1,3,3,6,1,14,2,3,0,0,20:39
+01/28/2026,Redhill,12,Oisin Lomax,3-3,0-3,2-4,1,0,1,2,8,1,1,1,1,20:38
+01/28/2026,Redhill,05,Hollis Farrow,2-7,1-1,7-7,5,5,10,4,12,8,3,2,0,39:35
+01/28/2026,Redhill,45,Lachlan Zeller,2-6,1-1,2-3,2,6,8,2,7,6,2,2,0,30:25
+01/28/2026,Redhill,50,Isaias Pilkington,2-6,0-2,1-2,1,2,3,2,5,5,0,2,1,19:41
+01/28/2026,Redhill,20,Yannick Bramwell,1-1,1-1,0-2,1,2,3,1,3,2,1,0,1,10:10
+01/28/2026,Redhill,04,Isaias Lomax,0-2,0-2,0-0,1,2,3,0,0,0,0,0,1,10:05
+01/28/2026,Redhill,21,Cormac Janowski,,,,,,,,,,,,,DNP
+01/28/2026,Redhill,30,Oisin Merrick,6-7,1-3,1-3,0,3,3,1,14,2,2,1,1,15:24
+01/28/2026,Redhill,44,Vasil Zeller,4-4,0-0,0-1,2,3,5,2,8,0,1,1,1,12:06
+01/28/2026,Redhill,24,Malachi Merrick,2-3,0-3,1-3,1,1,2,2,5,2,1,1,0,13:35
+01/28/2026,Redhill,13,Solomon Ostrander,3-4,1-2,0-1,1,1,2,0,7,0,1,0,0,7:42
+01/28/2026,Redhill,,TEAM,,,,1,4,5,,,,2,,,
+01/28/2026,Redhill,,Totals,31-50,7-21,14-27,19,32,51,17,83,28,17,10,6,200
+02/04/2026,Langmere,0,Finn Doran,7-7,2-7,0-4,5,9,14,1,16,7,1,1,0,32:41
+02/04/2026,Langmere,12,Oisin Lomax,7-7,3-6,2-4,0,8,8,3,19,5,2,2,1,27:55
+02/04/2026,Langmere,05,Hollis Farrow,3-6,1-3,1-1,2,4,6,1,8,4,0,0,0,22:12
+02/04/2026,Langmere,45,Lachlan Zeller,1-6,1-2,1-6,2,6,8,3,4,3,4,0,1,33:50
+02/04/2026,Langmere,50,Isaias Pilkington,2-7,0-6,5-6,3,1,4,2,9,6,2,1,2,26:17
+02/04/2026,Langmere,20,Yannick Bramwell,5-6,0-0,0-0,1,3,4,2,10,0,0,1,0,12:08
+02/04/2026,Langmere,04,Isaias Lomax,2-6,2-2,1-1,1,2,3,1,7,3,0,0,0,13:08
+02/04/2026,Langmere,21,Cormac Janowski,,,,,,,,,,,,,DNP
+02/04/2026,Langmere,30,Oisin Merrick,,,,,,,,,,,,,DNP
+02/04/2026,Langmere,44,Vasil Zeller,1-4,1-3,2-2,1,4,5,0,5,0,1,0,0,13:07
+02/04/2026,Langmere,24,Malachi Merrick,0-3,0-2,0-1,1,2,3,1,0,1,0,0,0,9:14
+02/04/2026,Langmere,13,Solomon Ostrander,0-1,0-1,0-1,1,2,3,0,0,2,2,1,0,9:28
+02/04/2026,Langmere,,TEAM,,,,2,2,4,,,,0,,,
+02/04/2026,Langmere,,Totals,28-53,10-32,12-26,19,43,62,14,78,31,12,6,4,200
+02/06/2026,Carrowmore,0,Finn Doran,5-5,3-3,0-1,1,5,6,3,13,1,2,2,1,20:59
+02/06/2026,Carrowmore,12,Oisin Lomax,9-7,1-4,0-2,1,4,5,2,15,1,2,0,1,17:39
+02/06/2026,Carrowmore,05,Hollis Farrow,10-11,1-2,0-1,1,2,3,5,21,6,4,0,4,39:35
+02/06/2026,Carrowmore,45,Lachlan Zeller,0-4,0-2,0-6,2,7,9,1,0,0,3,1,0,34:53
+02/06/2026,Carrowmore,50,Isaias Pilkington,1-9,0-0,0-2,0,0,0,2,2,2,4,2,1,28:28
+02/06/2026,Carrowmore,20,Yannick Bramwell,,,,,,,,,,,,,DNP
+02/06/2026,Carrowmore,04,Isaias Lomax,0-1,0-1,1-1,1,1,2,0,1,0,2,0,0,14:25
+02/06/2026,Carrowmore,21,Cormac Janowski,3-5,1-3,0-0,1,3,4,2,7,1,0,0,1,12:31
+02/06/2026,Carrowmore,30,Oisin Merrick,0-2,0-1,1-2,1,2,3,1,1,1,2,0,1,16:08
+02/06/2026,Carrowmore,44,Vasil Zeller,0-0,0-0,0-0,0,0,0,0,0,0,0,0,0,0:19
+02/06/2026,Carrowmore,24,Malachi Merrick,4-2,1-3,0-1,1,1,2,2,5,3,1,1,1,15:03
+02/06/2026,Carrowmore,,TEAM,,,,4,2,6,,,,1,,,
+02/06/2026,Carrowmore,,Totals,28-50,7-19,2-16,13,27,40,18,65,15,21,6,10,200
+02/10/2026,Pentland,0,Finn Doran,14-18,7-11,1-3,6,3,9,5,36,3,1,2,1,39:34
+02/10/2026,Pentland,12,Oisin Lomax,5-8,4-6,4-5,3,3,6,2,18,4,1,2,1,22:40
+02/10/2026,Pentland,05,Hollis Farrow,1-3,1-2,2-5,1,1,2,4,5,2,3,1,0,26:34
+02/10/2026,Pentland,45,Lachlan Zeller,3-3,2-3,4-7,5,9,14,5,12,1,2,2,2,35:26
+02/10/2026,Pentland,50,Isaias Pilkington,9-10,6-7,1-1,1,1,2,4,28,1,3,1,1,24:04
+02/10/2026,Pentland,20,Yannick Bramwell,,,,,,,,,,,,,DNP
+02/10/2026,Pentland,04,Isaias Lomax,0-3,0-1,0-0,0,1,1,0,0,0,1,0,1,10:57
+02/10/2026,Pentland,21,Cormac Janowski,4-4,2-3,2-2,1,3,4,2,12,2,2,0,1,10:52
+02/10/2026,Pentland,30,Oisin Merrick,,,,,,,,,,,,,DNP
+02/10/2026,Pentland,44,Vasil Zeller,0-3,0-0,2-2,1,2,3,1,2,2,1,1,1,11:47
+02/10/2026,Pentland,24,Malachi Merrick,4-4,1-1,0-1,1,1,2,1,9,0,0,0,0,9:23
+02/10/2026,Pentland,13,Solomon Ostrander,,,,,,,,,,,,,DNP
+02/10/2026,Pentland,25,Dedrick Ivory,2-3,1-1,0-1,0,1,1,0,5,0,0,0,0,8:43
+02/10/2026,Pentland,,TEAM,,,,1,2,3,,,,0,,,
+02/10/2026,Pentland,,Totals,42-59,24-35,16-27,20,27,47,24,127,15,14,9,8,200
+02/13/2026,Thornbury,0,Finn Doran,8-9,5-5,2-2,3,5,8,2,23,6,1,1,1,28:11
+02/13/2026,Thornbury,12,Oisin Lomax,4-7,2-2,2-3,3,5,8,2,12,3,1,2,1,21:25
+02/13/2026,Thornbury,05,Hollis Farrow,1-4,0-4,0-5,1,5,6,2,2,3,2,2,0,21:47
+02/13/2026,Thornbury,45,Lachlan Zeller,16-17,0-2,4-6,1,7,8,2,36,7,0,0,2,32:15
+02/13/2026,Thornbury,50,Isaias Pilkington,4-8,1-2,5-5,3,5,8,2,14,2,0,1,1,23:06
+02/13/2026,Thornbury,20,Yannick Bramwell,,,,,,,,,,,,,DNP
+02/13/2026,Thornbury,04,Isaias Lomax,1-4,0-0,1-1,1,2,3,0,3,1,0,1,0,10:38
+02/13/2026,Thornbury,21,Cormac Janowski,5-5,1-3,1-1,0,3,3,1,12,2,1,1,0,11:35
+02/13/2026,Thornbury,30,Oisin Merrick,,,,,,,,,,,,,DNP
+02/13/2026,Thornbury,44,Vasil Zeller,1-4,1-1,1-2,1,1,2,0,4,1,0,0,0,9:38
+02/13/2026,Thornbury,24,Malachi Merrick,3-3,1-3,1-1,1,3,4,3,8,1,2,1,2,15:32
+02/13/2026,Thornbury,13,Solomon Ostrander,4-7,1-4,0-1,1,3,4,1,9,3,2,0,1,13:51
+02/13/2026,Thornbury,25,Dedrick Ivory,3-5,0-1,2-2,2,0,2,2,8,3,2,1,0,12:02
+02/13/2026,Thornbury,,TEAM,,,,1,2,3,,,,3,,,
+02/13/2026,Thornbury,,Totals,50-73,12-27,19-29,18,41,59,17,131,32,14,10,8,200
+02/15/2026,Vantage,0,Finn Doran,2-7,2-7,2-6,1,1,2,5,8,5,2,2,0,28:56
+02/15/2026,Vantage,12,Oisin Lomax,4-9,1-5,1-4,2,5,7,1,10,5,2,2,1,25:33
+02/15/2026,Vantage,05,Hollis Farrow,10-10,4-5,1-1,2,2,4,3,25,4,3,2,1,20:18
+02/15/2026,Vantage,45,Lachlan Zeller,4-12,1-6,0-5,4,5,9,5,9,1,2,2,1,33:29
+02/15/2026,Vantage,50,Isaias Pilkington,10-11,1-3,0-0,2,0,2,3,21,5,3,1,2,24:22
+02/15/2026,Vantage,20,Yannick Bramwell,0-4,0-2,0-1,0,0,0,0,0,2,1,0,1,9:15
+02/15/2026,Vantage,04,Isaias Lomax,,,,,,,,,,,,,DNP
+02/15/2026,Vantage,21,Cormac Janowski,3-3,0-2,0-3,1,4,5,1,6,2,1,1,0,16:51
+02/15/2026,Vantage,30,Oisin Merrick,0-7,0-3,3-3,0,1,1,1,3,3,3,2,1,15:53
+02/15/2026,Vantage,44,Vasil Zeller,0-2,0-2,0-3,2,2,4,0,0,0,2,1,1,13:05
+02/15/2026,Vantage,24,Malachi Merrick,2-2,0-2,1-1,1,0,1,2,5,3,0,1,0,12:18
+02/15/2026,Vantage,,TEAM,,,,4,1,5,,,,0,,,
+02/15/2026,Vantage,,Totals,35-67,9-37,8-27,19,21,40,21,87,30,19,14,8,200

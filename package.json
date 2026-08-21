@@ -18,6 +18,8 @@
     "dev:nextjs": "pnpm --filter @updog-examples/nextjs dev",
     "dev:vanilla": "pnpm --filter @updog-examples/vanilla dev",
     "build": "pnpm -r build",
+    "test": "pnpm -r --if-present test",
+    "fixtures": "pnpm --filter @updog-examples/fixtures fixtures",
     "lint": "pnpm -r --if-present lint",
     "check": "pnpm -r --if-present check",
     "format": "prettier --write .",
