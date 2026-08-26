@@ -69,3 +69,80 @@ describe("renderFixture", () => {
     }).toThrow(/no sheets/);
   });
 });
+
+const encoded = defineFixture({
+  name: "two-tills",
+  sheets: [
+    sheet("Old", { rows: 1, columns: { Name: constant("Böll") } }),
+    sheet("New", { rows: 1, columns: { Name: constant("Ōe") } }),
+  ],
+  outputs: ["csv"],
+  csvFiles: [
+    { suffix: "old", parts: [{ sheet: "Old", encoding: "windows-1252" }] },
+    { suffix: "new", parts: [{ sheet: "New", bom: true }] },
+    {
+      suffix: "merged",
+      parts: [
+        { sheet: "New", bom: true },
+        { sheet: "Old", encoding: "windows-1252", header: false },
+      ],
+    },
+  ],
+});
+
+describe("renderFixture with csvFiles", () => {
+  const files = renderFixture(encoded);
+  const byPath = new Map(
+    files.map((file) => {
+      return [file.path, file.bytes];
+    }),
+  );
+
+  it("names one file per entry and writes no per-sheet csv", () => {
+    expect([...byPath.keys()]).toEqual([
+      "two-tills/two-tills--old.csv",
+      "two-tills/two-tills--new.csv",
+      "two-tills/two-tills--merged.csv",
+    ]);
+  });
+
+  it("encodes a part in the encoding it names", () => {
+    const old = byPath.get("two-tills/two-tills--old.csv") as Uint8Array;
+    expect(Array.from(old)).toContain(0xf6);
+    expect(new TextDecoder("windows-1252").decode(old)).toContain("Böll");
+  });
+
+  it("puts the byte order mark in front of the part that asks for it", () => {
+    const fresh = byPath.get("two-tills/two-tills--new.csv") as Uint8Array;
+    expect(Array.from(fresh.slice(0, 3))).toEqual([0xef, 0xbb, 0xbf]);
+  });
+
+  it("concatenates parts and drops the second header", () => {
+    const merged = byPath.get("two-tills/two-tills--merged.csv") as Uint8Array;
+    const text = new TextDecoder("windows-1252").decode(merged);
+    expect(text.match(/Name/g)).toHaveLength(1);
+    expect(text).toContain("Böll");
+  });
+
+  it("refuses csvFiles without a csv output", () => {
+    expect(() => {
+      return defineFixture({
+        name: "no-csv",
+        sheets: [sheet("Old", { rows: 1, columns: { Name: constant("a") } })],
+        outputs: ["xlsx"],
+        csvFiles: [{ suffix: "old", parts: [{ sheet: "Old" }] }],
+      });
+    }).toThrow(/csvFiles without a csv output/);
+  });
+
+  it("refuses a part naming a sheet that does not exist", () => {
+    expect(() => {
+      return defineFixture({
+        name: "wrong-sheet",
+        sheets: [sheet("Old", { rows: 1, columns: { Name: constant("a") } })],
+        outputs: ["csv"],
+        csvFiles: [{ suffix: "old", parts: [{ sheet: "Missing" }] }],
+      });
+    }).toThrow(/no sheet named "Missing"/);
+  });
+});

@@ -1,7 +1,9 @@
 export { toCsv } from "./csv";
 export type { CsvOptions } from "./csv";
 export { defineFixture, renderFixture } from "./define";
-export type { Fixture, FixtureFile, Output } from "./define";
+export type { CsvFile, CsvPart, Fixture, FixtureFile, Output } from "./define";
+export { concatBytes, encodeText, UTF8_BOM } from "./encode";
+export type { Encoding } from "./encode";
 export {
   blank,
   constant,
@@ -14,7 +16,7 @@ export {
   text,
 } from "./generators";
 export type { Generator, PartialRow } from "./generators";
-export { isFormattedNumber, padded } from "./formatted";
+export { clock, isFormattedNumber, padded } from "./formatted";
 export type { CellValue, FormattedNumber, Sheet, Workbook } from "./model";
 export { createRng } from "./random";
 export type { Rng } from "./random";

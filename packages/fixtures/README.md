@@ -43,6 +43,41 @@ export default defineFixture({
 });
 ```
 
+## CSV files with their own encoding
+
+By default a fixture writes one UTF-8 CSV per sheet, with no byte order mark.
+`csvFiles` replaces that with an explicit list, and each file is built from one
+or more parts:
+
+```ts
+export default defineFixture({
+  name: "cawdray-books",
+  sheets: [sheet("Till", { ... }), sheet("System", { ... })],
+  outputs: ["csv"],
+  csvFiles: [
+    { suffix: "till-cp1252", parts: [{ sheet: "Till", encoding: "windows-1252" }] },
+    { suffix: "system", parts: [{ sheet: "System", bom: true }] },
+    {
+      suffix: "merged",
+      parts: [
+        { sheet: "System", bom: true },
+        { sheet: "Till", encoding: "windows-1252", header: false },
+      ],
+    },
+  ],
+});
+```
+
+The file is named `<fixture>--<suffix>.csv`. A part names a `sheet` (optional
+when the fixture has one), an `encoding` (`utf-8`, `windows-1252` or
+`windows-1251`, default `utf-8`), a `bom` flag that writes `EF BB BF` in front
+of that part, and `header: false` to drop the preamble and header row, which is
+what makes a second part read as a continuation of the first.
+
+A character the target table cannot hold is written as `?`, which is what a
+real exporter does: `Ōe, Kenzaburō` written to Windows-1252 becomes
+`?e, Kenzabur?`, and the information is gone before the file exists.
+
 `seq` numbers from 1, so row index 0 renders as `HL-000001`. `overrides` are
 0-based over the generated rows and exclude the preamble, so the row reading
 `HL-000013` is `{ at: 12 }`.
@@ -68,10 +103,17 @@ With one sheet a CSV is named after the fixture; with several it gains a
 | `blank(inner, probability)`      | `inner`, or `null` at the given rate     |
 | `custom(fn)`                     | anything, with `(rng, rowIndex, row)`    |
 
-One helper is a cell rather than a generator. `padded(value, width)` returns a
-number carrying its own zero-filling display format, so the workbook stores
-`417` under `00000` and the CSV stores `00417`. Use it inside `custom` or an
-override.
+Two helpers are cells rather than generators, and both return a number carrying
+its own display format. Use either inside `custom` or an override.
+
+`padded(value, width)` makes the workbook store `417` under `00000` while the
+CSV stores `00417`.
+
+`clock(text, formatCode?)` makes the workbook store a fraction of a day under a
+time format while the CSV stores the text: `clock("9:00 AM", "h:mm AM/PM")`
+writes `0.375` into the sheet and `9:00 AM` into the CSV. The format code
+defaults to `hh:mm`. The text is kept verbatim, so it has to be the time the
+format code would show.
 
 Columns evaluate in declaration order, so `email` and `custom` can read columns
 declared above them.

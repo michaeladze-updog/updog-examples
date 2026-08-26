@@ -38,6 +38,24 @@ the entire subject of the leading-zeros article, and `roundTrip.test.ts` pins
 it by reading a generated workbook with SheetJS and asserting `w === "00417"`
 over a cell whose `v` is 417.
 
+## A time of day is a fraction of a day carrying its own clock
+
+`clock(text, formatCode)` is the same seam as `padded`, applied to time.
+Excel holds a time as a fraction of a day, so `clock("9:00 AM", "h:mm AM/PM")`
+returns a `FormattedNumber` whose value is `0.375`, whose format code is the
+clock the workbook draws, and whose text is what a person saw. The CSV writer
+writes `9:00 AM`; the XLSX writer writes `0.375` under the format code, which
+is what a spreadsheet actually stores.
+
+The text is passed in rather than derived, because rendering a format code the
+way Excel renders it means reimplementing Excel. Every caller already knows the
+text it wants, so the helper checks that the text is a time it can measure and
+keeps it verbatim.
+
+The regex takes up to three hour digits, so an elapsed value past twenty-four
+hours can be written as `clock("32:30", "[h]:mm")`. An hour outside 1..12 beside
+an `am` or `pm` marker throws, since no clock has one.
+
 ## hartwell-budget
 
 The only fixture that builds its `Sheet` literally instead of through `sheet()`.
@@ -179,3 +197,46 @@ drops a bin to two digits, and row 51 leaves a cost centre empty.
 Barcodes are GTIN-13 values right justified to fourteen digits, which is what
 GS1 XML asks for. The base is `5012340000000`, well inside the safe integer
 range, so no value in the column depends on float precision.
+
+## netherby-studio
+
+An hourly freelancer's timesheet, 168 rows, shipped as a CSV and as a workbook
+of the same sheet. Started and Finished are `clock()` cells on a twelve-hour
+format code, so the workbook stores day fractions under `h:mm AM/PM` and the
+CSV stores `9:00 AM`. Hours is a plain decimal, which is how every timesheet
+product on the market asks for it.
+
+Six planted rows carry the dirt, and each one lands somewhere different.
+Row 6 leaves one finish time without its day-period marker, so a single bare
+value sits in a column of marked ones. The winning shape for that column carries
+a marker and cannot read it, which is what makes the same `5:30` land as text
+here and as `05:30` in a column of bare digits. Row 17 carries a lettered zone.
+Row 23 is a shift that crosses midnight and finishes at `12:00 AM`. Row 45 writes a duration into the Hours column as `6:45`.
+Row 61 carries a finish time whose marker contradicts the Hours column, so every
+cell reads and only the row as a whole is questionable. Row 72 leaves the start
+empty.
+
+Hours on the planted rows are overridden alongside the times, so every row of
+the file agrees with itself except row 61, where the disagreement is the point.
+
+## A legacy encoding is written from the decoder, not from a table
+
+`src/encode.ts` builds its Windows-1252 and Windows-1251 tables by decoding the
+bytes `0x80` to `0xFF` with `TextDecoder` and inverting the result. A hand-typed
+index of 128 code points would be one typo away from a file that lies, and the
+runtime already holds the WHATWG index the SDK's own decoder reads. Node ships
+full ICU, so both tables exist wherever the generator runs.
+
+Encoding is one-way and lossy by design. A character the table has no byte for
+becomes `?`, the same substitution a spreadsheet makes on the way out, which is
+how a fixture can hold a name that was already destroyed before the file
+existed. Decoding such a file recovers nothing, and no article should pretend
+otherwise.
+
+## Why a CSV file is built from parts
+
+A real merged export is two files concatenated, and the halves disagree about
+their encoding. `CsvFile.parts` models exactly that: each part carries its own
+encoding and its own byte order mark, and `header: false` turns the second part
+into a continuation rather than a second table. The mark belongs to the part
+because in the file it belongs to the half that came from Excel.

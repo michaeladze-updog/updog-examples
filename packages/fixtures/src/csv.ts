@@ -6,6 +6,7 @@ export type CsvOptions = {
   eol?: string;
   bom?: boolean;
   quoteAll?: boolean;
+  header?: boolean;
 };
 
 const BOM = "﻿";
@@ -38,11 +39,10 @@ function needsQuote(field: string, delimiter: string): boolean {
 export function toCsv(sheet: Sheet, options: CsvOptions = {}): string {
   const delimiter = options.delimiter ?? ",";
   const eol = options.eol ?? "\n";
-  const source: CellValue[][] = [
-    ...sheet.preamble,
-    sheet.header,
-    ...sheet.rows,
-  ];
+  const source: CellValue[][] =
+    options.header === false
+      ? [...sheet.rows]
+      : [...sheet.preamble, sheet.header, ...sheet.rows];
 
   const lines = source.map((row) => {
     return row

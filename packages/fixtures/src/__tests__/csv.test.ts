@@ -77,4 +77,11 @@ describe("toCsv", () => {
     const result = toCsv({ ...base, rows: [["only"]] });
     expect(result).toContain("\nonly\n");
   });
+  it("drops the preamble and the header when asked", () => {
+    const result = toCsv(
+      { ...base, preamble: [["Cawdray Books"], []] },
+      { header: false },
+    );
+    expect(result).toBe("HL-000001,DHL\nHL-000002,UPS\n");
+  });
 });

@@ -1,0 +1,641 @@
+Vendor code,Vendor name,Spend category,Incoterm,Lead time (days),Approved on,Status,Buyer contact,E-mail
+HW-0001,Ambleforth Cartons Ltd,Packaging,DDP,12,2024-03-26,Pending,Anselm Ambleside,anselm.ambleside@ambleforthcart.example
+HW-0002,Barrowden Couriers Oy,Logistics,DAP,31,2025-05-21,Approved,Deryn Lockhart,deryn.lockhart@barrowdencouri.example
+HW-0003,Cheswick Glassworks SRL,Raw materials,DAP,46,2024-09-26,Approved,Gwilym Gadsby,gwilym.gadsby@cheswickglassw.example
+HW-0004,Dunsmere Crates BV,Packaging,DDP,51,2026-03-08,Approved,Jolanta Barrowclough,jolanta.barrowclough@dunsmerecrates.example
+HW-0005,Edgeworth Warehousing Group,Logistics,FOB,38,2025-05-12,Approved,Merrick Marchbank,merrick.marchbank@edgeworthwareh.example
+HW-0006,Frampton Cleaning PLC,Maintenance,DAP,22,2026-06-16,Approved,Petra Halliwell,petra.halliwell@framptoncleani.example
+HW-0007,Galloway Films Ltd,Packaging,FOB,60,2025-02-03,Suspended,Caius Chevington,caius.chevington@gallowayfilmsl.example
+HW-0008,Hartshorne Polymers Oy,Raw materials,FOB,37,2024-09-19,Approved,Ffion Nettleford,ffion.nettleford@hartshornepoly.example
+HW-0009,Innesford Calibration SRL,Maintenance,FOB,22,2024-12-12,Approved,Idris Inkpen,idris.inkpen@innesfordcalib.example
+HW-0010,Jevington Labels BV,Packaging,DDP,25,2025-07-02,Approved,Linnet Dunwoody,linnet.dunwoody@jevingtonlabel.example
+HW-0011,Knayton Adhesives Group,Raw materials,EXW,38,2024-10-10,Pending,Osric Oldbury,osric.oldbury@knaytonadhesiv.example
+HW-0012,Larkhall Tooling PLC,Maintenance,DDP,57,2025-04-21,Approved,Brioney Jelbart,brioney.jelbart@larkhalltoolin.example
+HW-0013,Mirfield Pallets Ltd,Packaging,DAP,29,2025-12-09,Approved,Eamon Elverton,eamon.elverton@mirfieldpallet.example
+HW-0014,Newsholme Alloys Oy,Raw materials,DAP,48,2024-11-27,Approved,Hesper Prescott,hesper.prescott@newsholmealloy.example
+HW-0015,Oswaldkirk Filters SRL,Maintenance,DDP,15,2024-07-21,Approved,Kester Kinnaird,kester.kinnaird@oswaldkirkfilt.example
+HW-0016,Penrhos Haulage BV,Logistics,DDP,22,2024-02-06,Approved,Nessa Fanshawe,nessa.fanshawe@penrhoshaulage.example
+HW-0017,Quorndon Pigments Group,Raw materials,DDP,59,2024-07-16,Pending,Anselm Ambleside,anselm.ambleside@quorndonpigmen.example
+HW-0018,Redmarley Lubricants PLC,Maintenance,DAP,17,2025-09-03,Pending,Deryn Lockhart,deryn.lockhart@redmarleylubri.example
+HW-0019,Sedgeberrow Freight Ltd,Logistics,DDP,11,2026-04-19,Approved,Gwilym Gadsby,gwilym.gadsby@sedgeberrowfre.example
+HW-0020,Tavistoke Timber Oy,Raw materials,DAP,11,2024-05-30,Approved,Jolanta Barrowclough,jolanta.barrowclough@tavistoketimbe.example
+HW-0021,Ulverston Cartons SRL,Packaging,DAP,7,2024-07-06,Pending,Merrick Marchbank,merrick.marchbank@ulverstoncarto.example
+HW-0022,Vaynor Couriers BV,Logistics,EXW,19,2025-09-24,Pending,Petra Halliwell,petra.halliwell@vaynorcouriers.example
+HW-0023,Whitbourne Glassworks Group,Raw materials,DAP,15,2026-01-19,Approved,Caius Chevington,caius.chevington@whitbourneglas.example
+HW-0024,Yatesbury Crates PLC,Packaging,EXW,40,2026-06-20,Approved,Ffion Nettleford,ffion.nettleford@yatesburycrate.example
+HW-0025,Alnmouth Warehousing Ltd,Logistics,DAP,49,2025-05-21,Approved,Idris Inkpen,idris.inkpen@alnmouthwareho.example
+HW-0026,Bexwell Cleaning Oy,Maintenance,DAP,13,2025-07-14,Pending,Linnet Dunwoody,linnet.dunwoody@bexwellcleanin.example
+HW-0027,Ambleforth Films SRL,Packaging,EXW,11,2025-03-14,Approved,Osric Oldbury,osric.oldbury@ambleforthfilm.example
+HW-0028,Barrowden Polymers BV,Raw materials,FOB,10,2024-10-05,Approved,Brioney Jelbart,brioney.jelbart@barrowdenpolym.example
+HW-0029,Cheswick Calibration Group,Maintenance,DDP,51,2026-03-18,Approved,Eamon Elverton,eamon.elverton@cheswickcalibr.example
+HW-0030,Dunsmere Labels PLC,Packaging,FOB,42,2025-08-09,Pending,Hesper Prescott,hesper.prescott@dunsmerelabels.example
+HW-0031,Edgeworth Adhesives Ltd,Raw materials,EXW,36,2026-02-26,Pending,Kester Kinnaird,kester.kinnaird@edgeworthadhes.example
+HW-0032,Frampton Tooling Oy,Maintenance,DAP,30,2025-08-17,Approved,Nessa Fanshawe,nessa.fanshawe@framptontoolin.example
+HW-0033,Galloway Pallets SRL,Packaging,DDP,8,2025-02-04,Approved,Anselm Ambleside,anselm.ambleside@gallowaypallet.example
+HW-0034,Hartshorne Alloys BV,Raw materials,FOB,7,2025-12-29,Approved,Deryn Lockhart,deryn.lockhart@hartshorneallo.example
+HW-0035,Innesford Filters Group,Maintenance,FOB,45,2025-04-08,Approved,Gwilym Gadsby,gwilym.gadsby@innesfordfilte.example
+HW-0036,Jevington Haulage PLC,Logistics,DDP,33,2024-03-08,Approved,Jolanta Barrowclough,jolanta.barrowclough@jevingtonhaula.example
+HW-0037,Knayton Pigments Ltd,Raw materials,DAP,28,2025-04-22,Pending,Merrick Marchbank,merrick.marchbank@knaytonpigment.example
+HW-0038,Larkhall Lubricants Oy,Maintenance,DAP,50,2025-03-16,Pending,Petra Halliwell,petra.halliwell@larkhalllubric.example
+HW-0039,Mirfield Freight SRL,Logistics,DDP,47,2025-11-17,Approved,Caius Chevington,caius.chevington@mirfieldfreigh.example
+HW-0040,Newsholme Timber BV,Raw materials,DAP,7,2025-04-23,Approved,Ffion Nettleford,ffion.nettleford@newsholmetimbe.example
+HW-0041,Oswaldkirk Cartons Group,Packaging,DAP,49,2024-10-16,Approved,Idris Inkpen,idris.inkpen@oswaldkirkcart.example
+HW-0042,Penrhos Couriers PLC,Logistics,FOB,57,2024-10-17,Approved,Linnet Dunwoody,linnet.dunwoody@penrhoscourier.example
+HW-0043,Quorndon Glassworks Ltd,Raw materials,EXW,55,2024-02-17,Approved,Osric Oldbury,osric.oldbury@quorndonglassw.example
+HW-0044,Redmarley Crates Oy,Packaging,DAP,24,2024-10-11,Pending,Brioney Jelbart,brioney.jelbart@redmarleycrate.example
+HW-0045,Sedgeberrow Warehousing SRL,Logistics,DAP,51,2024-05-27,Approved,Eamon Elverton,eamon.elverton@sedgeberrowwar.example
+HW-0046,Tavistoke Cleaning BV,Maintenance,EXW,8,2026-07-26,Pending,Hesper Prescott,hesper.prescott@tavistokeclean.example
+HW-0047,Ulverston Films Group,Packaging,DAP,27,2024-10-01,Approved,Kester Kinnaird,kester.kinnaird@ulverstonfilms.example
+HW-0048,Vaynor Polymers PLC,Raw materials,FOB,21,2026-08-01,Approved,Nessa Fanshawe,nessa.fanshawe@vaynorpolymers.example
+HW-0049,Whitbourne Calibration Ltd,Maintenance,DDP,12,2025-09-13,Pending,Anselm Ambleside,anselm.ambleside@whitbournecali.example
+HW-0050,Yatesbury Labels Oy,Packaging,DDP,44,2025-01-05,Approved,Deryn Lockhart,deryn.lockhart@yatesburylabel.example
+HW-0051,Alnmouth Adhesives SRL,Raw materials,DAP,33,2025-05-26,Approved,Gwilym Gadsby,gwilym.gadsby@alnmouthadhesi.example
+HW-0052,Bexwell Tooling BV,Maintenance,DDP,36,2024-08-08,Approved,Jolanta Barrowclough,jolanta.barrowclough@bexwelltooling.example
+HW-0053,Ambleforth Pallets Group,Packaging,FOB,50,2025-09-05,Pending,Merrick Marchbank,merrick.marchbank@ambleforthpall.example
+HW-0054,Barrowden Alloys PLC,Raw materials,EXW,10,2025-05-31,Approved,Petra Halliwell,petra.halliwell@barrowdenalloy.example
+HW-0055,Cheswick Filters Ltd,Maintenance,FOB,14,2024-05-05,Approved,Caius Chevington,caius.chevington@cheswickfilter.example
+HW-0056,Dunsmere Haulage Oy,Logistics,DAP,6,2025-05-15,Pending,Ffion Nettleford,ffion.nettleford@dunsmerehaulag.example
+HW-0057,Edgeworth Pigments SRL,Raw materials,EXW,17,2024-12-21,Approved,Idris Inkpen,idris.inkpen@edgeworthpigme.example
+HW-0058,Frampton Lubricants BV,Maintenance,DAP,28,2024-05-02,Pending,Linnet Dunwoody,linnet.dunwoody@framptonlubric.example
+HW-0059,Galloway Freight Group,Logistics,EXW,52,2025-05-31,Suspended,Osric Oldbury,osric.oldbury@gallowayfreigh.example
+HW-0060,Hartshorne Timber PLC,Raw materials,DAP,53,2024-01-23,Approved,Brioney Jelbart,brioney.jelbart@hartshornetimb.example
+HW-0061,Innesford Cartons Ltd,Packaging,EXW,20,2026-05-01,Approved,Eamon Elverton,eamon.elverton@innesfordcarto.example
+HW-0062,Jevington Couriers Oy,Logistics,DDP,49,2024-07-27,Approved,Hesper Prescott,hesper.prescott@jevingtoncouri.example
+HW-0063,Knayton Glassworks SRL,Raw materials,DDP,60,2024-07-23,Approved,Kester Kinnaird,kester.kinnaird@knaytonglasswo.example
+HW-0064,Larkhall Crates BV,Packaging,FOB,50,2025-04-21,Approved,Nessa Fanshawe,nessa.fanshawe@larkhallcrates.example
+HW-0065,Mirfield Warehousing Group,Logistics,FOB,60,2025-07-05,Approved,Anselm Ambleside,anselm.ambleside@mirfieldwareho.example
+HW-0066,Newsholme Cleaning PLC,Maintenance,DDP,59,2026-06-11,Approved,Deryn Lockhart,deryn.lockhart@newsholmeclean.example
+HW-0067,Oswaldkirk Films Ltd,Packaging,DAP,28,2024-11-29,Pending,Gwilym Gadsby,gwilym.gadsby@oswaldkirkfilm.example
+HW-0068,Penrhos Polymers Oy,Raw materials,DAP,4,2026-01-23,Pending,Jolanta Barrowclough,jolanta.barrowclough@penrhospolymer.example
+HW-0069,Quorndon Calibration SRL,Maintenance,DAP,34,2025-06-04,Approved,Merrick Marchbank,merrick.marchbank@quorndoncalibr.example
+HW-0070,Redmarley Labels BV,Packaging,DDP,23,2025-04-23,Approved,Petra Halliwell,petra.halliwell@redmarleylabel.example
+HW-0071,Sedgeberrow Adhesives Group,Raw materials,DAP,33,2024-07-23,Pending,Caius Chevington,caius.chevington@sedgeberrowadh.example
+HW-0072,Tavistoke Tooling PLC,Maintenance,DDP,52,2024-11-12,Approved,Ffion Nettleford,ffion.nettleford@tavistoketooli.example
+HW-0073,Ulverston Pallets Ltd,Packaging,EXW,8,2026-03-30,Pending,Idris Inkpen,idris.inkpen@ulverstonpalle.example
+HW-0074,Vaynor Alloys Oy,Raw materials,DAP,5,2025-08-01,Approved,Linnet Dunwoody,linnet.dunwoody@vaynoralloysoy.example
+HW-0075,Whitbourne Filters SRL,Maintenance,DDP,28,2024-07-08,Pending,Osric Oldbury,osric.oldbury@whitbournefilt.example
+HW-0076,Yatesbury Haulage BV,Logistics,EXW,55,2024-09-28,Approved,Brioney Jelbart,brioney.jelbart@yatesburyhaula.example
+HW-0077,Alnmouth Pigments Group,Raw materials,DAP,15,2025-09-01,Pending,Eamon Elverton,eamon.elverton@alnmouthpigmen.example
+HW-0078,Bexwell Lubricants PLC,Maintenance,DDP,5,2025-02-20,Pending,Hesper Prescott,hesper.prescott@bexwelllubrica.example
+HW-0079,Ambleforth Freight Ltd,Logistics,DAP,41,2024-08-10,Suspended,Kester Kinnaird,kester.kinnaird@ambleforthfrei.example
+HW-0080,Barrowden Timber Oy,Raw materials,FOB,15,2024-02-18,Suspended,Nessa Fanshawe,nessa.fanshawe@barrowdentimbe.example
+HW-0081,Cheswick Cartons SRL,Packaging,DDP,59,2025-11-02,Approved,Anselm Ambleside,anselm.ambleside@cheswickcarton.example
+HW-0082,Dunsmere Couriers BV,Logistics,FOB,42,2025-03-06,Approved,Deryn Lockhart,deryn.lockhart@dunsmerecourie.example
+HW-0083,Edgeworth Glassworks Group,Raw materials,FOB,51,2024-05-12,Pending,Gwilym Gadsby,gwilym.gadsby@edgeworthglass.example
+HW-0084,Frampton Crates PLC,Packaging,DAP,43,2026-07-13,Approved,Jolanta Barrowclough,jolanta.barrowclough@framptoncrates.example
+HW-0085,Galloway Warehousing Ltd,Logistics,EXW,52,2026-07-20,Pending,Merrick Marchbank,merrick.marchbank@gallowaywareho.example
+HW-0086,Hartshorne Cleaning Oy,Maintenance,FOB,27,2024-04-21,Approved,Petra Halliwell,petra.halliwell@hartshorneclea.example
+HW-0087,Innesford Films SRL,Packaging,EXW,22,2026-05-24,Pending,Caius Chevington,caius.chevington@innesfordfilms.example
+HW-0088,Jevington Polymers BV,Raw materials,EXW,48,2024-05-23,Suspended,Ffion Nettleford,ffion.nettleford@jevingtonpolym.example
+HW-0089,Knayton Calibration Group,Maintenance,EXW,8,2026-05-05,Pending,Idris Inkpen,idris.inkpen@knaytoncalibra.example
+HW-0090,Larkhall Labels PLC,Packaging,FOB,43,2026-02-05,Approved,Linnet Dunwoody,linnet.dunwoody@larkhalllabels.example
+HW-0091,Mirfield Adhesives Ltd,Raw materials,DAP,30,2025-05-09,Approved,Osric Oldbury,osric.oldbury@mirfieldadhesi.example
+HW-0092,Newsholme Tooling Oy,Maintenance,DDP,17,2025-03-02,Approved,Brioney Jelbart,brioney.jelbart@newsholmetooli.example
+HW-0093,Oswaldkirk Pallets SRL,Packaging,EXW,58,2025-10-07,Pending,Eamon Elverton,eamon.elverton@oswaldkirkpall.example
+HW-0094,Penrhos Alloys BV,Raw materials,FOB,51,2025-12-10,Approved,Hesper Prescott,hesper.prescott@penrhosalloysb.example
+HW-0095,Quorndon Filters Group,Maintenance,DDP,23,2025-05-19,Pending,Kester Kinnaird,kester.kinnaird@quorndonfilter.example
+HW-0096,Redmarley Haulage PLC,Logistics,DAP,26,2025-12-13,Approved,Nessa Fanshawe,nessa.fanshawe@redmarleyhaula.example
+HW-0097,Sedgeberrow Pigments Ltd,Raw materials,DAP,38,2024-02-24,Approved,Anselm Ambleside,anselm.ambleside@sedgeberrowpig.example
+HW-0098,Tavistoke Lubricants Oy,Maintenance,EXW,54,2024-03-06,Suspended,Deryn Lockhart,deryn.lockhart@tavistokelubri.example
+HW-0099,Ulverston Freight SRL,Logistics,FOB,22,2024-06-27,Pending,Gwilym Gadsby,gwilym.gadsby@ulverstonfreig.example
+HW-0100,Vaynor Timber BV,Raw materials,DAP,58,2025-03-12,Pending,Jolanta Barrowclough,jolanta.barrowclough@vaynortimberbv.example
+HW-0101,Whitbourne Cartons Group,Packaging,EXW,48,2024-09-29,Approved,Merrick Marchbank,merrick.marchbank@whitbournecart.example
+HW-0102,Yatesbury Couriers PLC,Logistics,DAP,9,2024-02-18,Approved,Petra Halliwell,petra.halliwell@yatesburycouri.example
+HW-0103,Alnmouth Glassworks Ltd,Raw materials,DDP,28,2024-03-24,Approved,Caius Chevington,caius.chevington@alnmouthglassw.example
+HW-0104,Bexwell Crates Oy,Packaging,EXW,58,2024-01-13,Approved,Ffion Nettleford,ffion.nettleford@bexwellcrateso.example
+HW-0105,Ambleforth Warehousing SRL,Logistics,DDP,26,2025-05-05,Approved,Idris Inkpen,idris.inkpen@ambleforthware.example
+HW-0106,Barrowden Cleaning BV,Maintenance,DAP,27,2024-02-14,Approved,Linnet Dunwoody,linnet.dunwoody@barrowdenclean.example
+HW-0107,Cheswick Films Group,Packaging,DDP,59,2024-07-11,Approved,Osric Oldbury,osric.oldbury@cheswickfilmsg.example
+HW-0108,Dunsmere Polymers PLC,Raw materials,FOB,34,2026-08-02,Approved,Brioney Jelbart,brioney.jelbart@dunsmerepolyme.example
+HW-0109,Edgeworth Calibration Ltd,Maintenance,DAP,6,2025-06-23,Approved,Eamon Elverton,eamon.elverton@edgeworthcalib.example
+HW-0110,Frampton Labels Oy,Packaging,DAP,48,2026-05-25,Approved,Hesper Prescott,hesper.prescott@framptonlabels.example
+HW-0111,Galloway Adhesives SRL,Raw materials,DAP,58,2024-10-21,Approved,Kester Kinnaird,kester.kinnaird@gallowayadhesi.example
+HW-0112,Hartshorne Tooling BV,Maintenance,DAP,34,2025-02-16,Approved,Nessa Fanshawe,nessa.fanshawe@hartshornetool.example
+HW-0113,Innesford Pallets Group,Packaging,DAP,29,2024-12-14,Approved,Anselm Ambleside,anselm.ambleside@innesfordpalle.example
+HW-0114,Jevington Alloys PLC,Raw materials,DAP,5,2024-01-11,Approved,Deryn Lockhart,deryn.lockhart@jevingtonalloy.example
+HW-0115,Knayton Filters Ltd,Maintenance,FOB,49,2024-08-18,Approved,Gwilym Gadsby,gwilym.gadsby@knaytonfilters.example
+HW-0116,Larkhall Haulage Oy,Logistics,DAP,38,2026-06-24,Approved,Jolanta Barrowclough,jolanta.barrowclough@larkhallhaulag.example
+HW-0117,Mirfield Pigments SRL,Raw materials,DAP,27,2024-07-07,Pending,Merrick Marchbank,merrick.marchbank@mirfieldpigmen.example
+HW-0118,Newsholme Lubricants BV,Maintenance,DAP,11,2024-11-11,Approved,Petra Halliwell,petra.halliwell@newsholmelubri.example
+HW-0119,Oswaldkirk Freight Group,Logistics,EXW,55,2025-08-07,Approved,Caius Chevington,caius.chevington@oswaldkirkfrei.example
+HW-0120,Penrhos Timber PLC,Raw materials,EXW,23,2025-01-20,Pending,Ffion Nettleford,ffion.nettleford@penrhostimberp.example
+HW-0121,Quorndon Cartons Ltd,Packaging,FOB,49,2026-04-21,Approved,Idris Inkpen,idris.inkpen@quorndoncarton.example
+HW-0122,Redmarley Couriers Oy,Logistics,DDP,10,2025-04-02,Approved,Linnet Dunwoody,linnet.dunwoody@redmarleycouri.example
+HW-0123,Sedgeberrow Glassworks SRL,Raw materials,FOB,31,2024-03-16,Suspended,Osric Oldbury,osric.oldbury@sedgeberrowgla.example
+HW-0124,Tavistoke Crates BV,Packaging,EXW,57,2024-08-30,Approved,Brioney Jelbart,brioney.jelbart@tavistokecrate.example
+HW-0125,Ulverston Warehousing Group,Logistics,EXW,5,2024-03-06,Approved,Eamon Elverton,eamon.elverton@ulverstonwareh.example
+HW-0126,Vaynor Cleaning PLC,Maintenance,DDP,36,2026-01-31,Pending,Hesper Prescott,hesper.prescott@vaynorcleaning.example
+HW-0127,Whitbourne Films Ltd,Packaging,DDP,15,2024-07-22,Approved,Kester Kinnaird,kester.kinnaird@whitbournefilm.example
+HW-0128,Yatesbury Polymers Oy,Raw materials,DAP,41,2025-05-18,Pending,Nessa Fanshawe,nessa.fanshawe@yatesburypolym.example
+HW-0129,Alnmouth Calibration SRL,Maintenance,DAP,29,2024-07-01,Approved,Anselm Ambleside,anselm.ambleside@alnmouthcalibr.example
+HW-0130,Bexwell Labels BV,Packaging,DDP,27,2024-03-08,Approved,Deryn Lockhart,deryn.lockhart@bexwelllabelsb.example
+HW-0131,Ambleforth Adhesives Group,Raw materials,DAP,26,2024-09-21,Approved,Gwilym Gadsby,gwilym.gadsby@ambleforthadhe.example
+HW-0132,Barrowden Tooling PLC,Maintenance,FOB,47,2025-09-04,Pending,Jolanta Barrowclough,jolanta.barrowclough@barrowdentooli.example
+HW-0133,Cheswick Pallets Ltd,Packaging,DDP,22,2024-01-24,Pending,Merrick Marchbank,merrick.marchbank@cheswickpallet.example
+HW-0134,Dunsmere Alloys Oy,Raw materials,DAP,15,2025-08-05,Approved,Petra Halliwell,petra.halliwell@dunsmerealloys.example
+HW-0135,Edgeworth Filters SRL,Maintenance,EXW,19,2024-04-13,Suspended,Caius Chevington,caius.chevington@edgeworthfilte.example
+HW-0136,Frampton Haulage BV,Logistics,DDP,11,2026-06-26,Approved,Ffion Nettleford,ffion.nettleford@framptonhaulag.example
+HW-0137,Galloway Pigments Group,Raw materials,EXW,30,2026-07-10,Approved,Idris Inkpen,idris.inkpen@gallowaypigmen.example
+HW-0138,Hartshorne Lubricants PLC,Maintenance,FOB,14,2024-12-07,Pending,Linnet Dunwoody,linnet.dunwoody@hartshornelubr.example
+HW-0139,Innesford Freight Ltd,Logistics,DDP,11,2024-10-17,Approved,Osric Oldbury,osric.oldbury@innesfordfreig.example
+HW-0140,Jevington Timber Oy,Raw materials,DDP,27,2025-03-14,Approved,Brioney Jelbart,brioney.jelbart@jevingtontimbe.example
+HW-0141,Knayton Cartons SRL,Packaging,DAP,28,2025-12-05,Approved,Eamon Elverton,eamon.elverton@knaytoncartons.example
+HW-0142,Larkhall Couriers BV,Logistics,EXW,37,2024-11-24,Suspended,Hesper Prescott,hesper.prescott@larkhallcourie.example
+HW-0143,Mirfield Glassworks Group,Raw materials,DAP,8,2024-02-10,Approved,Kester Kinnaird,kester.kinnaird@mirfieldglassw.example
+HW-0144,Newsholme Crates PLC,Packaging,FOB,42,2025-09-04,Suspended,Nessa Fanshawe,nessa.fanshawe@newsholmecrate.example
+HW-0145,Oswaldkirk Warehousing Ltd,Logistics,EXW,25,2026-03-04,Pending,Anselm Ambleside,anselm.ambleside@oswaldkirkware.example
+HW-0146,Penrhos Cleaning Oy,Maintenance,FOB,55,2024-12-24,Pending,Deryn Lockhart,deryn.lockhart@penrhoscleanin.example
+HW-0147,Quorndon Films SRL,Packaging,EXW,52,2025-03-07,Approved,Gwilym Gadsby,gwilym.gadsby@quorndonfilmss.example
+HW-0148,Redmarley Polymers BV,Raw materials,FOB,42,2026-04-14,Suspended,Jolanta Barrowclough,jolanta.barrowclough@redmarleypolym.example
+HW-0149,Sedgeberrow Calibration Group,Maintenance,DAP,14,2025-06-08,Approved,Merrick Marchbank,merrick.marchbank@sedgeberrowcal.example
+HW-0150,Tavistoke Labels PLC,Packaging,FOB,46,2024-11-05,Pending,Petra Halliwell,petra.halliwell@tavistokelabel.example
+HW-0151,Ulverston Adhesives Ltd,Raw materials,FOB,10,2024-06-08,Approved,Caius Chevington,caius.chevington@ulverstonadhes.example
+HW-0152,Vaynor Tooling Oy,Maintenance,EXW,6,2024-06-05,Approved,Ffion Nettleford,ffion.nettleford@vaynortoolingo.example
+HW-0153,Whitbourne Pallets SRL,Packaging,FOB,17,2025-01-03,Approved,Idris Inkpen,idris.inkpen@whitbournepall.example
+HW-0154,Yatesbury Alloys BV,Raw materials,DAP,30,2024-03-29,Approved,Linnet Dunwoody,linnet.dunwoody@yatesburyalloy.example
+HW-0155,Alnmouth Filters Group,Maintenance,DDP,4,2025-02-12,Approved,Osric Oldbury,osric.oldbury@alnmouthfilter.example
+HW-0156,Bexwell Haulage PLC,Logistics,DDP,17,2024-08-05,Suspended,Brioney Jelbart,brioney.jelbart@bexwellhaulage.example
+HW-0157,Ambleforth Pigments Ltd,Raw materials,EXW,5,2026-07-12,Suspended,Eamon Elverton,eamon.elverton@ambleforthpigm.example
+HW-0158,Barrowden Lubricants Oy,Maintenance,DDP,9,2026-07-13,Approved,Hesper Prescott,hesper.prescott@barrowdenlubri.example
+HW-0159,Cheswick Freight SRL,Logistics,EXW,12,2025-01-06,Approved,Kester Kinnaird,kester.kinnaird@cheswickfreigh.example
+HW-0160,Dunsmere Timber BV,Raw materials,DAP,52,2025-04-01,Pending,Nessa Fanshawe,nessa.fanshawe@dunsmeretimber.example
+HW-0161,Edgeworth Cartons Group,Packaging,DDP,39,2025-05-01,Approved,Anselm Ambleside,anselm.ambleside@edgeworthcarto.example
+HW-0162,Frampton Couriers PLC,Logistics,DAP,53,2025-02-07,Pending,Deryn Lockhart,deryn.lockhart@framptoncourie.example
+HW-0163,Galloway Glassworks Ltd,Raw materials,FOB,9,2025-03-19,Approved,Gwilym Gadsby,gwilym.gadsby@gallowayglassw.example
+HW-0164,Hartshorne Crates Oy,Packaging,FOB,52,2024-09-23,Approved,Jolanta Barrowclough,jolanta.barrowclough@hartshornecrat.example
+HW-0165,Innesford Warehousing SRL,Logistics,DDP,20,2025-12-13,Approved,Merrick Marchbank,merrick.marchbank@innesfordwareh.example
+HW-0166,Jevington Cleaning BV,Maintenance,EXW,53,2025-11-19,Pending,Petra Halliwell,petra.halliwell@jevingtonclean.example
+HW-0167,Knayton Films Group,Packaging,DDP,28,2025-05-31,Approved,Caius Chevington,caius.chevington@knaytonfilmsgr.example
+HW-0168,Larkhall Polymers PLC,Raw materials,DAP,3,2024-11-25,Approved,Ffion Nettleford,ffion.nettleford@larkhallpolyme.example
+HW-0169,Mirfield Calibration Ltd,Maintenance,EXW,32,2025-12-27,Approved,Idris Inkpen,idris.inkpen@mirfieldcalibr.example
+HW-0170,Newsholme Labels Oy,Packaging,DDP,18,2025-11-24,Approved,Linnet Dunwoody,linnet.dunwoody@newsholmelabel.example
+HW-0171,Oswaldkirk Adhesives SRL,Raw materials,EXW,5,2024-11-18,Approved,Osric Oldbury,osric.oldbury@oswaldkirkadhe.example
+HW-0172,Penrhos Tooling BV,Maintenance,DAP,21,2026-02-21,Suspended,Brioney Jelbart,brioney.jelbart@penrhostooling.example
+HW-0173,Quorndon Pallets Group,Packaging,DDP,25,2025-04-18,Approved,Eamon Elverton,eamon.elverton@quorndonpallet.example
+HW-0174,Redmarley Alloys PLC,Raw materials,DDP,43,2025-12-01,Approved,Hesper Prescott,hesper.prescott@redmarleyalloy.example
+HW-0175,Sedgeberrow Filters Ltd,Maintenance,DDP,29,2024-12-29,Suspended,Kester Kinnaird,kester.kinnaird@sedgeberrowfil.example
+HW-0176,Tavistoke Haulage Oy,Logistics,FOB,10,2025-10-14,Pending,Nessa Fanshawe,nessa.fanshawe@tavistokehaula.example
+HW-0177,Ulverston Pigments SRL,Raw materials,DDP,33,2025-09-26,Approved,Anselm Ambleside,anselm.ambleside@ulverstonpigme.example
+HW-0178,Vaynor Lubricants BV,Maintenance,FOB,21,2024-02-15,Suspended,Deryn Lockhart,deryn.lockhart@vaynorlubrican.example
+HW-0179,Whitbourne Freight Group,Logistics,EXW,22,2024-11-23,Suspended,Gwilym Gadsby,gwilym.gadsby@whitbournefrei.example
+HW-0180,Yatesbury Timber PLC,Raw materials,DDP,55,2025-07-07,Approved,Jolanta Barrowclough,jolanta.barrowclough@yatesburytimbe.example
+HW-0181,Alnmouth Cartons Ltd,Packaging,DDP,7,2024-08-17,Approved,Merrick Marchbank,merrick.marchbank@alnmouthcarton.example
+HW-0182,Bexwell Couriers Oy,Logistics,EXW,50,2024-06-24,Approved,Petra Halliwell,petra.halliwell@bexwellcourier.example
+HW-0183,Ambleforth Glassworks SRL,Raw materials,FOB,38,2024-04-17,Approved,Caius Chevington,caius.chevington@ambleforthglas.example
+HW-0184,Barrowden Crates BV,Packaging,DAP,37,2025-03-03,Approved,Ffion Nettleford,ffion.nettleford@barrowdencrate.example
+HW-0185,Cheswick Warehousing Group,Logistics,DAP,18,2024-06-27,Approved,Idris Inkpen,idris.inkpen@cheswickwareho.example
+HW-0186,Dunsmere Cleaning PLC,Maintenance,EXW,34,2025-03-17,Pending,Linnet Dunwoody,linnet.dunwoody@dunsmerecleani.example
+HW-0187,Edgeworth Films Ltd,Packaging,FOB,13,2024-01-11,Approved,Osric Oldbury,osric.oldbury@edgeworthfilms.example
+HW-0188,Frampton Polymers Oy,Raw materials,DDP,46,2025-09-23,Pending,Brioney Jelbart,brioney.jelbart@framptonpolyme.example
+HW-0189,Galloway Calibration SRL,Maintenance,FOB,24,2026-04-23,Approved,Eamon Elverton,eamon.elverton@gallowaycalibr.example
+HW-0190,Hartshorne Labels BV,Packaging,FOB,58,2025-05-04,Approved,Hesper Prescott,hesper.prescott@hartshornelabe.example
+HW-0191,Innesford Adhesives Group,Raw materials,DAP,7,2024-06-10,Approved,Kester Kinnaird,kester.kinnaird@innesfordadhes.example
+HW-0192,Jevington Tooling PLC,Maintenance,DDP,54,2026-05-16,Approved,Nessa Fanshawe,nessa.fanshawe@jevingtontooli.example
+HW-0193,Knayton Pallets Ltd,Packaging,DAP,6,2025-08-23,Approved,Anselm Ambleside,anselm.ambleside@knaytonpallets.example
+HW-0194,Larkhall Alloys Oy,Raw materials,DDP,7,2025-08-28,Approved,Deryn Lockhart,deryn.lockhart@larkhallalloys.example
+HW-0195,Mirfield Filters SRL,Maintenance,DAP,33,2024-04-03,Approved,Gwilym Gadsby,gwilym.gadsby@mirfieldfilter.example
+HW-0196,Newsholme Haulage BV,Logistics,DAP,26,2024-03-31,Approved,Jolanta Barrowclough,jolanta.barrowclough@newsholmehaula.example
+HW-0197,Oswaldkirk Pigments Group,Raw materials,FOB,54,2025-12-27,Approved,Merrick Marchbank,merrick.marchbank@oswaldkirkpigm.example
+HW-0198,Penrhos Lubricants PLC,Maintenance,DAP,13,2025-12-14,Pending,Petra Halliwell,petra.halliwell@penrhoslubrica.example
+HW-0199,Quorndon Freight Ltd,Logistics,DAP,43,2025-10-01,Approved,Caius Chevington,caius.chevington@quorndonfreigh.example
+HW-0200,Redmarley Timber Oy,Raw materials,DDP,4,2024-10-23,Suspended,Ffion Nettleford,ffion.nettleford@redmarleytimbe.example
+HW-0201,Sedgeberrow Cartons SRL,Packaging,DDP,39,2025-08-29,Approved,Idris Inkpen,idris.inkpen@sedgeberrowcar.example
+HW-0202,Tavistoke Couriers BV,Logistics,DAP,56,2025-08-21,Approved,Linnet Dunwoody,linnet.dunwoody@tavistokecouri.example
+HW-0203,Ulverston Glassworks Group,Raw materials,DAP,51,2024-10-02,Pending,Osric Oldbury,osric.oldbury@ulverstonglass.example
+HW-0204,Vaynor Crates PLC,Packaging,FOB,24,2024-12-12,Approved,Brioney Jelbart,brioney.jelbart@vaynorcratespl.example
+HW-0205,Whitbourne Warehousing Ltd,Logistics,DAP,45,2026-05-29,Approved,Eamon Elverton,eamon.elverton@whitbourneware.example
+HW-0206,Yatesbury Cleaning Oy,Maintenance,FOB,9,2025-11-19,Pending,Hesper Prescott,hesper.prescott@yatesburyclean.example
+HW-0207,Alnmouth Films SRL,Packaging,EXW,36,2025-04-20,Suspended,Kester Kinnaird,kester.kinnaird@alnmouthfilmss.example
+HW-0208,Bexwell Polymers BV,Raw materials,DAP,48,2024-01-08,Approved,Nessa Fanshawe,nessa.fanshawe@bexwellpolymer.example
+HW-0209,Ambleforth Calibration Group,Maintenance,FOB,21,2024-10-25,Approved,Anselm Ambleside,anselm.ambleside@ambleforthcali.example
+HW-0210,Barrowden Labels PLC,Packaging,EXW,46,2025-07-25,Pending,Deryn Lockhart,deryn.lockhart@barrowdenlabel.example
+HW-0211,Cheswick Adhesives Ltd,Raw materials,EXW,33,2025-08-22,Approved,Gwilym Gadsby,gwilym.gadsby@cheswickadhesi.example
+HW-0212,Dunsmere Tooling Oy,Maintenance,FOB,31,2026-01-18,Pending,Jolanta Barrowclough,jolanta.barrowclough@dunsmeretoolin.example
+HW-0213,Edgeworth Pallets SRL,Packaging,DAP,28,2024-08-15,Approved,Merrick Marchbank,merrick.marchbank@edgeworthpalle.example
+HW-0214,Frampton Alloys BV,Raw materials,DDP,54,2025-06-25,Approved,Petra Halliwell,petra.halliwell@framptonalloys.example
+HW-0215,Galloway Filters Group,Maintenance,DAP,32,2024-05-21,Approved,Caius Chevington,caius.chevington@gallowayfilter.example
+HW-0216,Hartshorne Haulage PLC,Logistics,DDP,27,2026-02-28,Pending,Ffion Nettleford,ffion.nettleford@hartshornehaul.example
+HW-0217,Innesford Pigments Ltd,Raw materials,EXW,38,2024-10-28,Approved,Idris Inkpen,idris.inkpen@innesfordpigme.example
+HW-0218,Jevington Lubricants Oy,Maintenance,DAP,34,2026-02-19,Approved,Linnet Dunwoody,linnet.dunwoody@jevingtonlubri.example
+HW-0219,Knayton Freight SRL,Logistics,DAP,47,2026-08-13,Pending,Osric Oldbury,osric.oldbury@knaytonfreight.example
+HW-0220,Larkhall Timber BV,Raw materials,DAP,23,2025-12-04,Approved,Brioney Jelbart,brioney.jelbart@larkhalltimber.example
+HW-0221,Mirfield Cartons Group,Packaging,DAP,26,2026-03-24,Approved,Eamon Elverton,eamon.elverton@mirfieldcarton.example
+HW-0222,Newsholme Couriers PLC,Logistics,EXW,23,2024-03-27,Approved,Hesper Prescott,hesper.prescott@newsholmecouri.example
+HW-0223,Oswaldkirk Glassworks Ltd,Raw materials,EXW,11,2025-02-03,Approved,Kester Kinnaird,kester.kinnaird@oswaldkirkglas.example
+HW-0224,Penrhos Crates Oy,Packaging,DAP,43,2025-02-05,Approved,Nessa Fanshawe,nessa.fanshawe@penrhoscrateso.example
+HW-0225,Quorndon Warehousing SRL,Logistics,FOB,57,2025-01-08,Approved,Anselm Ambleside,anselm.ambleside@quorndonwareho.example
+HW-0226,Redmarley Cleaning BV,Maintenance,FOB,12,2024-09-30,Approved,Deryn Lockhart,deryn.lockhart@redmarleyclean.example
+HW-0227,Sedgeberrow Films Group,Packaging,FOB,51,2026-04-24,Approved,Gwilym Gadsby,gwilym.gadsby@sedgeberrowfil.example
+HW-0228,Tavistoke Polymers PLC,Raw materials,EXW,46,2024-08-27,Suspended,Jolanta Barrowclough,jolanta.barrowclough@tavistokepolym.example
+HW-0229,Ulverston Calibration Ltd,Maintenance,DAP,8,2025-11-01,Suspended,Merrick Marchbank,merrick.marchbank@ulverstoncalib.example
+HW-0230,Vaynor Labels Oy,Packaging,FOB,48,2024-03-09,Approved,Petra Halliwell,petra.halliwell@vaynorlabelsoy.example
+HW-0231,Whitbourne Adhesives SRL,Raw materials,FOB,8,2026-05-04,Approved,Caius Chevington,caius.chevington@whitbourneadhe.example
+HW-0232,Yatesbury Tooling BV,Maintenance,DDP,3,2025-01-13,Suspended,Ffion Nettleford,ffion.nettleford@yatesburytooli.example
+HW-0233,Alnmouth Pallets Group,Packaging,DDP,18,2026-06-06,Approved,Idris Inkpen,idris.inkpen@alnmouthpallet.example
+HW-0234,Bexwell Alloys PLC,Raw materials,DAP,34,2026-04-30,Approved,Linnet Dunwoody,linnet.dunwoody@bexwellalloysp.example
+HW-0235,Ambleforth Filters Ltd,Maintenance,DAP,17,2024-03-17,Approved,Osric Oldbury,osric.oldbury@ambleforthfilt.example
+HW-0236,Barrowden Haulage Oy,Logistics,DAP,5,2024-08-24,Approved,Brioney Jelbart,brioney.jelbart@barrowdenhaula.example
+HW-0237,Cheswick Pigments SRL,Raw materials,FOB,35,2025-11-21,Approved,Eamon Elverton,eamon.elverton@cheswickpigmen.example
+HW-0238,Dunsmere Lubricants BV,Maintenance,FOB,50,2026-06-25,Pending,Hesper Prescott,hesper.prescott@dunsmerelubric.example
+HW-0239,Edgeworth Freight Group,Logistics,DAP,24,2024-01-25,Approved,Kester Kinnaird,kester.kinnaird@edgeworthfreig.example
+HW-0240,Frampton Timber PLC,Raw materials,DDP,44,2026-01-14,Pending,Nessa Fanshawe,nessa.fanshawe@framptontimber.example
+HW-0241,Galloway Cartons Ltd,Packaging,DDP,4,2024-09-04,Suspended,Anselm Ambleside,anselm.ambleside@gallowaycarton.example
+HW-0242,Hartshorne Couriers Oy,Logistics,DAP,47,2025-10-14,Approved,Deryn Lockhart,deryn.lockhart@hartshornecour.example
+HW-0243,Innesford Glassworks SRL,Raw materials,DAP,42,2025-09-06,Approved,Gwilym Gadsby,gwilym.gadsby@innesfordglass.example
+HW-0244,Jevington Crates BV,Packaging,FOB,51,2025-04-25,Pending,Jolanta Barrowclough,jolanta.barrowclough@jevingtoncrate.example
+HW-0245,Knayton Warehousing Group,Logistics,DDP,17,2025-08-30,Approved,Merrick Marchbank,merrick.marchbank@knaytonwarehou.example
+HW-0246,Larkhall Cleaning PLC,Maintenance,FOB,34,2025-08-23,Pending,Petra Halliwell,petra.halliwell@larkhallcleani.example
+HW-0247,Mirfield Films Ltd,Packaging,DAP,26,2025-03-01,Approved,Caius Chevington,caius.chevington@mirfieldfilmsl.example
+HW-0248,Newsholme Polymers Oy,Raw materials,DAP,40,2025-08-29,Approved,Ffion Nettleford,ffion.nettleford@newsholmepolym.example
+HW-0249,Oswaldkirk Calibration SRL,Maintenance,FOB,44,2026-03-15,Approved,Idris Inkpen,idris.inkpen@oswaldkirkcali.example
+HW-0250,Penrhos Labels BV,Packaging,DAP,40,2025-03-09,Pending,Linnet Dunwoody,linnet.dunwoody@penrhoslabelsb.example
+HW-0251,Quorndon Adhesives Group,Raw materials,DDP,47,2025-01-27,Approved,Osric Oldbury,osric.oldbury@quorndonadhesi.example
+HW-0252,Redmarley Tooling PLC,Maintenance,FOB,19,2024-08-06,Approved,Brioney Jelbart,brioney.jelbart@redmarleytooli.example
+HW-0253,Sedgeberrow Pallets Ltd,Packaging,DDP,40,2024-06-18,Suspended,Eamon Elverton,eamon.elverton@sedgeberrowpal.example
+HW-0254,Tavistoke Alloys Oy,Raw materials,EXW,59,2026-07-17,Approved,Hesper Prescott,hesper.prescott@tavistokealloy.example
+HW-0255,Ulverston Filters SRL,Maintenance,DDP,53,2025-06-27,Approved,Kester Kinnaird,kester.kinnaird@ulverstonfilte.example
+HW-0256,Vaynor Haulage BV,Logistics,DDP,7,2025-07-17,Pending,Nessa Fanshawe,nessa.fanshawe@vaynorhaulageb.example
+HW-0257,Whitbourne Pigments Group,Raw materials,FOB,6,2024-11-28,Approved,Anselm Ambleside,anselm.ambleside@whitbournepigm.example
+HW-0258,Yatesbury Lubricants PLC,Maintenance,DDP,23,2025-08-01,Approved,Deryn Lockhart,deryn.lockhart@yatesburylubri.example
+HW-0259,Alnmouth Freight Ltd,Logistics,EXW,16,2024-08-02,Pending,Gwilym Gadsby,gwilym.gadsby@alnmouthfreigh.example
+HW-0260,Bexwell Timber Oy,Raw materials,DAP,34,2025-05-25,Approved,Jolanta Barrowclough,jolanta.barrowclough@bexwelltimbero.example
+HW-0261,Ambleforth Cartons SRL,Packaging,DAP,19,2024-10-08,Approved,Merrick Marchbank,merrick.marchbank@ambleforthcart.example
+HW-0262,Barrowden Couriers BV,Logistics,EXW,28,2024-12-02,Pending,Petra Halliwell,petra.halliwell@barrowdencouri.example
+HW-0263,Cheswick Glassworks Group,Raw materials,DDP,6,2025-10-26,Approved,Caius Chevington,caius.chevington@cheswickglassw.example
+HW-0264,Dunsmere Crates PLC,Packaging,EXW,40,2024-06-17,Approved,Ffion Nettleford,ffion.nettleford@dunsmerecrates.example
+HW-0265,Edgeworth Warehousing Ltd,Logistics,FOB,4,2026-07-18,Approved,Idris Inkpen,idris.inkpen@edgeworthwareh.example
+HW-0266,Frampton Cleaning Oy,Maintenance,FOB,19,2026-06-21,Suspended,Linnet Dunwoody,linnet.dunwoody@framptoncleani.example
+HW-0267,Galloway Films SRL,Packaging,DDP,21,2026-02-06,Approved,Osric Oldbury,osric.oldbury@gallowayfilmss.example
+HW-0268,Hartshorne Polymers BV,Raw materials,DDP,15,2024-02-22,Approved,Brioney Jelbart,brioney.jelbart@hartshornepoly.example
+HW-0269,Innesford Calibration Group,Maintenance,DDP,20,2025-04-02,Approved,Eamon Elverton,eamon.elverton@innesfordcalib.example
+HW-0270,Jevington Labels PLC,Packaging,DAP,54,2024-04-03,Approved,Hesper Prescott,hesper.prescott@jevingtonlabel.example
+HW-0271,Knayton Adhesives Ltd,Raw materials,DAP,56,2024-05-17,Approved,Kester Kinnaird,kester.kinnaird@knaytonadhesiv.example
+HW-0272,Larkhall Tooling Oy,Maintenance,FOB,56,2024-05-05,Approved,Nessa Fanshawe,nessa.fanshawe@larkhalltoolin.example
+HW-0273,Mirfield Pallets SRL,Packaging,EXW,26,2024-12-08,Pending,Anselm Ambleside,anselm.ambleside@mirfieldpallet.example
+HW-0274,Newsholme Alloys BV,Raw materials,DAP,29,2024-07-05,Approved,Deryn Lockhart,deryn.lockhart@newsholmealloy.example
+HW-0275,Oswaldkirk Filters Group,Maintenance,FOB,28,2026-02-07,Pending,Gwilym Gadsby,gwilym.gadsby@oswaldkirkfilt.example
+HW-0276,Penrhos Haulage PLC,Logistics,DDP,42,2024-12-22,Pending,Jolanta Barrowclough,jolanta.barrowclough@penrhoshaulage.example
+HW-0277,Quorndon Pigments Ltd,Raw materials,DDP,34,2025-02-05,Pending,Merrick Marchbank,merrick.marchbank@quorndonpigmen.example
+HW-0278,Redmarley Lubricants Oy,Maintenance,FOB,37,2024-11-27,Approved,Petra Halliwell,petra.halliwell@redmarleylubri.example
+HW-0279,Sedgeberrow Freight SRL,Logistics,DAP,35,2025-04-19,Approved,Caius Chevington,caius.chevington@sedgeberrowfre.example
+HW-0280,Tavistoke Timber BV,Raw materials,EXW,22,2026-03-24,Pending,Ffion Nettleford,ffion.nettleford@tavistoketimbe.example
+HW-0281,Ulverston Cartons Group,Packaging,DAP,11,2025-07-26,Pending,Idris Inkpen,idris.inkpen@ulverstoncarto.example
+HW-0282,Vaynor Couriers PLC,Logistics,DDP,37,2026-05-20,Approved,Linnet Dunwoody,linnet.dunwoody@vaynorcouriers.example
+HW-0283,Whitbourne Glassworks Ltd,Raw materials,DAP,20,2026-05-08,Approved,Osric Oldbury,osric.oldbury@whitbourneglas.example
+HW-0284,Yatesbury Crates Oy,Packaging,DAP,45,2024-09-17,Approved,Brioney Jelbart,brioney.jelbart@yatesburycrate.example
+HW-0285,Alnmouth Warehousing SRL,Logistics,FOB,48,2024-03-26,Approved,Eamon Elverton,eamon.elverton@alnmouthwareho.example
+HW-0286,Bexwell Cleaning BV,Maintenance,FOB,13,2025-07-16,Approved,Hesper Prescott,hesper.prescott@bexwellcleanin.example
+HW-0287,Ambleforth Films Group,Packaging,DDP,50,2024-07-18,Approved,Kester Kinnaird,kester.kinnaird@ambleforthfilm.example
+HW-0288,Barrowden Polymers PLC,Raw materials,FOB,38,2024-12-26,Approved,Nessa Fanshawe,nessa.fanshawe@barrowdenpolym.example
+HW-0289,Cheswick Calibration Ltd,Maintenance,FOB,22,2025-04-24,Pending,Anselm Ambleside,anselm.ambleside@cheswickcalibr.example
+HW-0290,Dunsmere Labels Oy,Packaging,DAP,28,2025-06-27,Approved,Deryn Lockhart,deryn.lockhart@dunsmerelabels.example
+HW-0291,Edgeworth Adhesives SRL,Raw materials,EXW,27,2025-08-08,Suspended,Gwilym Gadsby,gwilym.gadsby@edgeworthadhes.example
+HW-0292,Frampton Tooling BV,Maintenance,DDP,46,2024-07-14,Approved,Jolanta Barrowclough,jolanta.barrowclough@framptontoolin.example
+HW-0293,Galloway Pallets Group,Packaging,FOB,59,2025-07-18,Approved,Merrick Marchbank,merrick.marchbank@gallowaypallet.example
+HW-0294,Hartshorne Alloys PLC,Raw materials,EXW,35,2025-02-12,Approved,Petra Halliwell,petra.halliwell@hartshorneallo.example
+HW-0295,Innesford Filters Ltd,Maintenance,FOB,19,2025-05-30,Approved,Caius Chevington,caius.chevington@innesfordfilte.example
+HW-0296,Jevington Haulage Oy,Logistics,FOB,40,2025-05-21,Approved,Ffion Nettleford,ffion.nettleford@jevingtonhaula.example
+HW-0297,Knayton Pigments SRL,Raw materials,DAP,25,2024-12-20,Pending,Idris Inkpen,idris.inkpen@knaytonpigment.example
+HW-0298,Larkhall Lubricants BV,Maintenance,FOB,24,2025-07-28,Approved,Linnet Dunwoody,linnet.dunwoody@larkhalllubric.example
+HW-0299,Mirfield Freight Group,Logistics,DAP,47,2025-02-23,Approved,Osric Oldbury,osric.oldbury@mirfieldfreigh.example
+HW-0300,Newsholme Timber PLC,Raw materials,EXW,8,2024-02-04,Approved,Brioney Jelbart,brioney.jelbart@newsholmetimbe.example
+HW-0301,Oswaldkirk Cartons Ltd,Packaging,FOB,20,2026-01-28,Approved,Eamon Elverton,eamon.elverton@oswaldkirkcart.example
+HW-0302,Penrhos Couriers Oy,Logistics,DDP,46,2025-03-18,Approved,Hesper Prescott,hesper.prescott@penrhoscourier.example
+HW-0303,Quorndon Glassworks SRL,Raw materials,DAP,60,2024-12-06,Approved,Kester Kinnaird,kester.kinnaird@quorndonglassw.example
+HW-0304,Redmarley Crates BV,Packaging,DAP,53,2024-08-08,Approved,Nessa Fanshawe,nessa.fanshawe@redmarleycrate.example
+HW-0305,Sedgeberrow Warehousing Group,Logistics,EXW,59,2024-06-03,Pending,Anselm Ambleside,anselm.ambleside@sedgeberrowwar.example
+HW-0306,Tavistoke Cleaning PLC,Maintenance,FOB,56,2024-06-28,Approved,Deryn Lockhart,deryn.lockhart@tavistokeclean.example
+HW-0307,Ulverston Films Ltd,Packaging,DAP,41,2024-08-16,Approved,Gwilym Gadsby,gwilym.gadsby@ulverstonfilms.example
+HW-0308,Vaynor Polymers Oy,Raw materials,FOB,37,2024-12-10,Approved,Jolanta Barrowclough,jolanta.barrowclough@vaynorpolymers.example
+HW-0309,Whitbourne Calibration SRL,Maintenance,DAP,25,2026-07-17,Suspended,Merrick Marchbank,merrick.marchbank@whitbournecali.example
+HW-0310,Yatesbury Labels BV,Packaging,DAP,28,2026-02-18,Approved,Petra Halliwell,petra.halliwell@yatesburylabel.example
+HW-0311,Alnmouth Adhesives Group,Raw materials,EXW,50,2026-06-26,Approved,Caius Chevington,caius.chevington@alnmouthadhesi.example
+HW-0312,Bexwell Tooling PLC,Maintenance,FOB,13,2026-04-05,Approved,Ffion Nettleford,ffion.nettleford@bexwelltooling.example
+HW-0313,Ambleforth Pallets Ltd,Packaging,DDP,13,2024-05-22,Approved,Idris Inkpen,idris.inkpen@ambleforthpall.example
+HW-0314,Barrowden Alloys Oy,Raw materials,FOB,24,2024-03-17,Approved,Linnet Dunwoody,linnet.dunwoody@barrowdenalloy.example
+HW-0315,Cheswick Filters SRL,Maintenance,DDP,39,2024-10-27,Pending,Osric Oldbury,osric.oldbury@cheswickfilter.example
+HW-0316,Dunsmere Haulage BV,Logistics,DAP,55,2025-02-24,Approved,Brioney Jelbart,brioney.jelbart@dunsmerehaulag.example
+HW-0317,Edgeworth Pigments Group,Raw materials,DAP,50,2025-08-06,Suspended,Eamon Elverton,eamon.elverton@edgeworthpigme.example
+HW-0318,Frampton Lubricants PLC,Maintenance,EXW,5,2026-08-13,Approved,Hesper Prescott,hesper.prescott@framptonlubric.example
+HW-0319,Galloway Freight Ltd,Logistics,DDP,41,2024-07-31,Approved,Kester Kinnaird,kester.kinnaird@gallowayfreigh.example
+HW-0320,Hartshorne Timber Oy,Raw materials,DDP,25,2024-02-29,Approved,Nessa Fanshawe,nessa.fanshawe@hartshornetimb.example
+HW-0321,Innesford Cartons SRL,Packaging,FOB,15,2025-09-27,Suspended,Anselm Ambleside,anselm.ambleside@innesfordcarto.example
+HW-0322,Jevington Couriers BV,Logistics,DAP,20,2024-05-13,Pending,Deryn Lockhart,deryn.lockhart@jevingtoncouri.example
+HW-0323,Knayton Glassworks Group,Raw materials,DAP,40,2026-07-21,Approved,Gwilym Gadsby,gwilym.gadsby@knaytonglasswo.example
+HW-0324,Larkhall Crates PLC,Packaging,DAP,35,2025-12-26,Pending,Jolanta Barrowclough,jolanta.barrowclough@larkhallcrates.example
+HW-0325,Mirfield Warehousing Ltd,Logistics,DAP,22,2024-05-16,Approved,Merrick Marchbank,merrick.marchbank@mirfieldwareho.example
+HW-0326,Newsholme Cleaning Oy,Maintenance,EXW,14,2024-06-03,Approved,Petra Halliwell,petra.halliwell@newsholmeclean.example
+HW-0327,Oswaldkirk Films SRL,Packaging,DAP,29,2024-06-28,Approved,Caius Chevington,caius.chevington@oswaldkirkfilm.example
+HW-0328,Penrhos Polymers BV,Raw materials,FOB,45,2025-01-06,Approved,Ffion Nettleford,ffion.nettleford@penrhospolymer.example
+HW-0329,Quorndon Calibration Group,Maintenance,FOB,5,2024-10-03,Approved,Idris Inkpen,idris.inkpen@quorndoncalibr.example
+HW-0330,Redmarley Labels PLC,Packaging,DAP,35,2024-12-21,Suspended,Linnet Dunwoody,linnet.dunwoody@redmarleylabel.example
+HW-0331,Sedgeberrow Adhesives Ltd,Raw materials,FOB,31,2025-11-21,Pending,Osric Oldbury,osric.oldbury@sedgeberrowadh.example
+HW-0332,Tavistoke Tooling Oy,Maintenance,DDP,34,2025-03-01,Pending,Brioney Jelbart,brioney.jelbart@tavistoketooli.example
+HW-0333,Ulverston Pallets SRL,Packaging,DAP,27,2025-02-17,Approved,Eamon Elverton,eamon.elverton@ulverstonpalle.example
+HW-0334,Vaynor Alloys BV,Raw materials,DDP,13,2025-01-28,Approved,Hesper Prescott,hesper.prescott@vaynoralloysbv.example
+HW-0335,Whitbourne Filters Group,Maintenance,DDP,27,2026-07-18,Approved,Kester Kinnaird,kester.kinnaird@whitbournefilt.example
+HW-0336,Yatesbury Haulage PLC,Logistics,EXW,3,2024-11-25,Approved,Nessa Fanshawe,nessa.fanshawe@yatesburyhaula.example
+HW-0337,Alnmouth Pigments Ltd,Raw materials,DAP,48,2024-05-05,Approved,Anselm Ambleside,anselm.ambleside@alnmouthpigmen.example
+HW-0338,Bexwell Lubricants Oy,Maintenance,FOB,22,2024-05-12,Approved,Deryn Lockhart,deryn.lockhart@bexwelllubrica.example
+HW-0339,Ambleforth Freight SRL,Logistics,FOB,43,2025-05-25,Approved,Gwilym Gadsby,gwilym.gadsby@ambleforthfrei.example
+HW-0340,Barrowden Timber BV,Raw materials,FOB,36,2024-01-29,Suspended,Jolanta Barrowclough,jolanta.barrowclough@barrowdentimbe.example
+HW-0341,Cheswick Cartons Group,Packaging,DAP,29,2025-08-23,Approved,Merrick Marchbank,merrick.marchbank@cheswickcarton.example
+HW-0342,Dunsmere Couriers PLC,Logistics,DDP,29,2025-11-15,Approved,Petra Halliwell,petra.halliwell@dunsmerecourie.example
+HW-0343,Edgeworth Glassworks Ltd,Raw materials,DAP,33,2025-02-23,Pending,Caius Chevington,caius.chevington@edgeworthglass.example
+HW-0344,Frampton Crates Oy,Packaging,DDP,32,2025-05-29,Approved,Ffion Nettleford,ffion.nettleford@framptoncrates.example
+HW-0345,Galloway Warehousing SRL,Logistics,FOB,10,2026-05-15,Approved,Idris Inkpen,idris.inkpen@gallowaywareho.example
+HW-0346,Hartshorne Cleaning BV,Maintenance,DDP,38,2024-10-23,Approved,Linnet Dunwoody,linnet.dunwoody@hartshorneclea.example
+HW-0347,Innesford Films Group,Packaging,DDP,24,2026-01-01,Pending,Osric Oldbury,osric.oldbury@innesfordfilms.example
+HW-0348,Jevington Polymers PLC,Raw materials,DDP,40,2026-05-21,Pending,Brioney Jelbart,brioney.jelbart@jevingtonpolym.example
+HW-0349,Knayton Calibration Ltd,Maintenance,FOB,58,2024-12-27,Approved,Eamon Elverton,eamon.elverton@knaytoncalibra.example
+HW-0350,Larkhall Labels Oy,Packaging,DAP,33,2026-01-07,Approved,Hesper Prescott,hesper.prescott@larkhalllabels.example
+HW-0351,Mirfield Adhesives SRL,Raw materials,DAP,49,2024-02-01,Approved,Kester Kinnaird,kester.kinnaird@mirfieldadhesi.example
+HW-0352,Newsholme Tooling BV,Maintenance,EXW,53,2026-04-11,Approved,Nessa Fanshawe,nessa.fanshawe@newsholmetooli.example
+HW-0353,Oswaldkirk Pallets Group,Packaging,DAP,24,2024-01-21,Approved,Anselm Ambleside,anselm.ambleside@oswaldkirkpall.example
+HW-0354,Penrhos Alloys PLC,Raw materials,DAP,49,2024-03-28,Approved,Deryn Lockhart,deryn.lockhart@penrhosalloysp.example
+HW-0355,Quorndon Filters Ltd,Maintenance,DAP,10,2025-12-10,Pending,Gwilym Gadsby,gwilym.gadsby@quorndonfilter.example
+HW-0356,Redmarley Haulage Oy,Logistics,FOB,21,2024-09-27,Suspended,Jolanta Barrowclough,jolanta.barrowclough@redmarleyhaula.example
+HW-0357,Sedgeberrow Pigments SRL,Raw materials,FOB,23,2024-07-20,Approved,Merrick Marchbank,merrick.marchbank@sedgeberrowpig.example
+HW-0358,Tavistoke Lubricants BV,Maintenance,FOB,26,2024-03-29,Approved,Petra Halliwell,petra.halliwell@tavistokelubri.example
+HW-0359,Ulverston Freight Group,Logistics,EXW,60,2025-06-16,Approved,Caius Chevington,caius.chevington@ulverstonfreig.example
+HW-0360,Vaynor Timber PLC,Raw materials,DAP,56,2025-01-27,Approved,Ffion Nettleford,ffion.nettleford@vaynortimberpl.example
+HW-0361,Whitbourne Cartons Ltd,Packaging,DDP,46,2026-04-09,Pending,Idris Inkpen,idris.inkpen@whitbournecart.example
+HW-0362,Yatesbury Couriers Oy,Logistics,FOB,32,2025-10-15,Approved,Linnet Dunwoody,linnet.dunwoody@yatesburycouri.example
+HW-0363,Alnmouth Glassworks SRL,Raw materials,DAP,19,2025-07-22,Approved,Osric Oldbury,osric.oldbury@alnmouthglassw.example
+HW-0364,Bexwell Crates BV,Packaging,DAP,41,2025-11-18,Approved,Brioney Jelbart,brioney.jelbart@bexwellcratesb.example
+HW-0365,Ambleforth Warehousing Group,Logistics,DDP,23,2025-05-23,Pending,Eamon Elverton,eamon.elverton@ambleforthware.example
+HW-0366,Barrowden Cleaning PLC,Maintenance,FOB,52,2024-10-05,Pending,Hesper Prescott,hesper.prescott@barrowdenclean.example
+HW-0367,Cheswick Films Ltd,Packaging,DAP,24,2026-08-14,Pending,Kester Kinnaird,kester.kinnaird@cheswickfilmsl.example
+HW-0368,Dunsmere Polymers Oy,Raw materials,FOB,19,2024-05-07,Approved,Nessa Fanshawe,nessa.fanshawe@dunsmerepolyme.example
+HW-0369,Edgeworth Calibration SRL,Maintenance,FOB,51,2024-01-15,Pending,Anselm Ambleside,anselm.ambleside@edgeworthcalib.example
+HW-0370,Frampton Labels BV,Packaging,FOB,28,2025-12-22,Approved,Deryn Lockhart,deryn.lockhart@framptonlabels.example
+HW-0371,Galloway Adhesives Group,Raw materials,DAP,46,2024-05-12,Approved,Gwilym Gadsby,gwilym.gadsby@gallowayadhesi.example
+HW-0372,Hartshorne Tooling PLC,Maintenance,DAP,53,2025-02-25,Pending,Jolanta Barrowclough,jolanta.barrowclough@hartshornetool.example
+HW-0373,Innesford Pallets Ltd,Packaging,EXW,14,2024-04-06,Approved,Merrick Marchbank,merrick.marchbank@innesfordpalle.example
+HW-0374,Jevington Alloys Oy,Raw materials,FOB,37,2025-05-27,Approved,Petra Halliwell,petra.halliwell@jevingtonalloy.example
+HW-0375,Knayton Filters SRL,Maintenance,FOB,4,2024-12-28,Approved,Caius Chevington,caius.chevington@knaytonfilters.example
+HW-0376,Larkhall Haulage BV,Logistics,DAP,51,2024-06-20,Approved,Ffion Nettleford,ffion.nettleford@larkhallhaulag.example
+HW-0377,Mirfield Pigments Group,Raw materials,EXW,59,2025-05-12,Approved,Idris Inkpen,idris.inkpen@mirfieldpigmen.example
+HW-0378,Newsholme Lubricants PLC,Maintenance,DDP,18,2025-07-30,Approved,Linnet Dunwoody,linnet.dunwoody@newsholmelubri.example
+HW-0379,Oswaldkirk Freight Ltd,Logistics,EXW,27,2024-08-29,Pending,Osric Oldbury,osric.oldbury@oswaldkirkfrei.example
+HW-0380,Penrhos Timber Oy,Raw materials,DAP,12,2026-03-16,Approved,Brioney Jelbart,brioney.jelbart@penrhostimbero.example
+HW-0381,Quorndon Cartons SRL,Packaging,DDP,15,2024-04-07,Approved,Eamon Elverton,eamon.elverton@quorndoncarton.example
+HW-0382,Redmarley Couriers BV,Logistics,DAP,21,2025-10-05,Pending,Hesper Prescott,hesper.prescott@redmarleycouri.example
+HW-0383,Sedgeberrow Glassworks Group,Raw materials,DDP,31,2024-10-25,Approved,Kester Kinnaird,kester.kinnaird@sedgeberrowgla.example
+HW-0384,Tavistoke Crates PLC,Packaging,FOB,5,2024-07-25,Pending,Nessa Fanshawe,nessa.fanshawe@tavistokecrate.example
+HW-0385,Ulverston Warehousing Ltd,Logistics,EXW,46,2025-04-04,Approved,Anselm Ambleside,anselm.ambleside@ulverstonwareh.example
+HW-0386,Vaynor Cleaning Oy,Maintenance,DAP,20,2026-01-30,Pending,Deryn Lockhart,deryn.lockhart@vaynorcleaning.example
+HW-0387,Whitbourne Films SRL,Packaging,EXW,58,2026-02-08,Approved,Gwilym Gadsby,gwilym.gadsby@whitbournefilm.example
+HW-0388,Yatesbury Polymers BV,Raw materials,EXW,39,2024-10-24,Pending,Jolanta Barrowclough,jolanta.barrowclough@yatesburypolym.example
+HW-0389,Alnmouth Calibration Group,Maintenance,FOB,20,2024-04-21,Approved,Merrick Marchbank,merrick.marchbank@alnmouthcalibr.example
+HW-0390,Bexwell Labels PLC,Packaging,DAP,46,2026-08-01,Approved,Petra Halliwell,petra.halliwell@bexwelllabelsp.example
+HW-0391,Ambleforth Adhesives Ltd,Raw materials,FOB,7,2025-03-04,Approved,Caius Chevington,caius.chevington@ambleforthadhe.example
+HW-0392,Barrowden Tooling Oy,Maintenance,EXW,30,2024-09-18,Approved,Ffion Nettleford,ffion.nettleford@barrowdentooli.example
+HW-0393,Cheswick Pallets SRL,Packaging,DAP,46,2026-03-16,Pending,Idris Inkpen,idris.inkpen@cheswickpallet.example
+HW-0394,Dunsmere Alloys BV,Raw materials,EXW,12,2025-05-25,Approved,Linnet Dunwoody,linnet.dunwoody@dunsmerealloys.example
+HW-0395,Edgeworth Filters Group,Maintenance,DAP,25,2024-12-29,Approved,Osric Oldbury,osric.oldbury@edgeworthfilte.example
+HW-0396,Frampton Haulage PLC,Logistics,DAP,11,2025-02-15,Approved,Brioney Jelbart,brioney.jelbart@framptonhaulag.example
+HW-0397,Galloway Pigments Ltd,Raw materials,DDP,47,2025-04-27,Suspended,Eamon Elverton,eamon.elverton@gallowaypigmen.example
+HW-0398,Hartshorne Lubricants Oy,Maintenance,DAP,34,2024-05-01,Approved,Hesper Prescott,hesper.prescott@hartshornelubr.example
+HW-0399,Innesford Freight SRL,Logistics,DAP,12,2024-01-22,Approved,Kester Kinnaird,kester.kinnaird@innesfordfreig.example
+HW-0400,Jevington Timber BV,Raw materials,DAP,59,2025-11-24,Pending,Nessa Fanshawe,nessa.fanshawe@jevingtontimbe.example
+HW-0401,Knayton Cartons Group,Packaging,DAP,35,2025-11-29,Approved,Anselm Ambleside,anselm.ambleside@knaytoncartons.example
+HW-0402,Larkhall Couriers PLC,Logistics,EXW,8,2024-11-21,Approved,Deryn Lockhart,deryn.lockhart@larkhallcourie.example
+HW-0403,Mirfield Glassworks Ltd,Raw materials,DDP,53,2025-04-09,Pending,Gwilym Gadsby,gwilym.gadsby@mirfieldglassw.example
+HW-0404,Newsholme Crates Oy,Packaging,DDP,18,2025-10-01,Approved,Jolanta Barrowclough,jolanta.barrowclough@newsholmecrate.example
+HW-0405,Oswaldkirk Warehousing SRL,Logistics,FOB,35,2024-12-29,Approved,Merrick Marchbank,merrick.marchbank@oswaldkirkware.example
+HW-0406,Penrhos Cleaning BV,Maintenance,DAP,25,2026-05-08,Approved,Petra Halliwell,petra.halliwell@penrhoscleanin.example
+HW-0407,Quorndon Films Group,Packaging,DDP,17,2025-09-04,Approved,Caius Chevington,caius.chevington@quorndonfilmsg.example
+HW-0408,Redmarley Polymers PLC,Raw materials,FOB,22,2026-07-04,Approved,Ffion Nettleford,ffion.nettleford@redmarleypolym.example
+HW-0409,Sedgeberrow Calibration Ltd,Maintenance,DDP,52,2024-03-20,Pending,Idris Inkpen,idris.inkpen@sedgeberrowcal.example
+HW-0410,Tavistoke Labels Oy,Packaging,FOB,56,2024-12-03,Approved,Linnet Dunwoody,linnet.dunwoody@tavistokelabel.example
+HW-0411,Ulverston Adhesives SRL,Raw materials,DDP,42,2024-11-18,Suspended,Osric Oldbury,osric.oldbury@ulverstonadhes.example
+HW-0412,Vaynor Tooling BV,Maintenance,FOB,22,2025-12-18,Pending,Brioney Jelbart,brioney.jelbart@vaynortoolingb.example
+HW-0413,Whitbourne Pallets Group,Packaging,DAP,26,2024-07-25,Approved,Eamon Elverton,eamon.elverton@whitbournepall.example
+HW-0414,Yatesbury Alloys PLC,Raw materials,FOB,53,2024-10-06,Approved,Hesper Prescott,hesper.prescott@yatesburyalloy.example
+HW-0415,Alnmouth Filters Ltd,Maintenance,DDP,35,2025-12-27,Approved,Kester Kinnaird,kester.kinnaird@alnmouthfilter.example
+HW-0416,Bexwell Haulage Oy,Logistics,EXW,23,2024-11-15,Pending,Nessa Fanshawe,nessa.fanshawe@bexwellhaulage.example
+HW-0417,Ambleforth Pigments SRL,Raw materials,DAP,36,2025-07-11,Approved,Anselm Ambleside,anselm.ambleside@ambleforthpigm.example
+HW-0418,Barrowden Lubricants BV,Maintenance,DDP,14,2024-08-02,Approved,Deryn Lockhart,deryn.lockhart@barrowdenlubri.example
+HW-0419,Cheswick Freight Group,Logistics,DAP,48,2025-04-20,Approved,Gwilym Gadsby,gwilym.gadsby@cheswickfreigh.example
+HW-0420,Dunsmere Timber PLC,Raw materials,DAP,51,2025-11-10,Approved,Jolanta Barrowclough,jolanta.barrowclough@dunsmeretimber.example
+HW-0421,Edgeworth Cartons Ltd,Packaging,DDP,50,2024-06-08,Approved,Merrick Marchbank,merrick.marchbank@edgeworthcarto.example
+HW-0422,Frampton Couriers Oy,Logistics,DAP,40,2025-01-20,Suspended,Petra Halliwell,petra.halliwell@framptoncourie.example
+HW-0423,Galloway Glassworks SRL,Raw materials,DAP,7,2024-09-09,Approved,Caius Chevington,caius.chevington@gallowayglassw.example
+HW-0424,Hartshorne Crates BV,Packaging,DDP,54,2024-05-07,Approved,Ffion Nettleford,ffion.nettleford@hartshornecrat.example
+HW-0425,Innesford Warehousing Group,Logistics,DAP,3,2026-02-26,Approved,Idris Inkpen,idris.inkpen@innesfordwareh.example
+HW-0426,Jevington Cleaning PLC,Maintenance,FOB,25,2025-01-27,Pending,Linnet Dunwoody,linnet.dunwoody@jevingtonclean.example
+HW-0427,Knayton Films Ltd,Packaging,EXW,24,2024-04-30,Approved,Osric Oldbury,osric.oldbury@knaytonfilmslt.example
+HW-0428,Larkhall Polymers Oy,Raw materials,FOB,39,2024-06-23,Suspended,Brioney Jelbart,brioney.jelbart@larkhallpolyme.example
+HW-0429,Mirfield Calibration SRL,Maintenance,FOB,16,2025-04-12,Pending,Eamon Elverton,eamon.elverton@mirfieldcalibr.example
+HW-0430,Newsholme Labels BV,Packaging,EXW,3,2026-07-27,Pending,Hesper Prescott,hesper.prescott@newsholmelabel.example
+HW-0431,Oswaldkirk Adhesives Group,Raw materials,FOB,50,2024-08-27,Approved,Kester Kinnaird,kester.kinnaird@oswaldkirkadhe.example
+HW-0432,Penrhos Tooling PLC,Maintenance,FOB,47,2025-05-13,Approved,Nessa Fanshawe,nessa.fanshawe@penrhostooling.example
+HW-0433,Quorndon Pallets Ltd,Packaging,FOB,21,2026-02-28,Approved,Anselm Ambleside,anselm.ambleside@quorndonpallet.example
+HW-0434,Redmarley Alloys Oy,Raw materials,DAP,14,2024-11-05,Approved,Deryn Lockhart,deryn.lockhart@redmarleyalloy.example
+HW-0435,Sedgeberrow Filters SRL,Maintenance,EXW,32,2025-12-14,Approved,Gwilym Gadsby,gwilym.gadsby@sedgeberrowfil.example
+HW-0436,Tavistoke Haulage BV,Logistics,DDP,27,2024-08-14,Approved,Jolanta Barrowclough,jolanta.barrowclough@tavistokehaula.example
+HW-0437,Ulverston Pigments Group,Raw materials,DAP,40,2024-04-24,Approved,Merrick Marchbank,merrick.marchbank@ulverstonpigme.example
+HW-0438,Vaynor Lubricants PLC,Maintenance,DDP,10,2026-05-03,Approved,Petra Halliwell,petra.halliwell@vaynorlubrican.example
+HW-0439,Whitbourne Freight Ltd,Logistics,DDP,28,2025-06-10,Pending,Caius Chevington,caius.chevington@whitbournefrei.example
+HW-0440,Yatesbury Timber Oy,Raw materials,FOB,59,2026-06-14,Approved,Ffion Nettleford,ffion.nettleford@yatesburytimbe.example
+HW-0441,Alnmouth Cartons SRL,Packaging,DAP,45,2025-08-20,Approved,Idris Inkpen,idris.inkpen@alnmouthcarton.example
+HW-0442,Bexwell Couriers BV,Logistics,DDP,21,2026-04-08,Approved,Linnet Dunwoody,linnet.dunwoody@bexwellcourier.example
+HW-0443,Ambleforth Glassworks Group,Raw materials,EXW,14,2026-06-26,Approved,Osric Oldbury,osric.oldbury@ambleforthglas.example
+HW-0444,Barrowden Crates PLC,Packaging,EXW,28,2025-12-23,Approved,Brioney Jelbart,brioney.jelbart@barrowdencrate.example
+HW-0445,Cheswick Warehousing Ltd,Logistics,EXW,16,2025-03-09,Approved,Eamon Elverton,eamon.elverton@cheswickwareho.example
+HW-0446,Dunsmere Cleaning Oy,Maintenance,DAP,33,2026-07-03,Suspended,Hesper Prescott,hesper.prescott@dunsmerecleani.example
+HW-0447,Edgeworth Films SRL,Packaging,EXW,41,2024-04-25,Approved,Kester Kinnaird,kester.kinnaird@edgeworthfilms.example
+HW-0448,Frampton Polymers BV,Raw materials,DDP,11,2025-11-18,Approved,Nessa Fanshawe,nessa.fanshawe@framptonpolyme.example
+HW-0449,Galloway Calibration Group,Maintenance,EXW,4,2024-07-12,Approved,Anselm Ambleside,anselm.ambleside@gallowaycalibr.example
+HW-0450,Hartshorne Labels PLC,Packaging,FOB,33,2026-07-19,Approved,Deryn Lockhart,deryn.lockhart@hartshornelabe.example
+HW-0451,Innesford Adhesives Ltd,Raw materials,DDP,41,2024-04-25,Pending,Gwilym Gadsby,gwilym.gadsby@innesfordadhes.example
+HW-0452,Jevington Tooling Oy,Maintenance,DDP,46,2024-10-25,Approved,Jolanta Barrowclough,jolanta.barrowclough@jevingtontooli.example
+HW-0453,Knayton Pallets SRL,Packaging,DAP,46,2025-08-26,Approved,Merrick Marchbank,merrick.marchbank@knaytonpallets.example
+HW-0454,Larkhall Alloys BV,Raw materials,EXW,53,2026-04-20,Approved,Petra Halliwell,petra.halliwell@larkhallalloys.example
+HW-0455,Mirfield Filters Group,Maintenance,DAP,31,2025-01-03,Approved,Caius Chevington,caius.chevington@mirfieldfilter.example
+HW-0456,Newsholme Haulage PLC,Logistics,EXW,52,2024-12-24,Approved,Ffion Nettleford,ffion.nettleford@newsholmehaula.example
+HW-0457,Oswaldkirk Pigments Ltd,Raw materials,DAP,11,2024-10-26,Pending,Idris Inkpen,idris.inkpen@oswaldkirkpigm.example
+HW-0458,Penrhos Lubricants Oy,Maintenance,EXW,57,2024-05-05,Approved,Linnet Dunwoody,linnet.dunwoody@penrhoslubrica.example
+HW-0459,Quorndon Freight SRL,Logistics,FOB,32,2026-08-14,Approved,Osric Oldbury,osric.oldbury@quorndonfreigh.example
+HW-0460,Redmarley Timber BV,Raw materials,DAP,46,2024-03-26,Approved,Brioney Jelbart,brioney.jelbart@redmarleytimbe.example
+HW-0461,Sedgeberrow Cartons Group,Packaging,DAP,58,2024-12-05,Approved,Eamon Elverton,eamon.elverton@sedgeberrowcar.example
+HW-0462,Tavistoke Couriers PLC,Logistics,EXW,56,2024-09-29,Approved,Hesper Prescott,hesper.prescott@tavistokecouri.example
+HW-0463,Ulverston Glassworks Ltd,Raw materials,DDP,50,2026-07-30,Approved,Kester Kinnaird,kester.kinnaird@ulverstonglass.example
+HW-0464,Vaynor Crates Oy,Packaging,DAP,6,2024-09-03,Approved,Nessa Fanshawe,nessa.fanshawe@vaynorcratesoy.example
+HW-0465,Whitbourne Warehousing SRL,Logistics,DDP,56,2026-07-12,Pending,Anselm Ambleside,anselm.ambleside@whitbourneware.example
+HW-0466,Yatesbury Cleaning BV,Maintenance,EXW,22,2024-12-30,Approved,Deryn Lockhart,deryn.lockhart@yatesburyclean.example
+HW-0467,Alnmouth Films Group,Packaging,EXW,22,2024-06-23,Approved,Gwilym Gadsby,gwilym.gadsby@alnmouthfilmsg.example
+HW-0468,Bexwell Polymers PLC,Raw materials,DDP,30,2024-08-27,Pending,Jolanta Barrowclough,jolanta.barrowclough@bexwellpolymer.example
+HW-0469,Ambleforth Calibration Ltd,Maintenance,DAP,41,2025-06-22,Approved,Merrick Marchbank,merrick.marchbank@ambleforthcali.example
+HW-0470,Barrowden Labels Oy,Packaging,DDP,24,2025-06-04,Approved,Petra Halliwell,petra.halliwell@barrowdenlabel.example
+HW-0471,Cheswick Adhesives SRL,Raw materials,DAP,20,2024-01-15,Pending,Caius Chevington,caius.chevington@cheswickadhesi.example
+HW-0472,Dunsmere Tooling BV,Maintenance,FOB,12,2024-11-15,Approved,Ffion Nettleford,ffion.nettleford@dunsmeretoolin.example
+HW-0473,Edgeworth Pallets Group,Packaging,EXW,12,2024-04-03,Approved,Idris Inkpen,idris.inkpen@edgeworthpalle.example
+HW-0474,Frampton Alloys PLC,Raw materials,EXW,59,2024-04-14,Pending,Linnet Dunwoody,linnet.dunwoody@framptonalloys.example
+HW-0475,Galloway Filters Ltd,Maintenance,FOB,25,2025-11-13,Approved,Osric Oldbury,osric.oldbury@gallowayfilter.example
+HW-0476,Hartshorne Haulage Oy,Logistics,FOB,27,2025-06-10,Suspended,Brioney Jelbart,brioney.jelbart@hartshornehaul.example
+HW-0477,Innesford Pigments SRL,Raw materials,EXW,16,2025-08-05,Approved,Eamon Elverton,eamon.elverton@innesfordpigme.example
+HW-0478,Jevington Lubricants BV,Maintenance,DAP,21,2025-12-30,Pending,Hesper Prescott,hesper.prescott@jevingtonlubri.example
+HW-0479,Knayton Freight Group,Logistics,DAP,5,2025-10-15,Approved,Kester Kinnaird,kester.kinnaird@knaytonfreight.example
+HW-0480,Larkhall Timber PLC,Raw materials,DAP,35,2026-04-26,Approved,Nessa Fanshawe,nessa.fanshawe@larkhalltimber.example
+HW-0481,Mirfield Cartons Ltd,Packaging,DDP,46,2025-03-31,Approved,Anselm Ambleside,anselm.ambleside@mirfieldcarton.example
+HW-0482,Newsholme Couriers Oy,Logistics,FOB,9,2025-08-26,Suspended,Deryn Lockhart,deryn.lockhart@newsholmecouri.example
+HW-0483,Oswaldkirk Glassworks SRL,Raw materials,DDP,55,2024-09-30,Approved,Gwilym Gadsby,gwilym.gadsby@oswaldkirkglas.example
+HW-0484,Penrhos Crates BV,Packaging,DAP,40,2024-09-30,Pending,Jolanta Barrowclough,jolanta.barrowclough@penrhoscratesb.example
+HW-0485,Quorndon Warehousing Group,Logistics,DDP,29,2026-03-20,Approved,Merrick Marchbank,merrick.marchbank@quorndonwareho.example
+HW-0486,Redmarley Cleaning PLC,Maintenance,DAP,41,2025-10-20,Approved,Petra Halliwell,petra.halliwell@redmarleyclean.example
+HW-0487,Sedgeberrow Films Ltd,Packaging,DAP,6,2024-03-11,Suspended,Caius Chevington,caius.chevington@sedgeberrowfil.example
+HW-0488,Tavistoke Polymers Oy,Raw materials,FOB,13,2024-07-14,Approved,Ffion Nettleford,ffion.nettleford@tavistokepolym.example
+HW-0489,Ulverston Calibration SRL,Maintenance,FOB,26,2026-02-23,Approved,Idris Inkpen,idris.inkpen@ulverstoncalib.example
+HW-0490,Vaynor Labels BV,Packaging,EXW,18,2025-06-10,Approved,Linnet Dunwoody,linnet.dunwoody@vaynorlabelsbv.example
+HW-0491,Whitbourne Adhesives Group,Raw materials,EXW,25,2024-08-18,Approved,Osric Oldbury,osric.oldbury@whitbourneadhe.example
+HW-0492,Yatesbury Tooling PLC,Maintenance,DAP,9,2026-05-21,Approved,Brioney Jelbart,brioney.jelbart@yatesburytooli.example
+HW-0493,Alnmouth Pallets Ltd,Packaging,EXW,39,2026-03-21,Approved,Eamon Elverton,eamon.elverton@alnmouthpallet.example
+HW-0494,Bexwell Alloys Oy,Raw materials,FOB,59,2026-08-12,Pending,Hesper Prescott,hesper.prescott@bexwellalloyso.example
+HW-0495,Ambleforth Filters SRL,Maintenance,DDP,7,2025-02-20,Approved,Kester Kinnaird,kester.kinnaird@ambleforthfilt.example
+HW-0496,Barrowden Haulage BV,Logistics,EXW,45,2024-03-21,Approved,Nessa Fanshawe,nessa.fanshawe@barrowdenhaula.example
+HW-0497,Cheswick Pigments Group,Raw materials,EXW,31,2025-05-27,Pending,Anselm Ambleside,anselm.ambleside@cheswickpigmen.example
+HW-0498,Dunsmere Lubricants PLC,Maintenance,DAP,41,2025-01-29,Approved,Deryn Lockhart,deryn.lockhart@dunsmerelubric.example
+HW-0499,Edgeworth Freight Ltd,Logistics,DAP,28,2026-05-09,Approved,Gwilym Gadsby,gwilym.gadsby@edgeworthfreig.example
+HW-0500,Frampton Timber Oy,Raw materials,EXW,44,2025-05-31,Approved,Jolanta Barrowclough,jolanta.barrowclough@framptontimber.example
+HW-0501,Galloway Cartons SRL,Packaging,DDP,54,2026-02-03,Approved,Merrick Marchbank,merrick.marchbank@gallowaycarton.example
+HW-0502,Hartshorne Couriers BV,Logistics,FOB,45,2026-03-13,Pending,Petra Halliwell,petra.halliwell@hartshornecour.example
+HW-0503,Innesford Glassworks Group,Raw materials,EXW,11,2024-10-17,Approved,Caius Chevington,caius.chevington@innesfordglass.example
+HW-0504,Jevington Crates PLC,Packaging,DAP,22,2025-01-15,Pending,Ffion Nettleford,ffion.nettleford@jevingtoncrate.example
+HW-0505,Knayton Warehousing Ltd,Logistics,DAP,55,2025-10-31,Pending,Idris Inkpen,idris.inkpen@knaytonwarehou.example
+HW-0506,Larkhall Cleaning Oy,Maintenance,FOB,49,2024-06-19,Pending,Linnet Dunwoody,linnet.dunwoody@larkhallcleani.example
+HW-0507,Mirfield Films SRL,Packaging,DDP,33,2024-07-14,Approved,Osric Oldbury,osric.oldbury@mirfieldfilmss.example
+HW-0508,Newsholme Polymers BV,Raw materials,EXW,51,2026-04-15,Approved,Brioney Jelbart,brioney.jelbart@newsholmepolym.example
+HW-0509,Oswaldkirk Calibration Group,Maintenance,DDP,30,2024-07-08,Approved,Eamon Elverton,eamon.elverton@oswaldkirkcali.example
+HW-0510,Penrhos Labels PLC,Packaging,DDP,7,2024-10-23,Approved,Hesper Prescott,hesper.prescott@penrhoslabelsp.example
+HW-0511,Quorndon Adhesives Ltd,Raw materials,FOB,59,2024-10-04,Approved,Kester Kinnaird,kester.kinnaird@quorndonadhesi.example
+HW-0512,Redmarley Tooling Oy,Maintenance,DAP,28,2024-09-24,Suspended,Nessa Fanshawe,nessa.fanshawe@redmarleytooli.example
+HW-0513,Sedgeberrow Pallets SRL,Packaging,DAP,37,2024-01-11,Approved,Anselm Ambleside,anselm.ambleside@sedgeberrowpal.example
+HW-0514,Tavistoke Alloys BV,Raw materials,FOB,21,2025-04-23,Approved,Deryn Lockhart,deryn.lockhart@tavistokealloy.example
+HW-0515,Ulverston Filters Group,Maintenance,FOB,31,2026-05-28,Approved,Gwilym Gadsby,gwilym.gadsby@ulverstonfilte.example
+HW-0516,Vaynor Haulage PLC,Logistics,DAP,17,2024-07-20,Approved,Jolanta Barrowclough,jolanta.barrowclough@vaynorhaulagep.example
+HW-0517,Whitbourne Pigments Ltd,Raw materials,FOB,56,2026-04-27,Approved,Merrick Marchbank,merrick.marchbank@whitbournepigm.example
+HW-0518,Yatesbury Lubricants Oy,Maintenance,DAP,39,2024-04-25,Pending,Petra Halliwell,petra.halliwell@yatesburylubri.example
+HW-0519,Alnmouth Freight SRL,Logistics,DAP,34,2025-05-29,Approved,Caius Chevington,caius.chevington@alnmouthfreigh.example
+HW-0520,Bexwell Timber BV,Raw materials,DDP,18,2024-08-14,Approved,Ffion Nettleford,ffion.nettleford@bexwelltimberb.example
+HW-0521,Ambleforth Cartons Group,Packaging,EXW,14,2025-07-14,Approved,Idris Inkpen,idris.inkpen@ambleforthcart.example
+HW-0522,Barrowden Couriers PLC,Logistics,EXW,7,2026-03-29,Approved,Linnet Dunwoody,linnet.dunwoody@barrowdencouri.example
+HW-0523,Cheswick Glassworks Ltd,Raw materials,FOB,5,2025-01-24,Approved,Osric Oldbury,osric.oldbury@cheswickglassw.example
+HW-0524,Dunsmere Crates Oy,Packaging,DDP,51,2025-04-10,Approved,Brioney Jelbart,brioney.jelbart@dunsmerecrates.example
+HW-0525,Edgeworth Warehousing SRL,Logistics,DAP,38,2026-01-02,Approved,Eamon Elverton,eamon.elverton@edgeworthwareh.example
+HW-0526,Frampton Cleaning BV,Maintenance,DAP,18,2026-03-12,Approved,Hesper Prescott,hesper.prescott@framptoncleani.example
+HW-0527,Galloway Films Group,Packaging,FOB,51,2025-01-10,Approved,Kester Kinnaird,kester.kinnaird@gallowayfilmsg.example
+HW-0528,Hartshorne Polymers PLC,Raw materials,EXW,45,2026-01-25,Pending,Nessa Fanshawe,nessa.fanshawe@hartshornepoly.example
+HW-0529,Innesford Calibration Ltd,Maintenance,DAP,36,2025-07-31,Suspended,Anselm Ambleside,anselm.ambleside@innesfordcalib.example
+HW-0530,Jevington Labels Oy,Packaging,FOB,8,2026-05-25,Approved,Deryn Lockhart,deryn.lockhart@jevingtonlabel.example
+HW-0531,Knayton Adhesives SRL,Raw materials,DAP,31,2025-04-24,Approved,Gwilym Gadsby,gwilym.gadsby@knaytonadhesiv.example
+HW-0532,Larkhall Tooling BV,Maintenance,DAP,28,2026-03-02,Approved,Jolanta Barrowclough,jolanta.barrowclough@larkhalltoolin.example
+HW-0533,Mirfield Pallets Group,Packaging,DDP,42,2025-03-06,Approved,Merrick Marchbank,merrick.marchbank@mirfieldpallet.example
+HW-0534,Newsholme Alloys PLC,Raw materials,DDP,26,2026-07-05,Approved,Petra Halliwell,petra.halliwell@newsholmealloy.example
+HW-0535,Oswaldkirk Filters Ltd,Maintenance,DAP,6,2025-05-05,Approved,Caius Chevington,caius.chevington@oswaldkirkfilt.example
+HW-0536,Penrhos Haulage Oy,Logistics,DDP,6,2024-04-27,Approved,Ffion Nettleford,ffion.nettleford@penrhoshaulage.example
+HW-0537,Quorndon Pigments SRL,Raw materials,EXW,42,2025-05-27,Approved,Idris Inkpen,idris.inkpen@quorndonpigmen.example
+HW-0538,Redmarley Lubricants BV,Maintenance,DAP,26,2024-02-22,Approved,Linnet Dunwoody,linnet.dunwoody@redmarleylubri.example
+HW-0539,Sedgeberrow Freight Group,Logistics,DDP,26,2024-07-02,Pending,Osric Oldbury,osric.oldbury@sedgeberrowfre.example
+HW-0540,Tavistoke Timber PLC,Raw materials,DDP,15,2026-01-29,Approved,Brioney Jelbart,brioney.jelbart@tavistoketimbe.example
+HW-0541,Ulverston Cartons Ltd,Packaging,FOB,50,2025-09-27,Approved,Eamon Elverton,eamon.elverton@ulverstoncarto.example
+HW-0542,Vaynor Couriers Oy,Logistics,EXW,59,2024-04-08,Approved,Hesper Prescott,hesper.prescott@vaynorcouriers.example
+HW-0543,Whitbourne Glassworks SRL,Raw materials,EXW,55,2024-03-30,Approved,Kester Kinnaird,kester.kinnaird@whitbourneglas.example
+HW-0544,Yatesbury Crates BV,Packaging,FOB,25,2026-02-15,Approved,Nessa Fanshawe,nessa.fanshawe@yatesburycrate.example
+HW-0545,Alnmouth Warehousing Group,Logistics,EXW,11,2026-02-14,Approved,Anselm Ambleside,anselm.ambleside@alnmouthwareho.example
+HW-0546,Bexwell Cleaning PLC,Maintenance,FOB,58,2025-10-12,Pending,Deryn Lockhart,deryn.lockhart@bexwellcleanin.example
+HW-0547,Ambleforth Films Ltd,Packaging,DAP,56,2024-08-14,Approved,Gwilym Gadsby,gwilym.gadsby@ambleforthfilm.example
+HW-0548,Barrowden Polymers Oy,Raw materials,EXW,48,2026-05-21,Approved,Jolanta Barrowclough,jolanta.barrowclough@barrowdenpolym.example
+HW-0549,Cheswick Calibration SRL,Maintenance,FOB,34,2024-09-25,Approved,Merrick Marchbank,merrick.marchbank@cheswickcalibr.example
+HW-0550,Dunsmere Labels BV,Packaging,DDP,16,2025-03-13,Approved,Petra Halliwell,petra.halliwell@dunsmerelabels.example
+HW-0551,Edgeworth Adhesives Group,Raw materials,DAP,57,2026-04-06,Pending,Caius Chevington,caius.chevington@edgeworthadhes.example
+HW-0552,Frampton Tooling PLC,Maintenance,DDP,57,2026-05-03,Approved,Ffion Nettleford,ffion.nettleford@framptontoolin.example
+HW-0553,Galloway Pallets Ltd,Packaging,EXW,15,2025-09-04,Approved,Idris Inkpen,idris.inkpen@gallowaypallet.example
+HW-0554,Hartshorne Alloys Oy,Raw materials,FOB,7,2025-04-26,Approved,Linnet Dunwoody,linnet.dunwoody@hartshorneallo.example
+HW-0555,Innesford Filters SRL,Maintenance,FOB,36,2024-11-30,Approved,Osric Oldbury,osric.oldbury@innesfordfilte.example
+HW-0556,Jevington Haulage BV,Logistics,EXW,41,2024-05-05,Approved,Brioney Jelbart,brioney.jelbart@jevingtonhaula.example
+HW-0557,Knayton Pigments Group,Raw materials,DAP,8,2024-03-09,Approved,Eamon Elverton,eamon.elverton@knaytonpigment.example
+HW-0558,Larkhall Lubricants PLC,Maintenance,DAP,5,2025-04-07,Approved,Hesper Prescott,hesper.prescott@larkhalllubric.example
+HW-0559,Mirfield Freight Ltd,Logistics,DAP,36,2026-07-04,Approved,Kester Kinnaird,kester.kinnaird@mirfieldfreigh.example
+HW-0560,Newsholme Timber Oy,Raw materials,DAP,14,2025-04-01,Pending,Nessa Fanshawe,nessa.fanshawe@newsholmetimbe.example
+HW-0561,Oswaldkirk Cartons SRL,Packaging,EXW,7,2025-04-20,Pending,Anselm Ambleside,anselm.ambleside@oswaldkirkcart.example
+HW-0562,Penrhos Couriers BV,Logistics,FOB,19,2025-07-10,Pending,Deryn Lockhart,deryn.lockhart@penrhoscourier.example
+HW-0563,Quorndon Glassworks Group,Raw materials,EXW,12,2024-05-02,Approved,Gwilym Gadsby,gwilym.gadsby@quorndonglassw.example
+HW-0564,Redmarley Crates PLC,Packaging,DAP,16,2025-05-04,Approved,Jolanta Barrowclough,jolanta.barrowclough@redmarleycrate.example
+HW-0565,Sedgeberrow Warehousing Ltd,Logistics,DDP,15,2025-03-09,Approved,Merrick Marchbank,merrick.marchbank@sedgeberrowwar.example
+HW-0566,Tavistoke Cleaning Oy,Maintenance,EXW,22,2024-10-20,Approved,Petra Halliwell,petra.halliwell@tavistokeclean.example
+HW-0567,Ulverston Films SRL,Packaging,DAP,48,2025-05-15,Approved,Caius Chevington,caius.chevington@ulverstonfilms.example
+HW-0568,Vaynor Polymers BV,Raw materials,FOB,42,2025-08-03,Approved,Ffion Nettleford,ffion.nettleford@vaynorpolymers.example
+HW-0569,Whitbourne Calibration Group,Maintenance,DAP,32,2024-03-29,Pending,Idris Inkpen,idris.inkpen@whitbournecali.example
+HW-0570,Yatesbury Labels PLC,Packaging,EXW,27,2025-09-20,Pending,Linnet Dunwoody,linnet.dunwoody@yatesburylabel.example
+HW-0571,Alnmouth Adhesives Ltd,Raw materials,FOB,45,2024-04-06,Approved,Osric Oldbury,osric.oldbury@alnmouthadhesi.example
+HW-0572,Bexwell Tooling Oy,Maintenance,FOB,27,2026-06-29,Approved,Brioney Jelbart,brioney.jelbart@bexwelltooling.example
+HW-0573,Ambleforth Pallets SRL,Packaging,FOB,45,2024-02-29,Approved,Eamon Elverton,eamon.elverton@ambleforthpall.example
+HW-0574,Barrowden Alloys BV,Raw materials,DAP,3,2024-05-24,Suspended,Hesper Prescott,hesper.prescott@barrowdenalloy.example
+HW-0575,Cheswick Filters Group,Maintenance,DAP,58,2024-09-14,Pending,Kester Kinnaird,kester.kinnaird@cheswickfilter.example
+HW-0576,Dunsmere Haulage PLC,Logistics,DDP,50,2025-01-08,Suspended,Nessa Fanshawe,nessa.fanshawe@dunsmerehaulag.example
+HW-0577,Edgeworth Pigments Ltd,Raw materials,FOB,28,2024-07-02,Approved,Anselm Ambleside,anselm.ambleside@edgeworthpigme.example
+HW-0578,Frampton Lubricants Oy,Maintenance,DAP,59,2026-07-15,Pending,Deryn Lockhart,deryn.lockhart@framptonlubric.example
+HW-0579,Galloway Freight SRL,Logistics,EXW,52,2025-10-19,Pending,Gwilym Gadsby,gwilym.gadsby@gallowayfreigh.example
+HW-0580,Hartshorne Timber BV,Raw materials,EXW,13,2024-02-23,Approved,Jolanta Barrowclough,jolanta.barrowclough@hartshornetimb.example
+HW-0581,Innesford Cartons Group,Packaging,EXW,46,2025-02-03,Approved,Merrick Marchbank,merrick.marchbank@innesfordcarto.example
+HW-0582,Jevington Couriers PLC,Logistics,DAP,59,2025-07-22,Approved,Petra Halliwell,petra.halliwell@jevingtoncouri.example
+HW-0583,Knayton Glassworks Ltd,Raw materials,FOB,47,2025-03-01,Approved,Caius Chevington,caius.chevington@knaytonglasswo.example
+HW-0584,Larkhall Crates Oy,Packaging,EXW,13,2026-05-21,Approved,Ffion Nettleford,ffion.nettleford@larkhallcrates.example
+HW-0585,Mirfield Warehousing SRL,Logistics,FOB,22,2024-09-19,Approved,Idris Inkpen,idris.inkpen@mirfieldwareho.example
+HW-0586,Newsholme Cleaning BV,Maintenance,FOB,32,2024-09-17,Pending,Linnet Dunwoody,linnet.dunwoody@newsholmeclean.example
+HW-0587,Oswaldkirk Films Group,Packaging,DDP,47,2026-01-28,Pending,Osric Oldbury,osric.oldbury@oswaldkirkfilm.example
+HW-0588,Penrhos Polymers PLC,Raw materials,FOB,5,2024-02-22,Approved,Brioney Jelbart,brioney.jelbart@penrhospolymer.example
+HW-0589,Quorndon Calibration Ltd,Maintenance,EXW,25,2024-08-24,Approved,Eamon Elverton,eamon.elverton@quorndoncalibr.example
+HW-0590,Redmarley Labels Oy,Packaging,DAP,36,2025-03-28,Approved,Hesper Prescott,hesper.prescott@redmarleylabel.example
+HW-0591,Sedgeberrow Adhesives SRL,Raw materials,DDP,4,2024-11-21,Approved,Kester Kinnaird,kester.kinnaird@sedgeberrowadh.example
+HW-0592,Tavistoke Tooling BV,Maintenance,DDP,35,2025-11-22,Approved,Nessa Fanshawe,nessa.fanshawe@tavistoketooli.example
+HW-0593,Ulverston Pallets Group,Packaging,DAP,37,2026-02-09,Approved,Anselm Ambleside,anselm.ambleside@ulverstonpalle.example
+HW-0594,Vaynor Alloys PLC,Raw materials,EXW,40,2026-03-24,Suspended,Deryn Lockhart,deryn.lockhart@vaynoralloyspl.example
+HW-0595,Whitbourne Filters Ltd,Maintenance,DDP,46,2026-01-28,Pending,Gwilym Gadsby,gwilym.gadsby@whitbournefilt.example
+HW-0596,Yatesbury Haulage Oy,Logistics,EXW,16,2024-03-23,Approved,Jolanta Barrowclough,jolanta.barrowclough@yatesburyhaula.example
+HW-0597,Alnmouth Pigments SRL,Raw materials,FOB,13,2025-10-12,Approved,Merrick Marchbank,merrick.marchbank@alnmouthpigmen.example
+HW-0598,Bexwell Lubricants BV,Maintenance,FOB,46,2024-11-09,Approved,Petra Halliwell,petra.halliwell@bexwelllubrica.example
+HW-0599,Ambleforth Freight Group,Logistics,FOB,49,2024-07-08,Approved,Caius Chevington,caius.chevington@ambleforthfrei.example
+HW-0600,Barrowden Timber PLC,Raw materials,DDP,34,2026-04-15,Approved,Ffion Nettleford,ffion.nettleford@barrowdentimbe.example
+HW-0601,Cheswick Cartons Ltd,Packaging,FOB,15,2025-11-23,Approved,Idris Inkpen,idris.inkpen@cheswickcarton.example
+HW-0602,Dunsmere Couriers Oy,Logistics,EXW,48,2024-03-12,Approved,Linnet Dunwoody,linnet.dunwoody@dunsmerecourie.example
+HW-0603,Edgeworth Glassworks SRL,Raw materials,DAP,8,2024-06-22,Pending,Osric Oldbury,osric.oldbury@edgeworthglass.example
+HW-0604,Frampton Crates BV,Packaging,DAP,59,2026-04-21,Approved,Brioney Jelbart,brioney.jelbart@framptoncrates.example
+HW-0605,Galloway Warehousing Group,Logistics,DAP,5,2025-06-25,Suspended,Eamon Elverton,eamon.elverton@gallowaywareho.example
+HW-0606,Hartshorne Cleaning PLC,Maintenance,DAP,17,2026-04-23,Approved,Hesper Prescott,hesper.prescott@hartshorneclea.example
+HW-0607,Innesford Films Ltd,Packaging,FOB,42,2024-02-12,Pending,Kester Kinnaird,kester.kinnaird@innesfordfilms.example
+HW-0608,Jevington Polymers Oy,Raw materials,DAP,49,2025-01-11,Pending,Nessa Fanshawe,nessa.fanshawe@jevingtonpolym.example
+HW-0609,Knayton Calibration SRL,Maintenance,DAP,50,2026-05-31,Approved,Anselm Ambleside,anselm.ambleside@knaytoncalibra.example
+HW-0610,Larkhall Labels BV,Packaging,EXW,8,2024-06-05,Approved,Deryn Lockhart,deryn.lockhart@larkhalllabels.example
+HW-0611,Mirfield Adhesives Group,Raw materials,FOB,42,2025-09-29,Pending,Gwilym Gadsby,gwilym.gadsby@mirfieldadhesi.example
+HW-0612,Newsholme Tooling PLC,Maintenance,EXW,17,2024-11-18,Suspended,Jolanta Barrowclough,jolanta.barrowclough@newsholmetooli.example
+HW-0613,Oswaldkirk Pallets Ltd,Packaging,DAP,43,2025-07-12,Pending,Merrick Marchbank,merrick.marchbank@oswaldkirkpall.example
+HW-0614,Penrhos Alloys Oy,Raw materials,DAP,34,2025-11-26,Approved,Petra Halliwell,petra.halliwell@penrhosalloyso.example
+HW-0615,Quorndon Filters SRL,Maintenance,EXW,46,2025-04-23,Pending,Caius Chevington,caius.chevington@quorndonfilter.example
+HW-0616,Redmarley Haulage BV,Logistics,DAP,35,2025-10-02,Pending,Ffion Nettleford,ffion.nettleford@redmarleyhaula.example
+HW-0617,Sedgeberrow Pigments Group,Raw materials,DAP,51,2026-01-30,Approved,Idris Inkpen,idris.inkpen@sedgeberrowpig.example
+HW-0618,Tavistoke Lubricants PLC,Maintenance,DDP,47,2024-12-20,Suspended,Linnet Dunwoody,linnet.dunwoody@tavistokelubri.example
+HW-0619,Ulverston Freight Ltd,Logistics,DDP,59,2024-06-22,Approved,Osric Oldbury,osric.oldbury@ulverstonfreig.example
+HW-0620,Vaynor Timber Oy,Raw materials,EXW,44,2026-03-07,Approved,Brioney Jelbart,brioney.jelbart@vaynortimberoy.example
+HW-0621,Whitbourne Cartons SRL,Packaging,FOB,56,2025-12-19,Approved,Eamon Elverton,eamon.elverton@whitbournecart.example
+HW-0622,Yatesbury Couriers BV,Logistics,DAP,14,2026-08-08,Approved,Hesper Prescott,hesper.prescott@yatesburycouri.example
+HW-0623,Alnmouth Glassworks Group,Raw materials,FOB,51,2025-02-06,Approved,Kester Kinnaird,kester.kinnaird@alnmouthglassw.example
+HW-0624,Bexwell Crates PLC,Packaging,DAP,51,2025-02-02,Approved,Nessa Fanshawe,nessa.fanshawe@bexwellcratesp.example
+HW-0625,Ambleforth Warehousing Ltd,Logistics,DDP,23,2024-12-10,Suspended,Anselm Ambleside,anselm.ambleside@ambleforthware.example
+HW-0626,Barrowden Cleaning Oy,Maintenance,DDP,54,2025-07-14,Approved,Deryn Lockhart,deryn.lockhart@barrowdenclean.example
+HW-0627,Cheswick Films SRL,Packaging,DAP,15,2025-10-20,Approved,Gwilym Gadsby,gwilym.gadsby@cheswickfilmss.example
+HW-0628,Dunsmere Polymers BV,Raw materials,DDP,21,2026-06-22,Suspended,Jolanta Barrowclough,jolanta.barrowclough@dunsmerepolyme.example
+HW-0629,Edgeworth Calibration Group,Maintenance,EXW,9,2024-01-23,Approved,Merrick Marchbank,merrick.marchbank@edgeworthcalib.example
+HW-0630,Frampton Labels PLC,Packaging,DDP,26,2024-09-10,Pending,Petra Halliwell,petra.halliwell@framptonlabels.example
+HW-0631,Galloway Adhesives Ltd,Raw materials,EXW,6,2024-04-17,Approved,Caius Chevington,caius.chevington@gallowayadhesi.example
+HW-0632,Hartshorne Tooling Oy,Maintenance,FOB,22,2025-04-12,Pending,Ffion Nettleford,ffion.nettleford@hartshornetool.example
+HW-0633,Innesford Pallets SRL,Packaging,DAP,52,2024-10-25,Approved,Idris Inkpen,idris.inkpen@innesfordpalle.example
+HW-0634,Jevington Alloys BV,Raw materials,FOB,23,2025-03-20,Pending,Linnet Dunwoody,linnet.dunwoody@jevingtonalloy.example
+HW-0635,Knayton Filters Group,Maintenance,EXW,38,2025-11-17,Approved,Osric Oldbury,osric.oldbury@knaytonfilters.example
+HW-0636,Larkhall Haulage PLC,Logistics,DDP,49,2024-05-16,Approved,Brioney Jelbart,brioney.jelbart@larkhallhaulag.example
+HW-0637,Mirfield Pigments Ltd,Raw materials,FOB,11,2026-06-01,Pending,Eamon Elverton,eamon.elverton@mirfieldpigmen.example
+HW-0638,Newsholme Lubricants Oy,Maintenance,FOB,6,2025-06-21,Pending,Hesper Prescott,hesper.prescott@newsholmelubri.example
+HW-0639,Oswaldkirk Freight SRL,Logistics,DAP,31,2024-06-29,Approved,Kester Kinnaird,kester.kinnaird@oswaldkirkfrei.example
+HW-0640,Penrhos Timber BV,Raw materials,EXW,35,2025-03-29,Approved,Nessa Fanshawe,nessa.fanshawe@penrhostimberb.example

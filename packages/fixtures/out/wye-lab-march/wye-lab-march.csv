@@ -1,0 +1,480 @@
+Site,Date sampled,Det.,Result,Method,Lab ref
+WYE-114,04 Mar 2026,NO3-N,6.31,Ion chromatography,L-8841
+WYE-114,04 Mar 2026,NO3-N,6.90,Ion chromatography,L-8902
+WYE-118,04 Mar 2026,PO4-P,<0.05,Colorimetric,L-8843
+WYE-118,05 Mar 2026,NH4-N,0.42 mg/l,Colorimetric,L-8850
+LUG-207,05 Mar 2026,DO,9.8,Probe,
+WYE-118,02 Mar 2026,PO4-P,0.041,Colorimetric,L-8849
+WYE-118,02 Mar 2026,NH4-N,1.47,Colorimetric,L-8852
+WYE-118,02 Mar 2026,DO,13.3,Probe,
+WYE-121,02 Mar 2026,PO4-P,0.016,Colorimetric,L-8853
+WYE-121,02 Mar 2026,NH4-N,0.70,Colorimetric,L-8855
+WYE-126,02 Mar 2026,NO3-N,4.49,Ion chromatography,L-8861
+WYE-126,02 Mar 2026,PO4-P,0.156,Colorimetric,L-8868
+LUG-207,02 Mar 2026,NO3-N,2.09,Ion chromatography,L-8874
+LUG-207,02 Mar 2026,PO4-P,0.123,Colorimetric,L-8879
+LUG-207,02 Mar 2026,NH4-N,0.19,Colorimetric,L-8880
+ARR-301,02 Mar 2026,NO3-N,3.24,Ion chromatography,L-8886
+ARR-301,02 Mar 2026,DO,10.7,Probe,
+ARR-305,02 Mar 2026,NO3-N,8.75,Ion chromatography,L-8894
+ARR-305,02 Mar 2026,PO4-P,0.072,Colorimetric,L-8897
+ARR-305,02 Mar 2026,NH4-N,1.03,Colorimetric,L-8901
+DEE-402,02 Mar 2026,PO4-P,0.423,Colorimetric,L-8905
+DEE-402,02 Mar 2026,DO,7.2,Probe,
+DEE-407,02 Mar 2026,NO3-N,7.77,Ion chromatography,L-8908
+DEE-407,02 Mar 2026,PO4-P,0.337,Colorimetric,L-8911
+TAF-511,02 Mar 2026,NO3-N,2.54,Ion chromatography,L-8920
+TAF-511,02 Mar 2026,NH4-N,0.56,Colorimetric,L-8929
+TAF-511,02 Mar 2026,DO,10.6,Probe,
+WYE-114,03 Mar 2026,PO4-P,0.069,Colorimetric,L-8935
+WYE-118,03 Mar 2026,NO3-N,9.38,Ion chromatography,L-8940
+WYE-118,03 Mar 2026,PO4-P,0.292,Colorimetric,L-8945
+WYE-118,03 Mar 2026,NH4-N,0.32,Colorimetric,L-8947
+WYE-121,03 Mar 2026,NH4-N,0.22,Colorimetric,L-8950
+WYE-121,03 Mar 2026,DO,9.8,Probe,
+WYE-126,03 Mar 2026,NO3-N,6.67,Ion chromatography,L-8954
+WYE-126,03 Mar 2026,DO,9.0,Probe,
+LUG-203,03 Mar 2026,NH4-N,0.22,Colorimetric,L-8957
+LUG-203,03 Mar 2026,DO,7.6,Probe,
+LUG-207,03 Mar 2026,NO3-N,4.96,Ion chromatography,L-8963
+LUG-212,03 Mar 2026,NO3-N,7.12,Ion chromatography,L-8966
+LUG-212,03 Mar 2026,NH4-N,1.27,Colorimetric,L-8975
+ARR-301,03 Mar 2026,NO3-N,3.51,Ion chromatography,L-8981
+ARR-301,03 Mar 2026,PO4-P,0.047,Colorimetric,L-8989
+ARR-305,03 Mar 2026,NO3-N,3.88,Ion chromatography,L-8996
+ARR-305,03 Mar 2026,NH4-N,0.58,Colorimetric,L-9001
+ARR-305,03 Mar 2026,DO,8.0,Probe,
+DEE-402,03 Mar 2026,NO3-N,1.06,Ion chromatography,L-9005
+DEE-402,03 Mar 2026,DO,10.1,Probe,
+DEE-407,03 Mar 2026,NO3-N,8.85,Ion chromatography,L-9010
+DEE-407,03 Mar 2026,PO4-P,0.247,Colorimetric,L-9019
+DEE-407,03 Mar 2026,NH4-N,0.67,Colorimetric,L-9027
+TAF-511,03 Mar 2026,NO3-N,9.62,Ion chromatography,L-9030
+TAF-511,03 Mar 2026,PO4-P,0.141,Colorimetric,L-9039
+TAF-511,03 Mar 2026,NH4-N,0.89,Colorimetric,L-9048
+TAF-511,03 Mar 2026,DO,10.4,Probe,
+WYE-118,04 Mar 2026,NH4-N,1.05,Colorimetric,L-9054
+WYE-121,04 Mar 2026,NO3-N,2.33,Ion chromatography,L-9060
+WYE-121,04 Mar 2026,PO4-P,0.056,Colorimetric,L-9064
+WYE-121,04 Mar 2026,DO,7.7,Probe,
+WYE-126,04 Mar 2026,NH4-N,1.19,Colorimetric,L-9071
+WYE-126,04 Mar 2026,DO,8.8,Probe,
+LUG-203,04 Mar 2026,NO3-N,1.14,Ion chromatography,L-9078
+LUG-203,04 Mar 2026,PO4-P,0.213,Colorimetric,L-9081
+LUG-203,04 Mar 2026,DO,11.0,Probe,
+LUG-207,04 Mar 2026,DO,7.0,Probe,
+LUG-212,04 Mar 2026,NO3-N,2.35,Ion chromatography,L-9086
+LUG-212,04 Mar 2026,NH4-N,1.19,Colorimetric,L-9089
+ARR-301,04 Mar 2026,NH4-N,1.34,Colorimetric,L-9098
+ARR-301,04 Mar 2026,DO,8.2,Probe,
+ARR-305,04 Mar 2026,NO3-N,4.64,Ion chromatography,L-9106
+ARR-305,04 Mar 2026,NH4-N,0.41,Colorimetric,L-9109
+ARR-305,04 Mar 2026,DO,10.2,Probe,
+DEE-402,04 Mar 2026,NO3-N,3.36,Ion chromatography,L-9110
+DEE-402,04 Mar 2026,NH4-N,1.42,Colorimetric,L-9114
+TAF-511,04 Mar 2026,NO3-N,6.01,Ion chromatography,L-9115
+TAF-511,04 Mar 2026,NH4-N,0.96,Colorimetric,L-9122
+TAF-511,04 Mar 2026,DO,8.3,Probe,
+WYE-114,05 Mar 2026,PO4-P,0.105,Colorimetric,L-9128
+WYE-118,05 Mar 2026,NO3-N,10.59,Ion chromatography,L-9137
+WYE-118,05 Mar 2026,PO4-P,0.417,Colorimetric,L-9139
+WYE-118,05 Mar 2026,DO,11.1,Probe,
+WYE-121,05 Mar 2026,NO3-N,6.80,Ion chromatography,L-9147
+WYE-121,05 Mar 2026,NH4-N,0.78,Colorimetric,L-9151
+WYE-121,05 Mar 2026,DO,10.3,Probe,
+WYE-126,05 Mar 2026,NO3-N,8.00,Ion chromatography,L-9157
+WYE-126,05 Mar 2026,NH4-N,1.13,Colorimetric,L-9166
+LUG-203,05 Mar 2026,NO3-N,6.78,Ion chromatography,L-9172
+LUG-203,05 Mar 2026,PO4-P,0.053,Colorimetric,L-9179
+LUG-203,05 Mar 2026,NH4-N,0.60,Colorimetric,L-9184
+LUG-207,05 Mar 2026,NO3-N,8.62,Ion chromatography,L-9189
+LUG-207,05 Mar 2026,PO4-P,0.066,Colorimetric,L-9193
+ARR-301,05 Mar 2026,NO3-N,11.57,Ion chromatography,L-9200
+ARR-301,05 Mar 2026,PO4-P,0.041,Colorimetric,L-9204
+ARR-305,05 Mar 2026,NH4-N,0.56,Colorimetric,L-9213
+ARR-305,05 Mar 2026,DO,8.2,Probe,
+DEE-402,05 Mar 2026,NO3-N,0.73,Ion chromatography,L-9220
+DEE-402,05 Mar 2026,PO4-P,0.226,Colorimetric,L-9224
+DEE-402,05 Mar 2026,DO,8.3,Probe,
+DEE-407,05 Mar 2026,PO4-P,0.101,Colorimetric,L-9233
+TAF-511,05 Mar 2026,NO3-N,7.06,Ion chromatography,L-9239
+TAF-511,05 Mar 2026,PO4-P,0.431,Colorimetric,L-9243
+WYE-118,06 Mar 2026,NO3-N,7.97,Ion chromatography,L-9245
+WYE-118,06 Mar 2026,PO4-P,0.154,Colorimetric,L-9250
+WYE-118,06 Mar 2026,NH4-N,1.44,Colorimetric,L-9255
+WYE-121,06 Mar 2026,PO4-P,0.434,Colorimetric,L-9260
+LUG-203,06 Mar 2026,NH4-N,1.45,Colorimetric,L-9262
+LUG-203,06 Mar 2026,DO,9.9,Probe,
+LUG-207,06 Mar 2026,NH4-N,1.34,Colorimetric,L-9263
+LUG-212,06 Mar 2026,NO3-N,6.43,Ion chromatography,L-9271
+LUG-212,06 Mar 2026,PO4-P,0.167,Colorimetric,L-9272
+LUG-212,06 Mar 2026,NH4-N,0.24,Colorimetric,L-9280
+LUG-212,06 Mar 2026,DO,12.9,Probe,
+ARR-301,06 Mar 2026,PO4-P,0.177,Colorimetric,L-9286
+ARR-301,06 Mar 2026,NH4-N,1.08,Colorimetric,L-9289
+ARR-301,06 Mar 2026,DO,11.6,Probe,
+ARR-305,06 Mar 2026,NO3-N,3.54,Ion chromatography,L-9291
+ARR-305,06 Mar 2026,DO,7.3,Probe,
+DEE-402,06 Mar 2026,NO3-N,6.82,Ion chromatography,L-9295
+DEE-402,06 Mar 2026,NH4-N,1.40,Colorimetric,L-9298
+DEE-407,06 Mar 2026,NO3-N,3.11,Ion chromatography,L-9300
+WYE-114,09 Mar 2026,DO,12.1,Probe,
+WYE-118,09 Mar 2026,NO3-N,6.78,Ion chromatography,L-9308
+WYE-118,09 Mar 2026,PO4-P,0.430,Colorimetric,L-9314
+WYE-118,09 Mar 2026,DO,6.6,Probe,
+WYE-126,09 Mar 2026,PO4-P,0.328,Colorimetric,L-9322
+WYE-126,09 Mar 2026,DO,8.9,Probe,
+LUG-203,09 Mar 2026,NO3-N,4.51,Ion chromatography,L-9323
+LUG-203,09 Mar 2026,DO,10.4,Probe,
+LUG-207,09 Mar 2026,PO4-P,0.035,Colorimetric,L-9330
+LUG-207,09 Mar 2026,DO,7.4,Probe,
+LUG-212,09 Mar 2026,NO3-N,8.53,Ion chromatography,L-9339
+ARR-301,09 Mar 2026,NO3-N,5.64,Ion chromatography,L-9344
+ARR-301,09 Mar 2026,PO4-P,0.387,Colorimetric,L-9347
+ARR-301,09 Mar 2026,NH4-N,0.63,Colorimetric,L-9348
+ARR-301,09 Mar 2026,DO,9.9,Probe,
+ARR-305,09 Mar 2026,PO4-P,0.187,Colorimetric,L-9355
+ARR-305,09 Mar 2026,NH4-N,0.17,Colorimetric,L-9363
+ARR-305,09 Mar 2026,DO,9.5,Probe,
+DEE-407,09 Mar 2026,NO3-N,2.01,Ion chromatography,L-9372
+TAF-511,09 Mar 2026,PO4-P,0.350,Colorimetric,L-9373
+TAF-511,09 Mar 2026,NH4-N,0.97,Colorimetric,L-9379
+TAF-511,09 Mar 2026,DO,8.5,Probe,
+WYE-114,10 Mar 2026,NO3-N,2.42,Ion chromatography,L-9386
+WYE-114,10 Mar 2026,DO,6.3,Probe,
+WYE-118,10 Mar 2026,NO3-N,4.64,Ion chromatography,L-9394
+WYE-118,10 Mar 2026,PO4-P,0.460,Colorimetric,L-9400
+WYE-118,10 Mar 2026,NH4-N,1.44,Colorimetric,L-9406
+WYE-126,10 Mar 2026,NO3-N,2.74,Ion chromatography,L-9409
+WYE-126,10 Mar 2026,PO4-P,0.226,Colorimetric,L-9415
+WYE-126,10 Mar 2026,NH4-N,1.35,Colorimetric,L-9416
+LUG-212,10 Mar 2026,NO3-N,3.24,Ion chromatography,L-9422
+LUG-212,10 Mar 2026,PO4-P,0.373,Colorimetric,L-9426
+LUG-212,10 Mar 2026,NH4-N,1.07,Colorimetric,L-9429
+ARR-301,10 Mar 2026,NO3-N,4.31,Ion chromatography,L-9435
+ARR-301,10 Mar 2026,NH4-N,0.63,Colorimetric,L-9441
+ARR-301,10 Mar 2026,DO,7.6,Probe,
+DEE-402,10 Mar 2026,NO3-N,4.28,Ion chromatography,L-9442
+DEE-402,10 Mar 2026,PO4-P,0.132,Colorimetric,L-9445
+DEE-402,10 Mar 2026,DO,10.8,Probe,
+DEE-407,10 Mar 2026,NO3-N,9.83,Ion chromatography,L-9448
+DEE-407,10 Mar 2026,PO4-P,0.195,Colorimetric,L-9451
+DEE-407,10 Mar 2026,NH4-N,1.43,Colorimetric,L-9456
+WYE-114,11 Mar 2026,NH4-N,0.09,Colorimetric,L-9461
+WYE-114,11 Mar 2026,DO,12.8,Probe,
+WYE-118,11 Mar 2026,NO3-N,7.53,Ion chromatography,L-9467
+WYE-118,11 Mar 2026,PO4-P,0.251,Colorimetric,L-9475
+WYE-121,11 Mar 2026,NO3-N,4.55,Ion chromatography,L-9483
+WYE-121,11 Mar 2026,PO4-P,0.180,Colorimetric,L-9485
+WYE-121,11 Mar 2026,NH4-N,1.31,Colorimetric,L-9486
+WYE-121,11 Mar 2026,DO,9.5,Probe,
+WYE-126,11 Mar 2026,PO4-P,0.133,Colorimetric,L-9492
+WYE-126,11 Mar 2026,NH4-N,1.43,Colorimetric,L-9501
+LUG-203,11 Mar 2026,NO3-N,6.21,Ion chromatography,L-9510
+LUG-203,11 Mar 2026,DO,10.2,Probe,
+LUG-207,11 Mar 2026,PO4-P,0.420,Colorimetric,L-9511
+LUG-207,11 Mar 2026,NH4-N,1.49,Colorimetric,L-9513
+LUG-207,11 Mar 2026,DO,11.2,Probe,
+LUG-212,11 Mar 2026,PO4-P,0.097,Colorimetric,L-9519
+LUG-212,11 Mar 2026,NH4-N,0.82,Colorimetric,L-9527
+LUG-212,11 Mar 2026,DO,8.7,Probe,
+ARR-301,11 Mar 2026,NO3-N,8.13,Ion chromatography,L-9536
+ARR-301,11 Mar 2026,NH4-N,0.50,Colorimetric,L-9545
+ARR-305,11 Mar 2026,NO3-N,2.61,Ion chromatography,L-9548
+ARR-305,11 Mar 2026,PO4-P,0.017,Colorimetric,L-9551
+ARR-305,11 Mar 2026,NH4-N,0.10,Colorimetric,L-9553
+DEE-402,11 Mar 2026,NO3-N,9.77,Ion chromatography,L-9558
+DEE-402,11 Mar 2026,PO4-P,0.194,Colorimetric,L-9562
+DEE-402,11 Mar 2026,NH4-N,0.74,Colorimetric,L-9565
+TAF-511,11 Mar 2026,NO3-N,7.04,Ion chromatography,L-9569
+TAF-511,11 Mar 2026,DO,9.9,Probe,
+WYE-114,12 Mar 2026,PO4-P,0.328,Colorimetric,L-9572
+WYE-114,12 Mar 2026,DO,10.1,Probe,
+WYE-121,12 Mar 2026,DO,7.1,Probe,
+WYE-126,12 Mar 2026,NO3-N,3.31,Ion chromatography,L-9573
+WYE-126,12 Mar 2026,NH4-N,0.61,Colorimetric,L-9580
+WYE-126,12 Mar 2026,DO,10.5,Probe,
+LUG-203,12 Mar 2026,PO4-P,0.262,Colorimetric,L-9583
+LUG-203,12 Mar 2026,NH4-N,0.74,Colorimetric,L-9589
+LUG-203,12 Mar 2026,DO,10.8,Probe,
+LUG-207,12 Mar 2026,NO3-N,5.87,Ion chromatography,L-9592
+LUG-212,12 Mar 2026,NO3-N,1.81,Ion chromatography,L-9593
+LUG-212,12 Mar 2026,PO4-P,0.398,Colorimetric,L-9599
+LUG-212,12 Mar 2026,NH4-N,0.79,Colorimetric,L-9606
+LUG-212,12 Mar 2026,DO,9.5,Probe,
+ARR-301,12 Mar 2026,PO4-P,0.064,Colorimetric,L-9613
+ARR-301,12 Mar 2026,DO,10.1,Probe,
+ARR-305,12 Mar 2026,NO3-N,4.11,Ion chromatography,L-9619
+ARR-305,12 Mar 2026,PO4-P,0.269,Colorimetric,L-9624
+ARR-305,12 Mar 2026,DO,8.1,Probe,
+DEE-402,12 Mar 2026,PO4-P,0.214,Colorimetric,L-9627
+DEE-402,12 Mar 2026,DO,7.9,Probe,
+DEE-407,12 Mar 2026,NH4-N,0.67,Colorimetric,L-9636
+DEE-407,12 Mar 2026,DO,7.0,Probe,
+TAF-511,12 Mar 2026,NO3-N,11.53,Ion chromatography,L-9637
+TAF-511,12 Mar 2026,PO4-P,0.101,Colorimetric,L-9639
+TAF-511,12 Mar 2026,DO,7.6,Probe,
+WYE-114,13 Mar 2026,PO4-P,0.242,Colorimetric,L-9648
+WYE-114,13 Mar 2026,NH4-N,0.51,Colorimetric,L-9653
+WYE-114,13 Mar 2026,DO,8.3,Probe,
+WYE-121,13 Mar 2026,PO4-P,0.111,Colorimetric,L-9654
+WYE-121,13 Mar 2026,NH4-N,0.20,Colorimetric,L-9656
+WYE-126,13 Mar 2026,NO3-N,3.15,Ion chromatography,L-9659
+WYE-126,13 Mar 2026,PO4-P,0.379,Colorimetric,L-9660
+LUG-203,13 Mar 2026,NO3-N,7.66,Ion chromatography,L-9661
+LUG-203,13 Mar 2026,PO4-P,0.113,Colorimetric,L-9662
+LUG-203,13 Mar 2026,NH4-N,1.01,Colorimetric,L-9664
+LUG-203,13 Mar 2026,DO,6.7,Probe,
+LUG-207,13 Mar 2026,PO4-P,0.218,Colorimetric,L-9665
+LUG-212,13 Mar 2026,NO3-N,1.97,Ion chromatography,L-9672
+LUG-212,13 Mar 2026,PO4-P,0.363,Colorimetric,L-9676
+LUG-212,13 Mar 2026,NH4-N,1.11,Colorimetric,L-9678
+ARR-301,13 Mar 2026,NO3-N,5.71,Ion chromatography,L-9682
+ARR-301,13 Mar 2026,PO4-P,0.424,Colorimetric,L-9691
+ARR-301,13 Mar 2026,NH4-N,0.29,Colorimetric,L-9692
+ARR-305,13 Mar 2026,NH4-N,0.76,Colorimetric,L-9696
+ARR-305,13 Mar 2026,DO,12.6,Probe,
+DEE-402,13 Mar 2026,NO3-N,4.29,Ion chromatography,L-9699
+DEE-402,13 Mar 2026,PO4-P,0.163,Colorimetric,L-9708
+DEE-402,13 Mar 2026,DO,9.2,Probe,
+DEE-407,13 Mar 2026,NO3-N,5.65,Ion chromatography,L-9713
+DEE-407,13 Mar 2026,PO4-P,0.292,Colorimetric,L-9722
+DEE-407,13 Mar 2026,DO,8.9,Probe,
+WYE-118,16 Mar 2026,PO4-P,0.378,Colorimetric,L-9724
+WYE-118,16 Mar 2026,NH4-N,0.30,Colorimetric,L-9726
+WYE-118,16 Mar 2026,DO,8.5,Probe,
+LUG-203,16 Mar 2026,NO3-N,11.07,Ion chromatography,L-9733
+LUG-203,16 Mar 2026,NH4-N,1.17,Colorimetric,L-9742
+LUG-207,16 Mar 2026,NO3-N,0.94,Ion chromatography,L-9744
+LUG-207,16 Mar 2026,NH4-N,1.57,Colorimetric,L-9753
+LUG-207,16 Mar 2026,DO,11.4,Probe,
+LUG-212,16 Mar 2026,NH4-N,0.50,Colorimetric,L-9762
+ARR-301,16 Mar 2026,DO,13.0,Probe,
+ARR-305,16 Mar 2026,NH4-N,1.42,Colorimetric,L-9766
+DEE-402,16 Mar 2026,NO3-N,3.65,Ion chromatography,L-9772
+DEE-402,16 Mar 2026,PO4-P,0.206,Colorimetric,L-9774
+DEE-402,16 Mar 2026,NH4-N,0.40,Colorimetric,L-9783
+DEE-402,16 Mar 2026,DO,13.2,Probe,
+DEE-407,16 Mar 2026,PO4-P,0.060,Colorimetric,L-9791
+DEE-407,16 Mar 2026,NH4-N,1.30,Colorimetric,L-9795
+DEE-407,16 Mar 2026,DO,6.5,Probe,
+TAF-511,16 Mar 2026,NO3-N,8.93,Ion chromatography,L-9797
+TAF-511,16 Mar 2026,DO,10.4,Probe,
+WYE-114,17 Mar 2026,NO3-N,11.15,Ion chromatography,L-9798
+WYE-114,17 Mar 2026,PO4-P,0.366,Colorimetric,L-9803
+WYE-114,17 Mar 2026,DO,10.3,Probe,
+WYE-118,17 Mar 2026,PO4-P,0.308,Colorimetric,L-9804
+WYE-118,17 Mar 2026,NH4-N,0.55,Colorimetric,L-9808
+WYE-121,17 Mar 2026,PO4-P,0.228,Colorimetric,L-9810
+WYE-121,17 Mar 2026,NH4-N,1.04,Colorimetric,L-9811
+WYE-126,17 Mar 2026,PO4-P,0.099,Colorimetric,L-9813
+WYE-126,17 Mar 2026,NH4-N,1.51,Colorimetric,L-9814
+LUG-203,17 Mar 2026,NO3-N,1.69,Ion chromatography,L-9818
+LUG-203,17 Mar 2026,PO4-P,0.377,Colorimetric,L-9819
+LUG-207,17 Mar 2026,NO3-N,10.78,Ion chromatography,L-9820
+LUG-207,17 Mar 2026,PO4-P,0.334,Colorimetric,L-9823
+LUG-207,17 Mar 2026,NH4-N,0.84,Colorimetric,L-9827
+ARR-301,17 Mar 2026,NO3-N,8.45,Ion chromatography,L-9830
+ARR-301,17 Mar 2026,PO4-P,0.304,Colorimetric,L-9833
+ARR-301,17 Mar 2026,NH4-N,0.35,Colorimetric,L-9835
+ARR-305,17 Mar 2026,NO3-N,6.14,Ion chromatography,L-9839
+ARR-305,17 Mar 2026,NH4-N,0.62,Colorimetric,L-9844
+ARR-305,17 Mar 2026,DO,10.4,Probe,
+DEE-402,17 Mar 2026,NO3-N,1.54,Ion chromatography,L-9849
+DEE-402,17 Mar 2026,PO4-P,0.179,Colorimetric,L-9857
+DEE-402,17 Mar 2026,DO,11.9,Probe,
+DEE-407,17 Mar 2026,PO4-P,0.249,Colorimetric,L-9863
+DEE-407,17 Mar 2026,NH4-N,0.05,Colorimetric,L-9867
+DEE-407,17 Mar 2026,DO,8.4,Probe,
+TAF-511,17 Mar 2026,NH4-N,1.05,Colorimetric,L-9874
+WYE-114,18 Mar 2026,NO3-N,9.68,Ion chromatography,L-9881
+WYE-114,18 Mar 2026,NH4-N,0.31,Colorimetric,L-9885
+WYE-114,18 Mar 2026,DO,11.0,Probe,
+WYE-118,18 Mar 2026,PO4-P,0.231,Colorimetric,L-9892
+WYE-118,18 Mar 2026,NH4-N,1.14,Colorimetric,L-9893
+WYE-118,18 Mar 2026,DO,11.1,Probe,
+WYE-121,18 Mar 2026,PO4-P,0.382,Colorimetric,L-9896
+WYE-121,18 Mar 2026,NH4-N,0.69,Colorimetric,L-9902
+WYE-121,18 Mar 2026,DO,11.0,Probe,
+WYE-126,18 Mar 2026,NH4-N,0.38,Colorimetric,L-9910
+LUG-203,18 Mar 2026,NO3-N,6.66,Ion chromatography,L-9912
+LUG-203,18 Mar 2026,NH4-N,0.24,Colorimetric,L-9920
+LUG-207,18 Mar 2026,PO4-P,0.010,Colorimetric,L-9922
+LUG-207,18 Mar 2026,NH4-N,1.33,Colorimetric,L-9930
+LUG-212,18 Mar 2026,NO3-N,2.40,Ion chromatography,L-9937
+ARR-301,18 Mar 2026,PO4-P,0.199,Colorimetric,L-9942
+ARR-301,18 Mar 2026,NH4-N,0.90,Colorimetric,L-9948
+ARR-301,18 Mar 2026,DO,7.5,Probe,
+ARR-305,18 Mar 2026,PO4-P,0.065,Colorimetric,L-9949
+DEE-407,18 Mar 2026,PO4-P,0.192,Colorimetric,L-9957
+DEE-407,18 Mar 2026,NH4-N,0.30,Colorimetric,L-9966
+TAF-511,18 Mar 2026,NO3-N,8.26,Ion chromatography,L-9975
+TAF-511,18 Mar 2026,NH4-N,0.82,Colorimetric,L-9976
+WYE-114,19 Mar 2026,PO4-P,0.171,Colorimetric,L-9984
+WYE-114,19 Mar 2026,NH4-N,0.60,Colorimetric,L-9985
+WYE-118,19 Mar 2026,DO,9.3,Probe,
+WYE-121,19 Mar 2026,NO3-N,2.56,Ion chromatography,L-9987
+WYE-121,19 Mar 2026,PO4-P,0.321,Colorimetric,L-9989
+WYE-121,19 Mar 2026,NH4-N,0.88,Colorimetric,L-9998
+WYE-126,19 Mar 2026,NO3-N,9.20,Ion chromatography,L-10002
+WYE-126,19 Mar 2026,PO4-P,0.418,Colorimetric,L-10003
+WYE-126,19 Mar 2026,NH4-N,0.68,Colorimetric,L-10007
+LUG-203,19 Mar 2026,PO4-P,0.014,Colorimetric,L-10010
+LUG-207,19 Mar 2026,PO4-P,0.383,Colorimetric,L-10018
+LUG-207,19 Mar 2026,NH4-N,0.85,Colorimetric,L-10027
+LUG-207,19 Mar 2026,DO,9.3,Probe,
+LUG-212,19 Mar 2026,NO3-N,11.70,Ion chromatography,L-10036
+LUG-212,19 Mar 2026,NH4-N,0.92,Colorimetric,L-10041
+ARR-301,19 Mar 2026,NO3-N,9.14,Ion chromatography,L-10044
+ARR-301,19 Mar 2026,PO4-P,0.235,Colorimetric,L-10051
+ARR-301,19 Mar 2026,NH4-N,1.27,Colorimetric,L-10056
+ARR-305,19 Mar 2026,PO4-P,0.164,Colorimetric,L-10058
+ARR-305,19 Mar 2026,NH4-N,0.16,Colorimetric,L-10063
+DEE-402,19 Mar 2026,PO4-P,0.359,Colorimetric,L-10072
+DEE-402,19 Mar 2026,NH4-N,0.67,Colorimetric,L-10079
+DEE-407,19 Mar 2026,PO4-P,0.210,Colorimetric,L-10084
+DEE-407,19 Mar 2026,NH4-N,0.50,Colorimetric,L-10093
+DEE-407,19 Mar 2026,DO,12.5,Probe,
+TAF-511,19 Mar 2026,NH4-N,0.50,Colorimetric,L-10098
+WYE-114,20 Mar 2026,PO4-P,0.134,Colorimetric,L-10106
+WYE-114,20 Mar 2026,NH4-N,1.03,Colorimetric,L-10109
+WYE-118,20 Mar 2026,PO4-P,0.146,Colorimetric,L-10113
+WYE-118,20 Mar 2026,DO,12.7,Probe,
+WYE-126,20 Mar 2026,NO3-N,1.21,Ion chromatography,L-10118
+WYE-126,20 Mar 2026,PO4-P,0.348,Colorimetric,L-10124
+WYE-126,20 Mar 2026,DO,9.9,Probe,
+LUG-203,20 Mar 2026,PO4-P,0.320,Colorimetric,L-10127
+LUG-207,20 Mar 2026,NO3-N,5.64,Ion chromatography,L-10135
+LUG-207,20 Mar 2026,PO4-P,0.089,Colorimetric,L-10142
+LUG-207,20 Mar 2026,NH4-N,0.29,Colorimetric,L-10145
+LUG-212,20 Mar 2026,PO4-P,0.415,Colorimetric,L-10154
+LUG-212,20 Mar 2026,NH4-N,1.31,Colorimetric,L-10155
+LUG-212,20 Mar 2026,DO,13.0,Probe,
+ARR-301,20 Mar 2026,NO3-N,6.82,Ion chromatography,L-10159
+ARR-301,20 Mar 2026,NH4-N,1.20,Colorimetric,L-10166
+ARR-301,20 Mar 2026,DO,6.4,Probe,
+ARR-305,20 Mar 2026,NO3-N,11.00,Ion chromatography,L-10168
+ARR-305,20 Mar 2026,DO,9.3,Probe,
+TAF-511,20 Mar 2026,NO3-N,10.05,Ion chromatography,L-10176
+TAF-511,20 Mar 2026,PO4-P,0.244,Colorimetric,L-10181
+WYE-118,23 Mar 2026,NO3-N,11.06,Ion chromatography,L-10190
+WYE-118,23 Mar 2026,NH4-N,0.35,Colorimetric,L-10197
+WYE-121,23 Mar 2026,NO3-N,1.72,Ion chromatography,L-10205
+WYE-121,23 Mar 2026,PO4-P,0.441,Colorimetric,L-10212
+WYE-121,23 Mar 2026,NH4-N,0.24,Colorimetric,L-10220
+LUG-203,23 Mar 2026,NO3-N,4.22,Ion chromatography,L-10229
+LUG-203,23 Mar 2026,PO4-P,0.257,Colorimetric,L-10236
+LUG-203,23 Mar 2026,NH4-N,0.65,Colorimetric,L-10239
+LUG-203,23 Mar 2026,DO,11.1,Probe,
+LUG-207,23 Mar 2026,NH4-N,0.47,Colorimetric,L-10240
+LUG-212,23 Mar 2026,NO3-N,3.97,Ion chromatography,L-10245
+LUG-212,23 Mar 2026,PO4-P,0.162,Colorimetric,L-10254
+LUG-212,23 Mar 2026,NH4-N,0.82,Colorimetric,L-10257
+ARR-301,23 Mar 2026,NO3-N,6.38,Ion chromatography,L-10259
+ARR-301,23 Mar 2026,PO4-P,0.303,Colorimetric,L-10263
+ARR-301,23 Mar 2026,NH4-N,0.26,Colorimetric,L-10270
+ARR-301,23 Mar 2026,DO,10.4,Probe,
+ARR-305,23 Mar 2026,PO4-P,0.437,Colorimetric,L-10271
+ARR-305,23 Mar 2026,NH4-N,0.47,Colorimetric,L-10272
+ARR-305,23 Mar 2026,DO,11.7,Probe,
+DEE-402,23 Mar 2026,PO4-P,0.195,Colorimetric,L-10275
+DEE-407,23 Mar 2026,NO3-N,6.71,Ion chromatography,L-10279
+DEE-407,23 Mar 2026,PO4-P,0.053,Colorimetric,L-10288
+DEE-407,23 Mar 2026,NH4-N,0.06,Colorimetric,L-10291
+TAF-511,23 Mar 2026,PO4-P,0.184,Colorimetric,L-10293
+TAF-511,23 Mar 2026,NH4-N,1.36,Colorimetric,L-10296
+TAF-511,23 Mar 2026,DO,10.4,Probe,
+WYE-114,24 Mar 2026,NO3-N,7.76,Ion chromatography,L-10304
+WYE-114,24 Mar 2026,NH4-N,0.67,Colorimetric,L-10313
+WYE-121,24 Mar 2026,NO3-N,1.36,Ion chromatography,L-10316
+WYE-121,24 Mar 2026,PO4-P,0.015,Colorimetric,L-10325
+WYE-121,24 Mar 2026,DO,12.3,Probe,
+WYE-126,24 Mar 2026,NH4-N,0.57,Colorimetric,L-10328
+WYE-126,24 Mar 2026,DO,12.3,Probe,
+LUG-203,24 Mar 2026,NO3-N,2.88,Ion chromatography,L-10334
+LUG-203,24 Mar 2026,PO4-P,0.454,Colorimetric,L-10341
+LUG-203,24 Mar 2026,DO,7.9,Probe,
+LUG-207,24 Mar 2026,NO3-N,3.23,Ion chromatography,L-10348
+LUG-207,24 Mar 2026,PO4-P,0.330,Colorimetric,L-10353
+LUG-207,24 Mar 2026,DO,12.9,Probe,
+ARR-301,24 Mar 2026,NO3-N,4.08,Ion chromatography,L-10361
+ARR-301,24 Mar 2026,PO4-P,0.162,Colorimetric,L-10363
+ARR-301,24 Mar 2026,NH4-N,0.21,Colorimetric,L-10371
+ARR-305,24 Mar 2026,PO4-P,0.328,Colorimetric,L-10380
+ARR-305,24 Mar 2026,NH4-N,0.93,Colorimetric,L-10385
+ARR-305,24 Mar 2026,DO,9.7,Probe,
+DEE-402,24 Mar 2026,NO3-N,11.71,Ion chromatography,L-10386
+DEE-402,24 Mar 2026,NH4-N,0.08,Colorimetric,L-10388
+DEE-402,24 Mar 2026,DO,12.5,Probe,
+DEE-407,24 Mar 2026,NO3-N,8.18,Ion chromatography,L-10397
+DEE-407,24 Mar 2026,NH4-N,0.13,Colorimetric,L-10405
+TAF-511,24 Mar 2026,NO3-N,5.84,Ion chromatography,L-10409
+TAF-511,24 Mar 2026,PO4-P,0.038,Colorimetric,L-10418
+TAF-511,24 Mar 2026,DO,9.7,Probe,
+WYE-114,25 Mar 2026,NO3-N,1.30,Ion chromatography,L-10427
+WYE-114,25 Mar 2026,DO,9.5,Probe,
+WYE-118,25 Mar 2026,NO3-N,0.63,Ion chromatography,L-10432
+WYE-118,25 Mar 2026,DO,12.7,Probe,
+WYE-121,25 Mar 2026,PO4-P,0.413,Colorimetric,L-10435
+WYE-121,25 Mar 2026,NH4-N,1.47,Colorimetric,L-10440
+WYE-126,25 Mar 2026,NO3-N,7.39,Ion chromatography,L-10448
+WYE-126,25 Mar 2026,PO4-P,0.052,Colorimetric,L-10453
+LUG-203,25 Mar 2026,NH4-N,0.43,Colorimetric,L-10456
+LUG-203,25 Mar 2026,DO,7.3,Probe,
+ARR-301,25 Mar 2026,NO3-N,8.81,Ion chromatography,L-10458
+ARR-301,25 Mar 2026,PO4-P,0.385,Colorimetric,L-10465
+ARR-305,25 Mar 2026,NH4-N,1.10,Colorimetric,L-10467
+ARR-305,25 Mar 2026,DO,8.2,Probe,
+DEE-402,25 Mar 2026,PO4-P,0.153,Colorimetric,L-10474
+DEE-402,25 Mar 2026,NH4-N,1.05,Colorimetric,L-10480
+DEE-407,25 Mar 2026,NO3-N,0.85,Ion chromatography,L-10484
+DEE-407,25 Mar 2026,PO4-P,0.416,Colorimetric,L-10485
+DEE-407,25 Mar 2026,NH4-N,0.59,Colorimetric,L-10492
+DEE-407,25 Mar 2026,DO,10.9,Probe,
+TAF-511,25 Mar 2026,PO4-P,0.438,Colorimetric,L-10494
+TAF-511,25 Mar 2026,DO,10.7,Probe,
+WYE-114,26 Mar 2026,NO3-N,3.65,Ion chromatography,L-10500
+WYE-114,26 Mar 2026,NH4-N,0.68,Colorimetric,L-10507
+WYE-118,26 Mar 2026,NO3-N,5.35,Ion chromatography,L-10514
+WYE-118,26 Mar 2026,NH4-N,1.08,Colorimetric,L-10515
+WYE-118,26 Mar 2026,DO,6.7,Probe,
+WYE-126,26 Mar 2026,PO4-P,0.083,Colorimetric,L-10521
+WYE-126,26 Mar 2026,DO,10.0,Probe,
+LUG-203,26 Mar 2026,NO3-N,7.09,Ion chromatography,L-10523
+LUG-203,26 Mar 2026,PO4-P,0.195,Colorimetric,L-10527
+LUG-207,26 Mar 2026,PO4-P,0.216,Colorimetric,L-10534
+LUG-212,26 Mar 2026,NO3-N,0.45,Ion chromatography,L-10535
+LUG-212,26 Mar 2026,NH4-N,0.98,Colorimetric,L-10544
+LUG-212,26 Mar 2026,DO,9.3,Probe,
+ARR-301,26 Mar 2026,PO4-P,0.141,Colorimetric,L-10546
+ARR-301,26 Mar 2026,NH4-N,0.32,Colorimetric,L-10552
+ARR-305,26 Mar 2026,NO3-N,3.85,Ion chromatography,L-10558
+ARR-305,26 Mar 2026,PO4-P,0.309,Colorimetric,L-10560
+ARR-305,26 Mar 2026,DO,8.2,Probe,
+DEE-402,26 Mar 2026,NO3-N,11.40,Ion chromatography,L-10568
+DEE-402,26 Mar 2026,PO4-P,0.387,Colorimetric,L-10575
+DEE-402,26 Mar 2026,NH4-N,0.93,Colorimetric,L-10578
+TAF-511,26 Mar 2026,NO3-N,8.23,Ion chromatography,L-10584
+TAF-511,26 Mar 2026,PO4-P,0.361,Colorimetric,L-10585
+TAF-511,26 Mar 2026,DO,7.4,Probe,
+WYE-118,29 Mar 2026,NH4-N,0.85,Colorimetric,L-10586
+WYE-121,29 Mar 2026,NH4-N,0.96,Colorimetric,L-10590
+WYE-121,29 Mar 2026,DO,8.7,Probe,
+WYE-126,29 Mar 2026,NO3-N,2.73,Ion chromatography,L-10594
+WYE-126,29 Mar 2026,DO,7.7,Probe,
+LUG-203,29 Mar 2026,PO4-P,0.199,Colorimetric,L-10598
+LUG-203,29 Mar 2026,DO,12.1,Probe,
+LUG-207,29 Mar 2026,NH4-N,0.73,Colorimetric,L-10603
+LUG-212,29 Mar 2026,NO3-N,8.50,Ion chromatography,L-10605
+LUG-212,29 Mar 2026,PO4-P,0.049,Colorimetric,L-10607
+LUG-212,29 Mar 2026,NH4-N,1.07,Colorimetric,L-10612
+ARR-301,29 Mar 2026,PO4-P,0.302,Colorimetric,L-10616
+ARR-305,29 Mar 2026,NO3-N,6.68,Ion chromatography,L-10623
+ARR-305,29 Mar 2026,DO,6.2,Probe,
+DEE-402,29 Mar 2026,NO3-N,8.88,Ion chromatography,L-10626
+DEE-402,29 Mar 2026,NH4-N,0.11,Colorimetric,L-10630
+DEE-407,29 Mar 2026,NH4-N,0.65,Colorimetric,L-10636
+TAF-511,29 Mar 2026,PO4-P,0.400,Colorimetric,L-10643
+TAF-511,29 Mar 2026,NH4-N,0.69,Colorimetric,L-10652
+TAF-511,29 Mar 2026,DO,11.2,Probe,
+LUG-207,29 Mar 2026,NO3-N,4.02,Ion chromatography,L-9310
