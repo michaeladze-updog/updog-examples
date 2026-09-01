@@ -117,8 +117,9 @@ SheetJS is a **devDependency only**, used in `src/xlsx/__tests__/roundTrip.test.
 ## Running an article's fixture through `apps/react` with Playwright MCP
 
 This is the standard verification loop for a blog article, and it runs the same
-way every time. `apps/react` is the harness. Nothing here is ever committed —
-revert the app when the run ends.
+way every time. `apps/react` is the harness. Nothing here is committed by
+default — revert the app when the run ends, unless the user says to keep it, as
+they did on 2026-09-01 for `haverbrook-market`.
 
 ### The loop
 
@@ -139,6 +140,33 @@ revert the app when the run ends.
 **`apps/react/public/fixtures` already holds committed files.** `brackenhill-clinic.csv`
 and `hartwell-budget.xlsx` live there. `rm -rf` on that directory deletes them.
 Remove only `public/fixtures/<name>/`, and check `git status` before finishing.
+
+**The starved tab has one real cure, and `bringToFront` is only half of it.**
+The MCP drives the user's own Google Chrome, so a raised tab inside a
+backgrounded window still reports `document.visibilityState === "hidden"`, and
+`browser_tabs select` and `browser_resize` do not change that. Run
+`osascript -e 'tell application "Google Chrome" to activate'` from Bash, then
+`browser_tabs select`. Measured 2026-09-01: an Import that had sat on
+`aria-busy="true"` for minutes finished the instant the tab became visible, and
+a double rAF went from never firing to 12 ms. Do this at step 0 and the
+`browser_evaluate` click workaround below stops being necessary.
+
+**Validation messages are readable without the canvas.** The grid's accessible
+mirror gives one `role="gridcell"` per cell with `data-value`, and a cell that
+carries a message points `aria-describedby` at an element holding it. That is
+how "This might be in the wrong column." was read off three cells of one row:
+
+```js
+() => {
+  const tr = [...document.querySelectorAll("table tr")].find((r) =>
+    r.textContent.includes("P-27"),
+  );
+  return [...tr.children].map((c) => {
+    const d = c.getAttribute("aria-describedby");
+    return { text: c.textContent.trim(), note: d ? document.getElementById(d)?.textContent : null };
+  });
+};
+```
 
 **Real clicks never land.** `browser_click` fails with `waiting for element to
 be visible, enabled and stable`. The tab is frame-starved, so the stability
@@ -355,6 +383,37 @@ After a resolve the source list is gone and the grid holds headers only; after a
 throw every row and every error is still there, and so is the confirmation
 dialog. Both are worth checking in one run, since an article usually claims one
 and assumes the other.
+
+### Added by the royalties run, 2026-09-01
+
+**The frame-starved tab is a hidden tab, and `page.bringToFront()` cures it.**
+Probe first: `document.hidden` was `true` and a double `requestAnimationFrame`
+never ticked, exactly the wedge the earlier runs describe. One
+`browser_run_code_unsafe` call with `await page.bringToFront()` made
+`document.hidden` false and rAF tick at ~163ms, and the whole session then ran
+on the front door: real `browser_click` landed every time, the dropzone opened
+a real file chooser, `browser_file_upload` took the fixture, and Import
+finished in about a second. Re-read the "real clicks never land" and
+"file input takes files through a fetch" traps through this lens — they
+describe the hidden-tab state, and none of them fired once the tab was
+visible.
+
+**`browser_file_upload` only takes paths under the MCP allowed roots.** The
+server ran with roots in the `updog` repo, so a fixture path in
+`updog-examples` was refused. Copy the built CSV into
+`updog/.playwright-mcp/<file>.csv`, upload from there, delete the copy at the
+end — no `public/fixtures` dance needed.
+
+**The import wizard opens from the grid's `Add data source`.** `open` on
+`<DataEditor>` lands on the empty Edit Data screen first; the Select files
+step is one click deeper.
+
+**The uploader steps are plain DOM and `browser_snapshot` reads the landed
+grid too.** The a11y tree carried every stored cell (`Anna`, `van der Berg`,
+`USD`), the `2/4 matched` counter and the `Rows with errors 0` count, so the
+`innerText` slicing from the earlier runs was never needed. The unmatched-row
+tooltip renders in a portal at `body` level; hover the info icon and query
+`[class*="tooltip"]` globally, `[role="tooltip"]` matches nothing.
 
 ### Keep this section growing
 
