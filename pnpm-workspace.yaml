@@ -3,5 +3,5 @@ packages:
   - "packages/*"
 
 catalog:
-  "@updog/data-editor": ^0.1.90
-  "@updog/data-editor-wc": ^0.1.90
+  "@updog/data-editor": ^0.1.91
+  "@updog/data-editor-wc": ^0.1.91
